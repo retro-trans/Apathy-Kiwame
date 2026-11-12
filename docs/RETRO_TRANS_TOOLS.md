@@ -1,13 +1,13 @@
-# Retro Trans Tools integration — 0.8.1 candidate
+# Retro Trans Tools integration — 0.8.1
 
 Game: **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame**.
 
-This integration is built and tested locally, not published. The existing
-0.8.0 release remains unchanged. It requires the new Retro Trans Tools 0.5.23
-candidate; public app 0.5.22 cannot read its schema-3 combined-source manifest.
-Publish the compatible app before making the new game metadata discoverable.
+This release requires **Retro Trans Tools 0.5.23 or later**. Earlier apps cannot
+read its schema-3 combined-source manifest. The existing 0.8.0 release remains
+unchanged. Download the [compatible Windows app](https://github.com/retro-trans/retro-trans-tools/releases/latest)
+before refreshing the catalog.
 
-## Player workflow after publication
+## Player workflow
 
 1. Close the game and start Retro Trans Tools 0.5.23 or later.
 2. In Automatic, use Folder to choose the original Steam game folder, or Browse
@@ -60,10 +60,10 @@ Only the two deltas, `BUILD-MANIFEST.json`, `VALIDATION.json`, `SHA256SUMS.txt`
 and player documentation may be uploaded. Complete game executables, combined
 sources, private configuration, original files, profiles and saves stay local.
 
-The candidate is under `work/debug/retro-trans-release-0.8.1`; private absolute
+The local build is under `work/debug/retro-trans-release-0.8.1`; private absolute
 paths are excluded from its public manifest. Its verified target SHA-256 is
 `55f523091dc62de6d73cdc1fb9d2dcb3b675a4ab47acf4a6688d08dcab693f95`.
 Full patch: 162,330,751 bytes. Upgrade from public 0.8.0: 246,802 bytes.
 
-Preparing this candidate does not authorize a source push or app/game release.
-Do not alter the issued 0.8.0 ZIP, checksums or original release tag.
+Future releases still require the user's explicit approval. Do not alter the
+issued 0.8.0 ZIP, checksums or original release tag.

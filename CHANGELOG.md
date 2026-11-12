@@ -1,11 +1,12 @@
 # Changelog
 
-## 0.8.1 candidate · 2026-11-12 · Retro Trans Tools integration
+## 0.8.1 · 2026-11-12 · Retro Trans Tools integration
 
 - Prepared a schema-3 combined-source full patch and an ordinary incremental
   upgrade from the public 0.8.0 executable for Retro Trans Tools 0.5.23. Both
   produce the same verified embedded target; the only game-content change is
-  the title-screen version credit. No release or source push has been made.
+  the title-screen version credit. The user explicitly approved pushing and
+  publishing Tools 0.5.23 followed by this game release.
 - Full delta: 162,330,751 bytes; 0.8.0 upgrade: 246,802 bytes. All 2,009 package
   files were compared, both deltas passed decode round trips, and the actual
   Automatic full/upgrade paths and current-version recognition passed locally.

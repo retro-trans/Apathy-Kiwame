@@ -14,7 +14,7 @@ community for this project and the next:
 
 ## Play it
 
-The first public release is **[v0.8.0](https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.0)**.
+The current release is **[v0.8.1](https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.1)**.
 It includes the English dialogue and choices, all 147 ending titles, interface and
 story lettering, proportional Latin text, the readable backlog, and 16 translated
 streamer videos. The title screen identifies the patch version and retro-trans.
@@ -25,55 +25,50 @@ summary retains the story context and outcome while omitting explicit details.
 
 ### Apply
 
-You need your own supported Japanese Steam installation. Download
-**[Apathy-Kiwame-English-v0.8.0.zip](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.0/Apathy-Kiwame-English-v0.8.0.zip)**
-and extract the entire ZIP to a writable folder.
+You need your own supported Japanese Steam installation and
+**[Retro Trans Tools 0.5.23 or later](https://github.com/retro-trans/retro-trans-tools/releases/latest)**
+for 64-bit Windows. No Python installation is required.
 
-1. Close the game.
-2. Double-click **Apply.cmd**. It finds the Steam folder, or lets you choose it.
-3. Wait for the verified-success message, then start the game through Steam.
+1. Close the game and open Retro Trans Tools.
+2. In **Automatic**, choose **Folder** and select the game folder containing
+   the original `kiwame.exe` and `kiwame.tpatch`. For an upgrade from the public
+   0.8.0 English version, use **Browse** to select its patched `kiwame.exe`.
+3. Choose **Latest**, select a new output filename, and click **Patch**.
+4. Keep a backup of the existing executable. Copy the verified output into the
+   game folder as `kiwame.exe`, then launch normally through Steam. Leave your
+   save files, DLLs and official `kiwame.tpatch` in place.
 
-The included Windows 64-bit patcher needs no Python or separate patching program.
-Allow at least 4 GB free space on the game drive for staging and backup. Normal
-music and sound effects remain enabled. Your existing saves are preserved.
+The app downloads the matching patch and verifies every input and output. The
+full patch is about **162 MB**; the upgrade from public 0.8.0 is about **247 KB**.
+Allow at least 4 GB free space for the full workflow and backups. Normal music
+and sound effects remain enabled. The app never overwrites original inputs,
+existing outputs or saves; copying the verified executable is a separate step.
 
 | Input | Requirement |
 | --- | --- |
 | `kiwame.exe` | Original Japanese executable from Steam build 10331351 |
 | `kiwame.tpatch` | Matching official publisher patch from the same build |
-| Earlier local `package.nw` development patch | Restore the original game layout first; this download expects the stock layout |
+| Public English 0.8.0 executable | Recognized directly for the smaller upgrade |
+| Earlier local `package.nw` development patch | Preserve saves and restore the original game layout before using the original-file route |
 
-The installer checks the exact SHA-256 hashes in `manifest.json` before making
-changes. The [release manifest](docs/release-v0.8.0.json) also lists these hashes.
-Keep checksum checks enabled. The binary delta uses the original
-executable followed by the official patch as its source; the included installer
-constructs that temporary source automatically.
+See [the complete Tools instructions](docs/RETRO_TRANS_TOOLS.md), including
+backups, undo and future updates. The release contains bare xdelta patches,
+`BUILD-MANIFEST.json`, `VALIDATION.json`, `SHA256SUMS.txt` and license notices.
+The app combines the two original source files temporarily; no manual file
+combining is needed. Version 0.8.1 changes distribution and the title version
+credit; story content is unchanged from 0.8.0.
 
-You can inspect a proposed installation without changing files:
-
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File .\Patch-Apathy-Kiwame.ps1 -GameFolder "D:\Steam\steamapps\common\Apathy_kiwame" -DryRun
-```
-
-See [README-v0.8.0.txt](docs/README-v0.8.0.txt) for the complete player instructions.
-The release also includes `SHA256SUMS.txt` for its downloads.
-
-### Retro Trans Tools integration candidate
-
-The local **0.8.1 candidate** adds Automatic patching through **Retro Trans Tools
-0.5.23 or later**. It is not published yet; the public download above remains
-0.8.0. See [the candidate instructions](docs/RETRO_TRANS_TOOLS.md).
-
-The candidate recognizes the two original Steam files together, or the public
-0.8.0 English executable for a smaller upgrade. It creates a verified new
-executable while preserving the inputs and saves. Its only in-game change is
-the version credit. Future translation updates need their own verified patches.
+The earlier [0.8.0 installer ZIP](https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.0)
+and its [instructions](docs/README-v0.8.0.txt) remain available unchanged.
 
 ### Undo / Steam updates
 
-Close the game and run **Undo.cmd**. The verified original executable is retained
-under `.retro-trans-backup` in the game folder. Undo preserves your **current**
-saves; it does not roll your progress back to installation day.
+For a Tools-installed version, close the game and restore the original executable
+from your retained backup, leaving current saves in place. The older 0.8.0
+`Undo.cmd` only manages its exact installed version; it cannot undo a newer
+executable copied into place. Its verified original backup remains under
+`.retro-trans-backup` if you used that installer. Do not restore an old save backup
+unless you intend to roll back progress.
 
 A page captured in an older save can retain its previously rendered text until
 you advance. The next script text uses the installed translation. The Life
@@ -175,7 +170,7 @@ proofreading statistics are not claimed for this game.
 
 ## Status
 
-| Area | v0.8.0 coverage |
+| Area | v0.8.1 coverage |
 | --- | --- |
 | Ordinary text | 36,145 translated fields |
 | Life adaptation | 61 original fields represented by 3 summary pages |

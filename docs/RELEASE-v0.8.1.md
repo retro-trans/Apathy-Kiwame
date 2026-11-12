@@ -1,5 +1,5 @@
-English patch **0.8.1 candidate** for **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame**,
-Japanese Steam edition, app 2283710, build 10331351. Not published yet.
+English patch **0.8.1** for **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame**,
+Japanese Steam edition, app 2283710, build 10331351.
 
 ### Patch and update with Retro Trans Tools
 
