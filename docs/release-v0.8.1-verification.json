@@ -64,5 +64,21 @@
   "native_title_font_audio_verified": true,
   "main_steam_version": "0.8.0",
   "main_steam_untouched": true,
-  "previous_0_8_0_assets_unchanged": true
+  "previous_0_8_0_assets_unchanged": true,
+  "standalone_supplement": {
+    "published": true,
+    "verification": "docs/standalone-v0.8.1-verification.json",
+    "archive": {
+      "name": "Apathy-Kiwame-English-v0.8.1-Standalone.zip",
+      "bytes": 162701414,
+      "sha256": "6325647bb9d5a248aef353a6b94ba549060d8aad1613a355b5d9832b786a8232"
+    },
+    "checksum": {
+      "name": "Standalone-SHA256SUMS-v0.8.1.txt",
+      "bytes": 111,
+      "sha256": "7d29fa37b081a5faedc3566862babe66d4656bd86111d7aa76a9de2768b2004b"
+    },
+    "existing_public_assets_unchanged": true,
+    "catalog_recheck": 43184390496
+  }
 }

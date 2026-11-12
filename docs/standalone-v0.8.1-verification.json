@@ -1,0 +1,42 @@
+{
+  "version": "0.8.1",
+  "published": true,
+  "release": "https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.1",
+  "archive": {
+    "name": "Apathy-Kiwame-English-v0.8.1-Standalone.zip",
+    "bytes": 162701414,
+    "sha256": "6325647bb9d5a248aef353a6b94ba549060d8aad1613a355b5d9832b786a8232"
+  },
+  "checksum": {
+    "name": "Standalone-SHA256SUMS-v0.8.1.txt",
+    "bytes": 111,
+    "sha256": "7d29fa37b081a5faedc3566862babe66d4656bd86111d7aa76a9de2768b2004b"
+  },
+  "public_download_matches_tested_zip": true,
+  "zip_crc_and_all_member_checksums_verified": true,
+  "existing_six_release_assets_unchanged": true,
+  "requires_retro_trans_tools": false,
+  "no_complete_game_or_user_saves": true,
+  "decoder": "Unmodified full Xdelta 3.2.0 with LZMA support",
+  "installer_checks": {
+    "version": "0.8.1",
+    "powershell": "Windows PowerShell 5.1",
+    "zip_checksums_verified": true,
+    "dry_run_read_only": true,
+    "corrupted_payload_rejected_before_mutation": true,
+    "install_exact_public_target": true,
+    "reapply_no_op": true,
+    "undo_restores_original": true,
+    "undo_preserves_newer_progress": true,
+    "external_package_rejected": true,
+    "old_english_rejected_without_undo": true,
+    "old_undo_then_new_apply_passes": true,
+    "system_and_slot_saves_preserved": true,
+    "original_inputs_unchanged": true,
+    "main_steam_saves_unchanged": true,
+    "target_sha256": "55f523091dc62de6d73cdc1fb9d2dcb3b675a4ab47acf4a6688d08dcab693f95"
+  },
+  "catalog_workflow": 43184390496,
+  "catalog_result": "success",
+  "live_automatic_full_and_upgrade_routes_preserved": true
+}

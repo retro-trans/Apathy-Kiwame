@@ -9,6 +9,9 @@
   Windows PowerShell 5.1 checks pass installation, no-op reapplication, undo with
   newer progress, corrupted-payload rejection and the old-Undo/new-Apply upgrade
   path. The bundled full Xdelta 3.2.0 decoder supports the issued delta's LZMA.
+  The downloaded public ZIP and every member checksum match the tested package;
+  catalog recheck 43184390496 passes and both live Automatic routes remain
+  available. See [standalone verification](docs/standalone-v0.8.1-verification.json).
 
 - Published after Tools 0.5.23. All six public assets match their checked hashes;
   catalog workflow 43181567788 succeeded. Actual public full and upgrade downloads
