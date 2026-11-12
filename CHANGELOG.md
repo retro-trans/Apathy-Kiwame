@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.8.1 candidate · 2026-11-12 · Retro Trans Tools integration
+
+- Prepared a schema-3 combined-source full patch and an ordinary incremental
+  upgrade from the public 0.8.0 executable for Retro Trans Tools 0.5.23. Both
+  produce the same verified embedded target; the only game-content change is
+  the title-screen version credit. No release or source push has been made.
+- Full delta: 162,330,751 bytes; 0.8.0 upgrade: 246,802 bytes. All 2,009 package
+  files were compared, both deltas passed decode round trips, and the actual
+  Automatic full/upgrade paths and current-version recognition passed locally.
+- Native startup verifies the 0.8.1 credit, proportional font, production-only
+  runtime and advancing title music. Main Steam files and user saves are
+  untouched. Existing 0.8.0 public downloads and tag remain unchanged.
+
 ## Repository documentation · 2026-11-12
 
 - Updated the README and the published v0.8.0 release title and notes to use the full game name: Apathy - Gakkou de Atta Kowai Hanashi - Kiwame.

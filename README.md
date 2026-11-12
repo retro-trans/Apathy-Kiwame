@@ -58,6 +58,17 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\Patch-Apathy-Kiwame.ps1 -G
 See [README-v0.8.0.txt](docs/README-v0.8.0.txt) for the complete player instructions.
 The release also includes `SHA256SUMS.txt` for its downloads.
 
+### Retro Trans Tools integration candidate
+
+The local **0.8.1 candidate** adds Automatic patching through **Retro Trans Tools
+0.5.23 or later**. It is not published yet; the public download above remains
+0.8.0. See [the candidate instructions](docs/RETRO_TRANS_TOOLS.md).
+
+The candidate recognizes the two original Steam files together, or the public
+0.8.0 English executable for a smaller upgrade. It creates a verified new
+executable while preserving the inputs and saves. Its only in-game change is
+the version credit. Future translation updates need their own verified patches.
+
 ### Undo / Steam updates
 
 Close the game and run **Undo.cmd**. The verified original executable is retained
