@@ -1,4 +1,4 @@
-First public English patch for **Apathy Kiwame**, Japanese Steam edition
+First public English patch for **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame**, Japanese Steam edition
 (app 2283710, build 10331351).
 
 ### Download and install

@@ -1,5 +1,14 @@
 # Changelog
 
+## Repository documentation · 2026-11-12
+
+- Updated the README and the published v0.8.0 release title and notes to use the full game name: Apathy - Gakkou de Atta Kowai Hanashi - Kiwame.
+
+## Repository artwork · 2026-11-12
+
+- Updated the social preview to display the full title, Apathy - Gakkou de Atta Kowai Hanashi - Kiwame, and saved a separate 1280×640 JPEG below 1 MB.
+- Created the Apathy Kiwame GitHub social preview in the requested retro-trans style and exported a 1280×640 JPEG below 1 MB for upload.
+
 ## 0.8.0 · 2026-11-12 · first public release
 
 - Published the cumulative English patch and tools as `retro-trans/Apathy-Kiwame`, with the README organized after the SRW-Z project template and this game's actual coverage and limitations.

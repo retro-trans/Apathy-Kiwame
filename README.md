@@ -1,6 +1,6 @@
-# Apathy Kiwame — translation project
+# Apathy - Gakkou de Atta Kowai Hanashi - Kiwame — translation project
 
-English fan translation and tools for **Apathy Kiwame** (Windows / Japanese Steam
+English fan translation and tools for **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame** (Windows / Japanese Steam
 edition, app **2283710**, build **10331351**).
 
 ## Contribute
