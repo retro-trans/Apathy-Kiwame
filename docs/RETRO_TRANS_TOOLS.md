@@ -2,10 +2,16 @@
 
 Game: **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame**.
 
-This release requires **Retro Trans Tools 0.5.23 or later**. Earlier apps cannot
+The Automatic route requires **Retro Trans Tools 0.5.23 or later**. Earlier apps cannot
 read its schema-3 combined-source manifest. The existing 0.8.0 release remains
 unchanged. Download the [compatible Windows app](https://github.com/retro-trans/retro-trans-tools/releases/latest)
 before refreshing the catalog.
+
+An optional [standalone ZIP](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.1/Apathy-Kiwame-English-v0.8.1-Standalone.zip)
+also installs the same English executable without Retro Trans Tools. Extract
+the complete ZIP and run Apply.cmd against the original Japanese game. See the
+[standalone instructions](README-standalone-v0.8.1.txt), including how to restore
+original files before upgrading an older standalone English installation.
 
 ## Player workflow
 

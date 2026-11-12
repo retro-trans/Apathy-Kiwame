@@ -2,6 +2,14 @@
 
 ## 0.8.1 · 2026-11-12 · Retro Trans Tools integration
 
+- Added an optional standalone installer ZIP with Apply.cmd, Undo.cmd, the
+  verified published full delta, bundled decoder and notices. It installs the
+  identical English executable without Retro Trans Tools. Its separate checksum
+  preserves every previously published asset and canonical Tools checksum.
+  Windows PowerShell 5.1 checks pass installation, no-op reapplication, undo with
+  newer progress, corrupted-payload rejection and the old-Undo/new-Apply upgrade
+  path. The bundled full Xdelta 3.2.0 decoder supports the issued delta's LZMA.
+
 - Published after Tools 0.5.23. All six public assets match their checked hashes;
   catalog workflow 43181567788 succeeded. Actual public full and upgrade downloads
   produce the same verified executable, and already-current recognition passes.

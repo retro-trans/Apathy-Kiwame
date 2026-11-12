@@ -23,7 +23,7 @@ One Life passage is represented by a **labelled, three-page non-graphic summary*
 Its 61 original fields are adapted rather than translated individually. The
 summary retains the story context and outcome while omitting explicit details.
 
-### Apply
+### Apply with Retro Trans Tools
 
 You need your own supported Japanese Steam installation and
 **[Retro Trans Tools 0.5.23 or later](https://github.com/retro-trans/retro-trans-tools/releases/latest)**
@@ -61,7 +61,28 @@ credit; story content is unchanged from 0.8.0.
 The earlier [0.8.0 installer ZIP](https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.0)
 and its [instructions](docs/README-v0.8.0.txt) remain available unchanged.
 
+### Standalone ZIP — no Retro Trans Tools required
+
+Download **[Apathy-Kiwame-English-v0.8.1-Standalone.zip](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.1/Apathy-Kiwame-English-v0.8.1-Standalone.zip)**,
+extract the entire ZIP to a writable folder, close the game, and double-click
+**Apply.cmd**. It finds the Steam folder or lets you choose it, checks the
+supported original files, keeps a verified backup and installs the same 0.8.1
+English executable. Launch normally through Steam after the success message.
+No Retro Trans Tools, Python or separate xdelta app is required.
+
+This full installer needs the original Japanese build 10331351. To upgrade an
+older standalone installation, run **Undo.cmd from that old package first**, then
+Apply.cmd from the new ZIP; both preserve current saves. The Tools route above
+offers the smaller direct upgrade from the public English 0.8.0 executable.
+See the [standalone instructions](docs/README-standalone-v0.8.1.txt).
+The separate [Standalone-SHA256SUMS-v0.8.1.txt](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.1/Standalone-SHA256SUMS-v0.8.1.txt)
+verifies this optional ZIP; the existing Tools assets and canonical checksums
+remain unchanged.
+
 ### Undo / Steam updates
+
+For the standalone 0.8.1 ZIP, close the game and run **Undo.cmd from that ZIP**.
+It restores the verified original executable while preserving current saves.
 
 For a Tools-installed version, close the game and restore the original executable
 from your retained backup, leaving current saves in place. The older 0.8.0

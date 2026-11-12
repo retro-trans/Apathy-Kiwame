@@ -1,6 +1,21 @@
 English patch **0.8.1** for **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame**,
 Japanese Steam edition, app 2283710, build 10331351.
 
+### Standalone ZIP — no Retro Trans Tools required
+
+Download **[Apathy-Kiwame-English-v0.8.1-Standalone.zip](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.1/Apathy-Kiwame-English-v0.8.1-Standalone.zip)**,
+extract the entire ZIP, close the game and run **Apply.cmd**. It finds the Steam
+folder or lets you choose it, verifies the supported original Japanese build,
+keeps original backups and installs the same English executable. No Retro Trans
+Tools, Python or separate xdelta application is needed. Launch through Steam
+after the verified-success message. Allow 4 GB free space.
+
+This installer requires original Steam build 10331351. For an older standalone
+English installation, run **Undo.cmd from the old package first**, then Apply.cmd
+from this ZIP. Saves are preserved. This ZIP's Undo.cmd restores the original
+executable while keeping current progress. Read the included README.txt and use
+**Standalone-SHA256SUMS-v0.8.1.txt** to verify the ZIP.
+
 ### Patch and update with Retro Trans Tools
 
 Requires **Retro Trans Tools 0.5.23 or later**. In Automatic, select the folder
