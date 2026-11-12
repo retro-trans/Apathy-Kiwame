@@ -1,0 +1,1569 @@
+{
+  "language": "en",
+  "scope": "The Summoning Incident (syorei.ks)",
+  "source": {
+    "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+    "sha256": "6f68e177818aec3a7490971117f7a6636b80e1a62f26c84681d1567fa947fce1",
+    "physical_lines": 6602,
+    "extractable_fields": 3358,
+    "fragments": 3525,
+    "comparison_reference": "work/source/drafts/10331351/syorei.ks.json",
+    "reference_SHA_and_exact_key_order_match": true
+  },
+  "read_in_full": "work/source/syorei-glossary-candidates.json",
+  "existing_locks_consulted": [
+    "work/glossary/core.json",
+    "work/glossary/kazama.json",
+    "work/glossary/fukuzawa.json",
+    "work/glossary/old_school_building.json",
+    "work/glossary/site.json",
+    "work/glossary/inoti.json",
+    "work/glossary/hosoda.json"
+  ],
+  "decision_summary": {
+    "title": "The Summoning Incident",
+    "entries": 59,
+    "review": "Root reviewed all candidate terms, places, identities and reveal order; exact Satoko kana and special collections wording checked in the native source. Satoko and Tomie wiki sections rechecked.",
+    "nickname": "No-Name is neutral until the source establishes sex; it is a temporary nickname, not an official birth name.",
+    "sensitive_context": "Source3662–3663 is non-graphic objectifying commentary. Translate at that level only, without added explicit sexual description.",
+    "graphics": "LIME phone messages, read counts, kana-board answers and typing jokes require coordinated prose/art adaptation before native integration."
+  },
+  "entries": [
+    {
+      "id": "satoko_sonoura",
+      "ja": "園浦智子",
+      "kind": "named deceased student / split spirit",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "reading": "そのうら さとこ",
+      "reading_status": "explicit native kana and matching game-specific wiki",
+      "gender": "female",
+      "gender_evidence": [
+        956,
+        959,
+        1464,
+        1465,
+        2036,
+        2921,
+        4437,
+        4786
+      ],
+      "role": "Former first-year student at the protagonist’s school; Occult Club member; grandmother was a spirit medium.",
+      "voice": "Helpful and modest, initially concise board messages; gentle but firm after recovering her memory. The hostile half is a separate expression with murderous resentment; the external evil will is not simply another personal name.",
+      "en": "Satoko Sonoura",
+      "usage": "Native1464 explicitly gives the full kana; comment1459 independently agrees. Five years before the present she was a first-year student and Occult Club member, who died on October20. Current anonymous helper and hostile spirit later prove to be split parts of her. Reveal those facts in source order; do not pre-name the helper or flatten the two parts into a single active speaker.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1459,
+            1462,
+            1463,
+            1464,
+            1465,
+            1470,
+            1471,
+            1472,
+            1473,
+            1953,
+            1954,
+            4245,
+            4258,
+            4435,
+            4437,
+            4438,
+            4449,
+            4786
+          ]
+        },
+        {
+          "type": "game_wiki",
+          "url": "https://w.atwiki.jp/allmiccore/pages/247.html",
+          "section": "園浦智子（そのうら さとこ）",
+          "page_lines": [
+            505,
+            520
+          ],
+          "evidence_quote": "園浦智子（そのうら さとこ）",
+          "evidence_summary": "Entry explicitly identifies Kiwame, spirit, first-year Narugami Academy student, Occult Club association and the amnesiac warning spirit. Native source supplies the later split/reintegration details."
+        }
+      ]
+    },
+    {
+      "id": "anonymous_helper",
+      "ja": "名無しさん / 名無し",
+      "kind": "temporary neutral nickname / speaker label",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "reading": "ななしさん",
+      "reading_status": "ordinary Japanese nickname; not an independent verified birth name",
+      "gender": "unknown at introduction; female explicitly learned956",
+      "voice": "Polite, considerate, hesitant or urgent through coin motion. Amnesia and later fear of being despised are genuine claims; do not turn her earlier uncertain answers into a planned deception.",
+      "en": "No-Name",
+      "usage": "Arai invents this convenient nickname at651 before sex is known. Do not use Mr., Miss or Jane Doe at the introduction. No-Name is a proposed English nickname, not the wiki category NONAME as an official personal name. Nameless is an editorial alternative for root decision. Native897 deliberately says he or she; female identity is learned at956.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            650,
+            651,
+            747,
+            750,
+            897,
+            907,
+            950,
+            956,
+            959,
+            981,
+            4435,
+            4437,
+            4449,
+            4786,
+            4800
+          ]
+        },
+        {
+          "type": "game_wiki",
+          "url": "https://w.atwiki.jp/allmiccore/pages/84.html",
+          "section": "NONAME（ノーネーム）",
+          "page_lines": [
+            95,
+            102
+          ],
+          "evidence_summary": "The wiki labels NONAME a category of unnamed characters, not this girl’s recovered name. The specific Sonoura entry explains the temporary nickname."
+        }
+      ]
+    },
+    {
+      "id": "tomie",
+      "ja": "富江",
+      "kind": "Reiko’s pet cat, heard as ringtone",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "reading": "とみえ",
+      "reading_status": "wiki-confirmed kana; no kana supplied by this script",
+      "gender": "female in game-specific wiki; not specified locally",
+      "role": "Reiko Fukuzawa’s pet; recorded voice used as a ringtone.",
+      "voice": "Recorded cat meow, not human speech.",
+      "en": "Tomie",
+      "usage": "The pet does not physically appear at school. Its recorded meow is Reiko’s ringtone and a survival clue. It is distinct from the campus black cat called Boss and from any unrelated cat in other routes.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            303,
+            304,
+            315,
+            318,
+            319,
+            2770,
+            2771,
+            2773
+          ]
+        },
+        {
+          "type": "game_wiki",
+          "url": "https://w.atwiki.jp/allmiccore/pages/249.html",
+          "section": "富江（とみえ）",
+          "page_lines": [
+            651,
+            677
+          ],
+          "evidence_quote": "富江（とみえ）",
+          "evidence_summary": "Lists species cat and Reiko as owner; calls it female. The Kiwame paragraph specifically says the cat does not appear and its recorded meow is a survival clue. Do not import the other-version geography or manga biography into this scenario."
+        }
+      ]
+    },
+    {
+      "id": "boss_cat",
+      "ja": "ボス",
+      "kind": "campus cat’s nickname",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "reading": "ボス",
+      "reading_status": "explicit katakana",
+      "gender": "unconfirmed",
+      "voice": "Animal meows; no human dialogue.",
+      "en": "Boss",
+      "usage": "Rumored campus intruder already present when current senior students entered; nickname Boss is explicitly katakana, so no guessed personal reading. Black cat wears the red amulet; sex and ownership remain unspecified. Not Tomie; no supernatural species or precise age is established.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            2031,
+            2032,
+            2034,
+            2035,
+            2173,
+            2175,
+            2176,
+            2178,
+            2945,
+            4359,
+            4517,
+            4518,
+            6046
+          ]
+        }
+      ]
+    },
+    {
+      "id": "patrolling_teacher",
+      "ja": "見回りの先生",
+      "kind": "unnamed adult speaker label",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "gender": "not explicitly established locally",
+      "voice": "Brief, firm instruction to leave, then no further articulate speech.",
+      "en": "Teacher on Patrol",
+      "usage": "Unnamed teacher who orders the group home and becomes the first visible victim. No family name, job beyond teacher, prior-route identity or precise age is established. Source does not explicitly settle gender; do not infer it from stern dialogue or the scream SFX.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            77,
+            78,
+            79,
+            86,
+            156,
+            176,
+            183,
+            189,
+            192,
+            201,
+            205,
+            431,
+            433,
+            437,
+            1743,
+            1881,
+            6537,
+            6538
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sonoura_grandmother",
+      "ja": "園浦さんのおばあさん / 祖母",
+      "kind": "unnamed deceased relative / spirit medium",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "gender": "female explicitly grandmother and old woman",
+      "voice": "No spoken dialogue in the inspected script.",
+      "en": "Satoko’s grandmother",
+      "usage": "A revered female relative, once a medium who exorcised harmful spirits, whose red keepsake amulet is central. Final identification is initially the narrator’s inference; do not add a name, shrine affiliation or formal school of practice.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3548,
+            3549,
+            3550,
+            3551,
+            3552,
+            3559,
+            3576,
+            4316,
+            4361,
+            4380,
+            4381,
+            6116,
+            6117,
+            6118,
+            6123,
+            6124,
+            6126
+          ]
+        }
+      ]
+    },
+    {
+      "id": "four_occult_girls",
+      "ja": "四人の少女 / 他の部員",
+      "kind": "unnamed students",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "gender": "female explicitly five girls total at2921",
+      "voice": "Initially perceived as mocking whispers; true replay reveals fear, remorse and concern. Keep the two versions distinct.",
+      "en": "the other four Occult Club members",
+      "usage": "Four unnamed girls besides Satoko. Do not assign specific lines to named or numbered girls or pretend the photograph supplied names readable in script. Early malicious interpretation differs from the all-survival replay; preserve the shift. Their disappearance was reported October27, not the same day as Satoko’s death.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            2921,
+            2924,
+            2925,
+            2948,
+            2950,
+            2952,
+            4118,
+            4119,
+            4135,
+            4136,
+            4342,
+            4477,
+            4480,
+            4497,
+            4513,
+            4517,
+            4523,
+            4597,
+            4615
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reiko_mother",
+      "ja": "お母さん",
+      "kind": "unnamed parent",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "gender": "female explicitly mother",
+      "voice": "No intelligible quoted reply provided.",
+      "en": "Reiko’s mother",
+      "usage": "Remote caller whose connection cuts out. No personal name or on-screen dialogue. Do not identify her with a mother from another route.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            336,
+            337,
+            365,
+            6380,
+            6381,
+            6392
+          ]
+        }
+      ]
+    },
+    {
+      "id": "evil_will",
+      "ja": "この学校に巣食う邪悪な意志",
+      "kind": "unidentified supernatural presence",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "gender": "unconfirmed",
+      "voice": "No direct named speaking part.",
+      "en": "the evil will inhabiting the school",
+      "usage": "External presence that distorted Satoko’s hearing and merged with her resentful half. No name, gender, demon species, author, final metaphysical explanation or connection to Aim/Murder Club is supplied. A black shape vanishing at6134 is only hypothesized to be it at6135.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            4557,
+            4564,
+            4566,
+            4571,
+            4574,
+            4581,
+            4789,
+            4796,
+            5079,
+            6134,
+            6135,
+            6540,
+            6555
+          ]
+        }
+      ]
+    },
+    {
+      "id": "route_title",
+      "ja": "招霊騒動 / 召霊騒動",
+      "kind": "scenario title",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "The Summoning Incident",
+      "usage": "Candidate only; root chooses final English. Native window title uses 招, both graphic filenames/art use 召. Both refer to this same spirit-summoning crisis; do not create two routes. Alternate editorial possibility Spirit Summoning Trouble.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            103,
+            112,
+            113
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lime",
+      "ja": "LIME",
+      "kind": "fictional messaging app",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "LIME",
+      "usage": "Brand visibly printed on the invitation notification at1203; prose calls it the messaging app generically. Preserve LIME rather than replacing it with real LINE. Voice calls, group messages, IDs, read counts and image posts all matter.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            838,
+            1203,
+            1210,
+            1212,
+            1423,
+            2699
+          ]
+        },
+        {
+          "type": "game_wiki",
+          "url": "https://w.atwiki.jp/allmiccore/pages/62.html",
+          "section": "LIME",
+          "page_lines": [
+            331,
+            347
+          ],
+          "evidence_summary": "Wiki explicitly lists the fictional communications app and this Kiwame scenario; supports the visible in-game brand, not an instruction to add the brand to every generic reference."
+        }
+      ]
+    },
+    {
+      "id": "emergency_group",
+      "ja": "緊急会議（７）",
+      "kind": "group-chat title in artwork",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Emergency Meeting (7)",
+      "usage": "Text embedded in phone images; seven is the group’s membership count, not a live-survivor counter. Do not decrement it after deaths unless the source artwork does. Final lettering needs coordination with translated chat.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            2115,
+            2197,
+            2213,
+            2218
+          ]
+        }
+      ]
+    },
+    {
+      "id": "occult_club",
+      "ja": "オカルト部",
+      "kind": "organization",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Occult Club",
+      "usage": "Reuse explicit existing lock in old_school_building.json, occult_society note. Five original members. Four could have continued as a research society, but all disappeared during paperwork. Distinguish the club from later hypothetical demotion and unrelated prior-route occult organizations.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            2856,
+            2864,
+            2867,
+            2875,
+            2921,
+            3059,
+            3477,
+            3528,
+            4111,
+            4114,
+            4118
+          ]
+        }
+      ]
+    },
+    {
+      "id": "research_society",
+      "ja": "研究会",
+      "kind": "organizational status",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "research society",
+      "usage": "Four surviving members could legally continue under this smaller-group status within the school. This is a status change under consideration, not a new named group or proof the paperwork finished.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            4114,
+            4118
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home_appliance_club",
+      "ja": "家電研究部",
+      "kind": "reported former club",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Home Appliance Research Club",
+      "usage": "One of Kazama’s claimed former clubs. Narrator allows that the whole list may be made up. Preserve uncertainty.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3477,
+            3486
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kabaddi_club",
+      "ja": "カバディ部",
+      "kind": "reported former club",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Kabaddi Club",
+      "usage": "Kazama’s possibly invented list; established sport name, not a person or a new location.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3477,
+            3486
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sutra_copying_club",
+      "ja": "写経部",
+      "kind": "reported former club",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Sutra Copying Club",
+      "usage": "Kazama’s possibly invented list. No specific religion, temple or scripture is named.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3477,
+            3486
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shitty_manga_society",
+      "ja": "クソ漫画研究会",
+      "kind": "reported former club",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Shitty Manga Research Society",
+      "usage": "Retain the coarse dismissive manga modifier and distinguish research society from club. Narrator doubts the list.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3478,
+            3479,
+            3486
+          ]
+        }
+      ]
+    },
+    {
+      "id": "valuables_club",
+      "ja": "金目のもの収集部",
+      "kind": "hypothetical wish",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Valuables Collecting Club",
+      "usage": "Kazama merely wishes there were such a club’s confiscated treasures. Do not turn it into a confirmed historical organization.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3481,
+            3482
+          ]
+        }
+      ]
+    },
+    {
+      "id": "school_disappearance_article",
+      "ja": "校内神隠し事件",
+      "kind": "archived article heading",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Spirited Away at School",
+      "usage": "Working candidate for the old Newspaper Club headline. Supernatural spirited-away wording may be retained editorially, but do not assert police confirmed a supernatural cause. Headline wording preserves the supernatural idiom without asserting that authorities proved it.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            4134,
+            4135,
+            4137,
+            4138
+          ]
+        }
+      ]
+    },
+    {
+      "id": "resonance",
+      "ja": "共鳴",
+      "kind": "spiritual memory-sharing phenomenon",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "resonance",
+      "usage": "Distinguish shared/reexperienced memories from bodily possession and ordinary retrospective narration. First-person memory experiences do not mean Sakagami physically fell five years ago. Earlier snapshots and later corrected hearing are intentionally different.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1064,
+            1157,
+            1160,
+            1162,
+            1163,
+            1269,
+            1270,
+            2019,
+            3062,
+            4286,
+            4400
+          ]
+        }
+      ]
+    },
+    {
+      "id": "amulet",
+      "ja": "お守り / 形見のお守り",
+      "kind": "central keepsake object",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "amulet",
+      "usage": "Red amulet inherited from Satoko’s grandmother, now on the campus cat. Keep it distinct from hand-drawn talismans, purification salt, special water and souvenirs. Do not invent what is inside it or a shrine name.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            2034,
+            2035,
+            2038,
+            2076,
+            2178,
+            2930,
+            3552,
+            4316,
+            4359,
+            4514,
+            4517,
+            4733,
+            6047,
+            6083,
+            6106
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medium",
+      "ja": "霊媒師",
+      "kind": "role / aspiration",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "spirit medium",
+      "usage": "Grandmother’s occupation and Satoko’s desired future. Exorcising evil spirits is her work; do not replace all occurrences with priest, witch or a particular religious order. Satoko’s final accomplishment fulfills the dream.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3548,
+            3549,
+            3559,
+            3576,
+            6123,
+            6303,
+            6307
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seance",
+      "ja": "降霊術 / 降霊会",
+      "kind": "ritual",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "spirit summoning / séance",
+      "usage": "Context-sensitive descriptive terms. Reuse Kokkuri-san for the named game; do not add an explanatory lesson or real-world ritual instructions beyond the source.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            513,
+            4606,
+            4607,
+            4624
+          ]
+        }
+      ]
+    },
+    {
+      "id": "evil_spirit",
+      "ja": "悪霊",
+      "kind": "description",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "evil spirit",
+      "usage": "Initially no established name or sex; do not prematurely label it Satoko or she. Later it is one part of Satoko merged with the external evil will.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            217,
+            604,
+            616,
+            626,
+            994,
+            1030,
+            1133,
+            1464,
+            4581
+          ]
+        }
+      ]
+    },
+    {
+      "id": "that_child",
+      "ja": "あの子",
+      "kind": "contextual reference",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "that girl / that one",
+      "usage": "Use neutral that one while sex/identity remains unknown; after established female identity, that girl may fit. This is not an additional given name. The helper being established as female at956 does not establish the hostile spirit as female. Keep the enemy neutral until separately identified in its own source context.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            489,
+            609,
+            626,
+            994,
+            1133,
+            1162,
+            4289,
+            4437,
+            4587
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dowsing_rod",
+      "ja": "ダウジングロッド",
+      "kind": "Kazama sales joke",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "dowsing rod",
+      "usage": "A supposed genuine luxury rod offered at a10000yen discount; no claim the object is in this room or proven effective.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            4072,
+            4073
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skull_lamp",
+      "ja": "ガイコツ / ドクロのランプ",
+      "kind": "decoy object",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "skull lamp",
+      "usage": "Same table lamp across both names. Its light attracts the enemy; throwing it and extinguishing phones can save the pair.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3496,
+            3499,
+            3500,
+            3689,
+            3700,
+            3978,
+            4020,
+            4022,
+            4057
+          ]
+        }
+      ]
+    },
+    {
+      "id": "talismans",
+      "ja": "手書きの護符",
+      "kind": "Occult Club activity",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "handwritten talismans",
+      "usage": "Separate from grandmother’s red keepsake amulet.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3518
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shikigami",
+      "ja": "式神",
+      "kind": "Occult Club activity term",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "shikigami",
+      "usage": "Kazama says some unspecified shikigami, not a confirmed summoned creature or a named practitioner.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3520
+          ]
+        }
+      ]
+    },
+    {
+      "id": "purifying_salt",
+      "ja": "ナントカ様のナントカお清め塩",
+      "kind": "unnamed ritual supply",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "purifying salt",
+      "usage": "Kazama cannot remember either name and floats an absurd50000yen-per-kilo resale price. Do not invent a deity or sacred brand. The powder is seen working on the grasping dead. Keep the forgotten honorific name vague; do not identify its owner as a particular deity.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            5984,
+            5985,
+            5987
+          ]
+        }
+      ]
+    },
+    {
+      "id": "special_water",
+      "ja": "ナンチャラカンチャラのホニャホニャ水",
+      "kind": "unnamed ritual supply",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "whatever-it-is water",
+      "usage": "Nonsense placeholder names are intentional. Liquid is in a dirty plastic bottle; do not identify a religion or chemical.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            5989,
+            5990,
+            5993
+          ]
+        }
+      ]
+    },
+    {
+      "id": "power_stone_buddha",
+      "ja": "パワーストーン入りの仏像",
+      "kind": "ritual object",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Buddha statue with a power stone",
+      "usage": "One of the improvised objects; narrator specifically reports this one is not helping much. Do not make every club relic effective.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            6007,
+            6011,
+            6012,
+            6014
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dried_sardines",
+      "ja": "ニボシ",
+      "kind": "food / cat bait",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "dried sardines",
+      "usage": "Reiko snacks on them and later uses them as bait. Coordinate with the baked chat image, not an unrelated pet-food brand.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1245,
+            1248,
+            2267,
+            2197
+          ]
+        }
+      ]
+    },
+    {
+      "id": "read_receipts",
+      "ja": "既読 / 既読人数",
+      "kind": "messaging UI and clue",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Read / read count",
+      "usage": "Counts reveal who is checking messages, not exactly who is alive; people may be busy or carrying a broken phone. Do not change counts to force a death interpretation.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1801,
+            1802,
+            2216,
+            2294,
+            2347,
+            2650
+          ]
+        }
+      ]
+    },
+    {
+      "id": "typo_pun",
+      "ja": "逝ってきます / 行ってきます",
+      "kind": "artwork wordplay",
+      "status": "Locked coordinated English phone/prose adaptation",
+      "en": "fatal go/die typing joke",
+      "usage": "Phone image3 has a death-related conversion typo and a smile emoji; image4/5 repeats it and Kazama comments that it is ominous. Requires one consistent English adaptation in both images, with the follow-up joke preserved. No final translation drafted here. Use the exact visible error in chat images3–5. Preserve the emoji and ominous accidental autocorrect reading; Japanese homophony is an acknowledged loss, not a reason to add explanatory dialogue.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            2197,
+            2208,
+            2213,
+            2216,
+            2218
+          ]
+        }
+      ],
+      "english_pair": {
+        "visible_error": "Right, I'm dying now 😊",
+        "intended": "Right, I'm going now 😊"
+      }
+    },
+    {
+      "id": "rushed_typing",
+      "ja": "ふじ / 無事",
+      "kind": "message style",
+      "status": "Locked deliberate English typing error and correction",
+      "en": "rushed typing error and correction",
+      "usage": "Shindo’s frightened messages deliberately lose normal spelling/capitalization and correct the safe/unharmed word separately. Preserve error then correction at matching fields; do not mechanically proofread away panic.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            2363,
+            2364,
+            2367,
+            2370,
+            2374
+          ]
+        }
+      ],
+      "english_pair": {
+        "error": "sfae",
+        "correction": "safe"
+      }
+    },
+    {
+      "id": "phantom_limb_pain",
+      "ja": "幻肢痛",
+      "kind": "narrator’s medical speculation",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "phantom limb pain",
+      "usage": "Narrator wonders whether missing legs can still hurt and offers an uncertain psychogenic explanation. Preserve his doubt rather than adding a medical correction or endorsing his explanation.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            5828,
+            5830,
+            5831
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jpop",
+      "ja": "ＪＰＯＰ",
+      "kind": "genre reference",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "J-pop",
+      "usage": "Kazama jokes that the farewell could sound like sentimental pop lyrics. No named band or actual song is quoted.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            6248,
+            6249
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yukichi_note",
+      "ja": "諭吉さん",
+      "kind": "historical-person banknote metonym",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "reading": "ゆきち",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            6217,
+            6218
+          ]
+        },
+        {
+          "url": "https://www.boj.or.jp/en/note_tfjgs/note/security/gizo.htm",
+          "evidence_summary": "Bank of Japan section10000yen Note names portrait Yukichi Fukuzawa."
+        }
+      ],
+      "en": "Yukichi / a 10,000-yen note",
+      "usage": "Refers to paying for a seminar, not a new character or Reiko’s relative. Yukichi Fukuzawa is the historical portrait on the referenced10000yen note; no modernization to Shibusawa. Root can choose a natural amount or retain the metonym."
+    },
+    {
+      "id": "mary_celeste",
+      "ja": "マリー・セレスト号",
+      "kind": "historical ship analogy",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            4154,
+            4155,
+            4156
+          ]
+        },
+        {
+          "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-40283",
+          "evidence_summary": "Royal Museums Greenwich collection names Mary Celeste and describes its discovery with no people aboard."
+        }
+      ],
+      "en": "Mary Celeste",
+      "usage": "Standard English name for the abandoned-vessel mystery. Arai compares a room left as if occupied moments before; do not add a literal ship appearance or unsupported history."
+    },
+    {
+      "id": "restless_dead",
+      "ja": "亡者",
+      "kind": "abyss inhabitants",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "the dead / restless dead",
+      "usage": "Hostile dead reaching from the abyss. Do not automatically identify them as the missing four girls or a previously named spirit, or assume a flesh-and-blood zombie species.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            5283,
+            5284,
+            5395,
+            5396,
+            5397,
+            5398,
+            5596,
+            5721,
+            5928,
+            5929,
+            6071
+          ]
+        }
+      ]
+    },
+    {
+      "id": "spirit_resolution_methods",
+      "ja": "封印 / 討伐 / 浄化 / 成仏",
+      "kind": "proposed spiritual resolutions",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "seal away / destroy / purify / help pass on",
+      "usage": "Questions and possible approaches are distinct, not interchangeable fixed combat spells. The ending uses proper ritual farewell so Satoko can go where she belongs. Do not add a religion or a new rulebook.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            700,
+            701,
+            3376,
+            3377,
+            4732,
+            4822,
+            6295,
+            6320,
+            6321,
+            6330
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cultural_club_building",
+      "ja": "文化クラブハウス棟 / 文化クラブハウス / クラブハウス棟",
+      "kind": "campus structure",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "cultural club building / club building",
+      "usage": "Prefabricated structure housing Newspaper Club room, distinct from main school building. Existing Site term club building is available; retain cultural distinction where source specifies it. Floor should have ground underneath, making the abyss impossible.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            144,
+            281,
+            3886,
+            5248
+          ]
+        }
+      ]
+    },
+    {
+      "id": "newspaper_clubroom",
+      "ja": "新聞部室",
+      "kind": "location",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "Newspaper Club room",
+      "usage": "Sakagami remains here to keep the coin ritual going; do not move him into a main-building classroom.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            83,
+            124,
+            150,
+            281,
+            6153
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main_building",
+      "ja": "本校舎 / 校舎",
+      "kind": "campus structure",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "main school building / school building",
+      "usage": "Other six scatter through it; not proof they are all students of the same school.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            144,
+            163,
+            1218,
+            2106,
+            2175
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rear_gate",
+      "ja": "裏門 / 裏口",
+      "kind": "campus exit",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "rear gate / rear entrance",
+      "usage": "Source uses both expressions for approach to first attack. No new named gate or address.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            160,
+            162,
+            432,
+            438,
+            457
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front_gate",
+      "ja": "正面門 / 校門",
+      "kind": "campus exit",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "front gate / school gate",
+      "usage": "Attempted gate/fence escape returns people to the inside; do not replace with an ordinary locked gate explanation.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            415,
+            418,
+            425,
+            427
+          ]
+        }
+      ]
+    },
+    {
+      "id": "courtyard_tree",
+      "ja": "中庭 / 裏庭 / イチョウの木",
+      "kind": "location / plant",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "courtyard / back garden; ginkgo tree",
+      "usage": "Native memory calls it courtyard; later reported message1298 calls it back garden. Keep a discrepancy note rather than silently inventing two trees. Nut smell and yellow fallen leaves imply autumn, but no new exact date should be added.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1084,
+            1085,
+            1086,
+            1139,
+            1298,
+            2022
+          ]
+        }
+      ]
+    },
+    {
+      "id": "library",
+      "ja": "図書館 / 図書室",
+      "kind": "location",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "library",
+      "usage": "The script alternates these terms for this research venue. Newspaper archives and special collections room are available.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1227,
+            1502,
+            1514,
+            1517,
+            1748,
+            1886,
+            2829
+          ]
+        }
+      ]
+    },
+    {
+      "id": "special_collections_room",
+      "ja": "特殊資料室",
+      "kind": "locked room",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "special collections room",
+      "usage": "Locked door inside/back of library. Keys recovered from teacher do not fit; Iwashita/Arai eventually pick the lock. No new separate archive institution.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1502,
+            1514,
+            2684,
+            2830,
+            3010,
+            4099
+          ]
+        }
+      ]
+    },
+    {
+      "id": "music_room",
+      "ja": "音楽室",
+      "kind": "classroom",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "music room",
+      "usage": "Shindo’s initial hiding location.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1231,
+            1368
+          ]
+        }
+      ]
+    },
+    {
+      "id": "art_room",
+      "ja": "美術室",
+      "kind": "classroom",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "art room",
+      "usage": "Iwashita’s initial location before joining Arai.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1235
+          ]
+        }
+      ]
+    },
+    {
+      "id": "infirmary",
+      "ja": "保健室",
+      "kind": "school room",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "infirmary",
+      "usage": "Kazama’s initial hiding location; joking about disinfectant is not proven holy healing power.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1239
+          ]
+        }
+      ]
+    },
+    {
+      "id": "home_ec_room",
+      "ja": "家庭科室",
+      "kind": "classroom",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "home economics room",
+      "usage": "Reiko’s initial location; last baked chat mentions Shindo can reach it.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1245,
+            2218
+          ]
+        }
+      ]
+    },
+    {
+      "id": "science_room",
+      "ja": "理科室",
+      "kind": "classroom",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "science room",
+      "usage": "Reiko drops her phone here; it becomes the decoy. She and Shindo escape to a nearby third-floor restroom.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            2363,
+            2463,
+            2468,
+            2743,
+            2749,
+            2757
+          ]
+        }
+      ]
+    },
+    {
+      "id": "restrooms",
+      "ja": "男子トイレ / トイレ / 個室",
+      "kind": "locations",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "boys’ restroom / restroom / stall",
+      "usage": "Hosoda initially hides on second floor; Shindo/Reiko later cornered in third-floor restroom. Keep floor/location distinctions and use toilet only for a fixture.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            1223,
+            2370,
+            2374,
+            2398,
+            2407,
+            2408,
+            3100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "storage_room",
+      "ja": "倉庫",
+      "kind": "campus room",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "storage room",
+      "usage": "Repository of defunct clubs’ belongings; Kazama/Hosoda research there. No treasure club is confirmed.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            3076,
+            3083,
+            3110,
+            3472,
+            3493,
+            4020
+          ]
+        }
+      ]
+    },
+    {
+      "id": "abyss",
+      "ja": "深淵 / 無明の闇 / 彼岸 / 此岸",
+      "kind": "supernatural location language",
+      "status": "locked; observe source-order, uncertainty and contextual usage notes",
+      "en": "abyss / lightless darkness / the other side / this world",
+      "usage": "An impossible opening under prefab floor, with grasping dead. Do not name it Hell, an established cosmological realm or a prior-route dungeon without source support.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/syorei.ks",
+          "lines": [
+            5248,
+            5249,
+            5251,
+            5252,
+            5283,
+            5395,
+            5403,
+            6137
+          ]
+        }
+      ]
+    }
+  ],
+  "identity_reveal_order": [
+    {
+      "source_lines": [
+        651,
+        897,
+        950,
+        956,
+        959
+      ],
+      "finding": "Temporary nickname introduced before sex is known; female identity established only after direct question."
+    },
+    {
+      "source_lines": [
+        1130,
+        1133,
+        1162,
+        1188,
+        1195,
+        1268,
+        1269
+      ],
+      "finding": "Helper denies first death-memory is her own and states a connection. She does not confirm Sakagami’s killed-by-spirit hypothesis at1195, yet his later message1269 reports it as apparently true. Preserve narrator’s provisional/conflicting reconstruction."
+    },
+    {
+      "source_lines": [
+        2176,
+        2770
+      ],
+      "finding": "Campus cat Boss is physically present and carries amulet; Tomie is Reiko’s recorded ringtone, not the same animal."
+    },
+    {
+      "source_lines": [
+        3411,
+        3416,
+        3430,
+        3444
+      ],
+      "finding": "Helper tentatively agrees to recognition/Occult Club hypothesis; do not pre-confirm a separate killed girl."
+    },
+    {
+      "source_lines": [
+        4245,
+        4258,
+        4265,
+        4437,
+        4438,
+        4786,
+        4787
+      ],
+      "finding": "Photo identifies helper as Satoko. Both helpful and hostile halves derive from her; details depend on survivors."
+    },
+    {
+      "source_lines": [
+        4337,
+        4344,
+        4356,
+        4359,
+        4477,
+        4480,
+        4494,
+        4497,
+        4514,
+        4517,
+        4539,
+        4566,
+        4574
+      ],
+      "finding": "First replay presents malicious fragments; all-survival replay reveals concern, ambulance called and attempted encouragement. External interference distorted hearing. Preserve both firsthand versions and their later explanation, not an editorial repair of early scene."
+    },
+    {
+      "source_lines": [
+        4889,
+        4892,
+        4897,
+        4899
+      ],
+      "finding": "Messages labeled Makoto Shindo are actually Reiko using his phone; narrator explains this after first message. Preserve label, feminine/casual voice and timing of clarification."
+    },
+    {
+      "source_lines": [
+        6116,
+        6123,
+        6134,
+        6135
+      ],
+      "finding": "Grandmother’s final appearance and vanishing evil shape include narrator inferences; do not add a new named entity or a demon identity."
+    }
+  ],
+  "research_sources": [
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/247.html",
+      "section": "園浦智子（そのうら さとこ）",
+      "purpose": "Exact kana, first-year role and amnesiac helper."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/249.html",
+      "section": "富江（とみえ）",
+      "purpose": "Exact cat reading and Kiwame ringtone context."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/84.html",
+      "section": "NONAME（ノーネーム）",
+      "purpose": "Category distinction; do not assign category as a birth name."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/62.html",
+      "section": "LIME",
+      "purpose": "App name corroborates artwork, not real-world LINE."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/280.html",
+      "section": "招霊騒動",
+      "purpose": "Cross-check new roles, terms and story inventory; use native source for branch specifics."
+    },
+    {
+      "url": "https://www.rmg.co.uk/collections/objects/rmgc-object-40283",
+      "purpose": "Standard historical ship spelling Mary Celeste."
+    },
+    {
+      "url": "https://www.boj.or.jp/en/note_tfjgs/note/security/gizo.htm",
+      "purpose": "Historical10000yen portrait metonym Yukichi Fukuzawa."
+    }
+  ]
+}

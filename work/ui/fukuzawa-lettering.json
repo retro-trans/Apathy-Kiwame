@@ -1,0 +1,50 @@
+{
+  "canvas": [960, 690],
+  "title": {"source": "title/title_SNS怪談.png", "output": "fukuzawa-social-media-title.svg", "lines": ["Social Media", "Ghost Story"], "box": [233, 249, 480, 185]},
+  "images": [
+    {
+      "source": "SNS/CG/1.png", "output": "fukuzawa-phone-1.svg",
+      "review": "Translate all three messages, retain original account handles, empty avatar and blur.",
+      "preserve_polygons": [[[373,365],[453,385],[433,467],[351,446]],[[360,453],[486,480],[478,512],[352,485]],[[487,397],[700,442],[694,462],[482,417]]],
+      "blocks": [
+        {"id": "meeting", "transform": [0.978, 0.208, -0.208, 0.978, 607, -46], "rect": [3, 20, 251, 144], "fill": "#11100f", "font_size": 18, "blur": 1.1, "x": 18, "y": 64, "line_height": 31, "lines": ["I'm really looking", "forward to meeting you.", "Thank you so much,", "as always."]},
+        {"id": "farewell", "transform": [0.978, 0.208, -0.208, 0.978, 558, 169], "rect": [11, 14, 246, 48], "sample_gradient": true, "font_size": 21, "blur": 1.1, "x": 23, "y": 48, "line_height": 25, "lines": ["See you, then."]},
+        {"id": "forgiveness", "transform": [0.978, 0.208, -0.208, 0.978, 467, 430], "rect": [0, -12, 242, 45], "sample_gradient": true, "font_size": 20, "blur": 0.35, "x": 25, "y": 26, "line_height": 25, "lines": ["I won't forgive you."]}
+      ]
+    },
+    {
+      "source": "SNS/CG/志田ポエム.jpg", "output": "fukuzawa-lost-post.svg",
+      "review": "Keep Naoko.S, @shi-na.xxxx, floral avatar, photograph and reaction icons. Only the Japanese message and age label change.",
+      "protected_photo": [494, 307, 358, 239],
+      "preserve_rectangles": [[494,307,358,239],[405,138,78,79],[490,130,234,28]],
+      "blocks": [
+        {"id": "lost", "rect": [490, 169, 371, 121], "sample_gradient": true, "color": "#282828", "font": "Georgia, serif", "font_size": 19, "x": 497, "y": 192, "line_height": 27, "lines": ["Sorry, I've lost my way.", "Can anyone tell me where this is?", "I'm really in trouble.", "I called home, but no one answers…"]},
+        {"id": "time", "rect": [815, 131, 61, 31], "sample_gradient": true, "color": "#575757", "font_size": 13, "x": 821, "y": 151, "line_height": 18, "lines": ["1m ago"]}
+      ]
+    },
+    {
+      "source": "SNS/CG/2.png", "output": "fukuzawa-phone-2.svg",
+      "review": "The previous message is cut off by the original frame. Only しているわ survives; the missing lexical verb cannot be identified. Independent review approved preserving a clipped English verb ending without inventing waiting, watching or loving. Keep the photograph and both handles.",
+      "preserve_rectangles": [[350,119,456,313]],
+      "blocks": [
+        {"id": "clipped", "transform": [0.978, 0.208, -0.208, 0.978, 567, -42], "rect": [0, 0, 182, 53], "fill": "#171615", "font_size": 22, "blur": 1.0, "x": 10, "y": 55, "line_height": 26, "lines": ["…ing."]}
+      ]
+    },
+    {
+      "source": "SNS/CG/5.png", "output": "fukuzawa-phone-5.svg",
+      "review": "Message matches scenario line3561. Retain both account handles and the underwater photograph, including the hand-shaped shadow.",
+      "preserve_rectangles": [[450,425,310,255]],
+      "preserve_polygons": [[[512,263],[635,289],[630,311],[507,285]],[[381,328],[513,356],[506,380],[374,352]]],
+      "blocks": [
+        {"id": "one", "transform": [0.978, 0.208, -0.208, 0.978, 505, 297], "rect": [0, -4, 270, 37], "sample_gradient": true, "font_size": 22, "blur": 0.35, "x": 8, "y": 26, "line_height": 27, "lines": ["At last, we're one."]}
+      ]
+    },
+    {
+      "source": "hukuzawa/校長室.jpg", "output": "fukuzawa-principal-office.svg",
+      "review": "The hanging sign reads the principal's office in Japanese and English. Preserve its frame, skew, dull brass lettering and defocus; replace only the sign face.",
+      "blocks": [
+        {"id": "office", "transform": [0.94, 0.27, -0.09, 0.99, 310, 105], "rect": [6, 9, 306, 160], "fill": "#10150b", "font": "Georgia,serif", "font_size": 34, "color": "#827945", "blur": 2.1, "feather": 4, "anchor": "middle", "x": 162, "y": 72, "line_height": 55, "lines": ["PRINCIPAL'S", "OFFICE"]}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4464 @@
+{
+  "scenario": "data/scenario/site.ks",
+  "source_sha256": "cee111c93c8ddb367523b68aa00b452ea3eadd02d43d8861195c3c33d366bec0",
+  "rows": {
+    "75:text": [
+      "All six people who'd gathered there had finished their stories."
+    ],
+    "77:text": [
+      "The sun had still been high when they started,"
+    ],
+    "78:text": [
+      "but now everything outside was wrapped in darkness,"
+    ],
+    "79:text": [
+      "and only the clubroom's failing fluorescent light"
+    ],
+    "80:text": [
+      "cast a dim glow over the room."
+    ],
+    "82:text": [
+      "Normally, by this time,"
+    ],
+    "83:text": [
+      "a teacher or a security guard would've come,"
+    ],
+    "84:text": [
+      "but for some reason, today of all days,"
+    ],
+    "85:text": [
+      "no one had turned up yet."
+    ],
+    "87:text": [
+      "The clubroom was in the prefabricated cultural club building, separate from the school building."
+    ],
+    "88:text": [
+      "There weren't even supposed to be any club activities today,"
+    ],
+    "89:text": [
+      "so had they overlooked us...?"
+    ],
+    "91:text": [
+      "Silence filled the clubroom."
+    ],
+    "92:text": [
+      "Everyone remained quiet,"
+    ],
+    "93:text": [
+      "as though waiting for me to speak."
+    ],
+    "95:text": [
+      "The failing fluorescent light"
+    ],
+    "96:text": [
+      "made an occasional noise that lingered strangely in my ears."
+    ],
+    "97:text": [
+      "In the end, I'd just gone along with things and listened to six scary stories. But what am I supposed to do now?"
+    ],
+    "99:text": [
+      "The seventh person isn't coming."
+    ],
+    "100:text": [
+      "There's no way they could."
+    ],
+    "102:text": [
+      "In the first place, I don't remember"
+    ],
+    "103:text": [
+      "inviting anyone to this gathering."
+    ],
+    "104:text": [
+      "They'd shown up on their own and started telling stories without asking me."
+    ],
+    "106:text": [
+      "The only person who seemed to know what was going on was... Hino."
+    ],
+    "107:text": [
+      "When I was choosing people for the wall newspaper,"
+    ],
+    "108:text": [
+      "apart from the one I'd picked,"
+    ],
+    "109:text": [
+      "Hino had selected all six people here."
+    ],
+    "111:text": [
+      "When I'd compiled the information about them, I'd included contact details for anyone I could reach. Hino could've used my name"
+    ],
+    "112:text": [
+      "and sent emails to all six of them. It wasn't impossible."
+    ],
+    "114:text": [
+      "But why would he do that without telling me?"
+    ],
+    "115:text": [
+      "The more I thought about it,"
+    ],
+    "116:text": [
+      "the deeper the mystery grew."
+    ],
+    "120:text": [
+      "Akemi Iwashita"
+    ],
+    "121:text": [
+      "“You... How long are you going to sit there without saying anything?”"
+    ],
+    "123:text": [
+      "Maybe she'd run out of patience. Iwashita broke the heavy silence",
+      "and spoke to me."
+    ],
+    "125:text": [
+      "Akemi Iwashita"
+    ],
+    "126:text": [
+      "“You're our listener, aren't you?"
+    ],
+    "127:text": [
+      "Everyone's finished their stories,"
+    ],
+    "128:text": [
+      "but you're just sitting there, staring into space,"
+    ],
+    "129:text": [
+      "without a word. What exactly are you thinking?”"
+    ],
+    "131:text": [
+      "She rebuked me sharply."
+    ],
+    "132:text": [
+      "As if taking their cue from her, the other storytellers"
+    ],
+    "133:text": [
+      "started talking over one another."
+    ],
+    "138:text": [
+      "Tomoharu Hosoda"
+    ],
+    "139:text": [
+      "“That's right, ",
+      "."
+    ],
+    "140:text": [
+      "I'm getting hungry.”"
+    ],
+    "146:text": [
+      "Makoto Shindo"
+    ],
+    "147:text": [
+      "“Well, we're just wasting time like this.”"
+    ],
+    "151:text": [
+      "Nozomu Kazama"
+    ],
+    "152:text": [
+      "“",
+      ", I'm a busy man."
+    ],
+    "153:text": [
+      "I'm popular, after all."
+    ],
+    "154:text": [
+      "There are plenty of other people"
+    ],
+    "155:text": [
+      "waiting for me.”"
+    ],
+    "159:text": [
+      "Reiko Fukuzawa"
+    ],
+    "160:text": [
+      "“Ugh, I'm starting to feel sleepy"
+    ],
+    "161:text": [
+      ", ",
+      ".”"
+    ],
+    "164:text": [
+      "Shoji Arai"
+    ],
+    "165:text": [
+      "“...You really haven't thought about anything, have you?”"
+    ],
+    "167:text": [
+      "Everyone was talking to me at once."
+    ],
+    "168:text": [
+      "I'm the one who wants to ask what to do."
+    ],
+    "172:text": [
+      "Akemi Iwashita"
+    ],
+    "173:text": [
+      "“",
+      ", what are you going to do?"
+    ],
+    "174:text": [
+      "You're leaving everyone at a loss."
+    ],
+    "175:text": [
+      "What's happened to the seventh person?"
+    ],
+    "176:text": [
+      "Or are you going to tell the seventh story"
+    ],
+    "177:text": [
+      "yourself?”"
+    ],
+    "180:text": [
+      "There's no point staying silent."
+    ],
+    "181:text": [
+      "What should I do...?"
+    ],
+    "193:glink.text.1": [
+      "1. I'll tell the seventh story."
+    ],
+    "195:glink.text.1": [
+      "1. I'll tell the seventh story."
+    ],
+    "199:glink.text.1": [
+      "2. Please wait a little longer."
+    ],
+    "201:glink.text.1": [
+      "2. Please wait a little longer."
+    ],
+    "205:glink.text.1": [
+      "3. Please go home, everyone."
+    ],
+    "207:glink.text.1": [
+      "3. Please go home, everyone."
+    ],
+    "219:text": [
+      "Even if we keep waiting,"
+    ],
+    "220:text": [
+      "there's no way a seventh person will come."
+    ],
+    "221:text": [
+      "At this point, maybe all I can do is what Iwashita suggested:"
+    ],
+    "222:text": [
+      "tell a scary story myself"
+    ],
+    "223:text": [
+      "and somehow bring things to a smooth conclusion."
+    ],
+    "226:text": [
+      "“All right. Then I'll tell you a scary story...”"
+    ],
+    "231:text": [
+      "Just as I started to say that,"
+    ],
+    "232:text": [
+      "the buzz of a vibrating phone echoed through the clubroom."
+    ],
+    "243:text": [
+      "“Please wait a little longer.”"
+    ],
+    "246:text": [
+      "Tomoharu Hosoda"
+    ],
+    "247:text": [
+      "“A little longer? How long is that supposed to be?”"
+    ],
+    "249:text": [
+      "Hosoda complained."
+    ],
+    "253:text": [
+      "“Um... I'm going to check with Hino"
+    ],
+    "254:text": [
+      "first...”"
+    ],
+    "256:text": [
+      "I decided to try contacting Hino."
+    ],
+    "257:text": [
+      "If he'd arranged all this,"
+    ],
+    "258:text": [
+      "he had to know something."
+    ],
+    "259:text": [
+      "What on earth was he thinking?"
+    ],
+    "261:text": [
+      "Just as I was reaching for my phone to call Hino,"
+    ],
+    "266:text": [
+      "the buzz of a vibrating phone echoed through the clubroom."
+    ],
+    "277:text": [
+      "“Everyone, please head home now.”"
+    ],
+    "279:text": [
+      "I stood up and addressed them all."
+    ],
+    "280:text": [
+      "We certainly weren't getting anywhere like this."
+    ],
+    "281:text": [
+      "I'd make up some excuse and send everyone home."
+    ],
+    "284:text": [
+      "Makoto Shindo"
+    ],
+    "285:text": [
+      "“You're telling us to go home... But we haven't heard"
+    ],
+    "286:text": [
+      "the seventh story. Is that okay?”"
+    ],
+    "288:text": [
+      "Shindo asked."
+    ],
+    "292:text": [
+      "“...Yes. Even without a seventh story,"
+    ],
+    "293:text": [
+      "I'll work something out."
+    ],
+    "294:text": [
+      "It's late,"
+    ],
+    "295:text": [
+      "so please go home, everyone."
+    ],
+    "296:text": [
+      "Thank you for staying so late.”"
+    ],
+    "298:text": [
+      "I bowed my head."
+    ],
+    "299:text": [
+      "Today had been such a strange day."
+    ],
+    "300:text": [
+      "I'd been made to host a Seven Wonders Gathering without knowing what was going on,"
+    ],
+    "301:text": [
+      "and now everyone was complaining that the seventh person hadn't shown up..."
+    ],
+    "303:text": [
+      "Once they'd all left, I'd try contacting Hino."
+    ],
+    "304:text": [
+      "I had to find out whether he'd called these people here."
+    ],
+    "305:text": [
+      "Why would he have used my name...?"
+    ],
+    "310:text": [
+      "As I was thinking about that,"
+    ],
+    "311:text": [
+      "the buzz of a vibrating phone echoed through the clubroom."
+    ],
+    "320:text": [
+      "Akemi Iwashita"
+    ],
+    "321:text": [
+      "“Oh, excuse me a moment.”"
+    ],
+    "324:text": [
+      "Apparently, the call was for Iwashita."
+    ],
+    "325:text": [
+      "She slowly took out her phone,"
+    ],
+    "326:text": [
+      "held it to her ear, and began talking."
+    ],
+    "328:text": [
+      "Akemi Iwashita"
+    ],
+    "329:text": [
+      "“Hee hee... I see. All right. Bye, then.”"
+    ],
+    "331:text": [
+      "After exchanging a few words,"
+    ],
+    "332:text": [
+      "Iwashita hung up."
+    ],
+    "333:text": [
+      "Then she said something I hadn't expected at all."
+    ],
+    "337:text": [
+      "Akemi Iwashita"
+    ],
+    "338:text": [
+      "“",
+      ", apparently, the seventh person has arrived."
+    ],
+    "339:text": [
+      "Let's go to Room 205 in the club"
+    ],
+    "340:text": [
+      "building.”"
+    ],
+    "343:text": [
+      "The seventh person?! No way... That couldn't possibly be true."
+    ],
+    "344:text": [
+      "Who on earth had Iwashita been talking to?"
+    ],
+    "346:text": [
+      "And Room 205 in that club building was an unused sports clubroom."
+    ],
+    "347:text": [
+      "If they knew a place like that existed,"
+    ],
+    "348:text": [
+      "did that mean the seventh person was a student at our school?"
+    ],
+    "349:text": [
+      "Then was it Hino after all...?"
+    ],
+    "352:text": [
+      "“Um... You said the seventh person had arrived,"
+    ],
+    "353:text": [
+      "but who is it?"
+    ],
+    "354:text": [
+      "And why do we have to go to Room 205"
+    ],
+    "355:text": [
+      "in the club building...?”"
+    ],
+    "358:text": [
+      "Akemi Iwashita"
+    ],
+    "359:text": [
+      "“You'll find out when you go to Room 205"
+    ],
+    "360:text": [
+      "in the club building, won't you?"
+    ],
+    "361:text": [
+      "Stop standing around and show us the way.”"
+    ],
+    "364:text": [
+      "Ignoring my confusion, Iwashita stood up",
+      "and hurried out of the clubroom."
+    ],
+    "365:text": [
+      "The other storytellers got up and followed her."
+    ],
+    "366:text": [
+      "Left behind, I stared blankly at the space they'd all vacated."
+    ],
+    "368:text": [
+      "Just what was going on?"
+    ],
+    "369:text": [
+      "Even if Hino was the seventh person,"
+    ],
+    "370:text": [
+      "why did we have to go to a place like that?"
+    ],
+    "371:text": [
+      "I couldn't make sense of anything."
+    ],
+    "372:text": [
+      "I was too confused to move."
+    ],
+    "374:text": [
+      "Reiko Fukuzawa"
+    ],
+    "375:text": [
+      "“Come on, ",
+      ", what are you doing?"
+    ],
+    "376:text": [
+      "Hurry up and come out of the clubroom. Show us the way.”"
+    ],
+    "378:text": [
+      "Fukuzawa poked her head through the doorway and hurried me along."
+    ],
+    "381:text": [
+      "“S-sorry.”"
+    ],
+    "384:text": [
+      "There was no point staying here."
+    ],
+    "385:text": [
+      "All I could do was go outside and check out the other club building."
+    ],
+    "388:text": [
+      "“Sorry to keep you waiting."
+    ],
+    "389:text": [
+      "For now, let's head to the club"
+    ],
+    "390:text": [
+      "building.”"
+    ],
+    "392:text": [
+      "I left the clubroom,"
+    ],
+    "393:text": [
+      "called to the six people waiting outside, and started walking."
+    ],
+    "397:title.name.1": [
+      "Apathy Kiwame - Revenge Site"
+    ],
+    "428:text": [
+      "The club building with Room 205 was across the school building from the one used by our cultural clubs,"
+    ],
+    "429:text": [
+      "beside the gym."
+    ],
+    "430:text": [
+      "We cut straight across the middle of the schoolyard,"
+    ],
+    "431:text": [
+      "heading toward the gym."
+    ],
+    "433:text": [
+      "Darkness stretched around us. In the sky, a half-moon"
+    ],
+    "434:text": [
+      "shimmered hazily."
+    ],
+    "435:text": [
+      "It was frighteningly quiet."
+    ],
+    "437:text": [
+      "Only our footsteps echoed through the schoolyard."
+    ],
+    "438:text": [
+      "Come to think of it, was this the first time I'd stayed at school this late?"
+    ],
+    "440:text": [
+      "Normally, the yard would be busy with students"
+    ],
+    "441:text": [
+      "sweating through club activities or heading home."
+    ],
+    "443:text": [
+      "Knowing how noisy it was during the day,"
+    ],
+    "444:text": [
+      "I found the school at night strangely alien."
+    ],
+    "445:text": [
+      "It felt as though I'd wandered into another"
+    ],
+    "446:text": [
+      "dimension."
+    ],
+    "448:text": [
+      "Before long,"
+    ],
+    "449:text": [
+      "we'd reached the club building."
+    ],
+    "450:text": [
+      "There was no one around."
+    ],
+    "451:text": [
+      "Room 205 was on the second floor,"
+    ],
+    "452:text": [
+      "at the far right end."
+    ],
+    "454:text": [
+      "We went upstairs, and I put my hand on Room 205's doorknob."
+    ],
+    "456:text": [
+      "There was a click, and I heard the door open."
+    ],
+    "458:text": [
+      "It's unlocked..."
+    ],
+    "459:text": [
+      "I looked around, then quietly stepped inside."
+    ],
+    "460:text": [
+      "The room was pitch-black."
+    ],
+    "463:text": [
+      "“Um... Is anyone here?”"
+    ],
+    "465:text": [
+      "I called out, but there was no answer."
+    ],
+    "466:text": [
+      "Had they not arrived yet...?"
+    ],
+    "467:text": [
+      "I ventured farther into the room."
+    ],
+    "469:text": [
+      "It wasn't very large."
+    ],
+    "470:text": [
+      "The air was dusty. Looking down,"
+    ],
+    "471:text": [
+      "I saw wood scraps and bits of paper scattered around."
+    ],
+    "472:text": [
+      "My eyes must have been adjusting to the darkness."
+    ],
+    "473:text": [
+      "Little by little, I could make out my surroundings."
+    ],
+    "476:text": [
+      "I noticed a dark shape in the center of the room."
+    ],
+    "477:text": [
+      "A chair...? Was someone sitting in it?"
+    ],
+    "478:text": [
+      "Could that person be the seventh one...?"
+    ],
+    "483:text": [
+      "Suddenly, the light came on,"
+    ],
+    "484:text": [
+      "illuminating the person in the chair."
+    ],
+    "487:text": [
+      "“Kurata?!”"
+    ],
+    "489:text": [
+      "There she was, sitting in the chair with her hands"
+    ],
+    "490:text": [
+      "tied behind her back."
+    ],
+    "491:text": [
+      "Her eyes were closed. Was she asleep?"
+    ],
+    "492:text": [
+      "What on earth is going on?!"
+    ],
+    "493:text": [
+      "Why is Kurata tied up in a room like this?"
+    ],
+    "496:text": [
+      "Emi Kurata"
+    ],
+    "497:text": [
+      "“...Mm.”"
+    ],
+    "499:text": [
+      "Maybe she'd heard my voice."
+    ],
+    "500:text": [
+      "Kurata slowly opened her eyes."
+    ],
+    "501:text": [
+      "Then she tried to move. As she realized what"
+    ],
+    "502:text": [
+      "had happened to her, she started to panic."
+    ],
+    "505:text": [
+      "Emi Kurata"
+    ],
+    "506:text": [
+      "“Where am I?!"
+    ],
+    "507:text": [
+      "Why am I tied up?”"
+    ],
+    "510:text": [
+      "“Kurata!”"
+    ],
+    "512:text": [
+      "Emi Kurata"
+    ],
+    "513:text": [
+      "“",
+      "?! What on earth happened?"
+    ],
+    "514:text": [
+      "Why am I tied up?”"
+    ],
+    "517:text": [
+      "“I don't know either! Just hold on. I'll hurry and"
+    ],
+    "518:text": [
+      "untie you!”"
+    ],
+    "520:text": [
+      "Emi Kurata"
+    ],
+    "521:text": [
+      "“Okay!”"
+    ],
+    "523:text": [
+      "Why on earth is Kurata tied up?"
+    ],
+    "525:text": [
+      "I tried to help her,"
+    ],
+    "526:text": [
+      "but just as I hurried over to her,"
+    ],
+    "527:text": [
+      "a familiar figure stepped out from where the"
+    ],
+    "528:text": [
+      "lockers had blocked my view."
+    ],
+    "533:text": [
+      "Sadao Hino"
+    ],
+    "534:text": [
+      "“Hey, ",
+      ".”"
+    ],
+    "537:text": [
+      "“Hino?!”"
+    ],
+    "539:text": [
+      "Sadao Hino"
+    ],
+    "540:text": [
+      "“What's wrong, ",
+      "?"
+    ],
+    "541:text": [
+      "You should see the look on your face."
+    ],
+    "542:text": [
+      "Are you that surprised to see me here?”"
+    ],
+    "545:text": [
+      "Hino came"
+    ],
+    "546:text": [
+      "toward me with a smirk."
+    ],
+    "547:text": [
+      "What on earth is going on?"
+    ],
+    "549:text": [
+      "So Hino is the seventh person after all?"
+    ],
+    "550:text": [
+      "Had Hino arranged all of today's"
+    ],
+    "551:text": [
+      "chaos?"
+    ],
+    "553:text": [
+      "The storytellers too."
+    ],
+    "554:text": [
+      "He'd chosen them."
+    ],
+    "555:text": [
+      "They must know each other,"
+    ],
+    "556:text": [
+      "and he must have organized this gathering to surprise me."
+    ],
+    "558:text": [
+      "But even so,"
+    ],
+    "559:text": [
+      "why is Kurata tied up?"
+    ],
+    "560:text": [
+      "I tried to sound cheerful as I asked him."
+    ],
+    "563:text": [
+      "“Of course I'm surprised!"
+    ],
+    "564:text": [
+      "You really startled me."
+    ],
+    "565:text": [
+      "You invited all of today's storytellers"
+    ],
+    "566:text": [
+      "too, didn't you?"
+    ],
+    "567:text": [
+      "But why is Kurata tied"
+    ],
+    "568:text": [
+      "up?"
+    ],
+    "569:text": [
+      "It looks painful. Maybe we should untie"
+    ],
+    "570:text": [
+      "her...”"
+    ],
+    "572:text": [
+      "As I said that and reached to undo the rope binding Kurata's feet,"
+    ],
+    "573:text": [
+      "Hino, who was standing right beside her,"
+    ],
+    "574:text": [
+      "stamped down on my hand with all his strength."
+    ],
+    "577:text": [
+      "“Aaagh!”"
+    ],
+    "579:text": [
+      "Sadao Hino"
+    ],
+    "580:text": [
+      "“Hey, who the fuck said you could do that?”"
+    ],
+    "582:text": [
+      "He ground his foot into my palm."
+    ],
+    "583:text": [
+      "Agonizing pain shot through it,"
+    ],
+    "584:text": [
+      "and I desperately tried to pull my hand free,"
+    ],
+    "585:text": [
+      "but Hino's foot wouldn't budge."
+    ],
+    "586:text": [
+      "He only ground down harder, without mercy."
+    ],
+    "588:text": [
+      "Emi Kurata"
+    ],
+    "589:text": [
+      "“Hino, please! Stop!”"
+    ],
+    "591:text": [
+      "Kurata pleaded in anguish."
+    ],
+    "593:text": [
+      "Maybe he was reacting to her voice."
+    ],
+    "594:text": [
+      "Hino lifted his foot for a moment,"
+    ],
+    "595:text": [
+      "and I quickly pulled my hand away."
+    ],
+    "597:text": [
+      "My trampled hand was bruised,"
+    ],
+    "598:text": [
+      "and moving my fingers sent agony through it."
+    ],
+    "599:text": [
+      "Maybe he'd cracked a bone."
+    ],
+    "601:text": [
+      "Why would he do this...?"
+    ],
+    "602:text": [
+      "What have I done?"
+    ],
+    "603:text": [
+      "I stared at Hino in disbelief."
+    ],
+    "605:text": [
+      "Sadao Hino"
+    ],
+    "606:text": [
+      "“",
+      ", that's quite a look on your face."
+    ],
+    "607:text": [
+      "I see. Did your hand hurt that much?"
+    ],
+    "608:text": [
+      "Poor you. Ha ha ha!”"
+    ],
+    "610:text": [
+      "With that,"
+    ],
+    "611:text": [
+      "Hino twisted his mouth into a grin."
+    ],
+    "612:text": [
+      "His cold eyes pierced me."
+    ],
+    "614:text": [
+      "Why would he do something like this...?"
+    ],
+    "615:text": [
+      "This wasn't the Hino I knew."
+    ],
+    "616:text": [
+      "The Hino I knew was kind and dependable. He looked after us younger students."
+    ],
+    "617:text": [
+      "Is this person standing in front of me really him?"
+    ],
+    "618:text": [
+      "Am I having a nightmare?"
+    ],
+    "621:text": [
+      "“A-are you really Hino...?”"
+    ],
+    "623:text": [
+      "The question slipped out before I could stop myself."
+    ],
+    "624:text": [
+      "His eyes widened as he stared at me,"
+    ],
+    "625:text": [
+      "then he burst out laughing."
+    ],
+    "627:text": [
+      "Sadao Hino"
+    ],
+    "628:text": [
+      "“Hyah ha ha ha ha!"
+    ],
+    "629:text": [
+      "Are you trying to make me laugh myself to death?"
+    ],
+    "630:text": [
+      "Of course I'm me."
+    ],
+    "631:text": [
+      "You're a funny guy. Isn't he?”"
+    ],
+    "633:text": [
+      "With that, Hino spoke to the people behind me."
+    ],
+    "636:text": [
+      "Tomoharu Hosoda"
+    ],
+    "637:text": [
+      "“Heh heh. You're really cute, ",
+      ".”"
+    ],
+    "641:text": [
+      "Reiko Fukuzawa"
+    ],
+    "642:text": [
+      "“Hino, ",
+      " is absolutely"
+    ],
+    "643:text": [
+      "terrified. Heh heh...”"
+    ],
+    "647:text": [
+      "Shoji Arai"
+    ],
+    "648:text": [
+      "“...You're pathetic, ",
+      ".”"
+    ],
+    "652:text": [
+      "Nozomu Kazama"
+    ],
+    "653:text": [
+      "“Hino, you're the same as ever.”"
+    ],
+    "657:text": [
+      "Makoto Shindo"
+    ],
+    "658:text": [
+      "“Don't look so pathetic just because someone stepped on your hand.”"
+    ],
+    "662:text": [
+      "Akemi Iwashita"
+    ],
+    "663:text": [
+      "“Heh heh... I feel sorry for you, ",
+      "."
+    ],
+    "664:text": [
+      "Shall I comfort you?”"
+    ],
+    "667:text": [
+      "I turned around."
+    ],
+    "668:text": [
+      "All the storytellers came closer to me."
+    ],
+    "669:text": [
+      "They were all smiling."
+    ],
+    "670:text": [
+      "Something about those smiles was so creepy that I instinctively looked away."
+    ],
+    "673:text": [
+      "Emi Kurata"
+    ],
+    "674:text": [
+      "“What... What is wrong with you people?!”"
+    ],
+    "676:text": [
+      "Kurata shouted, her face twisted with fear."
+    ],
+    "679:text": [
+      "Sadao Hino"
+    ],
+    "680:text": [
+      "“Kurata... You've been making an awful lot of noise.”"
+    ],
+    "683:text": [
+      "Hino turned back toward Kurata."
+    ],
+    "692:text": [
+      "Then he peered at her,"
+    ],
+    "693:text": [
+      "stuck out his bright red tongue, and licked up her cheek."
+    ],
+    "695:text": [
+      "Emi Kurata"
+    ],
+    "696:text": [
+      "“No!!”"
+    ],
+    "698:text": [
+      "Kurata shrank back with a little scream, but Hino smiled in satisfaction as he watched."
+    ],
+    "700:text": [
+      "Sadao Hino"
+    ],
+    "701:text": [
+      "“Mmm, that's what Kurata tastes like."
+    ],
+    "702:text": [
+      "You don't know what she tastes like, do you, ",
+      "?"
+    ],
+    "703:text": [
+      "I helped myself first! Hya ha ha ha"
+    ],
+    "704:text": [
+      "ha!”"
+    ],
+    "706:text": [
+      "What... What on earth had happened to Hino?"
+    ],
+    "707:text": [
+      "This wasn't how he normally acted."
+    ],
+    "708:text": [
+      "I could only stare at him in disbelief."
+    ],
+    "717:text": [
+      "Emi Kurata"
+    ],
+    "718:text": [
+      "“Help me, ",
+      "! Help!!”"
+    ],
+    "721:text": [
+      "Kurata's voice snapped me back to my senses."
+    ],
+    "724:text": [
+      "“Hino! Please stop!”"
+    ],
+    "727:text": [
+      "Sadao Hino"
+    ],
+    "728:text": [
+      "“Hey, hey, ",
+      "."
+    ],
+    "729:text": [
+      "You really don't understand a thing."
+    ],
+    "730:text": [
+      "And Kurata."
+    ],
+    "731:text": [
+      "Why are you asking ",
+      " to help you?"
+    ],
+    "732:text": [
+      "We all went to the trouble of coming here"
+    ],
+    "733:text": [
+      "for you.”"
+    ],
+    "736:text": [
+      "Emi Kurata"
+    ],
+    "737:text": [
+      "“F-for me?”"
+    ],
+    "739:text": [
+      "Sadao Hino"
+    ],
+    "740:text": [
+      "“That's right. You asked us,"
+    ],
+    "741:text": [
+      "didn't you? To kill ",
+      ".”"
+    ],
+    "744:text": [
+      "“Wh...”"
+    ],
+    "746:text": [
+      "What did he mean?!"
+    ],
+    "747:text": [
+      "Kurata had asked someone to kill me?"
+    ],
+    "748:text": [
+      "His sudden statement completely",
+      "threw me."
+    ],
+    "749:text": [
+      "Kurata glanced at me, looked startled, and immediately turned back toward Hino."
+    ],
+    "751:text": [
+      "Emi Kurata"
+    ],
+    "752:text": [
+      "“I-I don't remember ever asking you to...”"
+    ],
+    "754:text": [
+      "Sadao Hino"
+    ],
+    "755:text": [
+      "“Don't play dumb, you fucking"
+    ],
+    "756:text": [
+      "bitch!!”"
+    ],
+    "759:text": [
+      "Smack! The sound rang through the room."
+    ],
+    "768:text": [
+      "Hino had slapped Kurata across the face."
+    ],
+    "769:text": [
+      "Tears welled in her eyes as she looked at him",
+      "in disbelief."
+    ],
+    "771:text": [
+      "Her cheek was red and swollen. The corner of her mouth was stained red, as if he'd split her lip."
+    ],
+    "772:text": [
+      "I couldn't bear to watch."
+    ],
+    "773:text": [
+      "My senior, Hino... No, just Hino. What on earth was he planning to do to us?"
+    ],
+    "783:text": [
+      "Sadao Hino"
+    ],
+    "784:text": [
+      "“Heh heh heh... You're making a nice face now,"
+    ],
+    "785:text": [
+      "too, Kurata.”"
+    ],
+    "787:text": [
+      "Laughing eerily, Hino stroked Kurata's cheek."
+    ],
+    "788:text": [
+      "The tears that had welled in her eyes slipped down her face."
+    ],
+    "791:text": [
+      "“You... What the hell are you planning"
+    ],
+    "792:text": [
+      "to do to us?!”"
+    ],
+    "794:text": [
+      "Seeing the tears run down Kurata's cheek, I couldn't hold back. I shouted at Hino."
+    ],
+    "796:text": [
+      "Sadao Hino"
+    ],
+    "797:text": [
+      "“What am I planning?"
+    ],
+    "798:text": [
+      "I'm going to kill you, ",
+      "."
+    ],
+    "799:text": [
+      "Kurata asked me to, after all.”"
+    ],
+    "802:text": [
+      "Emi Kurata"
+    ],
+    "803:text": [
+      "“",
+      ", believe me!"
+    ],
+    "804:text": [
+      "I never asked him to do that!”"
+    ],
+    "806:text": [
+      "Sadao Hino"
+    ],
+    "807:text": [
+      "“Come on, you're still going to play dumb?"
+    ],
+    "808:text": [
+      "You did ask."
+    ],
+    "809:text": [
+      "You asked Revenge Site to kill ",
+      ".”"
+    ],
+    "812:text": [
+      "Revenge Site? What was that?"
+    ],
+    "813:text": [
+      "While I looked puzzled, Kurata's face froze for a moment."
+    ],
+    "814:text": [
+      "Hino caught that fleeting expression and pressed her harder."
+    ],
+    "817:text": [
+      "Sadao Hino"
+    ],
+    "818:text": [
+      "“Kurata... Your face has gone all stiff."
+    ],
+    "819:text": [
+      "Do you remember now? Do you remember what you did?"
+    ],
+    "820:text": [
+      "Revenge Site."
+    ],
+    "821:text": [
+      "You write down the name of someone you want dead,"
+    ],
+    "822:text": [
+      "and someone else kills them"
+    ],
+    "823:text": [
+      "for you."
+    ],
+    "824:text": [
+      "But you have to kill someone for somebody else"
+    ],
+    "825:text": [
+      "in return."
+    ],
+    "826:text": [
+      "It's an exchange arrangement."
+    ],
+    "827:text": [
+      "Revenge Site is where people exchange that information"
+    ],
+    "828:text": [
+      "and make the deal."
+    ],
+    "830:text": [
+      "You wrote down ",
+      "’s name there"
+    ],
+    "831:text": [
+      "and requested a murder. Isn't that right?”"
+    ],
+    "834:text": [
+      "Hino inched closer to Kurata."
+    ],
+    "835:text": [
+      "She turned her face away from him and looked down."
+    ],
+    "837:text": [
+      "What on earth is going on?"
+    ],
+    "838:text": [
+      "Does Kurata really want to kill",
+      "me?"
+    ],
+    "839:text": [
+      "And how does Hino know about it?"
+    ],
+    "840:text": [
+      "Something's wrong."
+    ],
+    "843:text": [
+      "“Stop making crazy accusations!"
+    ],
+    "844:text": [
+      "What is this? All this talk about killing people."
+    ],
+    "845:text": [
+      "Are you out of your mind?"
+    ],
+    "846:text": [
+      "And how do you even know Kurata made a request"
+    ],
+    "847:text": [
+      "like that?”"
+    ],
+    "849:text": [
+      "I rounded on Hino."
+    ],
+    "850:text": [
+      "Revenge Site? A murder request? What on earth was Hino talking about?"
+    ],
+    "851:text": [
+      "How was I supposed to believe something that absurd?"
+    ],
+    "853:text": [
+      "And the people around us..."
+    ],
+    "854:text": [
+      "They were watching our exchange with smirks on their faces."
+    ],
+    "855:text": [
+      "They seemed to know Hino. Was every last person here crazy?"
+    ],
+    "857:text": [
+      "Why did Kurata and I have to get dragged into their delusions?"
+    ],
+    "858:text": [
+      "Anger welled up inside me. I glared at Hino and shouted."
+    ],
+    "859:text": [
+      "Hino looked at me and grinned fearlessly. Then he",
+      "spoke."
+    ],
+    "862:text": [
+      "Sadao Hino"
+    ],
+    "863:text": [
+      "“How do I know?"
+    ],
+    "864:text": [
+      "I'm the administrator. Of Revenge Site.”"
+    ],
+    "866:text": [
+      "I could see Kurata grow shaken at his words."
+    ],
+    "867:text": [
+      "Hino looked at her as if he was enjoying it, then spoke again."
+    ],
+    "869:text": [
+      "Sadao Hino"
+    ],
+    "870:text": [
+      "“And it's not just me. Arai, Iwashita, Fukuzawa,"
+    ],
+    "871:text": [
+      "Kazama, Shindo. They're all here."
+    ],
+    "872:text": [
+      "They're all co-administrators of Revenge Site,"
+    ],
+    "873:text": [
+      "just like me.”"
+    ],
+    "876:text": [
+      "Co-administrators?"
+    ],
+    "877:text": [
+      "I looked around at the storytellers."
+    ],
+    "879:text": [
+      "They had surrounded Kurata and me, and were staring at us."
+    ],
+    "880:text": [
+      "Kurata was still looking down, her eyes fixed on the floor."
+    ],
+    "881:text": [
+      "Her body seemed to be trembling"
+    ],
+    "882:text": [
+      "a little."
+    ],
+    "883:text": [
+      "Hino laid a hand on her and spoke softly by her ear."
+    ],
+    "885:text": [
+      "Sadao Hino"
+    ],
+    "886:text": [
+      "“Kurata, you can't talk your way out of this now."
+    ],
+    "887:text": [
+      "I was surprised when I saw your name."
+    ],
+    "888:text": [
+      "And the person you wanted dead was ",
+      "."
+    ],
+    "889:text": [
+      "I never imagined seeing the names of two"
+    ],
+    "890:text": [
+      "underclassmen I'm so fond of in a place like that."
+    ],
+    "892:text": [
+      "I traced where the post came from to see if it was"
+    ],
+    "893:text": [
+      "you. It had been sent from the area where"
+    ],
+    "894:text": [
+      "you live."
+    ],
+    "895:text": [
+      "That convinced me it really"
+    ],
+    "896:text": [
+      "was you."
+    ],
+    "898:text": [
+      "Normally, on Revenge Site, the people taking revenge"
+    ],
+    "899:text": [
+      "exchange information about each other's targets"
+    ],
+    "900:text": [
+      "through the site before they act. But you're special."
+    ],
+    "901:text": [
+      "I decided that I, the administrator, would kill him"
+    ],
+    "902:text": [
+      "for you."
+    ],
+    "904:text": [
+      "So there's no need to exchange information."
+    ],
+    "905:text": [
+      "After all, it's a request from my dear little underclassman."
+    ],
+    "906:text": [
+      "Hyaahahahaha!”"
+    ],
+    "909:text": [
+      "Reiko Fukuzawa"
+    ],
+    "910:text": [
+      "“Um, it's Emi, right?"
+    ],
+    "911:text": [
+      "You're really lucky. Normally, nothing like this"
+    ],
+    "912:text": [
+      "would ever happen."
+    ],
+    "913:text": [
+      "Hino was so excited."
+    ],
+    "914:text": [
+      "He wouldn't stop saying, ‘I'm going to kill this one.’"
+    ],
+    "915:text": [
+      "Well, he's the one who originally founded"
+    ],
+    "916:text": [
+      "the site, right?"
+    ],
+    "917:text": [
+      "So we figured we'd indulge him"
+    ],
+    "918:text": [
+      "a little.”"
+    ],
+    "921:text": [
+      "I couldn't believe it... Had Kurata really made a request on this Revenge Site...?"
+    ],
+    "923:text": [
+      "Kurata... She was always smiling. Maybe because we were in the same year, we often talked."
+    ],
+    "924:text": [
+      "I'd thought of her as a good friend from the club."
+    ],
+    "925:text": [
+      "But I'd never imagined she hated me enough to request my murder on Revenge Site."
+    ],
+    "927:text": [
+      "And... Hino."
+    ],
+    "928:text": [
+      "That bastard was the administrator of a dangerous site like that."
+    ],
+    "929:text": [
+      "A kind older student who looked after us."
+    ],
+    "930:text": [
+      "A friend in the same club."
+    ],
+    "931:text": [
+      "I felt those familiar images of the two of them from my everyday life come crashing down."
+    ],
+    "933:text": [
+      "Emi Kurata"
+    ],
+    "934:text": [
+      "“...That's cruel.”"
+    ],
+    "937:text": [
+      "“...Huh?”"
+    ],
+    "939:text": [
+      "Emi Kurata"
+    ],
+    "940:text": [
+      "“...You're cruel... You... You knew what you were doing"
+    ],
+    "941:text": [
+      "when you made me do that!”"
+    ],
+    "944:text": [
+      "Kurata, who'd been looking down, suddenly glared at Hino."
+    ],
+    "945:text": [
+      "Her eyes filled with tears, her face flushed, and she seemed to be trembling with rage."
+    ],
+    "946:text": [
+      "Had she been shaking with anger earlier,",
+      "rather than fear?"
+    ],
+    "947:text": [
+      "And cruel? What did she mean by ‘that’?"
+    ],
+    "950:text": [
+      "Sadao Hino"
+    ],
+    "951:text": [
+      "“What's wrong, Kurata? Your face is as red as a"
+    ],
+    "952:text": [
+      "monkey's."
+    ],
+    "953:text": [
+      "You can try to intimidate me all you want, but you don't scare me one"
+    ],
+    "954:text": [
+      "bit.”"
+    ],
+    "957:text": [
+      "Hino sneered at her."
+    ],
+    "958:text": [
+      "Still staring at him, Kurata began to speak in halting words."
+    ],
+    "961:text": [
+      "Emi Kurata"
+    ],
+    "962:text": [
+      "“When ",
+      " was assigned the Seven Wonders feature,"
+    ],
+    "963:text": [
+      "you told me, didn't you?"
+    ],
+    "964:text": [
+      "You wanted me, another first-year, to work separately from ",
+      " on"
+    ],
+    "965:text": [
+      "a different project."
+    ],
+    "966:text": [
+      "You wanted an investigation into a website getting attention online,"
+    ],
+    "967:text": [
+      "advertising a revenge service..."
+    ],
+    "968:text": [
+      "You said it might be too big a subject for high school students, but"
+    ],
+    "969:text": [
+      "you asked me to work with you and help with the"
+    ],
+    "970:text": [
+      "investigation, didn't you?"
+    ],
+    "971:text": [
+      "You remembered I'd told you I wanted to be a reporter"
+    ],
+    "972:text": [
+      "one day, and said this project"
+    ],
+    "973:text": [
+      "would help my future. You encouraged"
+    ],
+    "974:text": [
+      "me...”"
+    ],
+    "976:text": [
+      "As Kurata spoke, tears spilled from her eyes",
+      "and ran down her cheeks."
+    ],
+    "978:text": [
+      "Hino silently watched her, listening with his arms folded."
+    ],
+    "980:text": [
+      "Emi Kurata"
+    ],
+    "981:text": [
+      "“Then... you gave me a website's"
+    ],
+    "982:text": [
+      "URL and asked me to submit a trial request"
+    ],
+    "983:text": [
+      "there, didn't you?"
+    ],
+    "985:text": [
+      "You joked that I could just put ",
+      " as the person"
+    ],
+    "986:text": [
+      "to be killed... You said most so-called revenge"
+    ],
+    "987:text": [
+      "services were just scams where they took an advance"
+    ],
+    "988:text": [
+      "payment, then cut off"
+    ],
+    "989:text": [
+      "all contact."
+    ],
+    "990:text": [
+      "So all I needed to do was actually submit a request, then find out"
+    ],
+    "991:text": [
+      "how they got people to"
+    ],
+    "992:text": [
+      "pay..."
+    ],
+    "994:text": [
+      "So I followed your instructions."
+    ],
+    "995:text": [
+      "But when I submitted a request to the site you gave me,"
+    ],
+    "996:text": [
+      "all I got was an email"
+    ],
+    "997:text": [
+      "saying ‘Accepted.’ No matter what else I sent,"
+    ],
+    "998:text": [
+      "I never got another reply."
+    ],
+    "999:text": [
+      "That's why I'd left the site"
+    ],
+    "1000:text": [
+      "alone until now...”"
+    ],
+    "1002:text": [
+      "What the hell?"
+    ],
+    "1003:text": [
+      "Had Hino deliberately led Kurata into submitting a request to have me killed?"
+    ],
+    "1007:text": [
+      "Sadao Hino"
+    ],
+    "1008:text": [
+      "“But you did submit a request to the site, didn't you?"
+    ],
+    "1009:text": [
+      "No matter who asked you to, or how it happened, you"
+    ],
+    "1010:text": [
+      "requested a killing through Revenge Site."
+    ],
+    "1011:text": [
+      "Once a request is accepted, the sentence is carried out."
+    ],
+    "1012:text": [
+      "I'm going to kill ",
+      ".”"
+    ],
+    "1015:text": [
+      "Arms still folded, Hino stared coldly at Kurata."
+    ],
+    "1016:text": [
+      "What a bastard."
+    ],
+    "1017:text": [
+      "He'd used Kurata as a pawn",
+      "and done all this just to kill me..."
+    ],
+    "1019:text": [
+      "But why did Hino hate me enough to go this far?"
+    ],
+    "1020:text": [
+      "I couldn't remember doing anything to him."
+    ],
+    "1021:text": [
+      "What about me had made him hate me this much?"
+    ],
+    "1024:text": [
+      "Nozomu Kazama"
+    ],
+    "1025:text": [
+      "“Hino, isn't that breaking the rules?”"
+    ],
+    "1027:text": [
+      "As I stood there in confusion, Kazama challenged Hino."
+    ],
+    "1029:text": [
+      "Nozomu Kazama"
+    ],
+    "1030:text": [
+      "“We agreed, didn't we?"
+    ],
+    "1031:text": [
+      "If someone requests a killing, that person has to kill"
+    ],
+    "1032:text": [
+      "someone else in return."
+    ],
+    "1034:text": [
+      "When you found that Kurata girl, there was nothing wrong with you saying you'd kill ",
+      "."
+    ],
+    "1035:text": [
+      "We may all be administrators, but we use this site too."
+    ],
+    "1037:text": [
+      "But all you sent her was an acceptance email. You never emailed her asking her to kill anyone."
+    ],
+    "1038:text": [
+      "Kurata's your responsibility."
+    ],
+    "1039:text": [
+      "Doesn't that break the rules we agreed on?"
+    ],
+    "1041:text": [
+      "We came all the way to Chiba because you said you were going to kill ",
+      " and wanted our help."
+    ],
+    "1042:text": [
+      "And you didn't even send that crucial email. You put that Kurata girl up to making the request in the first place, didn't you?"
+    ],
+    "1043:text": [
+      "And the other day, too...”"
+    ],
+    "1045:text": [
+      "Sadao Hino"
+    ],
+    "1046:text": [
+      "“Kazama, shut up.”"
+    ],
+    "1048:text": [
+      "Cutting off Kazama's chatter, Hino shot him a glare."
+    ],
+    "1049:text": [
+      "Those eyes... An icy stare that seemed to pierce right through him."
+    ],
+    "1050:text": [
+      "Just being glared at like that sent a chill down my back, as if someone had doused me with cold water."
+    ],
+    "1052:text": [
+      "Kazama flinched at Hino's look and seemed to lose his voice."
+    ],
+    "1053:text": [
+      "Still glaring, Hino moved closer to him."
+    ],
+    "1055:text": [
+      "Sadao Hino"
+    ],
+    "1056:text": [
+      "“Kazama, since when were you"
+    ],
+    "1057:text": [
+      "so important?"
+    ],
+    "1058:text": [
+      "Who started Revenge Site?"
+    ],
+    "1059:text": [
+      "Who was it who killed that person you hated"
+    ],
+    "1060:text": [
+      "for you in the first place?"
+    ],
+    "1061:text": [
+      "Your reason was something as pathetic as them stealing"
+    ],
+    "1062:text": [
+      "your girl."
+    ],
+    "1064:text": [
+      "Listen. Around here, I'm the rules."
+    ],
+    "1065:text": [
+      "I made you a co-administrator,"
+    ],
+    "1066:text": [
+      "but only because you were a regular in the chat room"
+    ],
+    "1067:text": [
+      "where we met, the one that led us to create"
+    ],
+    "1068:text": [
+      "Revenge Site."
+    ],
+    "1070:text": [
+      "That's all."
+    ],
+    "1071:text": [
+      "You've got no right to question me. Your education, your family background,"
+    ],
+    "1072:text": [
+      "everything about you is beneath me.”"
+    ],
+    "1074:text": [
+      "Hino pressed closer, glaring at Kazama until their noses were almost touching."
+    ],
+    "1075:text": [
+      "Cold sweat beaded on Kazama's forehead, his face rigid with fear."
+    ],
+    "1077:text": [
+      "Nozomu Kazama"
+    ],
+    "1078:text": [
+      "“I... I'm sorry. I got a little carried"
+    ],
+    "1079:text": [
+      "away."
+    ],
+    "1080:text": [
+      "I apologize. I'm sorry...”"
+    ],
+    "1083:text": [
+      "At that, Hino glanced at Kazama and turned back toward us."
+    ],
+    "1085:text": [
+      "Sadao Hino"
+    ],
+    "1086:text": [
+      "“Hmm, the peanut gallery's getting noisy."
+    ],
+    "1087:text": [
+      "What should I do...?"
+    ],
+    "1088:text": [
+      "That's it, ",
+      ". Kill Kurata.”"
+    ],
+    "1091:text": [
+      "“Wh...”"
+    ],
+    "1093:text": [
+      "What?! What had Hino just said to me?"
+    ],
+    "1094:text": [
+      "Kill Kurata? Had he told me to kill her?"
+    ],
+    "1095:text": [
+      "While I stood there too shocked to speak, Hino came over, patted my shoulder, and said,"
+    ],
+    "1097:text": [
+      "Sadao Hino"
+    ],
+    "1098:text": [
+      "“Hmm, the others have had a lot to say"
+    ],
+    "1099:text": [
+      "about Kurata's murder request."
+    ],
+    "1100:text": [
+      "Well, if you kill Kurata, the client's gone,"
+    ],
+    "1101:text": [
+      "which means the request is gone, too. Right?"
+    ],
+    "1102:text": [
+      "Then you won't have to be killed, either."
+    ],
+    "1103:text": [
+      "That's a good idea, isn't it?”"
+    ],
+    "1105:text": [
+      "He asked me with a smirk."
+    ],
+    "1106:text": [
+      "Kill Kurata... There was no way",
+      "I could do that."
+    ],
+    "1108:text": [
+      "Even if I did kill her, would he really let me live?"
+    ],
+    "1109:text": [
+      "...Wait. What was I thinking?"
+    ],
+    "1110:text": [
+      "No. Absolutely not. Kill Kurata? I couldn't..."
+    ],
+    "1112:text": [
+      "Sadao Hino"
+    ],
+    "1113:text": [
+      "“What will you do, ",
+      "?"
+    ],
+    "1114:text": [
+      "I was going to let Kurata watch me kill you today,"
+    ],
+    "1115:text": [
+      "as a special favor."
+    ],
+    "1116:text": [
+      "So while you were all telling scary stories,"
+    ],
+    "1117:text": [
+      "I called her here."
+    ],
+    "1119:text": [
+      "For some reason, she's been avoiding being alone"
+    ],
+    "1120:text": [
+      "with me lately."
+    ],
+    "1121:text": [
+      "She tried to run, so I put her to sleep"
+    ],
+    "1122:text": [
+      "for a bit."
+    ],
+    "1123:text": [
+      "It's lucky that it turned out to be useful"
+    ],
+    "1124:text": [
+      "like this, ",
+      "."
+    ],
+    "1125:text": [
+      "Now you can kill her easily! Hya ha ha"
+    ],
+    "1126:text": [
+      "ha ha!”"
+    ],
+    "1128:text": [
+      "Laughing, Hino slapped my back over and over as I stood there stunned."
+    ],
+    "1131:text": [
+      "Akemi Iwashita"
+    ],
+    "1132:text": [
+      "“You say that, but you'll just kill them both"
+    ],
+    "1133:text": [
+      "anyway... Hee hee.”"
+    ],
+    "1136:text": [
+      "Iwashita, who'd been watching us, murmured happily."
+    ],
+    "1138:text": [
+      "Sadao Hino"
+    ],
+    "1139:text": [
+      "“Hey, hey, Iwashita. I'd never do"
+    ],
+    "1140:text": [
+      "that, would I?"
+    ],
+    "1141:text": [
+      "I'm a gentleman, you know."
+    ],
+    "1142:text": [
+      "All right. I won't lay a hand on you"
+    ],
+    "1143:text": [
+      "at all."
+    ],
+    "1144:text": [
+      "I swear it before everyone here."
+    ],
+    "1145:text": [
+      "If you kill Kurata, I swear I won't"
+    ],
+    "1146:text": [
+      "kill you."
+    ],
+    "1147:text": [
+      "But if you won't kill her..."
+    ],
+    "1148:text": [
+      "I'll kill you.”"
+    ],
+    "1150:text": [
+      "Hino put the question to me, as if trying to suppress the murderous intent",
+      "radiating from his whole body."
+    ],
+    "1151:text": [
+      "What do I do? What am I supposed to do?!"
+    ],
+    "1152:text": [
+      "My skin grew clammy with sweat."
+    ],
+    "1153:text": [
+      "I swallowed hard, unable to move."
+    ],
+    "1154:text": [
+      "Then Kurata suddenly spoke."
+    ],
+    "1157:text": [
+      "Emi Kurata"
+    ],
+    "1158:text": [
+      "“Why... Why do you hate us"
+    ],
+    "1159:text": [
+      "this much?!"
+    ],
+    "1160:text": [
+      "What have we ever done"
+    ],
+    "1161:text": [
+      "to you?!”"
+    ],
+    "1164:text": [
+      "Kurata pleaded with him."
+    ],
+    "1165:text": [
+      "I wanted to know that too."
+    ],
+    "1166:text": [
+      "Why was Hino going this far to corner us and try to kill us?"
+    ],
+    "1168:text": [
+      "But the answer that came out of his mouth was shockingly casual."
+    ],
+    "1171:text": [
+      "Sadao Hino"
+    ],
+    "1172:text": [
+      "“I just don't like you. Isn't that"
+    ],
+    "1173:text": [
+      "reason enough?”"
+    ],
+    "1176:text": [
+      "Wh-what?! Could he really do all this just because he didn't like us?"
+    ],
+    "1177:text": [
+      "I looked up at him in disbelief."
+    ],
+    "1179:text": [
+      "Kurata's expression clouded, as if something had occurred to her. Timidly, she asked him."
+    ],
+    "1181:text": [
+      "Emi Kurata"
+    ],
+    "1182:text": [
+      "“...Is this because I turned you down"
+    ],
+    "1183:text": [
+      "when you asked me out?”"
+    ],
+    "1185:text": [
+      "Her words sent a shock through me."
+    ],
+    "1186:text": [
+      "What? Hino had told Kurata he liked her?!"
+    ],
+    "1187:text": [
+      "And she'd rejected him?"
+    ],
+    "1189:text": [
+      "I'd had no idea..."
+    ],
+    "1190:text": [
+      "I hadn't known any of this romance was going on within the club. I'd just spent my time on club activities, carrying out my duties as a Newspaper Club member. I'd never even imagined things like this were happening around me."
+    ],
+    "1192:text": [
+      "One of Hino's eyebrows twitched at her words."
+    ],
+    "1193:text": [
+      "Kurata continued anyway."
+    ],
+    "1195:text": [
+      "Emi Kurata"
+    ],
+    "1196:text": [
+      "“I was happy when you told me how you felt."
+    ],
+    "1197:text": [
+      "But I thought you were too good"
+    ],
+    "1198:text": [
+      "for me... You were popular with the other girls,"
+    ],
+    "1199:text": [
+      "too."
+    ],
+    "1200:text": [
+      "I was just scared...”"
+    ],
+    "1203:text": [
+      "Sadao Hino"
+    ],
+    "1204:text": [
+      "“Hah! What have you got into your head?"
+    ],
+    "1205:text": [
+      "Deluded girls like you"
+    ],
+    "1206:text": [
+      "make me want to puke."
+    ],
+    "1207:text": [
+      "Listen. Do you really think I'd seriously tell you"
+    ],
+    "1208:text": [
+      "I liked you?"
+    ],
+    "1209:text": [
+      "I was just killing time. That's all."
+    ],
+    "1210:text": [
+      "I spoke to you on a whim, and you went and"
+    ],
+    "1211:text": [
+      "mistook it for a serious confession."
+    ],
+    "1213:text": [
+      "I was too good for you? Of course I was."
+    ],
+    "1214:text": [
+      "Someone like you could never be good enough"
+    ],
+    "1215:text": [
+      "for me."
+    ],
+    "1216:text": [
+      "What I don't like is that attitude of yours."
+    ],
+    "1217:text": [
+      "You're self-important and self-centered."
+    ],
+    "1218:text": [
+      "Just having a woman like that in front of me is an"
+    ],
+    "1219:text": [
+      "eyesore.”"
+    ],
+    "1221:text": [
+      "Emi Kurata"
+    ],
+    "1222:text": [
+      "“Th-that's...”"
+    ],
+    "1224:text": [
+      "She couldn't hide how shocked she was by his words."
+    ],
+    "1225:text": [
+      "Kurata, self-important and self-centered?"
+    ],
+    "1226:text": [
+      "She didn't seem like that at all to me."
+    ],
+    "1227:text": [
+      "How could this be anything but revenge for getting rejected?"
+    ],
+    "1230:text": [
+      "Sadao Hino"
+    ],
+    "1231:text": [
+      "“",
+      ", that goes for you too."
+    ],
+    "1232:text": [
+      "Just like Kurata, I've disliked you since the first"
+    ],
+    "1233:text": [
+      "time we met."
+    ],
+    "1234:text": [
+      "You might act like you look up to me, but every time"
+    ],
+    "1235:text": [
+      "I saw that defiant look in your eyes, I thought,"
+    ],
+    "1236:text": [
+      "‘Deep down, this guy"
+    ],
+    "1237:text": [
+      "looks down on me.’"
+    ],
+    "1239:text": [
+      "And I don't know if it's because you're both first-years,"
+    ],
+    "1240:text": [
+      "but you seem awfully close to Kurata."
+    ],
+    "1241:text": [
+      "Are you two actually"
+    ],
+    "1242:text": [
+      "dating?"
+    ],
+    "1243:text": [
+      "You've been making fun of me together, haven't"
+    ],
+    "1244:text": [
+      "you?”"
+    ],
+    "1246:text": [
+      "What on earth was he talking about?"
+    ],
+    "1247:text": [
+      "I was beyond surprised. I was dumbfounded."
+    ],
+    "1249:text": [
+      "Do I have a defiant look in my eyes?"
+    ],
+    "1250:text": [
+      "I'm dating Kurata?"
+    ],
+    "1251:text": [
+      "Nobody was more surprised to hear that than me."
+    ],
+    "1252:text": [
+      "Over that...? We're going through all this over something like that?"
+    ],
+    "1255:text": [
+      "“Don't give me that! None of that is"
+    ],
+    "1256:text": [
+      "true!"
+    ],
+    "1257:text": [
+      "...I respected you."
+    ],
+    "1258:text": [
+      "I honestly wanted to become the kind of older student"
+    ],
+    "1259:text": [
+      "you were, kind and caring toward the younger ones..."
+    ],
+    "1260:text": [
+      "And yet... And yet...”"
+    ],
+    "1262:text": [
+      "By the end, I couldn't get the words out."
+    ],
+    "1263:text": [
+      "Something like bitter frustration welled up from deep inside me."
+    ],
+    "1264:text": [
+      "Hino looked at me coldly and spoke."
+    ],
+    "1266:text": [
+      "Sadao Hino"
+    ],
+    "1267:text": [
+      "“Well, I doubt you ordinary people could understand my"
+    ],
+    "1268:text": [
+      "torment."
+    ],
+    "1269:text": [
+      "More importantly, ",
+      ", what are you going to do?"
+    ],
+    "1270:text": [
+      "Will you kill Kurata?"
+    ],
+    "1271:text": [
+      "Like I said, if you kill her, I'll spare your"
+    ],
+    "1272:text": [
+      "life.”"
+    ],
+    "1275:text": [
+      "Hino stared straight at me without looking away."
+    ],
+    "1277:text": [
+      "Kill Kurata..."
+    ],
+    "1278:text": [
+      "What do I do? What am I supposed to do?!"
+    ],
+    "1289:glink.text.1": [
+      "1. I won't kill Kurata."
+    ],
+    "1291:glink.text.1": [
+      "1. I won't kill Kurata."
+    ],
+    "1295:glink.text.1": [
+      "2. I'll kill Kurata."
+    ],
+    "1297:glink.text.1": [
+      "2. I'll kill Kurata."
+    ],
+    "1310:text": [
+      "No... I can't kill Kurata..."
+    ],
+    "1311:text": [
+      "My knees gave way, and I sank to the floor, forcing the words out."
+    ],
+    "1314:text": [
+      "“I can't... I can't kill Kurata...!”"
+    ],
+    "1316:text": [
+      "Emi Kurata"
+    ],
+    "1317:text": [
+      "“",
+      "...!”"
+    ],
+    "1319:text": [
+      "Kurata looked at me as though she might burst into tears."
+    ],
+    "1320:text": [
+      "Her eyes were brimming again."
+    ],
+    "1321:text": [
+      "Looking at her filled me with an aching feeling I couldn't put into words."
+    ],
+    "1323:text": [
+      "Even in a situation like this, how could I kill a fellow student with my own hands?"
+    ],
+    "1324:text": [
+      "I felt that anyone who could do it would lose something vital as a human being the moment they did."
+    ],
+    "1325:text": [
+      "Hino watched us coldly, then snorted and spoke."
+    ],
+    "1328:text": [
+      "Sadao Hino"
+    ],
+    "1329:text": [
+      "“If you don't kill Kurata, I'll kill"
+    ],
+    "1330:text": [
+      "you, you know?"
+    ],
+    "1331:text": [
+      "Are you okay with that?"
+    ],
+    "1332:text": [
+      "Even now, you can't throw away something as"
+    ],
+    "1333:text": [
+      "insignificant as a conscience?"
+    ],
+    "1334:text": [
+      "Pathetic. Just throw it"
+    ],
+    "1335:text": [
+      "away."
+    ],
+    "1337:text": [
+      "All human beings are beasts."
+    ],
+    "1338:text": [
+      "No matter how rational they are, or what lofty ideals they preach, they're all the same creatures underneath."
+    ],
+    "1339:text": [
+      "When it's life or death, everyone's a bundle of selfishness, no different from an animal."
+    ],
+    "1340:text": [
+      "Do you understand that you're in a life-or-death situation?"
+    ],
+    "1341:text": [
+      "Don't tell me you think I'm joking."
+    ],
+    "1343:text": [
+      "Listen, ",
+      ". I'm not joking."
+    ],
+    "1344:text": [
+      "I will kill you."
+    ],
+    "1345:text": [
+      "If you don't kill Kurata, I'll slit your throat and end your life."
+    ],
+    "1347:text": [
+      ", be honest. You don't want to die, do you?"
+    ],
+    "1348:text": [
+      "Then kill Kurata. Kill her. Kill her,"
+    ],
+    "1349:text": [
+      "! Hyah ha ha ha ha!”"
+    ],
+    "1352:text": [
+      "He's insane... He's completely insane."
+    ],
+    "1353:text": [
+      "Watching Hino laugh hysterically in front of me, I felt that from the bottom of my heart."
+    ],
+    "1356:text": [
+      "Makoto Shindo"
+    ],
+    "1357:text": [
+      "“Oh, man. Hino's completely lost it.”"
+    ],
+    "1361:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1362:text": [
+      "“He gets like this sometimes."
+    ],
+    "1363:text": [
+      "Well, it's fun to watch.”"
+    ],
+    "1367:text": [
+      "Tomoharu Hosoda"
+    ],
+    "1368:text": [
+      "“Heh heh, ",
+      ", what are you going to do?"
+    ],
+    "1369:text": [
+      "Will you kill that Kurata girl? Will you?"
+    ],
+    "1370:text": [
+      "If you don't hurry, you'll get killed!”"
+    ],
+    "1374:text": [
+      "Shoji Arai"
+    ],
+    "1375:text": [
+      "“Sigh... That self-righteous act of yours utterly"
+    ],
+    "1376:text": [
+      "appalls me."
+    ],
+    "1377:text": [
+      "Please hurry up and either kill her or get killed.”"
+    ],
+    "1381:text": [
+      "Akemi Iwashita"
+    ],
+    "1382:text": [
+      "“If you don't want him to kill you, I can kill you"
+    ],
+    "1383:text": [
+      "myself, you know? ...Heh heh.”"
+    ],
+    "1386:text": [
+      "Those storytellers are out of their fucking",
+      "minds too."
+    ],
+    "1387:text": [
+      "They said they were administrators of Revenge Site, but they're a",
+      "bunch of monsters."
+    ],
+    "1388:text": [
+      "I was scared out of my mind."
+    ],
+    "1389:text": [
+      "I felt strangely weightless, as though the ground were shifting beneath me."
+    ],
+    "1390:text": [
+      "After he'd finally finished laughing, Hino gave me an ultimatum."
+    ],
+    "1393:text": [
+      "Sadao Hino"
+    ],
+    "1394:text": [
+      "“",
+      ", I'll give you one more chance."
+    ],
+    "1395:text": [
+      "Kill Kurata."
+    ],
+    "1396:text": [
+      "Listen. This is your last chance. Kill her.”"
+    ],
+    "1399:text": [
+      "What would I do? This time, I really had nowhere left to turn..."
+    ],
+    "1414:glink.text.1": [
+      "1. Kill her."
+    ],
+    "1416:glink.text.1": [
+      "1. Kill her."
+    ],
+    "1420:glink.text.1": [
+      "2. Don't kill her."
+    ],
+    "1422:glink.text.1": [
+      "2. Don't kill her."
+    ],
+    "1428:glink.text.1": [
+      "3. Grab Hino."
+    ],
+    "1430:glink.text.1": [
+      "3. Grab Hino."
+    ],
+    "1443:text": [
+      "I staggered to my feet and began walking toward Kurata, who was sitting in the chair."
+    ],
+    "1446:text": [
+      "Emi Kurata"
+    ],
+    "1447:text": [
+      "“No... Please stop... ",
+      ".”"
+    ],
+    "1449:text": [
+      "Her eyes wet with tears, Kurata looked at me pleadingly."
+    ],
+    "1450:text": [
+      "But there was no other path left for me."
+    ],
+    "1451:text": [
+      "I had to do this."
+    ],
+    "1453:text": [
+      "I approached Kurata, frozen with fear, and gently placed my hands around her slender, delicate neck."
+    ],
+    "1455:text": [
+      "Emi Kurata"
+    ],
+    "1456:text": [
+      "“Nooooooo!!”"
+    ],
+    "1458:text": [
+      "Holding her by the neck as she tried to struggle, I squeezed harder."
+    ],
+    "1459:text": [
+      "My hand throbbed where Hino had stepped on it."
+    ],
+    "1461:text": [
+      "But I couldn't afford to let that distract me."
+    ],
+    "1462:text": [
+      "With all my strength, I strangled Kurata."
+    ],
+    "1464:text": [
+      "After I'd kept squeezing for a while, she suddenly stopped moving."
+    ],
+    "1465:text": [
+      "She went still, her tongue hanging slackly from her mouth."
+    ],
+    "1467:text": [
+      "It was over..."
+    ],
+    "1468:text": [
+      "I could still feel her in my hands."
+    ],
+    "1469:text": [
+      "I was sure that feeling would stay with me until the day I died."
+    ],
+    "1471:text": [
+      "I suddenly realized liquid was flowing endlessly from my eyes."
+    ],
+    "1472:text": [
+      "What was this? Was I crying?"
+    ],
+    "1475:text": [
+      "“Agh!!”"
+    ],
+    "1477:text": [
+      "I felt a sudden, powerful impact in my back and turned around."
+    ],
+    "1478:text": [
+      "Iwashita stood there, her eyes glazed and her hair disheveled,",
+      "driving what looked like a knife deep into my back."
+    ],
+    "1480:text": [
+      "It burned. My back felt like it was on fire!"
+    ],
+    "1481:text": [
+      "I collapsed onto the floor, coughing up",
+      "red liquid."
+    ],
+    "1482:text": [
+      "It was blood."
+    ],
+    "1484:text": [
+      "Akemi Iwashita"
+    ],
+    "1485:text": [
+      "“You... You've come to kill me again!!”"
+    ],
+    "1487:text": [
+      "Screaming that, Iwashita drove the knife-like object into my back over and over."
+    ],
+    "1488:text": [
+      "It glistened wetly with spattered blood and looked like a utility knife."
+    ],
+    "1490:text": [
+      "My back burned, but the floor felt cool."
+    ],
+    "1491:text": [
+      "I could see Kurata's hand."
+    ],
+    "1492:text": [
+      "For some reason, I reached out to take it."
+    ],
+    "1493:text": [
+      "But just before I could touch her hand, my consciousness sank into complete darkness."
+    ],
+    "1511:text": [
+      "“...won't.”"
+    ],
+    "1514:text": [
+      "Sadao Hino"
+    ],
+    "1515:text": [
+      "“Huh? What did you say? Speak"
+    ],
+    "1516:text": [
+      "up.”"
+    ],
+    "1519:text": [
+      "“I said I won't kill Kurata, you"
+    ],
+    "1520:text": [
+      "scumbag!!”"
+    ],
+    "1522:text": [
+      "I raised my voice and spat the words",
+      "at Hino."
+    ],
+    "1523:text": [
+      "The anger inside me was growing stronger than my fear."
+    ],
+    "1524:text": [
+      "Hino... He was the one I couldn't forgive."
+    ],
+    "1526:text": [
+      "What did he think other people were?"
+    ],
+    "1527:text": [
+      "Trying to kill us for such a stupid reason..."
+    ],
+    "1528:text": [
+      "Hino looked taken aback for a moment. Then his face flushed red,",
+      "and he kicked me as hard as he could."
+    ],
+    "1531:text": [
+      "“Gah...”"
+    ],
+    "1533:text": [
+      "I flew backward from the force of his kick."
+    ],
+    "1534:text": [
+      "The side of my head where he'd kicked me felt like it would split open."
+    ],
+    "1535:text": [
+      "Hino came over and kept kicking me mercilessly,",
+      "ranting all the while."
+    ],
+    "1538:text": [
+      "Sadao Hino"
+    ],
+    "1539:text": [
+      "“A scumbag?! You called me"
+    ],
+    "1540:text": [
+      "a scumbag!"
+    ],
+    "1541:text": [
+      "How dare you talk to me like that!"
+    ],
+    "1542:text": [
+      "Everyone but me is a lowly life-form, no better"
+    ],
+    "1543:text": [
+      "than a water flea, yet you all keep mouthing off"
+    ],
+    "1544:text": [
+      "at me...!”"
+    ],
+    "1547:text": [
+      "After a barrage of kicks, Hino pinned my head to the floor under his foot."
+    ],
+    "1548:text": [
+      "My whole head felt like it was splitting apart."
+    ],
+    "1549:text": [
+      "My consciousness was starting to blur."
+    ],
+    "1551:text": [
+      "But I wouldn't give in...!"
+    ],
+    "1552:text": [
+      "I bit my lip hard and held on."
+    ],
+    "1555:text": [
+      "“...You're the lowly life-form, no better than a water flea"
+    ],
+    "1556:text": [
+      "...!"
+    ],
+    "1557:text": [
+      "You'd kill us over such stupid things... Don't"
+    ],
+    "1558:text": [
+      "think everything, everything will go"
+    ],
+    "1559:text": [
+      "your way!”"
+    ],
+    "1561:text": [
+      "With that, I grabbed Hino's foot as it pressed down on my head."
+    ],
+    "1562:text": [
+      "Then I yanked it off my head and bit down on his foot as hard as I could."
+    ],
+    "1564:text": [
+      "Sadao Hino"
+    ],
+    "1565:text": [
+      "“Gah!”"
+    ],
+    "1567:text": [
+      "With his foot yanked down and my teeth clamped hard on it, Hino lost his balance and fell."
+    ],
+    "1570:text": [
+      "Akemi Iwashita"
+    ],
+    "1571:text": [
+      "“Oh, ",
+      ", you've got some fight in you.”"
+    ],
+    "1574:text": [
+      "Iwashita murmured, sounding pleased."
+    ],
+    "1575:text": [
+      "I kept my teeth in Hino's foot. I wouldn't let go."
+    ],
+    "1576:text": [
+      "He kicked me again."
+    ],
+    "1579:text": [
+      "Sadao Hino"
+    ],
+    "1580:text": [
+      "“Damn it! Let go!”"
+    ],
+    "1582:text": [
+      "Blood was running from my head where he'd kicked me."
+    ],
+    "1583:text": [
+      "But I didn't stop."
+    ],
+    "1585:text": [
+      "Sadao Hino"
+    ],
+    "1586:text": [
+      "“Hey! Do something about this guy!”"
+    ],
+    "1589:text": [
+      "He ordered the storytellers to help him."
+    ],
+    "1590:text": [
+      "But for some reason, none of them moved."
+    ],
+    "1593:text": [
+      "Akemi Iwashita"
+    ],
+    "1594:text": [
+      "“Hee hee... Is that any way to ask someone"
+    ],
+    "1595:text": [
+      "for help?”"
+    ],
+    "1598:text": [
+      "Sadao Hino"
+    ],
+    "1599:text": [
+      "“What did you say...?!”"
+    ],
+    "1601:text": [
+      "He glared at her."
+    ],
+    "1603:text": [
+      "Akemi Iwashita"
+    ],
+    "1604:text": [
+      "“I've been listening, and I have to say,"
+    ],
+    "1605:text": [
+      "you've been far too selfish lately."
+    ],
+    "1606:text": [
+      "Who do you think you are?"
+    ],
+    "1607:text": [
+      "And what you said earlier..."
+    ],
+    "1608:text": [
+      "Everyone but you is some lower life-form no better"
+    ],
+    "1609:text": [
+      "than a water flea?"
+    ],
+    "1610:text": [
+      "How dare you say something like that."
+    ],
+    "1611:text": [
+      "Don't you all agree?”"
+    ],
+    "1613:text": [
+      "She put the question to the other storytellers."
+    ],
+    "1614:text": [
+      "Kazama was the first to agree."
+    ],
+    "1618:text": [
+      "Nozomu Kazama"
+    ],
+    "1619:text": [
+      "“...Exactly."
+    ],
+    "1620:text": [
+      "As I said before, Hino's been more selfish"
+    ],
+    "1621:text": [
+      "than ever lately.”"
+    ],
+    "1625:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1626:text": [
+      "“Yeah. What you said earlier might have been a"
+    ],
+    "1627:text": [
+      "little much."
+    ],
+    "1628:text": [
+      "Water fleas are microorganisms!"
+    ],
+    "1629:text": [
+      "Don't lump me in with something that isn't even"
+    ],
+    "1630:text": [
+      "cute!”"
+    ],
+    "1634:text": [
+      "Shoji Arai"
+    ],
+    "1635:text": [
+      "“Yes, I can't let that remark"
+    ],
+    "1636:text": [
+      "pass, either."
+    ],
+    "1637:text": [
+      "And when you were speaking with Kazama, you made"
+    ],
+    "1638:text": [
+      "it sound as if you'd started Revenge Site."
+    ],
+    "1639:text": [
+      "But the chat room that led to the site came before"
+    ],
+    "1640:text": [
+      "that. I was its"
+    ],
+    "1641:text": [
+      "administrator."
+    ],
+    "1642:text": [
+      "Without it, this site would never have"
+    ],
+    "1643:text": [
+      "existed."
+    ],
+    "1644:text": [
+      "I'd like you to show some respect for that.”"
+    ],
+    "1648:text": [
+      "Tomoharu Hosoda"
+    ],
+    "1649:text": [
+      "“I-I-I think everyone's right."
+    ],
+    "1650:text": [
+      "Yeah.”"
+    ],
+    "1654:text": [
+      "Makoto Shindo"
+    ],
+    "1655:text": [
+      "“Ugh, what a pain."
+    ],
+    "1656:text": [
+      "Hino, the point is, nobody likes you."
+    ],
+    "1657:text": [
+      "Everyone's fed up with your attitude lately."
+    ],
+    "1658:text": [
+      "What do you have to say about that?”"
+    ],
+    "1662:text": [
+      "Sadao Hino"
+    ],
+    "1663:text": [
+      "“...I-I'm sorry. I take back what I said."
+    ],
+    "1664:text": [
+      "I'll admit I've been out of line lately."
+    ],
+    "1665:text": [
+      "So hurry up and do something about this guy!”"
+    ],
+    "1668:text": [
+      "Even as I desperately clung to Hino's foot with my teeth,",
+      "I listened to their conversation."
+    ],
+    "1669:text": [
+      "I'm not letting go!"
+    ],
+    "1670:text": [
+      "Even if they kill me like this, I'll hang on to the very end!"
+    ],
+    "1672:text": [
+      "I closed my eyes and focused on nothing but biting him."
+    ],
+    "1673:text": [
+      "Sooner or later, someone would come to pull"
+    ],
+    "1674:text": [
+      "me off."
+    ],
+    "1675:text": [
+      "But I'll fight them to the bitter end!"
+    ],
+    "1677:text": [
+      "Sadao Hino"
+    ],
+    "1678:text": [
+      "“Wh-what are you doing?!”"
+    ],
+    "1680:text": [
+      "Just as I was thinking that, Hino cried out in alarm. I opened my eyes without thinking."
+    ],
+    "1681:text": [
+      "There was Shindo. He'd tied Hino's hands behind his back."
+    ],
+    "1683:text": [
+      "I stopped biting Hino without even realizing it."
+    ],
+    "1684:text": [
+      "What on earth is happening?"
+    ],
+    "1685:text": [
+      "Why are Hino's hands behind his back? Why is Shindo restraining him?"
+    ],
+    "1688:text": [
+      "Akemi Iwashita"
+    ],
+    "1689:text": [
+      "“Heh heh heh... What a lovely sight, Hino."
+    ],
+    "1690:text": [
+      "Actually, we've been secretly discussing whether to"
+    ],
+    "1691:text": [
+      "kill you."
+    ],
+    "1692:text": [
+      "Your recent behavior has been interfering with the operation of Revenge"
+    ],
+    "1693:text": [
+      "Site.”"
+    ],
+    "1695:text": [
+      "Iwashita spoke to him with a smile still on her face."
+    ],
+    "1696:text": [
+      "Hino remained silent, looking stunned."
+    ],
+    "1698:text": [
+      "Akemi Iwashita"
+    ],
+    "1699:text": [
+      "“So we thought we'd kill you and bring someone else into the"
+    ],
+    "1700:text": [
+      "group."
+    ],
+    "1701:text": [
+      "I mean ",
+      " over there.”"
+    ],
+    "1705:text": [
+      "“What?!”"
+    ],
+    "1707:text": [
+      "Sadao Hino"
+    ],
+    "1708:text": [
+      "“What did you say?!”"
+    ],
+    "1710:text": [
+      "They want me as a member of Revenge Site?"
+    ],
+    "1711:text": [
+      "What is Iwashita thinking?"
+    ],
+    "1712:text": [
+      "Hino stared at me",
+      "in shock."
+    ],
+    "1715:text": [
+      "Akemi Iwashita"
+    ],
+    "1716:text": [
+      "“Why, ",
+      " is a good kid."
+    ],
+    "1717:text": [
+      "I've been watching him listen to the scary stories all"
+    ],
+    "1718:text": [
+      "day. He gives proper answers,"
+    ],
+    "1719:text": [
+      "too."
+    ],
+    "1720:text": [
+      "And he has guts. I've taken a liking to him.”"
+    ],
+    "1722:text": [
+      "Iwashita chuckled, then turned to me and smiled."
+    ],
+    "1723:text": [
+      "What the hell?"
+    ],
+    "1724:text": [
+      "They want me to join Revenge Site? Is Iwashita serious?"
+    ],
+    "1728:text": [
+      "Tomoharu Hosoda"
+    ],
+    "1729:text": [
+      "“I'd be absolutely thrilled if you joined"
+    ],
+    "1730:text": [
+      "us."
+    ],
+    "1731:text": [
+      "Then we'd be really, truly best friends.”"
+    ],
+    "1733:text": [
+      "Hosoda nodded happily."
+    ],
+    "1737:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1738:text": [
+      "“",
+      " would be a member, huh?"
+    ],
+    "1739:text": [
+      "We haven't had anyone my age, so that could be"
+    ],
+    "1740:text": [
+      "fun!”"
+    ],
+    "1744:text": [
+      "Nozomu Kazama"
+    ],
+    "1745:text": [
+      "“Oh, so he'd be a member."
+    ],
+    "1746:text": [
+      "He certainly listened to my Kokkuri-san story with genuine"
+    ],
+    "1747:text": [
+      "interest."
+    ],
+    "1748:text": [
+      "He's not a bad guy. I don't mind.”"
+    ],
+    "1752:text": [
+      "Shoji Arai"
+    ],
+    "1753:text": [
+      "“...So ",
+      " would be a member."
+    ],
+    "1754:text": [
+      "He seems cooperative. He wouldn't be a bad"
+    ],
+    "1755:text": [
+      "member."
+    ],
+    "1756:text": [
+      "I don't know whether he'll agree,"
+    ],
+    "1757:text": [
+      "though.”"
+    ],
+    "1761:text": [
+      "Makoto Shindo"
+    ],
+    "1762:text": [
+      "“He does seem to have more guts than I'd"
+    ],
+    "1763:text": [
+      "expected."
+    ],
+    "1764:text": [
+      "I don't dislike him either.”"
+    ],
+    "1766:text": [
+      "Wh-what? What is going on?!"
+    ],
+    "1767:text": [
+      "Everyone's saying they want me to join them..."
+    ],
+    "1771:text": [
+      "Akemi Iwashita"
+    ],
+    "1772:text": [
+      "“Heh heh... What do you think, ",
+      "?"
+    ],
+    "1773:text": [
+      "If you're willing, we'll welcome you as a member of"
+    ],
+    "1774:text": [
+      "Revenge Site starting today.”"
+    ],
+    "1776:text": [
+      "With that, Iwashita took a utility knife from her pocket and crouched down to meet my eyes as I sat on the floor."
+    ],
+    "1777:text": [
+      "Then she gently took my hand",
+      "and placed the utility knife in it."
+    ],
+    "1779:text": [
+      "Akemi Iwashita"
+    ],
+    "1780:text": [
+      "“But... To join us, you'll have to kill Hino with your own"
+    ],
+    "1781:text": [
+      "hands.”"
+    ],
+    "1784:text": [
+      "Wh-what? I'm supposed to kill Hino?"
+    ],
+    "1785:text": [
+      "I looked at him without thinking."
+    ],
+    "1786:text": [
+      "Hino was silently glaring at me."
+    ],
+    "1788:text": [
+      "I rose unsteadily",
+      "and looked around."
+    ],
+    "1789:text": [
+      "Everyone was smiling at me."
+    ],
+    "1791:text": [
+      "Emi Kurata"
+    ],
+    "1792:text": [
+      "“",
+      "...”"
+    ],
+    "1794:text": [
+      "Only Kurata looked at me",
+      "anxiously."
+    ],
+    "1795:text": [
+      "As I stood there in a daze, Iwashita spoke impatiently."
+    ],
+    "1798:text": [
+      "Akemi Iwashita"
+    ],
+    "1799:text": [
+      "“Come on, ",
+      ". Don't just stand there."
+    ],
+    "1800:text": [
+      "You hate Hino, don't you?"
+    ],
+    "1801:text": [
+      "Don't you want to kill him?"
+    ],
+    "1802:text": [
+      "After all, this is all his"
+    ],
+    "1803:text": [
+      "fault."
+    ],
+    "1804:text": [
+      "Drive this utility knife into his face with all your"
+    ],
+    "1805:text": [
+      "strength.”"
+    ],
+    "1808:text": [
+      "Then Iwashita gently pushed me toward Hino with a hand on my back."
+    ],
+    "1810:text": [
+      "Hino was still restrained, Shindo holding his hands behind his back."
+    ],
+    "1811:text": [
+      "Our eyes met."
+    ],
+    "1814:text": [
+      "Sadao Hino"
+    ],
+    "1815:text": [
+      "“",
+      ", can you really kill me?”"
+    ],
+    "1817:text": [
+      "Hino was smirking."
+    ],
+    "1819:text": [
+      "Sadao Hino"
+    ],
+    "1820:text": [
+      "“Can you kill me? Me?"
+    ],
+    "1821:text": [
+      "You can't."
+    ],
+    "1822:text": [
+      "You haven't got the guts."
+    ],
+    "1823:text": [
+      "You don't have what it takes to join us,"
+    ],
+    "1824:text": [
+      "do you, ",
+      "? Hya ha ha ha...”"
+    ],
+    "1827:text": [
+      "Before I knew it, I'd brought the utility knife down as naturally as anything."
+    ],
+    "1828:text": [
+      "Hino's face was stained with fresh blood."
+    ],
+    "1829:text": [
+      "What on earth had happened to me?"
+    ],
+    "1830:text": [
+      "But something deep beneath my conscious will seemed to want me to do this."
+    ],
+    "1832:text": [
+      "Sadao Hino"
+    ],
+    "1833:text": [
+      "“Aaaaaaaaagh!!”"
+    ],
+    "1835:text": [
+      "Emi Kurata"
+    ],
+    "1836:text": [
+      "“Noooo!! ",
+      "!”"
+    ],
+    "1838:text": [
+      "I heard Hino's and Kurata's screams",
+      "at the same time."
+    ],
+    "1839:text": [
+      "I ignored them and stabbed the utility knife"
+    ],
+    "1840:text": [
+      "into Hino's face."
+    ],
+    "1842:text": [
+      "Over and over."
+    ],
+    "1844:text": [
+      "Over and over."
+    ],
+    "1846:text": [
+      "Over and over."
+    ],
+    "1847:text": [
+      "Blood splattered onto my uniform."
+    ],
+    "1848:text": [
+      "Every time the blood hit me, I knew I'd been stained with a madness I could never come back from."
+    ],
+    "1864:text": [
+      "I staggered to my feet and began walking toward Kurata."
+    ],
+    "1866:text": [
+      "Emi Kurata"
+    ],
+    "1867:text": [
+      "“No... Please stop.”"
+    ],
+    "1869:text": [
+      "I could see her body",
+      "stiffen."
+    ],
+    "1871:text": [
+      "...I couldn't do it after all."
+    ],
+    "1872:text": [
+      "I couldn't kill Kurata!!"
+    ],
+    "1874:text": [
+      "As I stood there in a daze, Hino spoke to me with a smile."
+    ],
+    "1877:text": [
+      "Sadao Hino"
+    ],
+    "1878:text": [
+      "“That's a shame, ",
+      "."
+    ],
+    "1879:text": [
+      "I thought you'd do it...”"
+    ],
+    "1882:text": [
+      "With that, Hino signaled to the people around him with his eyes."
+    ],
+    "1883:text": [
+      "Shindo caught the signal and came toward me."
+    ],
+    "1886:text": [
+      "“Wh-what are you doing?”"
+    ],
+    "1889:text": [
+      "Makoto Shindo"
+    ],
+    "1890:text": [
+      "“I feel sorry for you, but that's how it is."
+    ],
+    "1891:text": [
+      "All you can do now is curse the fact"
+    ],
+    "1892:text": [
+      "he singled you out.”"
+    ],
+    "1895:text": [
+      "Shindo said it calmly, then drove a hard straight punch into my solar plexus."
+    ],
+    "1898:text": [
+      "“Gah...”"
+    ],
+    "1900:text": [
+      "I couldn't breathe...!"
+    ],
+    "1901:text": [
+      "I crumpled forward."
+    ],
+    "1902:text": [
+      "Shindo caught me and shoved something into my mouth."
+    ],
+    "1905:text": [
+      "“Mmph...!”"
+    ],
+    "1907:text": [
+      "There was something like cloth jammed in my mouth, and I couldn't speak."
+    ],
+    "1909:text": [
+      "I'd already taken a vicious blow to the solar plexus."
+    ],
+    "1910:text": [
+      "Cold sweat beaded on me as I slumped weakly against Shindo, my head drooping."
+    ],
+    "1913:text": [
+      "Tomoharu Hosoda"
+    ],
+    "1914:text": [
+      "“",
+      ", that's such a shame."
+    ],
+    "1915:text": [
+      "I thought we could be best friends..."
+    ],
+    "1916:text": [
+      "But I guess it can't be helped.”"
+    ],
+    "1919:text": [
+      "Smiling happily, Hosoda tied my hands and feet."
+    ],
+    "1920:text": [
+      "These bastards... What were they going to do?!"
+    ],
+    "1922:text": [
+      "I could feel my teeth chattering."
+    ],
+    "1923:text": [
+      "My knees were shaking."
+    ],
+    "1924:text": [
+      "I was terrified"
+    ],
+    "1925:text": [
+      "of what they were about to do."
+    ],
+    "1927:text": [
+      "Emi Kurata"
+    ],
+    "1928:text": [
+      "“No... ",
+      ", ",
+      "!”"
+    ],
+    "1930:text": [
+      "Kurata called my name through her tears."
+    ],
+    "1932:text": [
+      "Sadao Hino"
+    ],
+    "1933:text": [
+      "“She's too loud. Someone shut that woman up.”"
+    ],
+    "1935:text": [
+      "Hino signaled with his eyes."
+    ],
+    "1937:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1938:text": [
+      "“Okaaay.”"
+    ],
+    "1940:text": [
+      "Fukuzawa answered casually and stuffed a handkerchief into Kurata's mouth."
+    ],
+    "1942:text": [
+      "Emi Kurata"
+    ],
+    "1943:text": [
+      "“Mmmph... Mmph!”"
+    ],
+    "1945:text": [
+      "Kurata groaned painfully around the handkerchief Fukuzawa had stuffed in her mouth, but her eyes stayed fixed on me."
+    ],
+    "1946:text": [
+      "They were red and swollen from crying."
+    ],
+    "1947:text": [
+      "Tears streamed from them endlessly."
+    ],
+    "1950:text": [
+      "Akemi Iwashita"
+    ],
+    "1951:text": [
+      "“My, you do look nice like that,"
+    ],
+    "1952:text": [
+      "don't you, ",
+      "? Hee hee...”"
+    ],
+    "1955:text": [
+      "Iwashita laughed eerily."
+    ],
+    "1956:text": [
+      "My hands and feet were tied. My bound hands had been hauled up and hung from a hook driven into the wall."
+    ],
+    "1957:text": [
+      "Seven people stood around me, watching."
+    ],
+    "1969:text": [
+      "Sadao Hino"
+    ],
+    "1970:text": [
+      "“Heeheehee, ",
+      "."
+    ],
+    "1971:text": [
+      "Now the fun show begins."
+    ],
+    "1972:text": [
+      "Make sure you enjoy every moment.”"
+    ],
+    "1974:text": [
+      "He gave a nasty grin."
+    ],
+    "1975:text": [
+      "His eyes were clouded."
+    ],
+    "1976:text": [
+      "I felt as though hideous desires, steeped in madness, were swirling deep within them."
+    ],
+    "1978:text": [
+      "He held a knife."
+    ],
+    "1979:text": [
+      "Moonlight spilled through a gap in the curtains, making the blade gleam eerily."
+    ],
+    "1980:text": [
+      "As if adding a flourish to the feast of madness about to begin..."
+    ],
+    "1993:text": [
+      "I staggered to my feet and started walking",
+      "toward Kurata."
+    ],
+    "1995:text": [
+      "Emi Kurata"
+    ],
+    "1996:text": [
+      "“N-no!”"
+    ],
+    "1998:text": [
+      "Her face twisted with terror, and large tears rolled down her cheeks."
+    ],
+    "1999:text": [
+      "I stared at her face,"
+    ],
+    "2000:text": [
+      "but all my attention was on Hino beside her."
+    ],
+    "2002:text": [
+      "I've only got one chance."
+    ],
+    "2003:text": [
+      "If I'm going to die anyway, I'll make him pay!"
+    ],
+    "2004:text": [
+      "I clenched my fists and slowly moved closer to her."
+    ],
+    "2006:text": [
+      "Sadao Hino"
+    ],
+    "2007:text": [
+      "“",
+      ". Now that's a nice look."
+    ],
+    "2008:text": [
+      "I like that glare on your face."
+    ],
+    "2009:text": [
+      "Hyaahahahaha!”"
+    ],
+    "2011:text": [
+      "Now! As he laughed, I seized my chance and grabbed him."
+    ],
+    "2012:text": [
+      "It must have been so sudden that even Hino and the storytellers couldn't move."
+    ],
+    "2015:text": [
+      "“Raaaaaaaaaaaaaaaaaaaaagh!”"
+    ],
+    "2017:text": [
+      "I grabbed him with all my strength and slammed him hard against the curtained window."
+    ],
+    "2023:text": [
+      "Sadao Hino"
+    ],
+    "2024:text": [
+      "“Gah!”"
+    ],
+    "2026:text": [
+      "The impact must have been hard. The window shattered with a tremendous crash, scattering glass around our feet."
+    ],
+    "2029:text": [
+      "Makoto Shindo"
+    ],
+    "2030:text": [
+      "“You bastard...!”"
+    ],
+    "2032:text": [
+      "Just as Shindo stepped forward to stop me, I thrust a shard of glass from the floor right in front of Hino's eyes."
+    ],
+    "2035:text": [
+      "“Don't move!”"
+    ],
+    "2037:text": [
+      "I held Hino, unconscious from having the back of his head slammed into the glass. With the shard in front of his eyes, I glared at the storytellers."
+    ],
+    "2038:text": [
+      "Shindo stopped before he could rush me."
+    ],
+    "2041:text": [
+      "“Move and I'll slit his throat!”"
+    ],
+    "2043:text": [
+      "I shouted, threatening everyone around me."
+    ],
+    "2044:text": [
+      "They didn't move. Maybe they were waiting to see what I'd do."
+    ],
+    "2047:text": [
+      "“Untie Kurata!”"
+    ],
+    "2049:text": [
+      "I gave the order."
+    ],
+    "2050:text": [
+      "For a moment, they exchanged glances. But nobody moved."
+    ],
+    "2053:text": [
+      "“Hurry up!”"
+    ],
+    "2055:text": [
+      "When I shouted more angrily, Fukuzawa, who was standing near Kurata, untied her."
+    ],
+    "2057:text": [
+      "Emi Kurata"
+    ],
+    "2058:text": [
+      "“",
+      "!”"
+    ],
+    "2060:text": [
+      "Kurata ran toward me."
+    ],
+    "2061:text": [
+      "I put her behind me and faced the storytellers."
+    ],
+    "2062:text": [
+      "She clutched the edge of my uniform."
+    ],
+    "2063:text": [
+      "I felt a little like a knight who'd come to rescue a princess."
+    ],
+    "2064:text": [
+      "But this was no time to be thinking about that."
+    ],
+    "2066:text": [
+      "I drove the fleeting image from my mind and faced them again."
+    ],
+    "2069:text": [
+      "“If you value his life, let"
+    ],
+    "2070:text": [
+      "us go!”"
+    ],
+    "2072:text": [
+      "I demanded it in a harsh voice."
+    ],
+    "2073:text": [
+      "But they barely reacted."
+    ],
+    "2074:text": [
+      "Something's strange."
+    ],
+    "2075:text": [
+      "Their friend was in danger, but they didn't seem particularly bothered."
+    ],
+    "2077:text": [
+      "For a moment, silence filled the room."
+    ],
+    "2078:text": [
+      "Kazama broke it with a single remark."
+    ],
+    "2081:text": [
+      "Nozomu Kazama"
+    ],
+    "2082:text": [
+      "“...I mean, I don't really care"
+    ],
+    "2083:text": [
+      "whether Hino lives or dies."
+    ],
+    "2084:text": [
+      "If you want to kill him, why don't you"
+    ],
+    "2085:text": [
+      "go ahead?”"
+    ],
+    "2087:text": [
+      "Wh-what?! Is this guy serious?"
+    ],
+    "2088:text": [
+      "The others glanced at him for a moment."
+    ],
+    "2089:text": [
+      "Then even Arai spoke up."
+    ],
+    "2093:text": [
+      "Shoji Arai"
+    ],
+    "2094:text": [
+      "“I have no particular interest, either."
+    ],
+    "2095:text": [
+      "As Kazama said a moment ago, Hino's been"
+    ],
+    "2096:text": [
+      "breaking far too many of our rules"
+    ],
+    "2097:text": [
+      "lately."
+    ],
+    "2098:text": [
+      "And he made it sound as though he was the one"
+    ],
+    "2099:text": [
+      "who started Revenge Site. But the chat room that"
+    ],
+    "2100:text": [
+      "led to the site existed before that, and I was its"
+    ],
+    "2101:text": [
+      "administrator.”"
+    ],
+    "2103:text": [
+      "What? What the hell are these people?"
+    ],
+    "2104:text": [
+      "Isn't Hino one of them? Are they turning on each other?"
+    ],
+    "2105:text": [
+      "But for me, this might be the perfect chance to break out of this situation..."
+    ],
+    "2109:text": [
+      "Akemi Iwashita"
+    ],
+    "2110:text": [
+      "“Heh heh... I never intended to get all cozy with anyone in the"
+    ],
+    "2111:text": [
+      "first place."
+    ],
+    "2112:text": [
+      "If he's made a mistake that gets him killed, that's his"
+    ],
+    "2113:text": [
+      "fault. It would only be natural for him to"
+    ],
+    "2114:text": [
+      "die, wouldn't it?”"
+    ],
+    "2118:text": [
+      "Makoto Shindo"
+    ],
+    "2119:text": [
+      "“Seriously? You're turning on each other at a time like this?"
+    ],
+    "2120:text": [
+      "Well, I do think he's been acting far too selfishly"
+    ],
+    "2121:text": [
+      "lately.”"
+    ],
+    "2125:text": [
+      "Tomoharu Hosoda"
+    ],
+    "2126:text": [
+      "“I-I-I-I think everyone's"
+    ],
+    "2127:text": [
+      "right. Yeah.”"
+    ],
+    "2130:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2131:text": [
+      "“Huh? Does everyone hate Hino?"
+    ],
+    "2132:text": [
+      "Then maybe I'll start hating him too.”"
+    ],
+    "2135:text": [
+      "As I stood there dumbfounded, Hino suddenly moved in my arms."
+    ],
+    "2136:text": [
+      "He's awake?! This is bad!"
+    ],
+    "2137:text": [
+      "I hurried to restrain him, but despite my efforts, Hino batted my arms away and stepped forward."
+    ],
+    "2140:text": [
+      "Sadao Hino"
+    ],
+    "2141:text": [
+      "“...You bastards. I kept quiet and listened, and you just ran your"
+    ],
+    "2142:text": [
+      "mouths."
+    ],
+    "2143:text": [
+      "I break the rules?"
+    ],
+    "2144:text": [
+      "Listen. I'm not breaking the rules."
+    ],
+    "2145:text": [
+      "I am the rulebook!"
+    ],
+    "2147:text": [
+      "Unlike you lot, I'm one of the chosen."
+    ],
+    "2148:text": [
+      "Family background, education, looks. Mine are all"
+    ],
+    "2149:text": [
+      "impeccable."
+    ],
+    "2150:text": [
+      "One day, I'll be one of the central figures who carry Japan"
+    ],
+    "2151:text": [
+      "forward."
+    ],
+    "2153:text": [
+      "So what's wrong with me killing people I don't like?"
+    ],
+    "2154:text": [
+      "I'll crush anyone who could hold back my future success in"
+    ],
+    "2155:text": [
+      "society, before they get the"
+    ],
+    "2156:text": [
+      "chance."
+    ],
+    "2158:text": [
+      "It's a fine contribution to society."
+    ],
+    "2159:text": [
+      "Don't get full of yourselves just because you're"
+    ],
+    "2160:text": [
+      "co-administrators."
+    ],
+    "2161:text": [
+      "You're all beneath me."
+    ],
+    "2162:text": [
+      "All you have to do is shut up and follow my"
+    ],
+    "2163:text": [
+      "orders!”"
+    ],
+    "2165:text": [
+      "Hino rattled on."
+    ],
+    "2166:text": [
+      "The storytellers were all looking at him."
+    ],
+    "2167:text": [
+      "I could see anger",
+      "in every one of their gazes."
+    ],
+    "2168:text": [
+      "Things are taking one hell of a turn..."
+    ],
+    "2170:text": [
+      "Sadao Hino"
+    ],
+    "2171:text": [
+      "“",
+      ".”"
+    ],
+    "2173:text": [
+      "Hino suddenly called my name, and I flinched."
+    ],
+    "2174:text": [
+      "Is he planning to deal with us first?"
+    ],
+    "2175:text": [
+      "This is bad. This is really bad."
+    ],
+    "2176:text": [
+      "I tightened my grip on the shard of glass."
+    ],
+    "2177:text": [
+      "Behind me, Kurata's hand trembled as she clutched the edge of my uniform."
+    ],
+    "2179:text": [
+      "Sadao Hino"
+    ],
+    "2180:text": [
+      "“I was going to dispose of you two first, but..."
+    ],
+    "2181:text": [
+      "Change of plans."
+    ],
+    "2182:text": [
+      "Some other people need to be taught their place before I deal with"
+    ],
+    "2183:text": [
+      "you.”"
+    ],
+    "2186:text": [
+      "With that, Hino drew a knife from inside his jacket. Its blade looked about 15 centimeters long."
+    ],
+    "2188:text": [
+      "Is he really planning to fight the storytellers?"
+    ],
+    "2189:text": [
+      "For a moment, they seemed shaken by the knife. But being who they were,"
+    ],
+    "2190:text": [
+      "they quickly recovered and glared at Hino."
+    ],
+    "2193:text": [
+      "Akemi Iwashita"
+    ],
+    "2194:text": [
+      "“Oh, I'm good with blades too..."
+    ],
+    "2195:text": [
+      "Heh heh.”"
+    ],
+    "2197:text": [
+      "With that, Iwashita took something from her skirt pocket. It was a utility knife."
+    ],
+    "2201:text": [
+      "Makoto Shindo"
+    ],
+    "2202:text": [
+      "“Hey, Hino. You know I box,"
+    ],
+    "2203:text": [
+      "don't you?”"
+    ],
+    "2205:text": [
+      "Shindo took off his blazer and squared up."
+    ],
+    "2209:text": [
+      "Shoji Arai"
+    ],
+    "2210:text": [
+      "“...If that's how you want it, I'll respond"
+    ],
+    "2211:text": [
+      "accordingly.”"
+    ],
+    "2213:text": [
+      "Arai also took some dark-colored device from his trouser pocket."
+    ],
+    "2214:text": [
+      "Could that be a stun gun?"
+    ],
+    "2218:text": [
+      "Nozomu Kazama"
+    ],
+    "2219:text": [
+      "“My, Hino. That's not very smart."
+    ],
+    "2220:text": [
+      "Do you think you can win against all of us?”"
+    ],
+    "2222:text": [
+      "Kazama seemed as relaxed as ever, grinning away."
+    ],
+    "2223:text": [
+      "With so many allies, some of them armed,"
+    ],
+    "2224:text": [
+      "he probably figured there was little chance he'd get hurt, even without fighting himself."
+    ],
+    "2228:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2229:text": [
+      "“Things have gotten kind of weird,"
+    ],
+    "2230:text": [
+      "but this looks like it might be fun.”"
+    ],
+    "2232:text": [
+      "Fukuzawa grinned to herself, unfazed."
+    ],
+    "2236:text": [
+      "Tomoharu Hosoda"
+    ],
+    "2237:text": [
+      "“E-e-everyone, l-l-let's calm down.”"
+    ],
+    "2240:text": [
+      "Only Hosoda looked shaken, moving back and forth."
+    ],
+    "2241:text": [
+      "A single spark could set them off."
+    ],
+    "2242:text": [
+      "Wasn't there some way Kurata and I could escape?"
+    ],
+    "2244:text": [
+      "But we were by the window, and the exit was in the opposite direction."
+    ],
+    "2245:text": [
+      "Worse, Hino stood in front of us with his back turned, knife in hand."
+    ],
+    "2247:text": [
+      "Even if we got past him, the storytellers were waiting beyond him."
+    ],
+    "2248:text": [
+      "However I looked at it, getting through wouldn't be easy."
+    ],
+    "2251:text": [
+      "Sadao Hino"
+    ],
+    "2252:text": [
+      "“What's this? You're challenging me?"
+    ],
+    "2253:text": [
+      "Fine. I'll take you on.”"
+    ],
+    "2255:text": [
+      "Hino adjusted his grip on the knife."
+    ],
+    "2256:text": [
+      "They stayed locked in a standoff, staring at one another, apparently waiting for an opening."
+    ],
+    "2258:text": [
+      "Sadao Hino"
+    ],
+    "2259:text": [
+      "“What's wrong? If you're not going to make a move,"
+    ],
+    "2260:text": [
+      "I'll come at you.”"
+    ],
+    "2263:text": [
+      "The moment he'd finished speaking, Hino"
+    ],
+    "2264:text": [
+      "moved."
+    ],
+    "2265:text": [
+      "He ran straight at Shindo and raised the knife."
+    ],
+    "2267:text": [
+      "Shindo narrowly dodged the attack and tried to land a straight punch in Hino's face. But Hino ducked and slashed at Shindo's leg with his knife."
+    ],
+    "2269:text": [
+      "Makoto Shindo"
+    ],
+    "2270:text": [
+      "“Shit...”"
+    ],
+    "2272:text": [
+      "Hino's knife had grazed Shindo's leg."
+    ],
+    "2273:text": [
+      "His pants were torn, and I could see a little blood seeping through the rip."
+    ],
+    "2275:text": [
+      "All Kurata and I could do was tremble and watch",
+      "the scene unfolding before us."
+    ],
+    "2277:text": [
+      "Suddenly, the night breeze drifted in from behind me and stirred my hair."
+    ],
+    "2279:text": [
+      "I looked back. The wind was coming through the window I'd broken by slamming Hino into it."
+    ],
+    "2280:text": [
+      "The curtain swayed gently in the breeze."
+    ],
+    "2282:text": [
+      "I had an idea and whispered to Kurata, who was trembling behind me."
+    ],
+    "2284:text": [
+      "Emi Kurata"
+    ],
+    "2285:text": [
+      "“Huh? But...”"
+    ],
+    "2288:text": [
+      "“It's our only way out. It'll be all right."
+    ],
+    "2289:text": [
+      "It'll definitely work.”"
+    ],
+    "2291:text": [
+      "I reassured Kurata and asked her to do something for me."
+    ],
+    "2293:text": [
+      "Emi Kurata"
+    ],
+    "2294:text": [
+      "“All right...”"
+    ],
+    "2296:text": [
+      "With that, she quietly stepped backward,",
+      "trying not to be noticed."
+    ],
+    "2297:text": [
+      "In front of us, Iwashita was just bringing her utility knife down at Hino."
+    ],
+    "2299:text": [
+      "Akemi Iwashita"
+    ],
+    "2300:text": [
+      "“Die, just like the one who betrayed"
+    ],
+    "2301:text": [
+      "me!!”"
+    ],
+    "2303:text": [
+      "Caught off guard while fighting Shindo, Hino turned, but Iwashita had already driven the utility knife into his back."
+    ],
+    "2305:text": [
+      "Sadao Hino"
+    ],
+    "2306:text": [
+      "“Shit!”"
+    ],
+    "2308:text": [
+      "As Hino turned, he slashed his knife at Iwashita."
+    ],
+    "2310:text": [
+      "Akemi Iwashita"
+    ],
+    "2311:text": [
+      "“Aagh!”"
+    ],
+    "2313:text": [
+      "Iwashita let go of the utility knife she'd stabbed into Hino and fell backward."
+    ],
+    "2314:text": [
+      "Her arm was red with fresh blood where Hino had slashed it."
+    ],
+    "2316:text": [
+      "Hino tried to bring his knife down on Iwashita, but Shindo, behind him, wouldn't let him."
+    ],
+    "2318:text": [
+      "Shindo aimed a punch at Hino's back, but Hino sensed it coming and pivoted sideways out of the way."
+    ],
+    "2319:text": [
+      "I could tell his movements were far from",
+      "ordinary."
+    ],
+    "2321:text": [
+      "Had he had some kind of training?"
+    ],
+    "2322:text": [
+      "Hino was putting up such a fight against so many people that I couldn't help wondering."
+    ],
+    "2324:text": [
+      "Emi Kurata"
+    ],
+    "2325:text": [
+      "“",
+      "... I've opened it.”"
+    ],
+    "2327:text": [
+      "As I watched the fight, unable to look away, Kurata spoke to me."
+    ],
+    "2328:text": [
+      "It seemed everything was ready."
+    ],
+    "2329:text": [
+      "Now, while they were distracted, was our only chance."
+    ],
+    "2332:text": [
+      "“Okay. We'll go on my signal. Ready?”"
+    ],
+    "2334:text": [
+      "Emi Kurata"
+    ],
+    "2335:text": [
+      "“Yes.”"
+    ],
+    "2338:text": [
+      "“Ready... Now!”"
+    ],
+    "2340:text": [
+      "At the signal, Kurata and I ran toward the window as fast as we could."
+    ],
+    "2341:text": [
+      "Then we dived through it into the world outside."
+    ],
+    "2343:text": [
+      "Nozomu Kazama"
+    ],
+    "2344:text": [
+      "“Ah!”"
+    ],
+    "2349:text": [
+      "Someone called from behind us, but I didn't care."
+    ],
+    "2350:text": [
+      "Kurata and I jumped from the second floor of the club building and",
+      " crashed onto the ground."
+    ],
+    "2351:text": [
+      "Shards of broken glass littered the ground,",
+      "piercing my body as I fell. I was bleeding in places, but this was no time to worry about injuries like that."
+    ],
+    "2353:text": [
+      "I staggered to my feet and helped Kurata up from where she lay."
+    ],
+    "2357:text": [
+      "“Are you okay, Kurata?”"
+    ],
+    "2359:text": [
+      "Emi Kurata"
+    ],
+    "2360:text": [
+      "“Yeah, I'm okay...”"
+    ],
+    "2363:text": [
+      "“Good. Then let's get out of here!”"
+    ],
+    "2365:text": [
+      "We ran toward the school gate."
+    ],
+    "2366:text": [
+      "Violent crashing noises came from the second floor of the club building, as if things were slamming into one another."
+    ],
+    "2368:text": [
+      "Holding Kurata's hand, I ran across the dark schoolyard toward the gate."
+    ],
+    "2369:text": [
+      "I could feel the warmth of her hand."
+    ],
+    "2370:text": [
+      "Once we're through that gate, we'll go straight to the police. We'll tell them everything."
+    ],
+    "2374:text": [
+      "Before long, we rushed into a police box near the school."
+    ],
+    "2375:text": [
+      "Maybe it was the tension finally breaking, but the moment we arrived, we collapsed and couldn't get up for a while."
+    ],
+    "2377:text": [
+      "Once we'd calmed down, we explained what had happened. But maybe because the story was so strange, the officer wouldn't believe us. He only gave us an awkward smile and wouldn't take us seriously."
+    ],
+    "2381:text": [
+      "Emi Kurata"
+    ],
+    "2382:text": [
+      "“It's true! They were going"
+    ],
+    "2383:text": [
+      "to kill us!"
+    ],
+    "2384:text": [
+      "Why won't you believe us?”"
+    ],
+    "2387:text": [
+      "She pleaded through her tears, but he only looked troubled."
+    ],
+    "2389:text": [
+      "Police Officer"
+    ],
+    "2390:text": [
+      "“For now, I'll contact the school's security"
+    ],
+    "2391:text": [
+      "company. You two go home.”"
+    ],
+    "2393:text": [
+      "And with that, we were thrown out of the police box."
+    ],
+    "2394:text": [
+      "If we went home, they might be waiting to ambush us there."
+    ],
+    "2396:text": [
+      "Staying near the school was dangerous."
+    ],
+    "2397:text": [
+      "But I'd left my bag at school, with my wallet and phone inside. What were we supposed to do now?"
+    ],
+    "2400:text": [
+      "We were at a loss. For now, we decided to spend the night in the entertainment district,",
+      "where there would be plenty of people."
+    ],
+    "2401:text": [
+      "We sat on a bench, watching the crowds pass and thinking back over what had happened."
+    ],
+    "2403:text": [
+      "Being there made it all seem like a dream."
+    ],
+    "2404:text": [
+      "Revenge Site, and its administrators..."
+    ],
+    "2405:text": [
+      "But I'd never forget the madness in their eyes."
+    ],
+    "2407:text": [
+      "Emi Kurata"
+    ],
+    "2408:text": [
+      "“",
+      ", what are we going to do...?”"
+    ],
+    "2410:text": [
+      "She murmured quietly."
+    ],
+    "2413:text": [
+      "“For now, they might be waiting for us if we go"
+    ],
+    "2414:text": [
+      "home. Anyway, let's wait until"
+    ],
+    "2415:text": [
+      "morning."
+    ],
+    "2416:text": [
+      "Then we'll explain everything to everyone and"
+    ],
+    "2417:text": [
+      "hand those guys over to the police!”"
+    ],
+    "2419:text": [
+      "Emi Kurata"
+    ],
+    "2420:text": [
+      "“Yeah... You're right.”"
+    ],
+    "2422:text": [
+      "We spent the rest of the night in the entertainment district."
+    ],
+    "2428:text": [
+      "When I went home in the morning, my parents gave me a furious scolding."
+    ],
+    "2429:text": [
+      "I'd disappeared for a whole night without a word."
+    ],
+    "2430:text": [
+      "Of course they were angry."
+    ],
+    "2432:text": [
+      "I explained what had happened at school, and that I hadn't been able to come home because they might have been waiting to ambush me."
+    ],
+    "2434:text": [
+      "Naturally, my parents didn't believe me at first. But a phone call afterward brought everything to an unexpected conclusion."
+    ],
+    "2436:text": [
+      "Room 205 in the club building."
+    ],
+    "2437:text": [
+      "Six bodies, men and women, had been found there."
+    ],
+    "2439:text": [
+      "All six had had their throats or stomachs slashed with a sharp blade."
+    ],
+    "2440:text": [
+      "There had been a tremendous amount of blood in the room. Apparently it was too awful to look at."
+    ],
+    "2442:text": [
+      "The officer at the police box we'd gone to had contacted the school's security company. The bodies were found when a guard went to the club building late that night."
+    ],
+    "2444:text": [
+      "Unlike the school building, the club building didn't have a system that automatically notified the security company if someone broke in."
+    ],
+    "2446:text": [
+      "From the time we told the police, through the officer contacting the security company, until a guard came to check, they'd been fighting each other in a bloodbath, paying no attention to us after we escaped."
+    ],
+    "2447:text": [
+      "And they'd destroyed themselves."
+    ],
+    "2449:text": [
+      "Even now, remembering that scene sends a chill down",
+      "my spine."
+    ],
+    "2451:text": [
+      "Of course, the police questioned us too."
+    ],
+    "2452:text": [
+      "At first, they even suspected us of doing it."
+    ],
+    "2454:text": [
+      "But our fingerprints weren't found on the weapons left at the scene. And just as we'd said, searching their homes and phones turned up Revenge Site and emails suggesting plans to murder us."
+    ],
+    "2455:text": [
+      "The police stopped treating us as suspects."
+    ],
+    "2456:text": [
+      "We were free of the nightmare."
+    ],
+    "2462:text": [
+      "“Good work, Kurata!”"
+    ],
+    "2465:text": [
+      "Emi Kurata"
+    ],
+    "2466:text": [
+      "“Oh, ",
+      ".”"
+    ],
+    "2468:text": [
+      "Life had returned to normal for us."
+    ],
+    "2469:text": [
+      "Kurata and I were still close friends from the club, just like",
+      "before."
+    ],
+    "2471:text": [
+      "Emi Kurata"
+    ],
+    "2472:text": [
+      "“",
+      ", could you take a look at this?”"
+    ],
+    "2475:text": [
+      "She spoke to me with an unusually solemn expression."
+    ],
+    "2478:text": [
+      "“What's wrong, Kurata?”"
+    ],
+    "2480:text": [
+      "Without a word, she pointed at the PC screen in the clubroom."
+    ],
+    "2481:text": [
+      "It was displaying a website."
+    ],
+    "2500:text": [
+      "I looked at its name... Revenge Site?!"
+    ],
+    "2501:text": [
+      "No way. Is this...?"
+    ],
+    "2504:text": [
+      "“Kurata, don't tell me this is...”"
+    ],
+    "2506:text": [
+      "Emi Kurata"
+    ],
+    "2507:text": [
+      "“Yes. Revenge Site. The site Hino"
+    ],
+    "2508:text": [
+      "showed me."
+    ],
+    "2509:text": [
+      "It disappeared right after the incident,"
+    ],
+    "2510:text": [
+      "so I didn't give it much thought..."
+    ],
+    "2511:text": [
+      "But I'd bookmarked it"
+    ],
+    "2512:text": [
+      "before."
+    ],
+    "2513:text": [
+      "And today, I clicked it without really thinking..."
+    ],
+    "2514:text": [
+      "It was back.”"
+    ],
+    "2517:text": [
+      "“But... Aren't the administrators supposed to be dead and"
+    ],
+    "2518:text": [
+      "gone?!”"
+    ],
+    "2520:text": [
+      "Emi Kurata"
+    ],
+    "2521:text": [
+      "“I know that too!"
+    ],
+    "2522:text": [
+      "But the site is right here in front of"
+    ],
+    "2523:text": [
+      "us...”"
+    ],
+    "2525:text": [
+      "Kurata and I were speechless."
+    ],
+    "2526:text": [
+      "How could this be?"
+    ],
+    "2527:text": [
+      "Could Revenge Site still have an administrator...?"
+    ],
+    "2529:text": [
+      "Staring at the silent webpage, I felt as if it could see through human weakness, or rather, the hidden sides of our hearts."
+    ],
+    "2531:text": [
+      "It felt as if the darkness lurking in human hearts had taken another form and appeared before me."
+    ],
+    "2533:text": [
+      "...Even without its administrators, Revenge Site might never disappear,"
+    ],
+    "2534:text": [
+      "as long as we human beings exist."
+    ]
+  }
+}

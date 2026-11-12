@@ -1,0 +1,851 @@
+{
+  "scope": "Life English puzzle artwork and integration coordinates",
+  "status": "First two cards visually reviewed against native draft3 screenshots; third-card integration and protected-pixel checks pending.",
+  "inputs": [
+    "work/source/inoti-cipher-proposal.json",
+    "work/source/inoti-puzzle-review.json"
+  ],
+  "images": {
+    "問題1.png": {
+      "path": "work\\debug\\kiwame-base\\package.nw\\data\\bgimage\\hukuzawa\\CG\\問題1.png",
+      "native_size": [
+        960,
+        690
+      ],
+      "mode": "RGBA",
+      "sha256": "0f978a9266e6edc31a416a658438e373023458abc1b829f53c7eee92efffeea5",
+      "game_display_size": [
+        960,
+        690
+      ],
+      "native_to_game_scale": 1
+    },
+    "問題2.png": {
+      "path": "work\\debug\\kiwame-base\\package.nw\\data\\bgimage\\hukuzawa\\CG\\問題2.png",
+      "native_size": [
+        960,
+        690
+      ],
+      "mode": "RGBA",
+      "sha256": "ce344101861d3a46520129d8d3885c511ef6e50572ec2a3ff030f990236a9b42",
+      "game_display_size": [
+        960,
+        690
+      ],
+      "native_to_game_scale": 1
+    },
+    "問題3.png": {
+      "path": "work\\debug\\kiwame-base\\package.nw\\data\\bgimage\\hukuzawa\\CG\\問題3.png",
+      "native_size": [
+        1920,
+        1380
+      ],
+      "mode": "RGBA",
+      "sha256": "a960d190918c767c62738bdf602b44688ee4e69e81466b004f4e5255a05bf817",
+      "game_display_size": [
+        960,
+        690
+      ],
+      "native_to_game_scale": 0.5
+    },
+    "問題3_2.png": {
+      "path": "work\\debug\\kiwame-base\\package.nw\\data\\bgimage\\hukuzawa\\CG\\問題3_2.png",
+      "native_size": [
+        1920,
+        1380
+      ],
+      "mode": "RGBA",
+      "sha256": "bf2794e420a6f8422fa68c5a3584889d2d308d5ff31cea56c7c7fb08fc48d3f6",
+      "game_display_size": [
+        960,
+        690
+      ],
+      "native_to_game_scale": 0.5
+    }
+  },
+  "coordinate_convention": {
+    "first_two_images": "All x/top/rect values are native960x690 image pixels and game pixels; x is text anchor, top is glyph box top (not SVG baseline). Convert to renderer baseline with actual font ascent; do not treat top as SVG y directly.",
+    "third_image": "Logical design uses game960x690; native1920x1380 coordinates and font sizes are exactly2x.",
+    "rect_format": "[left,top,width,height]",
+    "estimates": "Paper and protected-object rectangles below are conservative visual estimates from original images; final pixel cleanup/occlusion inspection required."
+  },
+  "font": {
+    "path": "tools/fonts/genei-latin/GenEiLateGoP_v2.ttf",
+    "family": "GenEi Latin Gothic Proportional (GenEiLateGoP_v2)",
+    "reason": "Existing project Latin font; clear uppercase cipher and diagram labels, proportional body text.",
+    "color": "#151815",
+    "text_effects": "No stroke, strong drop shadow or extreme tracking. Match original paper printing; preserve source vignette.",
+    "measurement": "Pillow font.getlength measured text only, with no raster/image modification. Font measurements are preliminary and not browser-native verification."
+  },
+  "puzzle1": {
+    "source_image": "問題1.png",
+    "paper_panel_rect": [
+      124,
+      84,
+      731,
+      494
+    ],
+    "original_japanese_text_clear_rect": [
+      153,
+      475,
+      676,
+      58
+    ],
+    "new_text_area_rect": [
+      155,
+      458,
+      670,
+      105
+    ],
+    "protected_regions": [
+      {
+        "id": "tanuki",
+        "rect": [
+          393,
+          158,
+          193,
+          292
+        ],
+        "meaning": "Fat tanuki including ears/face/belly/tail/feet; adjective FAT remains meaningful."
+      },
+      {
+        "id": "eraser",
+        "rect": [
+          359,
+          307,
+          63,
+          82
+        ],
+        "meaning": "Blue-and-white eraser is operation cue; do not replace it or add ERASER as fourth nuisance token."
+      },
+      {
+        "id": "kokeshi",
+        "rect": [
+          546,
+          258,
+          78,
+          130
+        ],
+        "meaning": "Kokeshi wooden doll; label DOLL exactly."
+      },
+      {
+        "id": "paper-and-surround",
+        "note": "Preserve pin heads, panel edges, paper texture, stone surround and original illumination/vignette."
+      }
+    ],
+    "text_blocks": [
+      {
+        "id": "fat-label",
+        "x": 335,
+        "top": 228,
+        "font_size": 18,
+        "line_height": 22.5,
+        "anchor": "middle",
+        "lines": [
+          "FAT"
+        ],
+        "measured_line_widths": [
+          34.0
+        ],
+        "protected_object": "tanuki-adjective"
+      },
+      {
+        "id": "tanuki-label",
+        "x": 486,
+        "top": 132,
+        "font_size": 18,
+        "line_height": 22.5,
+        "anchor": "middle",
+        "lines": [
+          "TANUKI"
+        ],
+        "measured_line_widths": [
+          72.0
+        ],
+        "protected_object": "tanuki"
+      },
+      {
+        "id": "doll-label",
+        "x": 682,
+        "top": 306,
+        "font_size": 18,
+        "line_height": 22.5,
+        "anchor": "middle",
+        "lines": [
+          "DOLL"
+        ],
+        "measured_line_widths": [
+          52.0
+        ],
+        "protected_object": "kokeshi"
+      },
+      {
+        "id": "erase-instruction",
+        "x": 480,
+        "top": 452,
+        "font_size": 18,
+        "line_height": 22,
+        "anchor": "middle",
+        "lines": [
+          "ERASE THREE PICTURED WORDS"
+        ],
+        "measured_line_widths": [
+          300.0
+        ]
+      },
+      {
+        "id": "cipher",
+        "x": 480,
+        "top": 477,
+        "font_size": 24,
+        "line_height": 29,
+        "anchor": "middle",
+        "lines": [
+          "TAFATKE THETANUKI",
+          "RIDOLLGHT PATH"
+        ],
+        "measured_line_widths": [
+          288.0,
+          242.0
+        ]
+      }
+    ],
+    "label_policy": "Only the3approved nuisance-word labels FAT,TANUKI,DOLL. No decoded answer printed on artwork. Labels in empty paper margins; avoid covering figure faces/eraser/doll or drawing over original outlines.",
+    "source_dialogue_field_ids": [
+      "4813:text",
+      "4814:text",
+      "4815:text",
+      "4816:text",
+      "4818:text",
+      "4819:text"
+    ],
+    "dialogue_match": "Yoko names fat tanuki holding eraser and kokeshi doll, then reads erase-three-pictured-words instruction. Cipher remains exactly two source fields/two image lines.",
+    "decode_for_review_only": {
+      "draw": false,
+      "remove_whole_tokens": [
+        "FAT",
+        "TANUKI",
+        "DOLL"
+      ],
+      "answer": "TAKE THE RIGHT PATH",
+      "native_correct_choice": 3
+    },
+    "fit_metrics": {
+      "cipher_max_width": 288.0,
+      "available_footer_width": 670,
+      "footer_last_line_top": 523,
+      "estimated_footer_end": 554,
+      "paper_bottom": 578
+    },
+    "cleanup_notes": [
+      "Clear only the Japanese inscription; new label placements are on currently empty paper.",
+      "Do not erase protected illustrations to gain width.",
+      "Check all chromatic/anti-aliased Japanese ink fringes around original inscription after cleanup.",
+      "Do not substitute TAKE THE RIGHT PATH for the encoded display string."
+    ],
+    "patch_rect": [
+      145,
+      471,
+      692,
+      70
+    ],
+    "patch_feather_pixels": {
+      "horizontal": 16,
+      "vertical": 8
+    },
+    "patch_shade_alpha": [
+      0.05,
+      0.18
+    ],
+    "clean_plate": "work/ui/art/inoti-puzzle-1-clean.png",
+    "native_review": "work/source/inoti-puzzle-art-review.json"
+  },
+  "puzzle2": {
+    "source_image": "問題2.png",
+    "paper_panel_rect": [
+      124,
+      84,
+      731,
+      494
+    ],
+    "original_japanese_text_clear_rect": [
+      289,
+      462,
+      385,
+      84
+    ],
+    "new_text_area_rect": [
+      155,
+      458,
+      650,
+      109
+    ],
+    "protected_regions": [
+      {
+        "id": "husband",
+        "rect": [
+          339,
+          167,
+          119,
+          286
+        ],
+        "meaning": "Older man walking ahead."
+      },
+      {
+        "id": "wife-and-cart",
+        "rect": [
+          475,
+          224,
+          143,
+          235
+        ],
+        "meaning": "Older woman and pink shopping trolley behind him; do not add footprints, arrows or numeral3 to figure itself."
+      },
+      {
+        "id": "paper-and-surround",
+        "note": "Preserve panel pins, edges, paper texture, illumination/vignette and stone surround."
+      }
+    ],
+    "text_blocks": [
+      {
+        "id": "cipher",
+        "x": 480,
+        "top": 458,
+        "font_size": 24,
+        "line_height": 30,
+        "anchor": "middle",
+        "lines": [
+          "XSLFA QEB PFABP. QXHB QEB JFAAIB."
+        ],
+        "measured_line_widths": [
+          468.0
+        ]
+      },
+      {
+        "id": "wife-riddle",
+        "x": 480,
+        "top": 486,
+        "font_size": 17,
+        "line_height": 19,
+        "anchor": "middle",
+        "lines": [
+          "They used to say a good wife walked",
+          "three steps behind her husband in public.",
+          "Which way will you go?"
+        ],
+        "measured_line_widths": [
+          313.0,
+          351.0,
+          205.0
+        ]
+      }
+    ],
+    "source_dialogue_field_ids": [
+      "5176:text",
+      "5177:text",
+      "5188:text",
+      "5189:text",
+      "5190:text"
+    ],
+    "approved_restraint": "No HER MESSAGE label and no Her letters do too sentence. Only approved cipher and traditional wife3steps-behind riddle, including in public and final route question.",
+    "decode_for_review_only": {
+      "draw": false,
+      "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+      "decode_shift": 3,
+      "answer": "AVOID THE SIDES. TAKE THE MIDDLE.",
+      "native_correct_choice": 2
+    },
+    "fit_metrics": {
+      "cipher_width": 468.0,
+      "available_footer_width": 650,
+      "riddle_max_width": 351.0,
+      "riddle_last_line_top": 542,
+      "estimated_footer_end": 565,
+      "paper_bottom": 578
+    },
+    "cleanup_notes": [
+      "Existing Japanese line at~y473 and both smaller lines must all be removed; preserve trolley wheels at~y450.",
+      "Typeface, line breaks and case must not create a different Caesar string.",
+      "No plaintext answer or extra direction clue printed on image."
+    ],
+    "patch_rect": [
+      281,
+      460,
+      401,
+      92
+    ],
+    "patch_feather_pixels": {
+      "horizontal": 16,
+      "vertical": 8
+    },
+    "patch_shade_alpha": [
+      0.08,
+      0.24
+    ],
+    "clean_plate": "work/ui/art/inoti-puzzle-2-clean.png",
+    "native_review": "work/source/inoti-puzzle-art-review.json"
+  },
+  "puzzle3": {
+    "source_images": [
+      "問題3.png",
+      "問題3_2.png"
+    ],
+    "native_dimensions": [
+      1920,
+      1380
+    ],
+    "game_dimensions": [
+      960,
+      690
+    ],
+    "original_grid_image_observations": {
+      "compass": "N top,E right,S bottom,W left; letters denote corresponding outer row/column edges.",
+      "detected_red_button_native_x_bands": [
+        [
+          496,
+          604
+        ],
+        [
+          712,
+          820
+        ],
+        [
+          928,
+          1036
+        ],
+        [
+          1144,
+          1252
+        ],
+        [
+          1360,
+          1468
+        ]
+      ],
+      "detected_red_button_native_y_bands": [
+        [
+          282,
+          389
+        ],
+        [
+          459,
+          566
+        ],
+        [
+          636,
+          743
+        ],
+        [
+          813,
+          920
+        ],
+        [
+          990,
+          1097
+        ]
+      ],
+      "measurement_note": "Bands from thresholding existing source pixels; no source image written. These are clue-view circles, not runtime button click boxes.",
+      "blank_interaction_plate": "問題3_2.png contains paper/wall only; runtime overlays its25buttons. Keep its scale/placement separate from any read-only hint-card composition."
+    },
+    "protected_graphical_objects": [
+      "5x5red-button matrix, all25positions and grid order",
+      "AllfourN/E/S/Wcompasslabels",
+      "Originalpaper/stonepaletteandvignette",
+      "Separateinteractivebuttongeometryandsourceblankplate"
+    ],
+    "recommended_readonly_clue_card": {
+      "purpose": "One readable help image with all8clues and compass/grid together; may replace only read-only問題3.png view after root chooses integration.",
+      "paper_panel_rect_game": [
+        120,
+        28,
+        738,
+        632
+      ],
+      "diagram_source_crop_native": [
+        330,
+        110,
+        1300,
+        1180
+      ],
+      "diagram_destination_rect_game": [
+        140,
+        168,
+        365,
+        331.31
+      ],
+      "diagram_destination_rect_native": [
+        280,
+        336,
+        730,
+        662.62
+      ],
+      "diagram_scale_uniform": 0.28076923076923077,
+      "diagram_policy": "Uniform scaling only; keep5x5grid and allfourcompassletters; no solution numbers or highlighted correct cells.",
+      "clue_heading": {
+        "id": "clues-heading",
+        "x": 535,
+        "top": 96,
+        "font_size": 19,
+        "line_height": 24,
+        "anchor": "start",
+        "lines": [
+          "CLUES"
+        ],
+        "measured_line_widths": [
+          64.0
+        ]
+      },
+      "clue_panel_rect_game": [
+        530,
+        95,
+        344,
+        430
+      ],
+      "clue_panel_rect_native": [
+        1060,
+        190,
+        688,
+        860
+      ],
+      "clue_blocks": [
+        {
+          "id": "clue-1",
+          "x": 535,
+          "top": 133,
+          "font_size": 17,
+          "line_height": 23,
+          "anchor": "start",
+          "lines": [
+            "- 1 is on the S edge."
+          ],
+          "measured_line_widths": [
+            163.0
+          ],
+          "field_ids": [
+            "5302:text",
+            "6398:text"
+          ],
+          "box_width": 338,
+          "native_image_coordinates": {
+            "x": 1070,
+            "top": 266,
+            "font_size": 34,
+            "line_height": 46,
+            "box_width": 676
+          }
+        },
+        {
+          "id": "clue-2",
+          "x": 535,
+          "top": 167,
+          "font_size": 17,
+          "line_height": 23,
+          "anchor": "start",
+          "lines": [
+            "- The W edge is by the window and",
+            "  gets strong sunlight."
+          ],
+          "measured_line_widths": [
+            294.0,
+            183.0
+          ],
+          "field_ids": [
+            "5303:text",
+            "6399:text"
+          ],
+          "box_width": 338,
+          "native_image_coordinates": {
+            "x": 1070,
+            "top": 334,
+            "font_size": 34,
+            "line_height": 46,
+            "box_width": 676
+          }
+        },
+        {
+          "id": "clue-3",
+          "x": 535,
+          "top": 224,
+          "font_size": 17,
+          "line_height": 23,
+          "anchor": "start",
+          "lines": [
+            "- 5 is as far from 1 as possible."
+          ],
+          "measured_line_widths": [
+            248.0
+          ],
+          "field_ids": [
+            "5304:text",
+            "6400:text"
+          ],
+          "box_width": 338,
+          "native_image_coordinates": {
+            "x": 1070,
+            "top": 448,
+            "font_size": 34,
+            "line_height": 46,
+            "box_width": 676
+          }
+        },
+        {
+          "id": "clue-4",
+          "x": 535,
+          "top": 258,
+          "font_size": 17,
+          "line_height": 23,
+          "anchor": "start",
+          "lines": [
+            "- 2 does not touch any of the N, E, S",
+            "  or W edges."
+          ],
+          "measured_line_widths": [
+            304.0,
+            109.0
+          ],
+          "field_ids": [
+            "5305:text",
+            "6401:text"
+          ],
+          "box_width": 338,
+          "native_image_coordinates": {
+            "x": 1070,
+            "top": 516,
+            "font_size": 34,
+            "line_height": 46,
+            "box_width": 676
+          }
+        },
+        {
+          "id": "clue-5",
+          "x": 535,
+          "top": 315,
+          "font_size": 17,
+          "line_height": 23,
+          "anchor": "start",
+          "lines": [
+            "- 1 is as far from the window as",
+            "  possible."
+          ],
+          "measured_line_widths": [
+            260.0,
+            82.0
+          ],
+          "field_ids": [
+            "5306:text",
+            "6402:text"
+          ],
+          "box_width": 338,
+          "native_image_coordinates": {
+            "x": 1070,
+            "top": 630,
+            "font_size": 34,
+            "line_height": 46,
+            "box_width": 676
+          }
+        },
+        {
+          "id": "clue-6",
+          "x": 535,
+          "top": 372,
+          "font_size": 17,
+          "line_height": 23,
+          "anchor": "start",
+          "lines": [
+            "- 1, 2, 3, 4 and 5 do not touch one",
+            "  another."
+          ],
+          "measured_line_widths": [
+            280.0,
+            81.0
+          ],
+          "field_ids": [
+            "5307:text",
+            "6403:text"
+          ],
+          "box_width": 338,
+          "native_image_coordinates": {
+            "x": 1070,
+            "top": 744,
+            "font_size": 34,
+            "line_height": 46,
+            "box_width": 676
+          }
+        },
+        {
+          "id": "clue-7",
+          "x": 535,
+          "top": 429,
+          "font_size": 17,
+          "line_height": 23,
+          "anchor": "start",
+          "lines": [
+            "- 2, 3 and 4 are in a single horizontal",
+            "  row."
+          ],
+          "measured_line_widths": [
+            305.0,
+            48.0
+          ],
+          "field_ids": [
+            "5308:text",
+            "6404:text"
+          ],
+          "box_width": 338,
+          "native_image_coordinates": {
+            "x": 1070,
+            "top": 858,
+            "font_size": 34,
+            "line_height": 46,
+            "box_width": 676
+          }
+        },
+        {
+          "id": "clue-8",
+          "x": 535,
+          "top": 486,
+          "font_size": 17,
+          "line_height": 23,
+          "anchor": "start",
+          "lines": [
+            "- 3 is on the W edge."
+          ],
+          "measured_line_widths": [
+            173.0
+          ],
+          "field_ids": [
+            "5309:text",
+            "6405:text"
+          ],
+          "box_width": 338,
+          "native_image_coordinates": {
+            "x": 1070,
+            "top": 972,
+            "font_size": 34,
+            "line_height": 46,
+            "box_width": 676
+          }
+        }
+      ],
+      "footer_instruction": {
+        "id": "press-order",
+        "x": 500,
+        "top": 563,
+        "font_size": 18,
+        "line_height": 24,
+        "anchor": "middle",
+        "lines": [
+          "Press their positions in order, from 1 to 5."
+        ],
+        "measured_line_widths": [
+          352.0
+        ]
+      },
+      "footer_instruction_native": {
+        "x": 1000,
+        "top": 1126,
+        "font_size": 36,
+        "line_height": 48
+      },
+      "layout_metric": "All8clues fit within332measured pixels; last clue top486, text bottom~508gamepx. Footer starts563, safely below clues and above paper bottom660.",
+      "bullets": "Use the script’s plain hyphen bullets, not1–8numbered clue labels that could be confused with the puzzle’s1–5press order.",
+      "source_field_ids_initial": [
+        "5302:text",
+        "5303:text",
+        "5304:text",
+        "5305:text",
+        "5306:text",
+        "5307:text",
+        "5308:text",
+        "5309:text"
+      ],
+      "source_field_ids_repeat": [
+        "6398:text",
+        "6399:text",
+        "6400:text",
+        "6401:text",
+        "6402:text",
+        "6403:text",
+        "6404:text",
+        "6405:text"
+      ],
+      "instruction_field_ids": [
+        "5311:text",
+        "6407:text"
+      ],
+      "runtime_integration_dependency": "Root must choose how the read-only clue image and message-layer clue text are presented so a duplicated native text overlay does not obscure either column. This metadata does not authorize or implement a controller change. Keep the interactive5033button screen on original blank plate and coordinates."
+    },
+    "interactive_layout_unchanged": {
+      "canvas": [
+        960,
+        690
+      ],
+      "columns_right_to_left": [
+        690,
+        575,
+        460,
+        345,
+        230
+      ],
+      "rows_top_to_bottom": [
+        120,
+        215,
+        310,
+        405,
+        500
+      ],
+      "coordinate_note": "Script button placement coordinates, not centers. Native x1 is rightmost. Do not apply read-only diagram transform to runtime button placement.",
+      "correct_order_for_debug_only": {
+        "draw": false,
+        "positions": [
+          "bottom-right",
+          "center",
+          "middle-left",
+          "middle-right",
+          "top-left"
+        ],
+        "flags": [
+          "sf.x1_y5",
+          "sf.x3_y3",
+          "sf.x5_y3",
+          "sf.x1_y3",
+          "sf.x5_y1"
+        ],
+        "button_placements": [
+          [
+            690,
+            500
+          ],
+          [
+            460,
+            310
+          ],
+          [
+            230,
+            310
+          ],
+          [
+            690,
+            310
+          ],
+          [
+            230,
+            120
+          ]
+        ]
+      }
+    },
+    "asset_reference_issue": "Native5294requests問題3.jpg but inspected original is問題3.png. Root must resolve final packaged path/alias; no file/reference changed here.",
+    "native_qa_followup": "Use full inoti-puzzle-review.json for unique-solution proof, success flags and preexisting reset/target issues.",
+    "integration_decision": "Preserve all native live spoken clue text and backlog in a right-side panel, with the uniformly scaled original read-only diagram on the left. Do not duplicate clues in artwork or hide narrative. Interactive grid remains at original scale and coordinates."
+  },
+  "remaining_verification": [
+    "Render drafts privately with actual projectfont, inspect at960x690andnative1920x1380for3rdimage.",
+    "Check first2footer labels remain legible inside paper under vignette; confirm no old Japanese ink remains.",
+    "Keep decoded answers in debug metadata only.",
+    "Check read-only3rdimage shows all8clues at once; initial and repeat clue text must remain identical.",
+    "Confirm source message layer does not duplicate/cover new clue card.",
+    "Run native routeQAafteractiveHosodaQAisdone; noCDP/browser/runtimeoperationperformedbythisproposal."
+  ],
+  "edits_applied": false
+}

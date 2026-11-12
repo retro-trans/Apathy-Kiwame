@@ -1,0 +1,129 @@
+{
+  "scenario": "data/scenario/rpg/rpg_op.ks",
+  "source_sha256": "93db2aa56c2db30d59836359c69fa3878391a47b0ca15fd1c2b32ace662165a5",
+  "rows": {
+    "4:text": [
+      "Sadao Hino"
+    ],
+    "5:text": [
+      "“All right. No time like the present. Let's go, ",
+      ".”"
+    ],
+    "8:text": [
+      "“Wait, right now?”"
+    ],
+    "11:text": [
+      "Sadao Hino"
+    ],
+    "12:text": [
+      "“Yeah."
+    ],
+    "13:text": [
+      "Even by the old school building, people come and go during the day."
+    ],
+    "14:text": [
+      "If it weren't a day off like today,"
+    ],
+    "15:text": [
+      "we'd have a hard time getting in."
+    ],
+    "16:text": [
+      "And all the sports clubs are away today, so"
+    ],
+    "17:text": [
+      "we won't get another chance like this to sneak in.”"
+    ],
+    "20:text": [
+      "“I see..."
+    ],
+    "21:text": [
+      "If we didn't insist on going in daylight,"
+    ],
+    "22:text": [
+      "I think we'd have plenty of chances.”"
+    ],
+    "24:text": [
+      "Sadao Hino"
+    ],
+    "25:text": [
+      "“",
+      "... I told you."
+    ],
+    "26:text": [
+      "The old school building isn't somewhere you want"
+    ],
+    "27:text": [
+      "to go after dark."
+    ],
+    "28:text": [
+      "You might as well walk in there and ask"
+    ],
+    "29:text": [
+      "to be cursed."
+    ],
+    "30:text": [
+      "It has to be during the day. No exceptions."
+    ],
+    "31:text": [
+      "Come on, ",
+      "...”"
+    ],
+    "36:text": [
+      "Everyone knows you go to a haunted place at night."
+    ],
+    "38:text": [
+      "You get to enjoy the atmosphere that way,"
+    ],
+    "39:text": [
+      "and if you're writing a story, the photos look better, too."
+    ],
+    "41:text": [
+      "But something about the old school building after dark"
+    ],
+    "42:text": [
+      "seemed to terrify Hino..."
+    ],
+    "43:text": [
+      "Did he have a reporter's instincts or didn't he?"
+    ],
+    "44:text": [
+      "I could never tell with him..."
+    ],
+    "46:text": [
+      "Then again, if we snuck in at night"
+    ],
+    "47:text": [
+      "and got caught, we'd be in serious trouble."
+    ],
+    "48:text": [
+      "Daytime might have its advantages"
+    ],
+    "49:text": [
+      "after all."
+    ],
+    "51:text": [
+      "If we went in daylight, we'd have plenty of time."
+    ],
+    "52:text": [
+      "Compared with the building we used now,"
+    ],
+    "53:text": [
+      "the old one supposedly had far fewer classrooms."
+    ],
+    "54:text": [
+      "Still, if the two of us were going to look around,"
+    ],
+    "55:text": [
+      "the more time we had, the better."
+    ],
+    "57:text": [
+      "I nodded again"
+    ],
+    "58:text": [
+      "and decided to go with Hino to the old school building..."
+    ],
+    "81:title.name.1": [
+      "Apathy Kiwame - The Cursed Old School Building"
+    ]
+  }
+}

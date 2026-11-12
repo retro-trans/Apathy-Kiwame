@@ -1,0 +1,5748 @@
+{
+  "scenario": "data/scenario/iwashita.ks",
+  "source_sha256": "5b6f4a8e4d164cc12f764164be10800330e3788aa9f4b7c205eb7b7f7e98f1b6",
+  "rows": {
+    "73:text": [
+      "Akemi Iwashita"
+    ],
+    "74:text": [
+      "“Oh, I'm telling the first story.”"
+    ],
+    "80:text": [
+      "Akemi Iwashita"
+    ],
+    "81:text": [
+      "“So I'm telling the last story."
+    ],
+    "82:text": [
+      "...Tell me, ",
+      "."
+    ],
+    "83:text": [
+      "What exactly is happening with the seventh person?"
+    ],
+    "84:text": [
+      "By the time I finish my story,"
+    ],
+    "85:text": [
+      "make sure you've decided what to do.”"
+    ],
+    "91:text": [
+      "Akemi Iwashita"
+    ],
+    "92:text": [
+      "“It's my turn.”"
+    ],
+    "101:text": [
+      "Akemi Iwashita"
+    ],
+    "102:text": [
+      "“Well then, shall I tell you a scary story?"
+    ],
+    "103:text": [
+      "Let me introduce myself again."
+    ],
+    "104:text": [
+      "My name is Akemi Iwashita. I'm in my third year of high school."
+    ],
+    "105:text": [
+      "Before I begin, there's something"
+    ],
+    "106:text": [
+      "I'd like to ask you."
+    ],
+    "107:text": [
+      "Now, ",
+      "... may I ask?"
+    ],
+    "108:text": [
+      "I'll ask even if you say no."
+    ],
+    "109:text": [
+      "Are you a kind person?”"
+    ],
+    "121:glink.text.1": [
+      "1. I am"
+    ],
+    "123:glink.text.1": [
+      "1. I am"
+    ],
+    "127:glink.text.1": [
+      "2. I'm not"
+    ],
+    "129:glink.text.1": [
+      "2. I'm not"
+    ],
+    "133:glink.text.1": [
+      "3. I'm not sure"
+    ],
+    "135:glink.text.1": [
+      "3. I'm not sure"
+    ],
+    "146:text": [
+      "Akemi Iwashita"
+    ],
+    "147:text": [
+      "“Hehe... That's quite a thing to say"
+    ],
+    "148:text": [
+      "about yourself."
+    ],
+    "149:text": [
+      "Either you're very sure of yourself,"
+    ],
+    "150:text": [
+      "or you're truly kind."
+    ],
+    "151:text": [
+      "Well, no matter. I can tell which"
+    ],
+    "152:text": [
+      "just by looking into your eyes."
+    ],
+    "153:text": [
+      "If you are a kind person, can you"
+    ],
+    "154:text": [
+      "keep any promise you make?”"
+    ],
+    "164:text": [
+      "Akemi Iwashita"
+    ],
+    "165:text": [
+      "“How can you say such a thing out of the blue?"
+    ],
+    "166:text": [
+      "Don't say such sad things."
+    ],
+    "167:text": [
+      "Please, then. From now on,"
+    ],
+    "168:text": [
+      "be a kind person."
+    ],
+    "169:text": [
+      "Otherwise, I won't be able to talk to you."
+    ],
+    "170:text": [
+      "I like kind people."
+    ],
+    "171:text": [
+      "Now, answer me. Are you a kind person?”"
+    ],
+    "181:text": [
+      "Akemi Iwashita"
+    ],
+    "182:text": [
+      "“You're not sure how kind you are?"
+    ],
+    "183:text": [
+      "It's all right. I can tell."
+    ],
+    "184:text": [
+      "You are a kind person."
+    ],
+    "185:text": [
+      "Aren't you? I want you to be able"
+    ],
+    "186:text": [
+      "to say you are."
+    ],
+    "187:text": [
+      "I like kind people, you know."
+    ],
+    "188:text": [
+      "Now, answer me. Are you a kind person?”"
+    ],
+    "205:glink.text.1": [
+      "1. I am"
+    ],
+    "207:glink.text.1": [
+      "1. I am"
+    ],
+    "211:glink.text.1": [
+      "2. I'm not"
+    ],
+    "213:glink.text.1": [
+      "2. I'm not"
+    ],
+    "223:text": [
+      "Akemi Iwashita"
+    ],
+    "224:text": [
+      "“That's right. I knew you were."
+    ],
+    "225:text": [
+      "Actually, there's something else I'd like to ask."
+    ],
+    "226:text": [
+      "It's very important."
+    ],
+    "227:text": [
+      "Can you keep any promise you make?”"
+    ],
+    "237:text": [
+      "Akemi Iwashita"
+    ],
+    "238:text": [
+      "“I see... What a shame."
+    ],
+    "239:text": [
+      "If you say you aren't kind,"
+    ],
+    "240:text": [
+      "there's no point telling you this story."
+    ],
+    "241:text": [
+      "Shall I tell a different story...?”"
+    ],
+    "259:glink.text.1": [
+      "1. I can"
+    ],
+    "261:glink.text.1": [
+      "1. I can"
+    ],
+    "265:glink.text.1": [
+      "2. I can't"
+    ],
+    "267:glink.text.1": [
+      "2. I can't"
+    ],
+    "271:glink.text.1": [
+      "3. It depends"
+    ],
+    "273:glink.text.1": [
+      "3. It depends"
+    ],
+    "283:text": [
+      "Akemi Iwashita"
+    ],
+    "284:text": [
+      "“I see... So that's the kind of person you are."
+    ],
+    "285:text": [
+      "Very well, then. Promise me."
+    ],
+    "286:text": [
+      "Promise you'll become someone who keeps their word."
+    ],
+    "287:text": [
+      "Please."
+    ],
+    "288:text": [
+      "Then I'll ask you again."
+    ],
+    "289:text": [
+      "Can you keep your promises?”"
+    ],
+    "299:text": [
+      "Akemi Iwashita"
+    ],
+    "300:text": [
+      "“Don't put it that way."
+    ],
+    "301:text": [
+      "If you make someone a promise, make sure"
+    ],
+    "302:text": [
+      "you always keep it."
+    ],
+    "303:text": [
+      "Please."
+    ],
+    "304:text": [
+      "If you agree, promise me."
+    ],
+    "305:text": [
+      "You're someone who keeps their promises, aren't you?”"
+    ],
+    "322:glink.text.1": [
+      "1. I can"
+    ],
+    "324:glink.text.1": [
+      "1. I can"
+    ],
+    "328:glink.text.1": [
+      "2. I can't"
+    ],
+    "330:glink.text.1": [
+      "2. I can't"
+    ],
+    "340:text": [
+      "Akemi Iwashita"
+    ],
+    "341:text": [
+      "“Thank you. You're a good person."
+    ],
+    "342:text": [
+      "Now, I'll ask you one last question."
+    ],
+    "343:text": [
+      "...",
+      "."
+    ],
+    "344:text": [
+      "Are you someone who can take"
+    ],
+    "345:text": [
+      "other people's advice?”"
+    ],
+    "355:text": [
+      "Akemi Iwashita"
+    ],
+    "356:text": [
+      "“I see... I had a favor"
+    ],
+    "357:text": [
+      "to ask a kind person like you..."
+    ],
+    "358:text": [
+      "There was something I wanted you"
+    ],
+    "359:text": [
+      "to promise me."
+    ],
+    "360:text": [
+      "I wanted you to break the curse"
+    ],
+    "361:text": [
+      "I'm about to tell you about."
+    ],
+    "362:text": [
+      "But you're not someone who can take"
+    ],
+    "363:text": [
+      "other people's advice."
+    ],
+    "364:text": [
+      "Then it won't work. You wouldn't"
+    ],
+    "365:text": [
+      "take my advice either."
+    ],
+    "366:text": [
+      "Well, then... shall I tell you a different story?”"
+    ],
+    "385:glink.text.1": [
+      "1. I can take advice"
+    ],
+    "387:glink.text.1": [
+      "1. I can take advice"
+    ],
+    "391:glink.text.1": [
+      "2. I can't"
+    ],
+    "393:glink.text.1": [
+      "2. I can't"
+    ],
+    "397:glink.text.1": [
+      "3. It depends who's talking"
+    ],
+    "399:glink.text.1": [
+      "3. It depends who's talking"
+    ],
+    "409:text": [
+      "Akemi Iwashita"
+    ],
+    "410:text": [
+      "“That won't do."
+    ],
+    "411:text": [
+      "I'd like you to become someone"
+    ],
+    "412:text": [
+      "who can take other people's advice."
+    ],
+    "414:text": [
+      "Why am I telling you this"
+    ],
+    "415:text": [
+      "when we've only just met?"
+    ],
+    "416:text": [
+      "Hehe... Because this school is far too dangerous."
+    ],
+    "417:text": [
+      "I felt it the moment I arrived."
+    ],
+    "418:text": [
+      "There's powerful spiritual energy swirling here."
+    ],
+    "420:text": [
+      "Listen, ",
+      "."
+    ],
+    "421:text": [
+      "Make sure you take people's advice."
+    ],
+    "422:text": [
+      "Otherwise... whatever happens to you, don't blame me."
+    ],
+    "423:text": [
+      "Now, answer me."
+    ],
+    "424:text": [
+      "Will you take other people's advice?”"
+    ],
+    "434:text": [
+      "Akemi Iwashita"
+    ],
+    "435:text": [
+      "“I see... That's one way of looking at it."
+    ],
+    "436:text": [
+      "But if you don't take advice from all sorts of people,"
+    ],
+    "437:text": [
+      "you'll regret it."
+    ],
+    "438:text": [
+      "Your school is far too dangerous."
+    ],
+    "439:text": [
+      "There's powerful spiritual energy swirling here."
+    ],
+    "441:text": [
+      "Make sure you take people's advice."
+    ],
+    "442:text": [
+      "Otherwise... whatever happens to you, don't blame me."
+    ],
+    "443:text": [
+      "Now, answer me."
+    ],
+    "444:text": [
+      "Will you take other people's advice?”"
+    ],
+    "461:glink.text.1": [
+      "1. I'll take people's advice"
+    ],
+    "463:glink.text.1": [
+      "1. I'll take people's advice"
+    ],
+    "467:glink.text.1": [
+      "2. I can't"
+    ],
+    "469:glink.text.1": [
+      "2. I can't"
+    ],
+    "479:text": [
+      "Akemi Iwashita"
+    ],
+    "480:text": [
+      "“I thought you'd"
+    ],
+    "481:text": [
+      "say that. Hehe..."
+    ],
+    "482:text": [
+      "Now, I'll begin my story.”"
+    ],
+    "492:text": [
+      "Akemi Iwashita"
+    ],
+    "493:text": [
+      "“Hehe... I thought you'd"
+    ],
+    "494:text": [
+      "say that."
+    ],
+    "495:text": [
+      "You're simply perfect."
+    ],
+    "496:text": [
+      "I'm so glad I met someone like you."
+    ],
+    "497:text": [
+      "I hope we'll be seeing each other"
+    ],
+    "498:text": [
+      "for a long time to come. Hehehehe...”"
+    ],
+    "516:text": [
+      "Akemi Iwashita"
+    ],
+    "517:text": [
+      "“This is the story of a tragedy"
+    ],
+    "518:text": [
+      "a certain boy stumbled into by chance."
+    ],
+    "519:text": [
+      "He'd been kept late after school that day"
+    ],
+    "520:text": [
+      "for a remedial class."
+    ],
+    "522:text": [
+      "Let's see, his name... I'll just give him"
+    ],
+    "523:text": [
+      "a name for now."
+    ],
+    "524:text": [
+      "Let's call him ",
+      ". A nice name, don't you think?"
+    ],
+    "525:text": [
+      "I'm sorry. I don't know the boy's name"
+    ],
+    "526:text": [
+      "either."
+    ],
+    "527:text": [
+      "So I'm going to borrow your"
+    ],
+    "528:text": [
+      "name."
+    ],
+    "530:text": [
+      "His name was ",
+      "."
+    ],
+    "531:text": [
+      "...It really is a lovely name."
+    ],
+    "533:text": [
+      "For the remedial class, they were given a worksheet."
+    ],
+    "534:text": [
+      "Once they'd solved the problems, they could"
+    ],
+    "535:text": [
+      "go home."
+    ],
+    "537:text": [
+      "There were several fairly difficult questions on it."
+    ],
+    "538:text": [
+      "They weren't the sort you could solve easily."
+    ],
+    "539:text": [
+      "These were students who needed a remedial class, after all."
+    ],
+    "540:text": [
+      "They weren't very fond of studying."
+    ],
+    "542:text": [
+      "So they put down whatever answers came to mind and went"
+    ],
+    "543:text": [
+      "to show the teacher waiting in the faculty office."
+    ],
+    "544:text": [
+      "Taking advantage of the fact that the teacher wasn't watching,"
+    ],
+    "545:text": [
+      "some looked in their study guides or discussed"
+    ],
+    "546:text": [
+      "the answers together."
+    ],
+    "547:text": [
+      "Then they'd check with the teacher and head"
+    ],
+    "548:text": [
+      "straight home."
+    ],
+    "549:text": [
+      "The teacher probably knew what was going on."
+    ],
+    "551:text": [
+      "Well, it was really just a remedial class for show."
+    ],
+    "552:text": [
+      "But ",
+      " was different."
+    ],
+    "553:text": [
+      "He worked on the worksheet in earnest."
+    ],
+    "555:text": [
+      "He took things seriously. Once he'd made a promise,"
+    ],
+    "556:text": [
+      "he wouldn't break it."
+    ],
+    "557:text": [
+      "And when you've made a promise to a teacher,"
+    ],
+    "558:text": [
+      "it's even more important to keep it."
+    ],
+    "559:text": [
+      "He really was just like you."
+    ],
+    "560:text": [
+      "So he stayed in the classroom alone, determined to solve"
+    ],
+    "561:text": [
+      "every last problem."
+    ],
+    "562:text": [
+      "Problems he couldn't even begin to figure out,"
+    ],
+    "563:text": [
+      "no matter how hard he thought.”"
+    ],
+    "565:text": [
+      "Teacher"
+    ],
+    "566:text": [
+      "“What? You're still here?"
+    ],
+    "567:text": [
+      "I forgot all about you."
+    ],
+    "568:text": [
+      "You can go home now, ",
+      ".”"
+    ],
+    "570:text": [
+      "Akemi Iwashita"
+    ],
+    "571:text": [
+      "“The teacher had been certain that everyone"
+    ],
+    "572:text": [
+      "had gone home."
+    ],
+    "573:text": [
+      "They noticed the classroom light was on and peered"
+    ],
+    "574:text": [
+      "in, puzzled, only to find one boy still there."
+    ],
+    "575:text": [
+      "They were surprised, so they called out to him."
+    ],
+    "576:text": [
+      "That's awful, isn't it?"
+    ],
+    "579:text": [
+      "Well, now he had the teacher's permission to leave,"
+    ],
+    "580:text": [
+      "so he started packing up. Then he looked around and saw"
+    ],
+    "581:text": [
+      "that it had grown completely dark."
+    ],
+    "583:text": [
+      "Everything around him had fallen silent."
+    ],
+    "584:text": [
+      "There was no one there."
+    ],
+    "585:text": [
+      "He'd been left all alone in the school."
+    ],
+    "596:text": [
+      "The only light came from fluorescent tubes so dim"
+    ],
+    "597:text": [
+      "they seemed about to go out."
+    ],
+    "598:text": [
+      "He could hear nothing but the dry tap-tap"
+    ],
+    "599:text": [
+      "of his footsteps echoing."
+    ],
+    "601:text": [
+      "The students playing in the schoolyard after school and those"
+    ],
+    "602:text": [
+      "working up a sweat at their clubs were all gone."
+    ],
+    "604:text": [
+      "He happened to glance at the clock. It was eight thirty."
+    ],
+    "605:text": [
+      "Even he was surprised at how late it was."
+    ],
+    "607:text": [
+      "His classroom was on the third floor."
+    ],
+    "608:text": [
+      "The stairs down to the second floor were right in front of him,"
+    ],
+    "609:text": [
+      "and at the far end of the straight corridor was another"
+    ],
+    "610:text": [
+      "staircase leading to the second floor."
+    ],
+    "611:text": [
+      "Whichever route he took, the distance to the school gate"
+    ],
+    "612:text": [
+      "was the same."
+    ],
+    "613:text": [
+      "Which would you choose?”"
+    ],
+    "623:glink.text.1": [
+      "1. Go down the stairs in front of me"
+    ],
+    "625:glink.text.1": [
+      "1. Go down the stairs in front of me"
+    ],
+    "629:glink.text.1": [
+      "2. Go down the stairs at the far end of the corridor"
+    ],
+    "631:glink.text.1": [
+      "2. Go down the stairs at the far end of the corridor"
+    ],
+    "644:text": [
+      "Akemi Iwashita"
+    ],
+    "645:text": [
+      "“I see. That's the way you'd go."
+    ],
+    "646:text": [
+      "He chose the same way."
+    ],
+    "647:text": [
+      "Perhaps you think alike."
+    ],
+    "648:text": [
+      "He went down the stairs right in front of him."
+    ],
+    "649:text": [
+      "He went down from the third floor, then glanced at the corridor"
+    ],
+    "650:text": [
+      "..."
+    ],
+    "654:text": [
+      "There was his own classroom."
+    ],
+    "655:text": [
+      "He was sure he'd gone down the stairs."
+    ],
+    "656:text": [
+      "But this was unmistakably the third floor."
+    ],
+    "657:text": [
+      "What would you do? Would you try going down the stairs again?”"
+    ],
+    "669:text": [
+      "Akemi Iwashita"
+    ],
+    "670:text": [
+      "“I see. That's the way you'd go."
+    ],
+    "671:text": [
+      "Hehe... He did the same."
+    ],
+    "672:text": [
+      "He decided to walk down the long corridor"
+    ],
+    "673:text": [
+      "and take the stairs at the far end."
+    ],
+    "674:text": [
+      "That was the way he always went home.”"
+    ],
+    "691:glink.text.1": [
+      "1. Go down the stairs again"
+    ],
+    "693:glink.text.1": [
+      "1. Go down the stairs again"
+    ],
+    "697:glink.text.1": [
+      "2. Go down the corridor ahead"
+    ],
+    "699:glink.text.1": [
+      "2. Go down the corridor ahead"
+    ],
+    "710:text": [
+      "“I'll try it once more.”"
+    ],
+    "714:text": [
+      "Akemi Iwashita"
+    ],
+    "715:text": [
+      "“He tried going down the stairs again."
+    ],
+    "716:text": [
+      "He was getting anxious, and his pace naturally quickened."
+    ],
+    "717:text": [
+      "He nearly tripped... and instinctively"
+    ],
+    "718:text": [
+      "grabbed at the wall."
+    ],
+    "719:text": [
+      "It was dark around his feet on the stairs,"
+    ],
+    "720:text": [
+      "and he felt as if he was descending into darkness."
+    ],
+    "724:text": [
+      "When he reached the floor below, he first looked"
+    ],
+    "725:text": [
+      "at the classroom at the end of the corridor."
+    ],
+    "726:text": [
+      "And there it was..."
+    ],
+    "727:text": [
+      "his own classroom."
+    ],
+    "728:text": [
+      "He was certain he'd gone down the stairs."
+    ],
+    "729:text": [
+      "No matter how many times he went down, he ended up on the third floor."
+    ],
+    "731:text": [
+      "It unnerved him, so he gave up on those stairs"
+    ],
+    "732:text": [
+      "and decided to walk down the corridor"
+    ],
+    "733:text": [
+      "in front of him."
+    ],
+    "734:text": [
+      "He decided to go home by the stairs"
+    ],
+    "735:text": [
+      "at the other end instead.”"
+    ],
+    "746:text": [
+      "Akemi Iwashita"
+    ],
+    "747:text": [
+      "“For some reason, he had a bad feeling."
+    ],
+    "748:text": [
+      "He sensed an unusual spiritual energy in those stairs."
+    ],
+    "749:text": [
+      "So he decided to go down the corridor in front of him"
+    ],
+    "750:text": [
+      "and take the stairs at the far end.”"
+    ],
+    "760:text": [
+      "Akemi Iwashita"
+    ],
+    "761:text": [
+      "“A long, straight corridor is truly frightening"
+    ],
+    "762:text": [
+      "when you walk through it at night."
+    ],
+    "763:text": [
+      "With so little light, you naturally"
+    ],
+    "764:text": [
+      "start walking more slowly."
+    ],
+    "765:text": [
+      "Even when you're anxious and think you're walking fast,"
+    ],
+    "766:text": [
+      "somehow you end up slowing down.”"
+    ],
+    "769:text": [
+      "“That's strange.”"
+    ],
+    "771:text": [
+      "Akemi Iwashita"
+    ],
+    "772:text": [
+      "“He found himself murmuring."
+    ],
+    "773:text": [
+      "For some reason, the corridor felt"
+    ],
+    "774:text": [
+      "longer than usual."
+    ],
+    "775:text": [
+      "Normally, he'd have reached the end by now"
+    ],
+    "776:text": [
+      "and already been heading down the stairs."
+    ],
+    "778:text": [
+      "But no matter how long he walked,"
+    ],
+    "779:text": [
+      "the corridor never ended."
+    ],
+    "780:text": [
+      "He kept walking. He could see the stairs ahead,"
+    ],
+    "781:text": [
+      "yet they never got any closer."
+    ],
+    "782:text": [
+      "Something was wrong. He turned to look behind him..."
+    ],
+    "785:text": [
+      "He could clearly see how far he'd come."
+    ],
+    "786:text": [
+      "He really had gone as far down the corridor"
+    ],
+    "787:text": [
+      "as he'd thought."
+    ],
+    "789:text": [
+      "Still puzzled, he looked forward again and saw"
+    ],
+    "790:text": [
+      "the corridor still stretching away in front of him.”"
+    ],
+    "793:text": [
+      "“Has this corridor always been this long?”"
+    ],
+    "795:text": [
+      "Akemi Iwashita"
+    ],
+    "796:text": [
+      "“He tilted his head."
+    ],
+    "797:text": [
+      "It was his first time walking through the school at night,"
+    ],
+    "798:text": [
+      "so perhaps his sense of distance was off."
+    ],
+    "799:text": [
+      "He tried telling himself that."
+    ],
+    "800:text": [
+      "But he still felt vaguely uneasy."
+    ],
+    "801:text": [
+      "What would you do? Would you keep going"
+    ],
+    "802:text": [
+      "down the corridor?”"
+    ],
+    "813:glink.text.1": [
+      "1. Keep going down the corridor"
+    ],
+    "815:glink.text.1": [
+      "1. Keep going down the corridor"
+    ],
+    "819:glink.text.1": [
+      "2. Go back to where I started"
+    ],
+    "821:glink.text.1": [
+      "2. Go back to where I started"
+    ],
+    "832:text": [
+      "Akemi Iwashita"
+    ],
+    "833:text": [
+      "“He decided to keep going anyway."
+    ],
+    "834:text": [
+      "He'd come this far. He must be close"
+    ],
+    "835:text": [
+      "to the stairs by now, he thought."
+    ],
+    "837:text": [
+      "But something was wrong."
+    ],
+    "838:text": [
+      "Perhaps it was the darkness, but he couldn't see"
+    ],
+    "839:text": [
+      "the far end of the corridor very well."
+    ],
+    "842:text": [
+      "What was going on? Maybe the fluorescent lights"
+    ],
+    "843:text": [
+      "were just old."
+    ],
+    "844:text": [
+      "He blinked rapidly"
+    ],
+    "845:text": [
+      "and peered up at the ceiling."
+    ],
+    "846:text": [
+      "He saw... nothing at all."
+    ],
+    "847:text": [
+      "It was all darkness."
+    ],
+    "849:text": [
+      "He hurriedly looked around."
+    ],
+    "850:text": [
+      "The corridor stretched on in front of him and behind."
+    ],
+    "851:text": [
+      "But he couldn't see either end."
+    ],
+    "852:text": [
+      "There was only darkness as far as he could see."
+    ],
+    "853:text": [
+      "It seemed to be closing in on him."
+    ],
+    "855:text": [
+      "This wasn't a power outage."
+    ],
+    "856:text": [
+      "That was what he thought."
+    ],
+    "857:text": [
+      "If he stayed here, the darkness would swallow him."
+    ],
+    "858:text": [
+      "He had to run."
+    ],
+    "859:text": [
+      "He had to run...”"
+    ],
+    "862:text": [
+      "“Aaaaaaaaaah!”"
+    ],
+    "864:text": [
+      "Akemi Iwashita"
+    ],
+    "865:text": [
+      "“He didn't know what else to do, so he ran."
+    ],
+    "866:text": [
+      "Toward the end of the corridor."
+    ],
+    "868:text": [
+      "His arms pumping wildly."
+    ],
+    "869:text": [
+      "His footsteps echoed."
+    ],
+    "870:text": [
+      "Sweat flew from him."
+    ],
+    "871:text": [
+      "Was it his body shaking, or his legs?"
+    ],
+    "872:text": [
+      "He couldn't get there."
+    ],
+    "873:text": [
+      "He couldn't reach the end of the corridor."
+    ],
+    "874:text": [
+      "His footsteps echoed, as if urging him on."
+    ],
+    "876:text": [
+      "But there was still no end to the corridor... What was that?"
+    ],
+    "877:text": [
+      "Suddenly, he sensed a presence in the darkness."
+    ],
+    "878:text": [
+      "Something was there."
+    ],
+    "879:text": [
+      "He could sense someone down the corridor."
+    ],
+    "880:text": [
+      "A black shape. What was it...?"
+    ],
+    "882:text": [
+      "Without thinking, ",
+      " stopped short."
+    ],
+    "884:text": [
+      "His shoulders heaved as he gasped for air."
+    ],
+    "885:text": [
+      "He panted until his throat hurt..."
+    ],
+    "886:text": [
+      "The black shape was crouched by the wall,"
+    ],
+    "887:text": [
+      "squirming."
+    ],
+    "888:text": [
+      "It could have been a person,"
+    ],
+    "889:text": [
+      "or a lump of flesh."
+    ],
+    "890:text": [
+      "What will you do? Will you run? Or..."
+    ],
+    "891:text": [
+      "...”"
+    ],
+    "904:text": [
+      "“Something's definitely wrong.”"
+    ],
+    "908:text": [
+      "Akemi Iwashita"
+    ],
+    "909:text": [
+      "“He muttered to himself and decided"
+    ],
+    "910:text": [
+      "to turn back."
+    ],
+    "911:text": [
+      "Something told him it was dangerous"
+    ],
+    "912:text": [
+      "to keep going."
+    ],
+    "913:text": [
+      "But even after turning back, no matter how long he walked,"
+    ],
+    "914:text": [
+      "he couldn't get back to where he'd started."
+    ],
+    "915:text": [
+      "He must have walked farther than he had before,"
+    ],
+    "916:text": [
+      "but no matter how long he walked,"
+    ],
+    "917:text": [
+      "he couldn't get back to where he'd started.”"
+    ],
+    "920:text": [
+      "“What on earth is going on?”"
+    ],
+    "924:text": [
+      "Akemi Iwashita"
+    ],
+    "925:text": [
+      "“He turned around once more."
+    ],
+    "926:text": [
+      "The corridor still stretched into the distance."
+    ],
+    "927:text": [
+      "It seemed to go on for exactly the same distance"
+    ],
+    "928:text": [
+      "both in front of him and behind."
+    ],
+    "929:text": [
+      "Maybe it was his imagination, but the fluorescent lights"
+    ],
+    "930:text": [
+      "seemed dimmer than before."
+    ],
+    "931:text": [
+      "They were so feeble that he could no longer see"
+    ],
+    "932:text": [
+      "the far end of the corridor."
+    ],
+    "933:text": [
+      "All he could sense through the gloom"
+    ],
+    "934:text": [
+      "was a staircase somewhere ahead."
+    ],
+    "935:text": [
+      "But even that was a faint,"
+    ],
+    "936:text": [
+      "uncertain impression.”"
+    ],
+    "940:text": [
+      "“Aaaaaaaaaah!”"
+    ],
+    "942:text": [
+      "Akemi Iwashita"
+    ],
+    "943:text": [
+      "“He screamed to drown out his fear"
+    ],
+    "944:text": [
+      "and ran."
+    ],
+    "945:text": [
+      "He ran for all he was worth."
+    ],
+    "946:text": [
+      "He'd forgotten all about the rule"
+    ],
+    "947:text": [
+      "against running in the corridors.”"
+    ],
+    "951:text": [
+      "“Ow!”"
+    ],
+    "953:text": [
+      "Akemi Iwashita"
+    ],
+    "954:text": [
+      "“Maybe he'd been pushing too hard. He lost his balance"
+    ],
+    "955:text": [
+      "and fell.”"
+    ],
+    "958:text": [
+      "“Oww...”"
+    ],
+    "960:text": [
+      "Akemi Iwashita"
+    ],
+    "961:text": [
+      "“Luckily, he wasn't injured."
+    ],
+    "962:text": [
+      "He'd only banged his elbows and knees, and somehow"
+    ],
+    "963:text": [
+      "managed to stand."
+    ],
+    "964:text": [
+      "He got up and looked around again..."
+    ],
+    "965:text": [
+      "He didn't feel he'd made any progress at all."
+    ],
+    "966:text": [
+      "However he looked at it, he was still right"
+    ],
+    "967:text": [
+      "in the middle of the long corridor."
+    ],
+    "968:text": [
+      "Strictly speaking, he couldn't see either end clearly,"
+    ],
+    "969:text": [
+      "since both were swallowed up by darkness."
+    ],
+    "971:text": [
+      "He strained his eyes and took another good look"
+    ],
+    "972:text": [
+      "toward the far end of the corridor."
+    ],
+    "973:text": [
+      "But the dim corridor still refused to reveal"
+    ],
+    "974:text": [
+      "what lay beyond that darkness."
+    ],
+    "975:text": [
+      "But when he strained his eyes even more, he got"
+    ],
+    "976:text": [
+      "a fright."
+    ],
+    "978:text": [
+      "He couldn't see clearly in that darkness,"
+    ],
+    "979:text": [
+      "but he could make out what looked like a person."
+    ],
+    "980:text": [
+      "He could faintly see the black shape crouched by the wall,"
+    ],
+    "981:text": [
+      "squirming."
+    ],
+    "982:text": [
+      "It could have been a person,"
+    ],
+    "983:text": [
+      "or a lump of flesh."
+    ],
+    "984:text": [
+      "What would you do? Would you run? Or"
+    ],
+    "985:text": [
+      "...”"
+    ],
+    "1003:glink.text.1": [
+      "1. Go closer"
+    ],
+    "1005:glink.text.1": [
+      "1. Go closer"
+    ],
+    "1009:glink.text.1": [
+      "2. Run away"
+    ],
+    "1011:glink.text.1": [
+      "2. Run away"
+    ],
+    "1021:text": [
+      "Akemi Iwashita"
+    ],
+    "1022:text": [
+      "“He summoned his courage and moved forward,"
+    ],
+    "1023:text": [
+      "one step at a time.”"
+    ],
+    "1034:text": [
+      "Akemi Iwashita"
+    ],
+    "1035:text": [
+      "“It was eerie enough already. There was no way he could"
+    ],
+    "1036:text": [
+      "go near something so incomprehensible."
+    ],
+    "1039:text": [
+      "So ",
+      " ran away."
+    ],
+    "1040:text": [
+      "His legs threatened to give out, but he ran desperately."
+    ],
+    "1042:text": [
+      "But no matter how far he went, the corridor"
+    ],
+    "1043:text": [
+      "never came to an end."
+    ],
+    "1044:text": [
+      "He ran and ran and ran until he was breathless,"
+    ],
+    "1045:text": [
+      "and finally sank down"
+    ],
+    "1046:text": [
+      "on the spot."
+    ],
+    "1047:text": [
+      "He could barely breathe. His throat felt as if it were closing up."
+    ],
+    "1048:text": [
+      "He coughed so violently that every time he breathed out,"
+    ],
+    "1049:text": [
+      "he felt as though he'd cough his heart up too."
+    ],
+    "1051:text": [
+      "Even after all that, his position hadn't changed."
+    ],
+    "1052:text": [
+      "It felt like running the wrong way on"
+    ],
+    "1053:text": [
+      "a conveyor belt."
+    ],
+    "1056:text": [
+      "Suddenly, there was a sound behind him."
+    ],
+    "1057:text": [
+      "A rustling sound. Something was moving."
+    ],
+    "1058:text": [
+      "He could feel sweat breaking out all over"
+    ],
+    "1059:text": [
+      "his body."
+    ],
+    "1061:text": [
+      "...What's wrong? Is that sweat I see on your face?"
+    ],
+    "1062:text": [
+      "This isn't a story about you, you know."
+    ],
+    "1063:text": [
+      "It's about the other ",
+      "."
+    ],
+    "1064:text": [
+      "If it were you, would you turn around?”"
+    ],
+    "1074:glink.text.1": [
+      "1. Turn around"
+    ],
+    "1076:glink.text.1": [
+      "1. Turn around"
+    ],
+    "1080:glink.text.1": [
+      "2. Don't turn around"
+    ],
+    "1082:glink.text.1": [
+      "2. Don't turn around"
+    ],
+    "1093:text": [
+      "Akemi Iwashita"
+    ],
+    "1094:text": [
+      "“He turned around without thinking."
+    ],
+    "1096:text": [
+      "The black shape was still there."
+    ],
+    "1097:text": [
+      "That was what had been making the rustling sound."
+    ],
+    "1098:text": [
+      "He must have run quite a distance."
+    ],
+    "1099:text": [
+      "But that black shape was still"
+    ],
+    "1100:text": [
+      "over there."
+    ],
+    "1102:text": [
+      "The shape was behind him."
+    ],
+    "1103:text": [
+      "Then what was in front of him...?"
+    ],
+    "1106:text": [
+      "Fearfully, he turned to face forward again."
+    ],
+    "1107:text": [
+      "And he saw a black shape there, too."
+    ],
+    "1109:text": [
+      "He couldn't stop his body from"
+    ],
+    "1110:text": [
+      "shaking violently."
+    ],
+    "1111:text": [
+      "After all, there was no escape now."
+    ],
+    "1112:text": [
+      "Going forward was hell. Turning back was hell."
+    ],
+    "1113:text": [
+      "Whichever way he went, he couldn't escape"
+    ],
+    "1114:text": [
+      "that black mass."
+    ],
+    "1115:text": [
+      "Now, what would you do?”"
+    ],
+    "1126:text": [
+      "Akemi Iwashita"
+    ],
+    "1127:text": [
+      "“He told himself he mustn't look"
+    ],
+    "1128:text": [
+      "back."
+    ],
+    "1131:text": [
+      "Once he'd managed to catch his breath, he stood"
+    ],
+    "1132:text": [
+      "up again and slowly started walking."
+    ],
+    "1134:text": [
+      "And what do you think? There was that same black"
+    ],
+    "1135:text": [
+      "shape up ahead."
+    ],
+    "1137:text": [
+      "He was sure he'd escaped that black mass, but before"
+    ],
+    "1138:text": [
+      "he knew it, it was ahead of him again."
+    ],
+    "1140:text": [
+      "Puzzled, he slowly turned"
+    ],
+    "1141:text": [
+      "to look behind him."
+    ],
+    "1143:text": [
+      "And there it was... behind him, too."
+    ],
+    "1144:text": [
+      "That black thing, squirming."
+    ],
+    "1148:text": [
+      "He couldn't stop his body from"
+    ],
+    "1149:text": [
+      "shaking violently."
+    ],
+    "1150:text": [
+      "After all, there was no escape now."
+    ],
+    "1151:text": [
+      "Going forward was hell. Turning back was hell."
+    ],
+    "1152:text": [
+      "Whichever way he went, he couldn't escape"
+    ],
+    "1153:text": [
+      "that black mass."
+    ],
+    "1154:text": [
+      "What would you do?”"
+    ],
+    "1174:glink.text.1": [
+      "1. Go forward"
+    ],
+    "1176:glink.text.1": [
+      "1. Go forward"
+    ],
+    "1180:glink.text.1": [
+      "2. Go back"
+    ],
+    "1182:glink.text.1": [
+      "2. Go back"
+    ],
+    "1186:glink.text.1": [
+      "3. Crouch down where I am"
+    ],
+    "1188:glink.text.1": [
+      "3. Crouch down where I am"
+    ],
+    "1199:text": [
+      "Akemi Iwashita"
+    ],
+    "1200:text": [
+      "“He summoned his courage and moved forward,"
+    ],
+    "1201:text": [
+      "one step at a time."
+    ],
+    "1202:text": [
+      "Though perhaps it was closer"
+    ],
+    "1203:text": [
+      "to resignation than courage.”"
+    ],
+    "1213:text": [
+      "Akemi Iwashita"
+    ],
+    "1214:text": [
+      "“He went back the way he'd come."
+    ],
+    "1215:text": [
+      "He thought that if he turned around again,"
+    ],
+    "1216:text": [
+      "this time things might change."
+    ],
+    "1217:text": [
+      "But it was no use."
+    ],
+    "1218:text": [
+      "That black thing was still in front of him."
+    ],
+    "1219:text": [
+      "He summoned his courage and moved forward,"
+    ],
+    "1220:text": [
+      "one step at a time."
+    ],
+    "1221:text": [
+      "Though perhaps it was closer"
+    ],
+    "1222:text": [
+      "to resignation than courage.”"
+    ],
+    "1232:text": [
+      "Akemi Iwashita"
+    ],
+    "1233:text": [
+      "“I see. You're going to crouch down."
+    ],
+    "1235:text": [
+      "If you crouch down, that black thing will come for you."
+    ],
+    "1236:text": [
+      "Look... That black thing"
+    ],
+    "1237:text": [
+      "was coming closer and closer."
+    ],
+    "1238:text": [
+      "But now there was no escape."
+    ],
+    "1239:text": [
+      "You were crouching there, after all."
+    ],
+    "1242:text": [
+      "The black thing began to take on a clear shape."
+    ],
+    "1243:text": [
+      "It came closer, slowly but surely."
+    ],
+    "1245:text": [
+      "Do you regret it? Saying you'd"
+    ],
+    "1246:text": [
+      "crouch down?"
+    ],
+    "1247:text": [
+      "But it was already too late."
+    ],
+    "1248:text": [
+      "It had come right up in front of you. Hehe"
+    ],
+    "1249:text": [
+      "..."
+    ],
+    "1250:text": [
+      "And what appeared before you..."
+    ],
+    "1251:text": [
+      "was a girl.”"
+    ],
+    "1253:text": [
+      "Girl"
+    ],
+    "1254:text": [
+      "“Please... help me."
+    ],
+    "1255:text": [
+      "My leg hurts. I can't walk any farther...”"
+    ],
+    "1257:text": [
+      "Akemi Iwashita"
+    ],
+    "1258:text": [
+      "“She murmured the words"
+    ],
+    "1259:text": [
+      "in a faint, halting voice."
+    ],
+    "1260:text": [
+      "She was careful not to strain her aching leg."
+    ],
+    "1262:text": [
+      "Don't you find it strange that a girl"
+    ],
+    "1263:text": [
+      "would be here all alone?"
+    ],
+    "1264:text": [
+      "You do, don't you?"
+    ],
+    "1265:text": [
+      "What would you do?"
+    ],
+    "1266:text": [
+      "Would you help her?"
+    ],
+    "1267:text": [
+      "Or leave her alone?”"
+    ],
+    "1276:text": [
+      "Akemi Iwashita"
+    ],
+    "1277:text": [
+      "“He still couldn't see the end of the corridor,"
+    ],
+    "1279:text": [
+      "but that black thing"
+    ],
+    "1280:text": [
+      "was getting closer and closer."
+    ],
+    "1281:text": [
+      "As he slowly put one foot in front of the other,"
+    ],
+    "1282:text": [
+      "it began to take on a clear shape."
+    ],
+    "1284:text": [
+      "It was a girl."
+    ],
+    "1285:text": [
+      "A girl in a school uniform"
+    ],
+    "1286:text": [
+      "was sitting against the wall."
+    ],
+    "1287:text": [
+      "In an instant, his fear vanished."
+    ],
+    "1288:text": [
+      "He let out a relieved sigh"
+    ],
+    "1289:text": [
+      "and rushed over to her."
+    ],
+    "1290:text": [
+      "You're frightened on your own, but you feel braver with someone else."
+    ],
+    "1292:text": [
+      "...She was crying."
+    ],
+    "1293:text": [
+      "Her hands covered her face,"
+    ],
+    "1294:text": [
+      "and all he could hear was her sobbing.”"
+    ],
+    "1297:text": [
+      "“What's wrong? Did something happen"
+    ],
+    "1298:text": [
+      "to you here?”"
+    ],
+    "1300:text": [
+      "Akemi Iwashita"
+    ],
+    "1301:text": [
+      "“He called out to her."
+    ],
+    "1302:text": [
+      "From between the hands covering her face,"
+    ],
+    "1303:text": [
+      "two bulging eyes stared at him."
+    ],
+    "1304:text": [
+      "Then she spoke.”"
+    ],
+    "1306:text": [
+      "Girl"
+    ],
+    "1307:text": [
+      "“...My leg... my leg hurts. I can't walk. ...So"
+    ],
+    "1308:text": [
+      "I'm resting here... Please... help me.”"
+    ],
+    "1310:text": [
+      "Akemi Iwashita"
+    ],
+    "1311:text": [
+      "“She murmured the words"
+    ],
+    "1312:text": [
+      "in a faint, halting voice."
+    ],
+    "1314:text": [
+      "As if protecting her aching leg,"
+    ],
+    "1315:text": [
+      "she kept it gently bent."
+    ],
+    "1316:text": [
+      "Don't you find it strange that a girl"
+    ],
+    "1317:text": [
+      "would be here all alone?"
+    ],
+    "1318:text": [
+      "You do, don't you?"
+    ],
+    "1319:text": [
+      "What would you do?"
+    ],
+    "1320:text": [
+      "Would you help her?"
+    ],
+    "1321:text": [
+      "Or leave her alone?”"
+    ],
+    "1338:glink.text.1": [
+      "1. Help her"
+    ],
+    "1340:glink.text.1": [
+      "1. Help her"
+    ],
+    "1344:glink.text.1": [
+      "2. Leave her there and run"
+    ],
+    "1346:glink.text.1": [
+      "2. Leave her there and run"
+    ],
+    "1357:text": [
+      "Akemi Iwashita"
+    ],
+    "1358:text": [
+      "“That's right. That's what you have to do."
+    ],
+    "1359:text": [
+      "Because you're kind."
+    ],
+    "1360:text": [
+      "You said so yourself."
+    ],
+    "1361:text": [
+      "You have to help"
+    ],
+    "1362:text": [
+      "a girl in trouble."
+    ],
+    "1363:text": [
+      "If you don't... I might just come"
+    ],
+    "1364:text": [
+      "and kill you."
+    ],
+    "1366:text": [
+      "Oh, I'm sorry. Don't be so surprised."
+    ],
+    "1367:text": [
+      "You see, I hate liars."
+    ],
+    "1368:text": [
+      "If you say you're kind,"
+    ],
+    "1369:text": [
+      "you have to act like it."
+    ],
+    "1370:text": [
+      "Do you understand? Don't lie."
+    ],
+    "1371:text": [
+      "I hate liars."
+    ],
+    "1372:text": [
+      "Liars make me want to kill them."
+    ],
+    "1373:text": [
+      "You understand, don't you?"
+    ],
+    "1374:text": [
+      "You helped her.”"
+    ],
+    "1384:text": [
+      "Akemi Iwashita"
+    ],
+    "1385:text": [
+      "“What? What did you just say?"
+    ],
+    "1386:text": [
+      "Tell me again, please.”"
+    ],
+    "1396:glink.text.1": [
+      "1. Help her"
+    ],
+    "1398:glink.text.1": [
+      "1. Help her"
+    ],
+    "1402:glink.text.1": [
+      "2. Leave her there and run"
+    ],
+    "1404:glink.text.1": [
+      "2. Leave her there and run"
+    ],
+    "1414:text": [
+      "Akemi Iwashita"
+    ],
+    "1415:text": [
+      "“What are you talking about? That's not"
+    ],
+    "1416:text": [
+      "what you said before."
+    ],
+    "1417:text": [
+      "Or did I imagine it?"
+    ],
+    "1418:text": [
+      "Did I just imagine hearing you say you'd run away?"
+    ],
+    "1420:text": [
+      "You're going to help her, aren't you?"
+    ],
+    "1421:text": [
+      "That's what you said, isn't it?"
+    ],
+    "1422:text": [
+      "After all, you said"
+    ],
+    "1423:text": [
+      "you were kind."
+    ],
+    "1424:text": [
+      "Of course you'll help a girl in trouble, won't you?"
+    ],
+    "1426:text": [
+      "I hate liars."
+    ],
+    "1427:text": [
+      "Liars make me want to kill them."
+    ],
+    "1428:text": [
+      "Understand? If you lie, I'll kill you."
+    ],
+    "1429:text": [
+      "You're kind, so you're going"
+    ],
+    "1430:text": [
+      "to help her.”"
+    ],
+    "1440:text": [
+      "Akemi Iwashita"
+    ],
+    "1441:text": [
+      "“I hope I didn't mishear you..."
+    ],
+    "1442:text": [
+      "Did you just say you'd leave an injured girl all alone"
+    ],
+    "1443:text": [
+      "and run away?"
+    ],
+    "1444:text": [
+      "You did, didn't you?"
+    ],
+    "1446:text": [
+      "But you just said"
+    ],
+    "1447:text": [
+      "you were kind."
+    ],
+    "1448:text": [
+      "Didn't you? Or is there something wrong"
+    ],
+    "1449:text": [
+      "with my hearing?"
+    ],
+    "1450:text": [
+      "I'm certain that's what I heard."
+    ],
+    "1451:text": [
+      "You're kind, aren't you?"
+    ],
+    "1452:text": [
+      "Then help her."
+    ],
+    "1454:text": [
+      "I hate being lied to."
+    ],
+    "1455:text": [
+      "When someone lies to me, I want to kill them."
+    ],
+    "1456:text": [
+      "Understand? If you lie to me again,"
+    ],
+    "1457:text": [
+      "I'll kill you."
+    ],
+    "1459:text": [
+      "I'll let it slide just this once."
+    ],
+    "1460:text": [
+      "Do you understand? Don't lie to me."
+    ],
+    "1461:text": [
+      "You're kind, so you're going to help her."
+    ],
+    "1462:text": [
+      "No matter what.”"
+    ],
+    "1472:text": [
+      "“Are you all right? I'll carry you on my back.”"
+    ],
+    "1474:text": [
+      "Akemi Iwashita"
+    ],
+    "1475:text": [
+      "“You gently lifted her up and settled her"
+    ],
+    "1476:text": [
+      "on your back."
+    ],
+    "1477:text": [
+      "This is what she said.”"
+    ],
+    "1479:text": [
+      "Girl"
+    ],
+    "1480:text": [
+      "“Thank you... Please don't let go of me.”"
+    ],
+    "1482:text": [
+      "Akemi Iwashita"
+    ],
+    "1483:text": [
+      "“You're kind, after all."
+    ],
+    "1484:text": [
+      "You know what your answer was, don't you?”"
+    ],
+    "1495:glink.text.1": [
+      "1. Okay"
+    ],
+    "1497:glink.text.1": [
+      "1. Okay"
+    ],
+    "1501:glink.text.1": [
+      "2. No"
+    ],
+    "1503:glink.text.1": [
+      "2. No"
+    ],
+    "1514:text": [
+      "Akemi Iwashita"
+    ],
+    "1515:text": [
+      "“That's right. That's what you said."
+    ],
+    "1516:text": [
+      "After all, you're a kind person."
+    ],
+    "1517:text": [
+      "That's only natural."
+    ],
+    "1518:text": [
+      "Then you slowly started walking.”"
+    ],
+    "1528:text": [
+      "Akemi Iwashita"
+    ],
+    "1529:text": [
+      "“Don't be ridiculous."
+    ],
+    "1530:text": [
+      "You don't get to say no."
+    ],
+    "1531:text": [
+      "You're kind, after all."
+    ],
+    "1532:text": [
+      "Of course you wouldn't let her go."
+    ],
+    "1533:text": [
+      "If you let her go, I'll kill you."
+    ],
+    "1534:text": [
+      "I'll kill you."
+    ],
+    "1536:text": [
+      "Do you understand? I hate liars."
+    ],
+    "1537:text": [
+      "You're kind."
+    ],
+    "1538:text": [
+      "So you won't let go of her."
+    ],
+    "1540:text": [
+      "Isn't that right? That's what you're going to do."
+    ],
+    "1541:text": [
+      "Then you'll keep walking.”"
+    ],
+    "1551:text": [
+      "Akemi Iwashita"
+    ],
+    "1552:text": [
+      "“Her body was cold, but she was very"
+    ],
+    "1553:text": [
+      "light."
+    ],
+    "1554:text": [
+      "She was so light you could almost believe you weren't"
+    ],
+    "1555:text": [
+      "carrying anyone at all."
+    ],
+    "1557:text": [
+      "But you could still feel her thin arms wrapping"
+    ],
+    "1558:text": [
+      "around your neck."
+    ],
+    "1559:text": [
+      "Knowing you weren't alone gave you a little"
+    ],
+    "1560:text": [
+      "courage."
+    ],
+    "1562:text": [
+      "But the end of the corridor wasn't getting any closer."
+    ],
+    "1563:text": [
+      "You didn't feel you were moving forward at all."
+    ],
+    "1565:text": [
+      "And then you began to hear a strange noise behind you."
+    ],
+    "1566:text": [
+      "Come to think of it, there'd been a black mass"
+    ],
+    "1567:text": [
+      "at the other end of the corridor, too."
+    ],
+    "1568:text": [
+      "You'd never found out what it"
+    ],
+    "1569:text": [
+      "was."
+    ],
+    "1571:text": [
+      "Perhaps that was what was making the noise."
+    ],
+    "1572:text": [
+      "Should you look back...? You"
+    ],
+    "1573:text": [
+      "hesitated."
+    ],
+    "1574:text": [
+      "Then you felt her breath against your ear.”"
+    ],
+    "1577:text": [
+      "Girl"
+    ],
+    "1578:text": [
+      "“...Don't look back."
+    ],
+    "1579:text": [
+      "If you do, something terrible will happen."
+    ],
+    "1580:text": [
+      "You mustn't look back. No matter what.”"
+    ],
+    "1582:text": [
+      "Akemi Iwashita"
+    ],
+    "1583:text": [
+      "“Her body was cold, yet her breath felt"
+    ],
+    "1584:text": [
+      "warm."
+    ],
+    "1585:text": [
+      "Her breath tickled your ear in an unpleasant way."
+    ],
+    "1586:text": [
+      "As though trying to escape her breath, you looked"
+    ],
+    "1587:text": [
+      "down."
+    ],
+    "1588:text": [
+      "And you happened to notice her hands.”"
+    ],
+    "1602:text": [
+      "Akemi Iwashita"
+    ],
+    "1603:text": [
+      "“You were so startled you almost threw her off."
+    ],
+    "1604:text": [
+      "Her hands were dried out, just like"
+    ],
+    "1605:text": [
+      "a mummy's."
+    ],
+    "1607:text": [
+      "Those thin hands were nothing but bones with a thin"
+    ],
+    "1608:text": [
+      "layer of skin barely clinging to them."
+    ],
+    "1609:text": [
+      "Her long fingers seemed to be nothing but bone.”"
+    ],
+    "1623:text": [
+      "Girl"
+    ],
+    "1624:text": [
+      "“What's wrong? You're trembling."
+    ],
+    "1625:text": [
+      "Are you cold? I can warm you up if you are.”"
+    ],
+    "1627:text": [
+      "Akemi Iwashita"
+    ],
+    "1628:text": [
+      "“Her voice whispering in your ear was so gentle."
+    ],
+    "1629:text": [
+      "And yet it also sounded hoarse, like"
+    ],
+    "1630:text": [
+      "an old woman's."
+    ],
+    "1631:text": [
+      "Her hair, which brushed your cheek from time to time, was"
+    ],
+    "1632:text": [
+      "pure white."
+    ],
+    "1634:text": [
+      "When you lifted her up, her hair had been long,"
+    ],
+    "1635:text": [
+      "black, and damp. But now all you could see"
+    ],
+    "1636:text": [
+      "was white hair, stark against the darkness."
+    ],
+    "1637:text": [
+      "Who on earth were you"
+    ],
+    "1638:text": [
+      "carrying on your back?"
+    ],
+    "1639:text": [
+      "Maybe what you were carrying wasn't human."
+    ],
+    "1640:text": [
+      "If you looked back, you'd have your answer."
+    ],
+    "1641:text": [
+      "What would you do? Would you look back?”"
+    ],
+    "1651:glink.text.1": [
+      "1. Turn around"
+    ],
+    "1653:glink.text.1": [
+      "1. Turn around"
+    ],
+    "1657:glink.text.1": [
+      "2. Don't turn around"
+    ],
+    "1659:glink.text.1": [
+      "2. Don't turn around"
+    ],
+    "1669:text": [
+      "Akemi Iwashita"
+    ],
+    "1670:text": [
+      "“Don't play games with me."
+    ],
+    "1671:text": [
+      "You said you listen to people's advice."
+    ],
+    "1672:text": [
+      "You told me so, didn't you?"
+    ],
+    "1673:text": [
+      "Then why would you look back?”"
+    ],
+    "1682:text": [
+      "Akemi Iwashita"
+    ],
+    "1683:text": [
+      "“It's too late now. You looked back."
+    ],
+    "1684:text": [
+      "I want to kill you."
+    ],
+    "1685:text": [
+      "Yes, I want to kill you."
+    ],
+    "1686:text": [
+      "You looked back."
+    ],
+    "1687:text": [
+      "To see what she really was."
+    ],
+    "1688:text": [
+      "Then something fell."
+    ],
+    "1689:text": [
+      "That's what you heard."
+    ],
+    "1690:text": [
+      "At the same time, the weight left your back."
+    ],
+    "1691:text": [
+      "The girl you were carrying had fallen off."
+    ],
+    "1692:text": [
+      "You looked down at the floor. There...”"
+    ],
+    "1710:text": [
+      "Akemi Iwashita"
+    ],
+    "1711:text": [
+      "“There was a skeleton with scraps of flesh clinging to it."
+    ],
+    "1712:text": [
+      "You'd been carrying a skeleton on your back."
+    ],
+    "1714:text": [
+      "What's wrong?"
+    ],
+    "1715:text": [
+      "Are you scared? But it's no use."
+    ],
+    "1716:text": [
+      "It's too late for you."
+    ],
+    "1717:text": [
+      "You're a liar, after all."
+    ],
+    "1718:text": [
+      "I have to kill you."
+    ],
+    "1719:text": [
+      "I have to kill you."
+    ],
+    "1720:text": [
+      "I'll kill you because you looked back."
+    ],
+    "1722:text": [
+      "Listen... you can hear it, can't you?"
+    ],
+    "1723:text": [
+      "The skeleton's voice."
+    ],
+    "1724:text": [
+      "The voice of the skeleton cursing you."
+    ],
+    "1729:text": [
+      "School corridors are filled with spiritual energy."
+    ],
+    "1730:text": [
+      "That's where the spirits of those who died at school gather."
+    ],
+    "1731:text": [
+      "A school is a big place, with so many students."
+    ],
+    "1732:text": [
+      "Some people have accidents on school grounds."
+    ],
+    "1733:text": [
+      "Some of them die."
+    ],
+    "1735:text": [
+      "Spirits like that don't want to accept their deaths,"
+    ],
+    "1736:text": [
+      "so they have trouble moving on to the spirit world."
+    ],
+    "1737:text": [
+      "And so, it seems, they linger in the corridors."
+    ],
+    "1739:text": [
+      "After all, corridors are long, with"
+    ],
+    "1740:text": [
+      "so many classrooms opening onto them, aren't they?"
+    ],
+    "1741:text": [
+      "More classrooms mean more people passing by."
+    ],
+    "1742:text": [
+      "All that foot traffic attracts plenty of spirits"
+    ],
+    "1743:text": [
+      "who want someone to notice they exist."
+    ],
+    "1744:text": [
+      "That's why strange things"
+    ],
+    "1745:text": [
+      "happen here."
+    ],
+    "1747:text": [
+      "With so many spirits gathered in one place,"
+    ],
+    "1748:text": [
+      "even space becomes distorted."
+    ],
+    "1749:text": [
+      "A ‘path’ to the spirit world forms there, too."
+    ],
+    "1750:text": [
+      "And some spirits drag people onto it."
+    ],
+    "1752:text": [
+      "There are so many spirits like that."
+    ],
+    "1753:text": [
+      "They drag people onto the path to the spirit world"
+    ],
+    "1754:text": [
+      "and show them the illusion of an endless corridor."
+    ],
+    "1756:text": [
+      "Now, ",
+      "."
+    ],
+    "1757:text": [
+      "You were one of those they led astray."
+    ],
+    "1758:text": [
+      "The girl you tried to help"
+    ],
+    "1759:text": [
+      "had been led astray long ago."
+    ],
+    "1760:text": [
+      "The illusion of an endless corridor"
+    ],
+    "1761:text": [
+      "kept her wandering back and forth along the path to the spirit world."
+    ],
+    "1762:text": [
+      "She'd lost her way and starved to death, but she"
+    ],
+    "1763:text": [
+      "kept wandering for years, still trying to get out."
+    ],
+    "1765:text": [
+      "That's why her leg hurt."
+    ],
+    "1766:text": [
+      "It hurt too much for her to walk."
+    ],
+    "1767:text": [
+      "And yet you wouldn't listen"
+    ],
+    "1768:text": [
+      "to what she told you."
+    ],
+    "1770:text": [
+      "I have to kill you."
+    ],
+    "1771:text": [
+      "I have to kill someone like that."
+    ],
+    "1773:text": [
+      "Listen... can't you hear it? A girl's voice."
+    ],
+    "1774:text": [
+      "Or is it an old woman's voice?"
+    ],
+    "1775:text": [
+      "It's the voice of the girl you were carrying on your back."
+    ],
+    "1777:text": [
+      "Listen... that shrill voice."
+    ],
+    "1778:text": [
+      "You can hear it, can't you? That's her voice."
+    ],
+    "1779:text": [
+      "It's the voice of someone bitterly regretting"
+    ],
+    "1780:text": [
+      "getting lost and dying here."
+    ],
+    "1781:text": [
+      "She says she's jealous of you for being alive."
+    ],
+    "1782:text": [
+      "She says she wants to strangle you."
+    ],
+    "1784:text": [
+      "I feel the same way."
+    ],
+    "1785:text": [
+      "I'd like to strangle you, too. Hehe..."
+    ],
+    "1787:text": [
+      "She wanted to leave the corridor of endless hell"
+    ],
+    "1788:text": [
+      "and return to the school corridor."
+    ],
+    "1789:text": [
+      "After all, she hadn't said goodbye"
+    ],
+    "1790:text": [
+      "to anyone."
+    ],
+    "1791:text": [
+      "One day, she'd suddenly wandered"
+    ],
+    "1792:text": [
+      "into this corridor."
+    ],
+    "1793:text": [
+      "And she bitterly regretted"
+    ],
+    "1794:text": [
+      "dying here."
+    ],
+    "1796:text": [
+      "She couldn't just go to the spirit world without a word."
+    ],
+    "1797:text": [
+      "Look... she's started walking."
+    ],
+    "1798:text": [
+      "You can see her, can't you?"
+    ],
+    "1799:text": [
+      "A skeleton with scraps of flesh still clinging to it is walking."
+    ],
+    "1800:text": [
+      "She says she'll walk on her own after all."
+    ],
+    "1801:text": [
+      "She says she can't go with you."
+    ],
+    "1803:text": [
+      "She says she can see the way out of this corridor now."
+    ],
+    "1804:text": [
+      "She says she'll walk, even though her leg hurts."
+    ],
+    "1806:text": [
+      "Oh... can't you see the exit?"
+    ],
+    "1807:text": [
+      "Then keep wandering."
+    ],
+    "1808:text": [
+      "If you wander for as many years as she did,"
+    ],
+    "1809:text": [
+      "maybe you'll see the exit someday."
+    ],
+    "1811:text": [
+      "Ah... she's gone."
+    ],
+    "1812:text": [
+      "She's out of sight now."
+    ],
+    "1813:text": [
+      "She made it out of the corridor."
+    ],
+    "1814:text": [
+      "Yes, her voice still carries."
+    ],
+    "1815:text": [
+      "Listen carefully. You can hear her, can't you?”"
+    ],
+    "1817:text": [
+      "Girl"
+    ],
+    "1818:text": [
+      "“Die here without ever getting out...”"
+    ],
+    "1820:text": [
+      "Akemi Iwashita"
+    ],
+    "1821:text": [
+      "“Did you hear that? You're going to be killed."
+    ],
+    "1822:text": [
+      "She's abandoned you, and you're going to be killed."
+    ],
+    "1823:text": [
+      "Listen, ",
+      ". You........................."
+    ],
+    "1824:text": [
+      "............................................................"
+    ],
+    "1825:text": [
+      "............................................................"
+    ],
+    "1826:text": [
+      "............................................................"
+    ],
+    "1827:text": [
+      "............................................................"
+    ],
+    "1828:text": [
+      "............................................................"
+    ],
+    "1829:text": [
+      "............................................................"
+    ],
+    "1830:text": [
+      "............I'm sorry."
+    ],
+    "1831:text": [
+      "This wasn't about you, was it?"
+    ],
+    "1832:text": [
+      "The other ",
+      "."
+    ],
+    "1833:text": [
+      "Yes, the other you. That's who this story was about."
+    ],
+    "1835:text": [
+      "After that, he went on wandering the corridor forever."
+    ],
+    "1836:text": [
+      "That was his punishment for ignoring her advice."
+    ],
+    "1849:text": [
+      "They say her skeleton was found in that corridor"
+    ],
+    "1850:text": [
+      "the next day."
+    ],
+    "1851:text": [
+      "She apparently recounted everything that had happened,"
+    ],
+    "1852:text": [
+      "her dried-out jaws clattering"
+    ],
+    "1853:text": [
+      "as she spoke."
+    ],
+    "1855:text": [
+      "Every school has corridors, doesn't it?"
+    ],
+    "1856:text": [
+      "This could happen at your school,"
+    ],
+    "1857:text": [
+      "too."
+    ],
+    "1858:text": [
+      "You'd better be careful."
+    ],
+    "1859:text": [
+      "Especially about lying."
+    ],
+    "1860:text": [
+      "You never know what danger might be waiting"
+    ],
+    "1861:text": [
+      "for you."
+    ],
+    "1862:text": [
+      "Hehe... That's the end of my story.”"
+    ],
+    "1882:text": [
+      "Akemi Iwashita"
+    ],
+    "1883:text": [
+      "“That's right. You're someone who takes"
+    ],
+    "1884:text": [
+      "other people's advice."
+    ],
+    "1885:text": [
+      "Yes, you have to take"
+    ],
+    "1886:text": [
+      "her advice."
+    ],
+    "1887:text": [
+      "You mustn't turn around."
+    ],
+    "1888:text": [
+      "No matter what."
+    ],
+    "1889:text": [
+      "You told me yourself"
+    ],
+    "1890:text": [
+      "that you take other people's advice."
+    ],
+    "1892:text": [
+      "Don't lie to me."
+    ],
+    "1893:text": [
+      "If you lie, I'll kill you."
+    ],
+    "1894:text": [
+      "I can't stand it."
+    ],
+    "1895:text": [
+      "I can't forgive liars."
+    ],
+    "1896:text": [
+      "Understand?"
+    ],
+    "1898:text": [
+      "...You didn't turn around."
+    ],
+    "1899:text": [
+      "But the fear didn't go away."
+    ],
+    "1900:text": [
+      "With every step you took, fear"
+    ],
+    "1901:text": [
+      "seeped through your entire body."
+    ],
+    "1902:text": [
+      "Then you felt as though the girl's hands, wrapped"
+    ],
+    "1903:text": [
+      "around your neck, were beginning to"
+    ],
+    "1904:text": [
+      "tighten."
+    ],
+    "1907:text": [
+      "You could hardly breathe."
+    ],
+    "1908:text": [
+      "With every jolt as you walked, her hands unmistakably"
+    ],
+    "1909:text": [
+      "tightened around your neck."
+    ],
+    "1910:text": [
+      "Thin, cold, rigid fingers locked themselves tightly"
+    ],
+    "1911:text": [
+      "around your neck."
+    ],
+    "1913:text": [
+      "If you turned around, perhaps she'd"
+    ],
+    "1914:text": [
+      "disappear."
+    ],
+    "1915:text": [
+      "If you threw her off, perhaps you could"
+    ],
+    "1916:text": [
+      "get away from her."
+    ],
+    "1917:text": [
+      "What would you do? Would you turn around?”"
+    ],
+    "1929:glink.text.1": [
+      "1. Turn around"
+    ],
+    "1931:glink.text.1": [
+      "1. Turn around"
+    ],
+    "1935:glink.text.1": [
+      "2. Throw her off"
+    ],
+    "1937:glink.text.1": [
+      "2. Throw her off"
+    ],
+    "1941:glink.text.1": [
+      "3. Do nothing"
+    ],
+    "1943:glink.text.1": [
+      "3. Do nothing"
+    ],
+    "1953:text": [
+      "Akemi Iwashita"
+    ],
+    "1954:text": [
+      "“What do you think you're doing?"
+    ],
+    "1955:text": [
+      "Turn around? You said you'd turn around?"
+    ],
+    "1956:text": [
+      "Didn't she tell you not to look"
+    ],
+    "1957:text": [
+      "back?"
+    ],
+    "1958:text": [
+      "Didn't she warn you something terrible would"
+    ],
+    "1959:text": [
+      "happen if you did?"
+    ],
+    "1961:text": [
+      "Why would you turn around?"
+    ],
+    "1962:text": [
+      "Liar.",
+      "You're a liar."
+    ],
+    "1963:text": [
+      "And you said you could listen to other people's advice."
+    ],
+    "1964:text": [
+      "I want to kill you."
+    ],
+    "1966:text": [
+      "You turned around."
+    ],
+    "1967:text": [
+      "Of course, she was furious."
+    ],
+    "1968:text": [
+      "She let out a wordless cry of rage as she"
+    ],
+    "1969:text": [
+      "strangled you."
+    ],
+    "1971:text": [
+      "Well? Does it hurt?"
+    ],
+    "1972:text": [
+      "It must."
+    ],
+    "1973:text": [
+      "After all, she intends to kill you."
+    ],
+    "1974:text": [
+      "Listen. You can hear her voice, can't you?"
+    ],
+    "1976:text": [
+      "Does it hurt? Can't you breathe?"
+    ],
+    "1977:text": [
+      "You can't answer me anymore, can you........................"
+    ],
+    "1978:text": [
+      "............................................................"
+    ],
+    "1979:text": [
+      "............................................................"
+    ],
+    "1980:text": [
+      "............................................................"
+    ],
+    "1981:text": [
+      "............................................................"
+    ],
+    "1982:text": [
+      "..............................."
+    ],
+    "1995:text": [
+      "The next day, you were found in that corridor,"
+    ],
+    "1996:text": [
+      "strangled to death."
+    ],
+    "1998:text": [
+      "Oh, I'm sorry. This wasn't about"
+    ],
+    "1999:text": [
+      "you, was it?"
+    ],
+    "2000:text": [
+      "It was about the other ",
+      ", wasn't it?"
+    ],
+    "2002:text": [
+      "They say the flesh of his neck was riddled with"
+    ],
+    "2003:text": [
+      "holes, as if someone had stabbed it with a stick."
+    ],
+    "2004:text": [
+      "It was full of little holes, as though fingers had been"
+    ],
+    "2005:text": [
+      "driven into his neck."
+    ],
+    "2006:text": [
+      "I wonder what that girl you were carrying"
+    ],
+    "2007:text": [
+      "on your back really was."
+    ],
+    "2009:text": [
+      "By the way, you said you could listen"
+    ],
+    "2010:text": [
+      "to other people's advice, didn't you?"
+    ],
+    "2011:text": [
+      "Then let me give you some."
+    ],
+    "2012:text": [
+      "Listen properly this time."
+    ],
+    "2013:text": [
+      "Don't ignore advice like you did before. All right?"
+    ],
+    "2015:text": [
+      "Every school has corridors, doesn't it?"
+    ],
+    "2016:text": [
+      "This could happen at your school,"
+    ],
+    "2017:text": [
+      "too."
+    ],
+    "2018:text": [
+      "Your school has such strong spiritual energy, doesn't it?"
+    ],
+    "2019:text": [
+      "I saw them earlier. The corridors are teeming"
+    ],
+    "2020:text": [
+      "with spirits."
+    ],
+    "2022:text": [
+      "Spirits love to test people."
+    ],
+    "2023:text": [
+      "Being kind, keeping promises, willingly taking"
+    ],
+    "2024:text": [
+      "other people's advice..."
+    ],
+    "2025:text": [
+      "When people claim they can live up to ideals like those,"
+    ],
+    "2026:text": [
+      "spirits apparently show them illusions to test them."
+    ],
+    "2028:text": [
+      "Hehe... Now, what was it you said about"
+    ],
+    "2029:text": [
+      "yourself earlier?"
+    ],
+    "2030:text": [
+      "I'll say it again."
+    ],
+    "2031:text": [
+      "Be very, very careful."
+    ],
+    "2032:text": [
+      "I'm warning you..."
+    ],
+    "2033:text": [
+      "And that's the end of my story.”"
+    ],
+    "2052:text": [
+      "Akemi Iwashita"
+    ],
+    "2053:text": [
+      "“Throw her off?"
+    ],
+    "2054:text": [
+      "You just promised you wouldn't"
+    ],
+    "2055:text": [
+      "let go of her."
+    ],
+    "2056:text": [
+      "You said you wouldn't, didn't you?"
+    ],
+    "2058:text": [
+      "I can't forgive you now."
+    ],
+    "2059:text": [
+      "You threw her off."
+    ],
+    "2061:text": [
+      "And you ran down the corridor."
+    ],
+    "2062:text": [
+      "You ran and ran, straight ahead."
+    ],
+    "2065:text": [
+      "She came after you."
+    ],
+    "2066:text": [
+      "From behind you came a strange sound,"
+    ],
+    "2067:text": [
+      "like an insect's cry."
+    ],
+    "2068:text": [
+      "It was a shrill sound, like metal scraping against metal."
+    ],
+    "2069:text": [
+      "It was her scream."
+    ],
+    "2070:text": [
+      "You ran for your life."
+    ],
+    "2072:text": [
+      "You tried to get away from her."
+    ],
+    "2073:text": [
+      "But her screams wouldn't stop."
+    ],
+    "2074:text": [
+      "She's coming after you."
+    ],
+    "2075:text": [
+      "She's coming after you."
+    ],
+    "2076:text": [
+      "She's coming after you."
+    ],
+    "2077:text": [
+      "............................................................"
+    ],
+    "2078:text": [
+      "............................................................"
+    ],
+    "2079:text": [
+      "............................................................"
+    ],
+    "2080:text": [
+      "............................................................"
+    ],
+    "2081:text": [
+      "............................................................"
+    ],
+    "2082:text": [
+      "......She's coming after you......."
+    ],
+    "2084:text": [
+      "This corridor goes on forever."
+    ],
+    "2085:text": [
+      "No matter how far you run, you can't escape."
+    ],
+    "2086:text": [
+      "You can't even hide."
+    ],
+    "2087:text": [
+      "There is nowhere to hide."
+    ],
+    "2088:text": [
+      "All there is is an endless corridor."
+    ],
+    "2089:text": [
+      "There's nowhere for you to run."
+    ],
+    "2091:text": [
+      "Hehe... She chased you."
+    ],
+    "2092:text": [
+      "On and on. On and on."
+    ],
+    "2093:text": [
+      "On and on."
+    ],
+    "2095:text": [
+      "Only moments ago, she'd said"
+    ],
+    "2096:text": [
+      "her leg hurt."
+    ],
+    "2097:text": [
+      "No matter how fast you run,"
+    ],
+    "2098:text": [
+      "she keeps coming after you."
+    ],
+    "2100:text": [
+      "You can hear her screams..."
+    ],
+    "2101:text": [
+      "Hot breath blows against you."
+    ],
+    "2102:text": [
+      "Against the back of your neck."
+    ],
+    "2103:text": [
+      "Then a hand reached out."
+    ],
+    "2104:text": [
+      "It grabbed your shoulder."
+    ],
+    "2105:text": [
+      "Something's hand grabbed your shoulder.”"
+    ],
+    "2111:text": [
+      "Girl"
+    ],
+    "2112:text": [
+      "“Don't let go of me...”"
+    ],
+    "2114:text": [
+      "Akemi Iwashita"
+    ],
+    "2115:text": [
+      "“You can sense something on your back."
+    ],
+    "2116:text": [
+      "Something is clinging to your back.”"
+    ],
+    "2118:text": [
+      "Girl"
+    ],
+    "2119:text": [
+      "“I told you not to let go of me...”"
+    ],
+    "2130:glink.text.1": [
+      "1. Throw her off"
+    ],
+    "2132:glink.text.1": [
+      "1. Throw her off"
+    ],
+    "2136:glink.text.1": [
+      "2. I won't let go this time"
+    ],
+    "2138:glink.text.1": [
+      "2. I won't let go this time"
+    ],
+    "2149:text": [
+      "Akemi Iwashita"
+    ],
+    "2150:text": [
+      "“You threw her off."
+    ],
+    "2151:text": [
+      "And you ran as hard as you could.”"
+    ],
+    "2155:text": [
+      "“I have to get away!”"
+    ],
+    "2157:text": [
+      "Akemi Iwashita"
+    ],
+    "2158:text": [
+      "“That was all you could think."
+    ],
+    "2159:text": [
+      "You ran and ran and ran... And she"
+    ],
+    "2160:text": [
+      "came after you."
+    ],
+    "2161:text": [
+      "Spitting out words of hatred."
+    ],
+    "2163:text": [
+      "You ran."
+    ],
+    "2164:text": [
+      "You ran, ignoring everything she said."
+    ],
+    "2165:text": [
+      "After a while, you could no longer hear her voice."
+    ],
+    "2166:text": [
+      "Then you calmed down and looked around."
+    ],
+    "2169:text": [
+      "It was just a corridor."
+    ],
+    "2170:text": [
+      "An empty, ordinary corridor..."
+    ],
+    "2172:text": [
+      "You walked slowly."
+    ],
+    "2173:text": [
+      "Keeping an eye on your surroundings."
+    ],
+    "2175:text": [
+      "After a while, the end of the corridor came into view."
+    ],
+    "2176:text": [
+      "You could get out."
+    ],
+    "2177:text": [
+      "You could get out of this corridor."
+    ],
+    "2179:text": [
+      "You left the school and went home..."
+    ],
+    "2180:text": [
+      "Good for you, ",
+      "."
+    ],
+    "2181:text": [
+      "You made it home safely."
+    ],
+    "2192:text": [
+      "Hehe... Now, what did you think"
+    ],
+    "2193:text": [
+      "of my story?"
+    ],
+    "2194:text": [
+      "Did you really think it was something someone had experienced?"
+    ],
+    "2196:text": [
+      "That wasn't a story about someone else."
+    ],
+    "2197:text": [
+      "It's your story."
+    ],
+    "2198:text": [
+      "You must have experienced it."
+    ],
+    "2199:text": [
+      "The endless corridor."
+    ],
+    "2200:text": [
+      "Carrying the girl on your back."
+    ],
+    "2201:text": [
+      "It's a story with a life of its own."
+    ],
+    "2203:text": [
+      "Well? You saw it too, didn't you?"
+    ],
+    "2204:text": [
+      "The squirming shape in the corridor and the girl were things I made up."
+    ],
+    "2205:text": [
+      "But didn't you see those too?"
+    ],
+    "2206:text": [
+      "...You did, didn't you?"
+    ],
+    "2207:text": [
+      "Maybe this story has the power"
+    ],
+    "2208:text": [
+      "to make imagination real. Hehe..."
+    ],
+    "2210:text": [
+      "You think so too, don't you?"
+    ],
+    "2211:text": [
+      "If you saw the illusion of the corridor, you must think so."
+    ],
+    "2212:text": [
+      "Be careful."
+    ],
+    "2213:text": [
+      "Next time, the same thing could happen"
+    ],
+    "2214:text": [
+      "in your own school's corridors."
+    ],
+    "2216:text": [
+      "Oh, and there's one thing I'd like to tell you"
+    ],
+    "2217:text": [
+      "..."
+    ],
+    "2218:text": [
+      "You said you were someone who kept their promises,"
+    ],
+    "2219:text": [
+      "but you broke one, didn't you?"
+    ],
+    "2220:text": [
+      "And I said I'd kill someone like that, didn't I?"
+    ],
+    "2221:text": [
+      "I hope that part doesn't become real, too."
+    ],
+    "2222:text": [
+      "Hehe... My story ends here.”"
+    ],
+    "2241:text": [
+      "Akemi Iwashita"
+    ],
+    "2242:text": [
+      "“You reached your arms behind you and held her"
+    ],
+    "2243:text": [
+      "firmly in place."
+    ],
+    "2244:text": [
+      "And this was what you said."
+    ],
+    "2245:text": [
+      "You wouldn't let go again."
+    ],
+    "2246:text": [
+      "You'd keep your promise."
+    ],
+    "2247:text": [
+      "She was overjoyed.”"
+    ],
+    "2249:text": [
+      "Girl"
+    ],
+    "2250:text": [
+      "“Thank you. Please don't let go of me. Ever,"
+    ],
+    "2251:text": [
+      "ever...”"
+    ],
+    "2254:text": [
+      "Akemi Iwashita"
+    ],
+    "2255:text": [
+      "“This time, you kept your promise."
+    ],
+    "2256:text": [
+      "You kept carrying her on your back,"
+    ],
+    "2257:text": [
+      "forever and ever."
+    ],
+    "2258:text": [
+      "You kept walking down the endless corridor. Forever"
+    ],
+    "2259:text": [
+      "..."
+    ],
+    "2272:text": [
+      "That's how you'll atone"
+    ],
+    "2273:text": [
+      "for the sin of breaking your promise to her."
+    ],
+    "2274:text": [
+      "You understand, don't you?"
+    ],
+    "2276:text": [
+      "...Oh, I'm sorry. This wasn't"
+    ],
+    "2277:text": [
+      "about you, was it?"
+    ],
+    "2278:text": [
+      "This was about the other ",
+      "."
+    ],
+    "2280:text": [
+      "But, ",
+      "."
+    ],
+    "2281:text": [
+      "Hehe... Be careful."
+    ],
+    "2282:text": [
+      "They say a boy did just what you did"
+    ],
+    "2283:text": [
+      "and was spirited away."
+    ],
+    "2284:text": [
+      "That boy's name was... ",
+      "."
+    ],
+    "2285:text": [
+      "Oh, I'm sorry. No, that's not right."
+    ],
+    "2286:text": [
+      "That was only a name for the story. Only a name"
+    ],
+    "2287:text": [
+      "..."
+    ],
+    "2288:text": [
+      "And that's the end of my story.”"
+    ],
+    "2306:text": [
+      "Akemi Iwashita"
+    ],
+    "2307:text": [
+      "“You did well."
+    ],
+    "2308:text": [
+      "If you turned around, you'd be ignoring"
+    ],
+    "2309:text": [
+      "her advice."
+    ],
+    "2310:text": [
+      "If you shook her off, you'd be breaking"
+    ],
+    "2311:text": [
+      "your promise to her."
+    ],
+    "2312:text": [
+      "You did everything you could to endure it."
+    ],
+    "2313:text": [
+      "Yes, you held on, trying to keep your heart"
+    ],
+    "2314:text": [
+      "from freezing with fear.”"
+    ],
+    "2317:text": [
+      "Girl"
+    ],
+    "2318:text": [
+      "“...Such a long corridor. ...When will it"
+    ],
+    "2319:text": [
+      "ever end?"
+    ],
+    "2320:text": [
+      "Was there a corridor this long at school...?”"
+    ],
+    "2322:text": [
+      "Akemi Iwashita"
+    ],
+    "2323:text": [
+      "“Her voice, addressed to no one in particular,"
+    ],
+    "2324:text": [
+      "melted into the darkness.”"
+    ],
+    "2326:text": [
+      "Girl"
+    ],
+    "2327:text": [
+      "“...It's awfully cold, isn't it?”"
+    ],
+    "2331:text": [
+      "Akemi Iwashita"
+    ],
+    "2332:text": [
+      "“The moment she said that, a cold wind"
+    ],
+    "2333:text": [
+      "blew from behind you."
+    ],
+    "2335:text": [
+      "Then you heard a groan"
+    ],
+    "2336:text": [
+      "as if forced up from deep in someone's belly."
+    ],
+    "2337:text": [
+      "It was a spiteful voice, as if souls in hell were cursing"
+    ],
+    "2338:text": [
+      "the living from deep beneath the earth in bitter resentment."
+    ],
+    "2339:text": [
+      "It might have been the wind."
+    ],
+    "2340:text": [
+      "But perhaps it wasn't the wind."
+    ],
+    "2341:text": [
+      "Then her voice whispered in your ear again.”"
+    ],
+    "2343:text": [
+      "Girl"
+    ],
+    "2344:text": [
+      "“...You're scared, aren't you? Why don't you look back?"
+    ],
+    "2345:text": [
+      "You'll feel better if you look back."
+    ],
+    "2346:text": [
+      "You don't have to be scared anymore.”"
+    ],
+    "2349:text": [
+      "Akemi Iwashita"
+    ],
+    "2350:text": [
+      "“Her voice was sweet and inviting."
+    ],
+    "2351:text": [
+      "What would you do? Would you turn around?"
+    ],
+    "2352:text": [
+      "If you don't, you might"
+    ],
+    "2353:text": [
+      "die.”"
+    ],
+    "2363:glink.text.1": [
+      "1. Turn around"
+    ],
+    "2365:glink.text.1": [
+      "1. Turn around"
+    ],
+    "2369:glink.text.1": [
+      "2. Don't turn around"
+    ],
+    "2371:glink.text.1": [
+      "2. Don't turn around"
+    ],
+    "2383:text": [
+      "Akemi Iwashita"
+    ],
+    "2384:text": [
+      "“You're going to turn around?"
+    ],
+    "2385:text": [
+      "How could you do that after coming"
+    ],
+    "2386:text": [
+      "this far?"
+    ],
+    "2387:text": [
+      "You listen to other people's advice, don't you?"
+    ],
+    "2388:text": [
+      "That's what you told me. Why would you turn"
+    ],
+    "2389:text": [
+      "around?”"
+    ],
+    "2401:text": [
+      "Akemi Iwashita"
+    ],
+    "2402:text": [
+      "“Even then, you didn't turn around."
+    ],
+    "2403:text": [
+      "Because you listened to her advice."
+    ],
+    "2404:text": [
+      "Because you kept your promise to her.”"
+    ],
+    "2406:text": [
+      "Girl"
+    ],
+    "2407:text": [
+      "“Keeeeeeee!”"
+    ],
+    "2409:text": [
+      "Akemi Iwashita"
+    ],
+    "2410:text": [
+      "“Suddenly, a piercing, high-pitched shriek rang out,"
+    ],
+    "2411:text": [
+      "and the thin fingers around your neck"
+    ],
+    "2412:text": [
+      "tightened.”"
+    ],
+    "2415:text": [
+      "“Stop it!”"
+    ],
+    "2417:text": [
+      "Akemi Iwashita"
+    ],
+    "2418:text": [
+      "“That was all you could manage to shout."
+    ],
+    "2421:text": [
+      "...Then you began to lose consciousness."
+    ],
+    "2423:text": [
+      "...I'm sorry. This wasn't about"
+    ],
+    "2424:text": [
+      "you, was it?"
+    ],
+    "2428:text": [
+      "The other ",
+      "."
+    ],
+    "2429:text": [
+      "Yes, the other you. That's who this story was about."
+    ],
+    "2431:text": [
+      "He came to the following morning."
+    ],
+    "2432:text": [
+      "A classmate helped him up.”"
+    ],
+    "2436:text": [
+      "Classmate"
+    ],
+    "2437:text": [
+      "“What happened to you? Why are you sleeping"
+    ],
+    "2438:text": [
+      "here?”"
+    ],
+    "2440:text": [
+      "Akemi Iwashita"
+    ],
+    "2441:text": [
+      "“Even when they asked, he didn't know"
+    ],
+    "2442:text": [
+      "what to say."
+    ],
+    "2443:text": [
+      "As his mind cleared, he remembered what he'd been through"
+    ],
+    "2444:text": [
+      "and hurriedly looked around the corridor."
+    ],
+    "2445:text": [
+      "He could see the corridor clearly in the"
+    ],
+    "2446:text": [
+      "morning light."
+    ],
+    "2447:text": [
+      "There was the familiar corridor he'd always known."
+    ],
+    "2448:text": [
+      "The same corridor, where he could see from end to end."
+    ],
+    "2449:text": [
+      "And he'd collapsed right outside his classroom.”"
+    ],
+    "2452:text": [
+      "“...I'm safe.”"
+    ],
+    "2454:text": [
+      "Akemi Iwashita"
+    ],
+    "2455:text": [
+      "“That was all he could manage to murmur."
+    ],
+    "2456:text": [
+      "Perhaps it had all been a dream."
+    ],
+    "2457:text": [
+      "Maybe he'd been so tired from studying that he'd had"
+    ],
+    "2458:text": [
+      "a nightmare."
+    ],
+    "2459:text": [
+      "His classmate was giving him an odd look."
+    ],
+    "2460:text": [
+      "Then they spoke.”"
+    ],
+    "2462:text": [
+      "Classmate"
+    ],
+    "2463:text": [
+      "“What happened to you? You've got strange bruises"
+    ],
+    "2464:text": [
+      "on your neck.”"
+    ],
+    "2475:text": [
+      "Akemi Iwashita"
+    ],
+    "2476:text": [
+      "“He checked in a mirror when they said that."
+    ],
+    "2477:text": [
+      "His neck bore bruised finger marks, as though"
+    ],
+    "2478:text": [
+      "he'd been strangled."
+    ],
+    "2494:text": [
+      "In the end, why had the corridor been so long?"
+    ],
+    "2495:text": [
+      "And what had he been carrying on his back?"
+    ],
+    "2496:text": [
+      "He never found out."
+    ],
+    "2497:text": [
+      "If he'd looked back, he might have discovered"
+    ],
+    "2498:text": [
+      "what it really was."
+    ],
+    "2499:text": [
+      "But he might have paid for that"
+    ],
+    "2500:text": [
+      "with his life."
+    ],
+    "2502:text": [
+      "They say the bruises on his neck remained for about a month..."
+    ],
+    "2503:text": [
+      "Even so, he survived."
+    ],
+    "2504:text": [
+      "Maybe that was because he kept his promise"
+    ],
+    "2505:text": [
+      "to the very end."
+    ],
+    "2507:text": [
+      "Every school has corridors, doesn't it?"
+    ],
+    "2508:text": [
+      "This could happen at your school,"
+    ],
+    "2509:text": [
+      "too."
+    ],
+    "2510:text": [
+      "But you're a kind person who keeps promises"
+    ],
+    "2511:text": [
+      "and listens to advice."
+    ],
+    "2512:text": [
+      "You'll be all right. I pray"
+    ],
+    "2513:text": [
+      "you'll always stay that way."
+    ],
+    "2514:text": [
+      "People are so prone to changing their minds."
+    ],
+    "2515:text": [
+      "...Hehe. Be careful."
+    ],
+    "2516:text": [
+      "And that's the end of my story.”"
+    ],
+    "2545:text": [
+      "Akemi Iwashita"
+    ],
+    "2546:text": [
+      "“Long ago, there was a girl named Akiko Sano"
+    ],
+    "2547:text": [
+      "at my school."
+    ],
+    "2548:text": [
+      "There was a boy in her class"
+    ],
+    "2549:text": [
+      "she had feelings for."
+    ],
+    "2550:text": [
+      "Sano couldn't bring herself to tell him."
+    ],
+    "2551:text": [
+      "She was very shy about romance, so all she could do"
+    ],
+    "2552:text": [
+      "was watch him"
+    ],
+    "2553:text": [
+      "from a distance."
+    ],
+    "2555:text": [
+      "Her seat was diagonally behind his."
+    ],
+    "2556:text": [
+      "She always looked at his profile from a slight angle"
+    ],
+    "2557:text": [
+      "..."
+    ],
+    "2558:text": [
+      "Whenever she remembered the way he looked,"
+    ],
+    "2559:text": [
+      "she felt a yearning she couldn't put into words."
+    ],
+    "2563:text": [
+      "Come to think of it, I haven't told you",
+      "the name of the boy Sano had feelings for."
+    ],
+    "2567:text": [
+      "His name was ",
+      "...I'm sorry. I've forgotten his name."
+    ],
+    "2568:text": [
+      "So I'll borrow your name."
+    ],
+    "2573:text": [
+      "Perhaps Sano's feelings had somehow gotten through."
+    ],
+    "2574:text": [
+      "Then one day, something changed."
+    ],
+    "2575:text": [
+      "At my school, a boy and a girl were assigned classroom duty together."
+    ],
+    "2576:text": [
+      "As luck would have it, Sano and ",
+      " were assigned to classroom duty on the same day."
+    ],
+    "2577:text": [
+      "She was in heaven."
+    ],
+    "2579:text": [
+      "Normally, all she could do was watch him. Today, they were partners on classroom duty, working together all day."
+    ],
+    "2581:text": [
+      "Sano and ",
+      " had their names written side by side on the blackboard."
+    ],
+    "2582:text": [
+      "Just seeing that made her feel so happy."
+    ],
+    "2584:text": [
+      "If only they could stay on classroom duty forever..."
+    ],
+    "2585:text": [
+      "That was the sort of thing she found herself thinking."
+    ],
+    "2589:text": [
+      "As though savoring her joy, she filled the class log with everything that had happened that day."
+    ],
+    "2591:text": [
+      "She recorded the day's timetable, of course, but also what time teachers came in, which students they called on, and how those students answered."
+    ],
+    "2593:text": [
+      "What people talked about during breaks, how crowded the cafeteria was that day... It was less a class log than her own diary."
+    ],
+    "2595:text": [
+      "But this was a special day for her."
+    ],
+    "2596:text": [
+      "She must have wanted to remember each little detail"
+    ],
+    "2597:text": [
+      "and lovingly record it all."
+    ],
+    "2598:text": [
+      "So she would never forget this day."
+    ],
+    "2604:text": [
+      "While she was doing that, the school day came to an end."
+    ],
+    "2605:text": [
+      "Their classroom duty was over, too."
+    ],
+    "2606:text": [
+      "At last, even their two names, written side by side on the blackboard, were erased."
+    ],
+    "2607:text": [
+      "The sight made her heart ache terribly."
+    ],
+    "2618:text": [
+      "After that day on classroom duty with ",
+      ", her feelings only grew stronger."
+    ],
+    "2619:text": [
+      ", have you ever known unrequited love, like she did?”"
+    ],
+    "2629:glink.text.1": [
+      "1. I have"
+    ],
+    "2631:glink.text.1": [
+      "1. I have"
+    ],
+    "2635:glink.text.1": [
+      "2. I haven't"
+    ],
+    "2637:glink.text.1": [
+      "2. I haven't"
+    ],
+    "2648:text": [
+      "Akemi Iwashita"
+    ],
+    "2649:text": [
+      "“I see... Then you can understand"
+    ],
+    "2650:text": [
+      "how she felt, can't you?"
+    ],
+    "2651:text": [
+      "How frustrating it is not to be able to tell someone"
+    ],
+    "2652:text": [
+      "how you feel, to say you love them."
+    ],
+    "2653:text": [
+      "There may be all kinds of reasons for it, but"
+    ],
+    "2654:text": [
+      "being unable to tell someone how you feel is painful."
+    ],
+    "2656:text": [
+      "Me? I never worry about anything like that."
+    ],
+    "2657:text": [
+      "Anyone I fall in love with"
+    ],
+    "2658:text": [
+      "always falls in love with me."
+    ],
+    "2659:text": [
+      "That's why I've never known unrequited love."
+    ],
+    "2660:text": [
+      "Besides, they have to take responsibility"
+    ],
+    "2661:text": [
+      "for making me fall in love with them, don't they?"
+    ],
+    "2662:text": [
+      "Hehe..."
+    ],
+    "2672:text": [
+      "Akemi Iwashita"
+    ],
+    "2673:text": [
+      "“I see... So you've never fallen in love with anyone."
+    ],
+    "2674:text": [
+      "But that's a wonderful thing."
+    ],
+    "2675:text": [
+      "It means you still have the joy"
+    ],
+    "2676:text": [
+      "of falling in love to look forward to."
+    ],
+    "2678:text": [
+      "I've never known unrequited love."
+    ],
+    "2679:text": [
+      "It's not that I've never been in a relationship."
+    ],
+    "2680:text": [
+      "I've dated quite a few people,"
+    ],
+    "2681:text": [
+      "you know."
+    ],
+    "2682:text": [
+      "In my case, anyone I fall in love with"
+    ],
+    "2683:text": [
+      "always falls in love with me."
+    ],
+    "2684:text": [
+      "That's why I've never known unrequited love..."
+    ],
+    "2685:text": [
+      "Hehe."
+    ],
+    "2703:text": [
+      "Eventually, she couldn't hold her feelings back any longer."
+    ],
+    "2704:text": [
+      "It hurt so much, so terribly much, that she thought she might die."
+    ],
+    "2706:text": [
+      "At last, she made up her mind to tell ",
+      " how she felt."
+    ],
+    "2707:text": [
+      "To put her feelings into words, she decided to write ",
+      " a love letter."
+    ],
+    "2709:text": [
+      "She was so shy and inexperienced"
+    ],
+    "2710:text": [
+      "that she couldn't possibly tell him she loved him face to face."
+    ],
+    "2711:text": [
+      "But in a letter, she could calmly tell him how she felt."
+    ],
+    "2712:text": [
+      "She wrote carefully, one letter at a time, thinking of him all the while..."
+    ],
+    "2713:text": [
+      "Then, after school, she made sure nobody was around and quietly slipped the love letter inside his desk."
+    ],
+    "2718:text": [
+      "The next day, a cute pink envelope was waiting inside ",
+      "'s desk."
+    ],
+    "2719:text": [
+      "When he opened it, he found paper the same pink as the envelope, with her feelings for ",
+      " set out in careful handwriting."
+    ],
+    "2720:text": [
+      "...How would you respond?”"
+    ],
+    "2731:glink.text.1": [
+      "1. Go out with her"
+    ],
+    "2733:glink.text.1": [
+      "1. Go out with her"
+    ],
+    "2737:glink.text.1": [
+      "2. Turn her down"
+    ],
+    "2739:glink.text.1": [
+      "2. Turn her down"
+    ],
+    "2749:text": [
+      "Akemi Iwashita"
+    ],
+    "2750:text": [
+      "“You decided to go out with her."
+    ],
+    "2751:text": [
+      "After all, she was a lovely, demure girl"
+    ],
+    "2752:text": [
+      "who'd done no more than watch you"
+    ],
+    "2753:text": [
+      "from a distance.”"
+    ],
+    "2763:text": [
+      "Akemi Iwashita"
+    ],
+    "2764:text": [
+      "“Why would you turn her down?"
+    ],
+    "2765:text": [
+      "She was so lovely"
+    ],
+    "2766:text": [
+      "and demure."
+    ],
+    "2767:text": [
+      "Of course you were happy"
+    ],
+    "2768:text": [
+      "she'd told you how she felt."
+    ],
+    "2769:text": [
+      "You're not allowed to turn her down."
+    ],
+    "2770:text": [
+      "You decided to go out with her.”"
+    ],
+    "2782:text": [
+      "Akemi Iwashita"
+    ],
+    "2783:text": [
+      "“Once you started going out, she held out"
+    ],
+    "2784:text": [
+      "a notebook and suggested"
+    ],
+    "2785:text": [
+      "the two of you keep a shared diary."
+    ],
+    "2786:text": [
+      "These days, you'd send emails on your phone,"
+    ],
+    "2787:text": [
+      "but back then there weren't any"
+    ],
+    "2788:text": [
+      "cell phones."
+    ],
+    "2789:text": [
+      "I suppose it was her own way"
+    ],
+    "2790:text": [
+      "of communicating."
+    ],
+    "2792:text": [
+      "You agreed to start keeping"
+    ],
+    "2793:text": [
+      "a shared diary with her."
+    ],
+    "2794:text": [
+      "She was delighted and filled it"
+    ],
+    "2795:text": [
+      "with all sorts of things."
+    ],
+    "2799:text": [
+      "She wrote down where she'd been and everything she'd done"
+    ],
+    "2800:text": [
+      "from waking up to going to bed, her favorite music and books,"
+    ],
+    "2801:text": [
+      "movies that caught her interest... It was as if she were"
+    ],
+    "2802:text": [
+      "pouring out all the feelings for you she'd kept bottled up."
+    ],
+    "2803:text": [
+      "She wrote and wrote and wrote."
+    ],
+    "2805:text": [
+      "At first, you kept up the diary with her,"
+    ],
+    "2806:text": [
+      "but little by little you began to find it"
+    ],
+    "2807:text": [
+      "a nuisance."
+    ],
+    "2808:text": [
+      "You were dating her, yet you were so selfish,"
+    ],
+    "2809:text": [
+      "weren't you, ",
+      "?"
+    ],
+    "2810:text": [
+      "Imagine finding a simple diary such a nuisance."
+    ],
+    "2812:text": [
+      "She was normally so quiet"
+    ],
+    "2813:text": [
+      "that you could barely hold a conversation"
+    ],
+    "2814:text": [
+      "when you saw her."
+    ],
+    "2816:text": [
+      "But in the diary, she was remarkably eloquent"
+    ],
+    "2817:text": [
+      "when she talked about herself."
+    ],
+    "2818:text": [
+      "Even though you found the diary a nuisance,"
+    ],
+    "2819:text": [
+      "you kept going out with her."
+    ],
+    "2820:text": [
+      "She was such a sweet girl, after all."
+    ],
+    "2822:text": [
+      "But her diary entries grew"
+    ],
+    "2823:text": [
+      "more and more extreme."
+    ],
+    "2824:text": [
+      "She wrote down every last detail"
+    ],
+    "2825:text": [
+      "of what you did on your days off—things she couldn't have known."
+    ],
+    "2826:text": [
+      "When you happened to run into a girl you were related to,"
+    ],
+    "2827:text": [
+      "she demanded to know, ‘Who's that woman?’"
+    ],
+    "2828:text": [
+      "She grilled you about it in the diary."
+    ],
+    "2830:text": [
+      "It seems that when she couldn't see you,"
+    ],
+    "2831:text": [
+      "she secretly followed you around."
+    ],
+    "2832:text": [
+      "I'm jealous, ",
+      "."
+    ],
+    "2833:text": [
+      "You're loved so much."
+    ],
+    "2837:text": [
+      "But when she handed you the diary, she never"
+    ],
+    "2838:text": [
+      "let any of that show. With a shy smile and lowered eyes,"
+    ],
+    "2839:text": [
+      "her hands trembling bashfully, she'd"
+    ],
+    "2840:text": [
+      "hold out the diary to you."
+    ],
+    "2841:text": [
+      "What do you think of her behaving"
+    ],
+    "2842:text": [
+      "like that?”"
+    ],
+    "2852:glink.text.1": [
+      "1. I think it's cute"
+    ],
+    "2854:glink.text.1": [
+      "1. I think it's cute"
+    ],
+    "2858:glink.text.1": [
+      "2. It's creepy"
+    ],
+    "2860:glink.text.1": [
+      "2. It's creepy"
+    ],
+    "2870:text": [
+      "Akemi Iwashita"
+    ],
+    "2871:text": [
+      "“A wise choice."
+    ],
+    "2872:text": [
+      "She's absolutely adorable."
+    ],
+    "2873:text": [
+      "She only did those things because she cared"
+    ],
+    "2874:text": [
+      "about you, after all."
+    ],
+    "2876:text": [
+      "You turned a blind eye to the diary and"
+    ],
+    "2877:text": [
+      "kept dating her."
+    ],
+    "2878:text": [
+      "But she gradually grew more"
+    ],
+    "2879:text": [
+      "dissatisfied with you."
+    ],
+    "2881:text": [
+      "It was about the diary."
+    ],
+    "2882:text": [
+      "Every time, she filled the diary with all sorts"
+    ],
+    "2883:text": [
+      "of things about herself, but you wrote only a few lines"
+    ],
+    "2884:text": [
+      "before handing it back."
+    ],
+    "2885:text": [
+      "Sometimes you forgot to write, leaving days"
+    ],
+    "2886:text": [
+      "of blank pages..."
+    ],
+    "2888:text": [
+      "That made her terribly"
+    ],
+    "2889:text": [
+      "sad."
+    ],
+    "2890:text": [
+      "This was meant to be a diary of your memories together,"
+    ],
+    "2891:text": [
+      "yet you didn't write a thing"
+    ],
+    "2892:text": [
+      "about yourself."
+    ],
+    "2894:text": [
+      "She was someone who really treasured"
+    ],
+    "2895:text": [
+      "her memories."
+    ],
+    "2896:text": [
+      "So she wanted you to keep a proper record in the diary"
+    ],
+    "2897:text": [
+      "of your days together, of the things you said."
+    ],
+    "2899:text": [
+      "People's memories fade with time."
+    ],
+    "2900:text": [
+      "But if you write them down in a diary like this, you can"
+    ],
+    "2901:text": [
+      "remember them whenever you want."
+    ],
+    "2902:text": [
+      "She wanted to keep visible proof of the time"
+    ],
+    "2903:text": [
+      "the two of you had spent together."
+    ],
+    "2905:text": [
+      "She grew even more sensitive about"
+    ],
+    "2906:text": [
+      "the diary."
+    ],
+    "2907:text": [
+      "Once, all it took was for you to forget you'd written"
+    ],
+    "2908:text": [
+      "in the diary, and she burst"
+    ],
+    "2909:text": [
+      "into tears."
+    ],
+    "2911:text": [
+      "Everyone around you stared at you in shock."
+    ],
+    "2912:text": [
+      "Hehe... To everyone watching, you must have looked"
+    ],
+    "2913:text": [
+      "like some awful guy who made a girl"
+    ],
+    "2914:text": [
+      "cry."
+    ],
+    "2916:text": [
+      "You didn't dislike her, but"
+    ],
+    "2917:text": [
+      "her overreactions about the diary"
+    ],
+    "2918:text": [
+      "became more than you could stand."
+    ],
+    "2919:text": [
+      "One day, you told her that if she wanted to keep dating you,"
+    ],
+    "2920:text": [
+      "she'd have to stop keeping the diary. Otherwise,"
+    ],
+    "2921:text": [
+      "she'd have to break up with you."
+    ],
+    "2923:text": [
+      "Her eyes filled with tears as she tried"
+    ],
+    "2924:text": [
+      "to hold back her grief."
+    ],
+    "2925:text": [
+      "After hearing that, she could only stand there,"
+    ],
+    "2926:text": [
+      "speechless. You left her behind and"
+    ],
+    "2927:text": [
+      "walked away.”"
+    ],
+    "2937:text": [
+      "Akemi Iwashita"
+    ],
+    "2938:text": [
+      "“Creepy, you say?"
+    ],
+    "2939:text": [
+      "You just called it creepy, didn't you?"
+    ],
+    "2940:text": [
+      "What on earth is wrong with you?"
+    ],
+    "2941:text": [
+      "Is that brain of yours just for decoration?"
+    ],
+    "2942:text": [
+      "She did it purely because she cared"
+    ],
+    "2943:text": [
+      "about you."
+    ],
+    "2944:text": [
+      "How dare you call that creepy."
+    ],
+    "2945:text": [
+      "Maybe you should try dying"
+    ],
+    "2946:text": [
+      "for a change."
+    ],
+    "2948:text": [
+      "Well, never mind. For now, let's continue"
+    ],
+    "2949:text": [
+      "Sano's story."
+    ],
+    "2951:text": [
+      "...You began to find her creepy because of the stark"
+    ],
+    "2952:text": [
+      "contrast between her diary and the way she acted"
+    ],
+    "2953:text": [
+      "in person."
+    ],
+    "2954:text": [
+      "Then one day, you finally told her"
+    ],
+    "2955:text": [
+      "you wanted to break up."
+    ],
+    "2956:text": [
+      "Her eyes filled with tears as she tried"
+    ],
+    "2957:text": [
+      "to hold back her grief.”"
+    ],
+    "2959:text": [
+      "Akiko Sano"
+    ],
+    "2960:text": [
+      "“You're abandoning me...?”"
+    ],
+    "2962:text": [
+      "Akemi Iwashita"
+    ],
+    "2963:text": [
+      "“As she said that, she stared at you, her eyes"
+    ],
+    "2964:text": [
+      "filled with an indescribable"
+    ],
+    "2965:text": [
+      "sadness."
+    ],
+    "2966:text": [
+      "You could say nothing more. You just told her"
+    ],
+    "2967:text": [
+      "it was over, then left"
+    ],
+    "2968:text": [
+      "as though you were running away.”"
+    ],
+    "2982:text": [
+      "Akemi Iwashita"
+    ],
+    "2983:text": [
+      "“Three days later."
+    ],
+    "2984:text": [
+      "She took her own life."
+    ],
+    "2985:text": [
+      "She jumped to her death."
+    ],
+    "2986:text": [
+      "She left a suicide note"
+    ],
+    "2987:text": [
+      "on the roof of the building she'd jumped from."
+    ],
+    "2988:text": [
+      "It ran to dozens of sheets of paper,"
+    ],
+    "2989:text": [
+      "detailing everything from the day"
+    ],
+    "2990:text": [
+      "she'd met you right up to the day she died."
+    ],
+    "2992:text": [
+      "To her, the diary you shared"
+    ],
+    "2993:text": [
+      "was everything."
+    ],
+    "2994:text": [
+      "She had trouble expressing herself,"
+    ],
+    "2995:text": [
+      "and writing was the only way"
+    ],
+    "2996:text": [
+      "she could show who she was."
+    ],
+    "2997:text": [
+      "Every word she wove into that diary"
+    ],
+    "2998:text": [
+      "was her very self."
+    ],
+    "3000:text": [
+      "So when you refused to accept it,"
+    ],
+    "3001:text": [
+      "to her, it was as though"
+    ],
+    "3002:text": [
+      "you'd rejected everything she was."
+    ],
+    "3003:text": [
+      "And she took her own life out of sheer grief."
+    ],
+    "3005:text": [
+      "All you had left was the diary you'd shared."
+    ],
+    "3006:text": [
+      "It was called a shared diary, but you'd written"
+    ],
+    "3007:text": [
+      "only a few pages, and almost all the rest"
+    ],
+    "3008:text": [
+      "was filled with her handwriting."
+    ],
+    "3019:text": [
+      "You might as well have killed her yourself."
+    ],
+    "3020:text": [
+      "...How do you feel about"
+    ],
+    "3021:text": [
+      "the fact that she killed herself?”"
+    ],
+    "3032:glink.text.1": [
+      "1. I feel guilty"
+    ],
+    "3034:glink.text.1": [
+      "1. I feel guilty"
+    ],
+    "3038:glink.text.1": [
+      "2. It has nothing to do with me"
+    ],
+    "3040:glink.text.1": [
+      "2. It has nothing to do with me"
+    ],
+    "3050:text": [
+      "Akemi Iwashita"
+    ],
+    "3051:text": [
+      "“Of course. That's only natural."
+    ],
+    "3052:text": [
+      "She died"
+    ],
+    "3053:text": [
+      "because of you."
+    ],
+    "3054:text": [
+      "For a girl as devoted as her, the person she loves"
+    ],
+    "3055:text": [
+      "can become her entire world."
+    ],
+    "3056:text": [
+      "And you betrayed her."
+    ],
+    "3058:text": [
+      "But she was kind, wasn't she?"
+    ],
+    "3059:text": [
+      "She didn't kill you."
+    ],
+    "3060:text": [
+      "If it were me, I wouldn't kill myself."
+    ],
+    "3061:text": [
+      "I'd kill you."
+    ],
+    "3063:text": [
+      "I never forgive anyone who betrays me."
+    ],
+    "3064:text": [
+      "I'd corner them little by little,"
+    ],
+    "3065:text": [
+      "make them regret what they did so much they'd wish they were dead,"
+    ],
+    "3066:text": [
+      "then kill them, slowly."
+    ],
+    "3068:text": [
+      "Isn't that right?"
+    ],
+    "3069:text": [
+      "If someone betrays you, they have to get"
+    ],
+    "3070:text": [
+      "what they deserve... Hehe."
+    ],
+    "3071:text": [
+      "Oh, this wasn't my story, was it?"
+    ],
+    "3072:text": [
+      "It was Sano's story."
+    ],
+    "3082:text": [
+      "After her death, you were"
+    ],
+    "3083:text": [
+      "tormented by guilt."
+    ],
+    "3085:text": [
+      "And then you would see for yourself"
+    ],
+    "3086:text": [
+      "just how deep her feelings ran."
+    ],
+    "3087:text": [
+      "So dark and deep that you couldn't see the bottom..."
+    ],
+    "3088:text": [
+      "Hehe."
+    ],
+    "3090:text": [
+      "You decided to keep"
+    ],
+    "3091:text": [
+      "the diary you'd shared."
+    ],
+    "3092:text": [
+      "Throwing it away would have been easy."
+    ],
+    "3093:text": [
+      "But throwing it away wouldn't erase"
+    ],
+    "3094:text": [
+      "what had happened between you."
+    ],
+    "3096:text": [
+      "It was all your fault she'd killed herself."
+    ],
+    "3097:text": [
+      "If keeping the diary and remembering her"
+    ],
+    "3098:text": [
+      "could at least serve as some small atonement..."
+    ],
+    "3099:text": [
+      "With that thought, you put the shared diary"
+    ],
+    "3100:text": [
+      "away at the back of a desk drawer."
+    ],
+    "3102:text": [
+      "Even though you felt responsible,"
+    ],
+    "3103:text": [
+      "you couldn't bear to keep that shared diary"
+    ],
+    "3104:text": [
+      "somewhere you'd see it all the time."
+    ],
+    "3114:text": [
+      "It must have been about a week"
+    ],
+    "3115:text": [
+      "after she'd died."
+    ],
+    "3116:text": [
+      "When you came home and returned to your room"
+    ],
+    "3117:text": [
+      "as usual, you noticed something strange."
+    ],
+    "3119:text": [
+      "An open notebook was lying"
+    ],
+    "3120:text": [
+      "on top of your desk."
+    ],
+    "3121:text": [
+      "There shouldn't have been anything on the desk"
+    ],
+    "3122:text": [
+      "when you left that morning... How strange."
+    ],
+    "3123:text": [
+      "Wondering about it, you looked down at the open"
+    ],
+    "3124:text": [
+      "notebook and froze."
+    ],
+    "3125:text": [
+      "It was that shared diary."
+    ],
+    "3127:text": [
+      "And there, in her handwriting, was a detailed record"
+    ],
+    "3128:text": [
+      "of everything you'd done that day."
+    ],
+    "3130:text": [
+      ", you woke up at 7:30 today."
+    ],
+    "3131:text": [
+      "You usually get up at seven, but it seems you overslept a little today."
+    ],
+    "3132:text": [
+      ", you had bread for breakfast today."
+    ],
+    "3133:text": [
+      "Because you got up late, you only ate one slice today instead of your usual two."
+    ],
+    "3134:text": [
+      "I'm worried you might get hungry later."
+    ],
+    "3136:text": [
+      "...That's the sort of thing she'd written."
+    ],
+    "3137:text": [
+      "Even in death, she couldn't stop thinking about you,"
+    ],
+    "3138:text": [
+      "and she kept writing about you in the notebook,"
+    ],
+    "3139:text": [
+      "just as she had when she was alive."
+    ],
+    "3141:text": [
+      "Your hands trembled as you held it,"
+    ],
+    "3142:text": [
+      "and you dropped the notebook on the floor."
+    ],
+    "3144:text": [
+      "A gust suddenly swept in through the window,"
+    ],
+    "3145:text": [
+      "rustling the fallen notebook's pages",
+      " as it flipped them"
+    ],
+    "3146:text": [
+      "over..."
+    ],
+    "3147:text": [
+      "A chill ran down your spine, and cold sweat"
+    ],
+    "3148:text": [
+      "ran down your face."
+    ],
+    "3150:text": [
+      "Drops fell and soaked the pages."
+    ],
+    "3151:text": [
+      "You picked up the fallen notebook, wrapped it"
+    ],
+    "3152:text": [
+      "in layer after layer of packing tape, and this time"
+    ],
+    "3153:text": [
+      "shoved it into a locked cabinet."
+    ],
+    "3155:text": [
+      "You had a feeling it might be pointless"
+    ],
+    "3156:text": [
+      "to do this, but you were so terrified"
+    ],
+    "3157:text": [
+      "that all you could manage was to put it somewhere"
+    ],
+    "3158:text": [
+      "you couldn't see it."
+    ],
+    "3160:text": [
+      "You thought about throwing it away, but who knew"
+    ],
+    "3161:text": [
+      "what would happen if you did?"
+    ],
+    "3162:text": [
+      "If you provoked her anger... Hehe."
+    ],
+    "3164:text": [
+      "But your efforts were useless."
+    ],
+    "3165:text": [
+      "Sure enough, no matter how you shut the notebook away"
+    ],
+    "3166:text": [
+      "in the locked cabinet or wrapped it in packing tape,"
+    ],
+    "3167:text": [
+      "it would always turn up on your desk, with a record"
+    ],
+    "3168:text": [
+      "of everything you'd done that day"
+    ],
+    "3169:text": [
+      "in her handwriting."
+    ],
+    "3171:text": [
+      "It kept happening, and little by little,"
+    ],
+    "3172:text": [
+      "it wore you down mentally."
+    ],
+    "3173:text": [
+      "Even after death, she kept thinking of you"
+    ],
+    "3174:text": [
+      "and wouldn't let you go."
+    ],
+    "3175:text": [
+      "Whether you were at home or school,"
+    ],
+    "3176:text": [
+      "she was watching you."
+    ],
+    "3180:text": [
+      "There was nowhere left to run..."
+    ],
+    "3181:text": [
+      "You wandered aimlessly"
+    ],
+    "3182:text": [
+      "through the streets."
+    ],
+    "3183:text": [
+      "Maybe if you stayed among other people,"
+    ],
+    "3184:text": [
+      "you could escape her gaze, even a little... Hehe."
+    ],
+    "3185:text": [
+      "It was pointless, of course."
+    ],
+    "3187:text": [
+      "For a moment, you thought you saw her in the crowd"
+    ],
+    "3188:text": [
+      "and turned around."
+    ],
+    "3189:text": [
+      "She was there, smiling"
+    ],
+    "3190:text": [
+      "and staring straight at you.”"
+    ],
+    "3193:text": [
+      "“Aaaaaaaaaah!!”"
+    ],
+    "3200:text": [
+      "Akemi Iwashita"
+    ],
+    "3201:text": [
+      "“You ran blindly."
+    ],
+    "3202:text": [
+      "You ran and ran and ran... and at a crosswalk,"
+    ],
+    "3203:text": [
+      "a truck hit you."
+    ],
+    "3205:text": [
+      "You died instantly."
+    ],
+    "3206:text": [
+      "The driver said a boy suddenly appeared"
+    ],
+    "3207:text": [
+      "just before the crosswalk. He didn't even have time"
+    ],
+    "3208:text": [
+      "to hit the brakes."
+    ],
+    "3214:text": [
+      "A somber funeral was held the next day."
+    ],
+    "3215:text": [
+      "When the family looked inside the coffin before it was taken away, they found you lying as if asleep, cradling a notebook they didn't remember putting there."
+    ],
+    "3217:text": [
+      "The notebook was burned along with you..."
+    ],
+    "3218:text": [
+      "...Oh, I'm sorry. This wasn't you. It was about the other ",
+      ". Hehe."
+    ],
+    "3228:text": [
+      "I wonder how the two of them are doing in heaven now."
+    ],
+    "3229:text": [
+      "You don't need words in heaven."
+    ],
+    "3230:text": [
+      "With no need to rely on writing in heaven, perhaps they're getting along surprisingly well."
+    ],
+    "3231:text": [
+      "Or are they still keeping a shared diary together, even in heaven?"
+    ],
+    "3233:text": [
+      "Still, the world today is so convenient, isn't it?"
+    ],
+    "3234:text": [
+      "With cell phones, you can get in touch with someone anytime."
+    ],
+    "3235:text": [
+      "You don't have to keep a shared diary. With a cell phone, you can call him whenever you like, or send him an email."
+    ],
+    "3237:text": [
+      "Compared with the old days, you can feel so much closer to him..."
+    ],
+    "3238:text": [
+      "But even then, girls still get anxious."
+    ],
+    "3240:text": [
+      "In fact, being able to reach him anytime can make them all the more anxious."
+    ],
+    "3241:text": [
+      ", you should be careful too."
+    ],
+    "3242:text": [
+      "If you don't reply properly to a girl, whether by email or on the phone, you'll be in serious trouble later... Hehe."
+    ],
+    "3243:text": [
+      "And that's the end of my story.”"
+    ],
+    "3262:text": [
+      "Akemi Iwashita"
+    ],
+    "3263:text": [
+      "“How can you say"
+    ],
+    "3264:text": [
+      "it has nothing to do with you?"
+    ],
+    "3265:text": [
+      "Are you going to play dumb?"
+    ],
+    "3266:text": [
+      "Listen. She died"
+    ],
+    "3267:text": [
+      "because of you."
+    ],
+    "3269:text": [
+      "If you hadn't said those things,"
+    ],
+    "3270:text": [
+      "she wouldn't have died."
+    ],
+    "3271:text": [
+      "If you say anything like that again,"
+    ],
+    "3272:text": [
+      "you won't get off lightly."
+    ],
+    "3274:text": [
+      "When I see people who live on without a care,"
+    ],
+    "3275:text": [
+      "without a shred of remorse for what they've done,"
+    ],
+    "3276:text": [
+      "I want to kill them."
+    ],
+    "3277:text": [
+      "But I'll forgive you the first time. Just the first."
+    ],
+    "3278:text": [
+      "Yes, everyone makes mistakes... Hehe."
+    ],
+    "3280:text": [
+      "You threw away the diary you'd shared."
+    ],
+    "3281:text": [
+      "She was dead now. There was no point"
+    ],
+    "3282:text": [
+      "in keeping it anymore."
+    ],
+    "3284:text": [
+      "By throwing away the shared diary,"
+    ],
+    "3285:text": [
+      "you thought you'd put everything with her behind you."
+    ],
+    "3286:text": [
+      "...But she wasn't about to"
+    ],
+    "3287:text": [
+      "let you go that easily."
+    ],
+    "3297:text": [
+      "It happened when you came into the classroom"
+    ],
+    "3298:text": [
+      "and sat down at your desk."
+    ],
+    "3299:text": [
+      "There was something inside your desk."
+    ],
+    "3301:text": [
+      "All your textbooks and things should have been in your locker"
+    ],
+    "3302:text": [
+      "...Had you forgotten to put something away?"
+    ],
+    "3303:text": [
+      "You reached inside, wondering,"
+    ],
+    "3304:text": [
+      "then froze as you tried to take it out."
+    ],
+    "3306:text": [
+      "Inside was the shared diary"
+    ],
+    "3307:text": [
+      "you were sure you'd thrown away."
+    ],
+    "3308:text": [
+      "You cautiously peered inside. In her handwriting,"
+    ],
+    "3309:text": [
+      "the diary recorded every detail"
+    ],
+    "3310:text": [
+      "of what you'd done the day before."
+    ],
+    "3311:text": [
+      "What time you'd woken up, what you'd eaten for breakfast,"
+    ],
+    "3312:text": [
+      "who you'd spoken to... Even in death, she still"
+    ],
+    "3313:text": [
+      "couldn't stop thinking about you. She kept writing about you"
+    ],
+    "3314:text": [
+      "in the notebook, just as she had when she was alive."
+    ],
+    "3316:text": [
+      "Your hands trembled as you held it,"
+    ],
+    "3317:text": [
+      "and you dropped the notebook on the floor."
+    ],
+    "3318:text": [
+      "A gust suddenly swept in through the window,"
+    ],
+    "3319:text": [
+      "rustling the fallen notebook's pages",
+      " as it flipped them"
+    ],
+    "3320:text": [
+      "over..."
+    ],
+    "3321:text": [
+      "You picked up the diary,"
+    ],
+    "3322:text": [
+      "tore it to shreds, and threw it into the incinerator."
+    ],
+    "3324:text": [
+      "But no matter how often you threw it away,"
+    ],
+    "3325:text": [
+      "that shared diary kept coming back to you."
+    ],
+    "3326:text": [
+      "Burning it was no use."
+    ],
+    "3327:text": [
+      "Tearing it up was no use."
+    ],
+    "3328:text": [
+      "No matter where you threw it away, no matter what you did,"
+    ],
+    "3329:text": [
+      "it always came back to you."
+    ],
+    "3330:text": [
+      "As though it couldn't bear to leave your side"
+    ],
+    "3331:text": [
+      "for even a moment... Hehe."
+    ],
+    "3333:text": [
+      "You kept ignoring"
+    ],
+    "3334:text": [
+      "the diary she sent you."
+    ],
+    "3335:text": [
+      "At first, you were terrified,"
+    ],
+    "3336:text": [
+      "but the diary kept coming, and nothing in particular"
+    ],
+    "3337:text": [
+      "happened to you."
+    ],
+    "3338:text": [
+      "So you kept ignoring it."
+    ],
+    "3340:text": [
+      "And then, one day,"
+    ],
+    "3341:text": [
+      "her diary stopped coming."
+    ],
+    "3342:text": [
+      "It was just as the diary you shared"
+    ],
+    "3343:text": [
+      "ran out of pages."
+    ],
+    "3344:text": [
+      "Strangely, once there were no pages left,"
+    ],
+    "3345:text": [
+      "the diary stopped arriving."
+    ],
+    "3347:text": [
+      "At last, it was over."
+    ],
+    "3348:text": [
+      "That was all"
+    ],
+    "3349:text": [
+      "you felt."
+    ],
+    "3351:text": [
+      "Now that her diary had stopped coming,"
+    ],
+    "3352:text": [
+      "you felt free to take an interest in another girl."
+    ],
+    "3354:text": [
+      "I believe her name was Yoko Nakata."
+    ],
+    "3355:text": [
+      "She was in another class, but ironically,"
+    ],
+    "3356:text": [
+      "it was that shared diary"
+    ],
+    "3357:text": [
+      "that brought the two of you together."
+    ],
+    "3359:text": [
+      "This was when you were"
+    ],
+    "3360:text": [
+      "still dating Sano."
+    ],
+    "3362:text": [
+      "That day, you were changing rooms between classes,"
+    ],
+    "3363:text": [
+      "hurrying down the corridor."
+    ],
+    "3364:text": [
+      "When you turned a corner, you collided"
+    ],
+    "3365:text": [
+      "with a girl.”"
+    ],
+    "3367:text": [
+      "Yoko Nakata"
+    ],
+    "3368:text": [
+      "“Eek!”"
+    ],
+    "3370:text": [
+      "Akemi Iwashita"
+    ],
+    "3371:text": [
+      "“She cried out and landed on her backside."
+    ],
+    "3372:text": [
+      "Her textbooks and your belongings were scattered"
+    ],
+    "3373:text": [
+      "all around you.”"
+    ],
+    "3376:text": [
+      "“S-Sorry!”"
+    ],
+    "3378:text": [
+      "Akemi Iwashita"
+    ],
+    "3379:text": [
+      "“You helped her up, hurriedly gathered"
+    ],
+    "3380:text": [
+      "your scattered things, and"
+    ],
+    "3381:text": [
+      "left."
+    ],
+    "3385:text": [
+      "During the next break, the girl from before came"
+    ],
+    "3386:text": [
+      "to your classroom."
+    ],
+    "3387:text": [
+      "When she found you, she timidly"
+    ],
+    "3388:text": [
+      "held out a"
+    ],
+    "3389:text": [
+      "notebook.”"
+    ],
+    "3391:text": [
+      "Yoko Nakata"
+    ],
+    "3392:text": [
+      "“This...”"
+    ],
+    "3394:text": [
+      "Akemi Iwashita"
+    ],
+    "3395:text": [
+      "“What she'd offered you was the diary you shared"
+    ],
+    "3396:text": [
+      "with Sano."
+    ],
+    "3397:text": [
+      "It must have gotten mixed in with her things"
+    ],
+    "3398:text": [
+      "when you collided earlier."
+    ],
+    "3399:text": [
+      "You thanked her, then asked her how"
+    ],
+    "3400:text": [
+      "she knew who you were.”"
+    ],
+    "3402:text": [
+      "Yoko Nakata"
+    ],
+    "3403:text": [
+      "“Um... We were on the same committee...”"
+    ],
+    "3405:text": [
+      "Akemi Iwashita"
+    ],
+    "3406:text": [
+      "“She answered a little bashfully."
+    ],
+    "3407:text": [
+      "Come to think of it, you vaguely remembered"
+    ],
+    "3408:text": [
+      "seeing her at committee meetings... After that, you"
+    ],
+    "3409:text": [
+      "started saying hello to Nakata when you passed her"
+    ],
+    "3410:text": [
+      "in the corridor."
+    ],
+    "3412:text": [
+      "Until then, that was as far as things went."
+    ],
+    "3413:text": [
+      "Nakata was on the quiet side"
+    ],
+    "3414:text": [
+      "too, and you already had"
+    ],
+    "3415:text": [
+      "Sano."
+    ],
+    "3417:text": [
+      "But after Sano died, you found yourself"
+    ],
+    "3418:text": [
+      "meeting Nakata more and more often."
+    ],
+    "3422:text": [
+      "In the corridor, for instance. Or in the cafeteria."
+    ],
+    "3423:text": [
+      "At first, you only said hello as you passed,"
+    ],
+    "3424:text": [
+      "but before you knew it, you were going"
+    ],
+    "3425:text": [
+      "home together."
+    ],
+    "3427:text": [
+      "Then, I suppose it was just the natural course of things:"
+    ],
+    "3428:text": [
+      "the two of you began dating."
+    ],
+    "3429:text": [
+      "You were the one who confessed your feelings."
+    ],
+    "3430:text": [
+      "You were still on edge over Sano, and"
+    ],
+    "3431:text": [
+      "being with Nakata brought you a sense of peace"
+    ],
+    "3432:text": [
+      "you couldn't put into words."
+    ],
+    "3434:text": [
+      "Nakata was a very good girl, too."
+    ],
+    "3435:text": [
+      "She was reserved and a little shy about romance, but"
+    ],
+    "3436:text": [
+      "a good, obedient girl... Yes, just like Sano..."
+    ],
+    "3437:text": [
+      "Hehe."
+    ],
+    "3438:text": [
+      "When you began dating, she made you"
+    ],
+    "3439:text": [
+      "a suggestion.”"
+    ],
+    "3448:text": [
+      "Yoko Nakata"
+    ],
+    "3449:text": [
+      "“Um, we're in different classes, and I'd like us"
+    ],
+    "3450:text": [
+      "to get to know each other better. So, this...”"
+    ],
+    "3452:text": [
+      "Akemi Iwashita"
+    ],
+    "3453:text": [
+      "“As she spoke, she held out a notebook."
+    ],
+    "3454:text": [
+      "Yes, she was suggesting that you keep a shared"
+    ],
+    "3455:text": [
+      "diary."
+    ],
+    "3456:text": [
+      "There it was, the notebook she held out."
+    ],
+    "3458:text": [
+      "For a moment, Sano's image flashed"
+    ],
+    "3459:text": [
+      "through your mind."
+    ],
+    "3460:text": [
+      "After all, you'd already had that experience"
+    ],
+    "3461:text": [
+      "with Sano."
+    ],
+    "3462:text": [
+      "You'd had more than enough of shared diaries."
+    ],
+    "3463:text": [
+      "You told Nakata no, firmly and"
+    ],
+    "3464:text": [
+      "a little sharply."
+    ],
+    "3466:text": [
+      "She lowered her eyes. ‘I understand...’ she"
+    ],
+    "3467:text": [
+      "murmured sadly."
+    ],
+    "3472:text": [
+      "Things grew awkward for a moment."
+    ],
+    "3473:text": [
+      "But it couldn't be helped."
+    ],
+    "3474:text": [
+      "The shared diary had kept arriving even after Sano died."
+    ],
+    "3475:text": [
+      "After experiencing that, anyone would come to hate"
+    ],
+    "3476:text": [
+      "shared diaries."
+    ],
+    "3477:text": [
+      "You'd only just begun to think"
+    ],
+    "3478:text": [
+      "you were finally free of Sano."
+    ],
+    "3479:text": [
+      "You wanted to avoid anything that might"
+    ],
+    "3480:text": [
+      "remind you of her."
+    ],
+    "3482:text": [
+      "But a girl's feelings run deep,"
+    ],
+    "3483:text": [
+      "far deeper than boys ever imagine..."
+    ],
+    "3492:text": [
+      "You started dating Nakata."
+    ],
+    "3493:text": [
+      "But somehow, things weren't going well."
+    ],
+    "3494:text": [
+      "Day by day, her behavior seemed"
+    ],
+    "3495:text": [
+      "more and more like Sano's..."
+    ],
+    "3497:text": [
+      "Was it because Sano and Nakata"
+    ],
+    "3498:text": [
+      "had a similar air about them?"
+    ],
+    "3499:text": [
+      "Both were shy and obedient..."
+    ],
+    "3500:text": [
+      "You felt it even more once you started dating."
+    ],
+    "3502:text": [
+      "Her gestures. The air about her."
+    ],
+    "3503:text": [
+      "You couldn't shake the feeling"
+    ],
+    "3504:text": [
+      "that everything about her resembled Sano."
+    ],
+    "3506:text": [
+      "It must have been about two weeks"
+    ],
+    "3507:text": [
+      "after you began dating her."
+    ],
+    "3508:text": [
+      "Something happened."
+    ],
+    "3509:text": [
+      "You had classroom duty that day."
+    ],
+    "3510:text": [
+      "Otherwise, it should have been"
+    ],
+    "3511:text": [
+      "just another ordinary day..."
+    ],
+    "3513:text": [
+      "You entered the classroom as usual"
+    ],
+    "3514:text": [
+      "and sat down at your desk."
+    ],
+    "3515:text": [
+      "Then you glanced at the blackboard."
+    ],
+    "3516:text": [
+      "Your name and Sano's were written there,"
+    ],
+    "3517:text": [
+      "side by side, for that day's classroom duty."
+    ],
+    "3519:text": [
+      "For a moment, you couldn't believe your eyes."
+    ],
+    "3520:text": [
+      "Sano was dead, yet there was"
+    ],
+    "3521:text": [
+      "her name on the blackboard."
+    ],
+    "3522:text": [
+      "If it was a prank, it was a cruel one."
+    ],
+    "3524:text": [
+      "You fought to keep your body from trembling"
+    ],
+    "3525:text": [
+      "and hurriedly erased her name."
+    ],
+    "3527:text": [
+      "Why was her name here?"
+    ],
+    "3528:text": [
+      "Had someone in your class written it?"
+    ],
+    "3529:text": [
+      "Fear and questions welled up inside you."
+    ],
+    "3530:text": [
+      "You looked around. Everyone was staring"
+    ],
+    "3531:text": [
+      "at you in puzzlement."
+    ],
+    "3533:text": [
+      "You somehow managed to calm yourself"
+    ],
+    "3534:text": [
+      "and sit back down."
+    ],
+    "3535:text": [
+      "But even after class began,"
+    ],
+    "3536:text": [
+      "the fear wouldn't go away."
+    ],
+    "3539:text": [
+      "It was when the teacher was writing on the board."
+    ],
+    "3540:text": [
+      "You felt something was strangely wrong"
+    ],
+    "3541:text": [
+      "with what the teacher wrote in chalk."
+    ],
+    "3543:text": [
+      "When you looked closely, it was Sano's handwriting."
+    ],
+    "3544:text": [
+      "The same writing you'd seen in the shared diary"
+    ],
+    "3545:text": [
+      "was appearing on the board in white chalk."
+    ],
+    "3547:text": [
+      "And none of it had anything to do"
+    ],
+    "3548:text": [
+      "with the lesson. It was all"
+    ],
+    "3549:text": [
+      "about you."
+    ],
+    "3550:text": [
+      "Yes, just like what she'd written"
+    ],
+    "3551:text": [
+      "in that shared diary..."
+    ],
+    "3552:text": [
+      "You froze, unable to move"
+    ],
+    "3553:text": [
+      "for a while."
+    ],
+    "3554:text": [
+      "But everyone around you calmly carried on with class.”"
+    ],
+    "3557:text": [
+      "“A-aaahhhhhhhhh!!”"
+    ],
+    "3559:text": [
+      "Akemi Iwashita"
+    ],
+    "3560:text": [
+      "“You couldn't stand it any longer"
+    ],
+    "3561:text": [
+      "and shot to your feet."
+    ],
+    "3562:text": [
+      "Everyone gaped at you."
+    ],
+    "3563:text": [
+      "The startled teacher called out to you,"
+    ],
+    "3564:text": [
+      "but you ran without listening."
+    ],
+    "3568:text": [
+      "You burst out of the classroom"
+    ],
+    "3569:text": [
+      "and raced straight to the schoolyard."
+    ],
+    "3570:text": [
+      "Then you sank down in the middle of it"
+    ],
+    "3571:text": [
+      "to catch your ragged breath."
+    ],
+    "3572:text": [
+      "Beads of sweat poured from your face."
+    ],
+    "3573:text": [
+      "Your heart pounded so hard,"
+    ],
+    "3574:text": [
+      "it felt like it would leap out of your throat.”"
+    ],
+    "3576:text": [
+      "Yoko Nakata"
+    ],
+    "3577:text": [
+      "“What's wrong?!”"
+    ],
+    "3579:text": [
+      "Akemi Iwashita"
+    ],
+    "3580:text": [
+      "“Suddenly, you heard a voice behind you. You turned"
+    ],
+    "3581:text": [
+      "and saw a girl in gym clothes"
+    ],
+    "3582:text": [
+      "jogging toward you."
+    ],
+    "3583:text": [
+      "It looked like Nakata."
+    ],
+    "3584:text": [
+      "Relieved to see her, you staggered"
+    ],
+    "3585:text": [
+      "to your feet."
+    ],
+    "3586:text": [
+      "But as she drew closer and you saw her face,"
+    ],
+    "3587:text": [
+      "you froze in terror."
+    ],
+    "3588:text": [
+      "Because she had Sano's face.”"
+    ],
+    "3591:text": [
+      "“A-aaiiieee!”"
+    ],
+    "3593:text": [
+      "Akemi Iwashita"
+    ],
+    "3594:text": [
+      "“You let out that pathetic cry and started"
+    ],
+    "3595:text": [
+      "running again."
+    ],
+    "3596:text": [
+      "Behind you, the woman with Sano's face"
+    ],
+    "3597:text": [
+      "called for you to stop, but all her voice"
+    ],
+    "3598:text": [
+      "brought you was terror."
+    ],
+    "3600:text": [
+      "You kept running."
+    ],
+    "3601:text": [
+      "Everywhere you went along the streets,"
+    ],
+    "3602:text": [
+      "you could feel her presence."
+    ],
+    "3604:text": [
+      "Your name was on the ads pasted to utility poles"
+    ],
+    "3605:text": [
+      "and the signs propped up along the street."
+    ],
+    "3606:text": [
+      "At the station, the message board was covered"
+    ],
+    "3607:text": [
+      "with things about you, just like the blackboard."
+    ],
+    "3609:text": [
+      "Wherever you fled, her shadow followed."
+    ],
+    "3610:text": [
+      "The town was filled with information about you,"
+    ],
+    "3611:text": [
+      "all written in her handwriting."
+    ],
+    "3622:text": [
+      "Still, you ran and ran and ran"
+    ],
+    "3623:text": [
+      "...and in the end, you"
+    ],
+    "3624:text": [
+      "simply went missing."
+    ],
+    "3625:text": [
+      "I wonder where you are now, and what you're doing?"
+    ],
+    "3626:text": [
+      "You... Oh, I'm sorry."
+    ],
+    "3627:text": [
+      "I wasn't talking about you, was I?"
+    ],
+    "3628:text": [
+      "This was a story about the other ",
+      ", wasn't it?"
+    ],
+    "3629:text": [
+      "Hehe. Well, that's the end of my story.”"
+    ],
+    "3691:text": [
+      "Akemi Iwashita"
+    ],
+    "3692:text": [
+      "“Now, who's going to speak next?”"
+    ],
+    "3701:text": [
+      "Akemi Iwashita"
+    ],
+    "3702:text": [
+      "“Well, I've finished my story,"
+    ],
+    "3703:text": [
+      "and the seventh person still hasn't come..."
+    ],
+    "3704:text": [
+      "What are you going to do?”"
+    ],
+    "3714:text": [
+      "Akemi Iwashita"
+    ],
+    "3715:text": [
+      "“The only one left is that"
+    ],
+    "3716:text": [
+      "frivolous-looking man."
+    ],
+    "3717:text": [
+      "He looks like the sort who would lie."
+    ],
+    "3718:text": [
+      "Hehe... Kazama, was it?"
+    ],
+    "3719:text": [
+      "I do hope he doesn't disappoint me."
+    ],
+    "3720:text": [
+      "Hehehe...”"
+    ],
+    "3730:text": [
+      "Akemi Iwashita"
+    ],
+    "3731:text": [
+      "“The only one who hasn't spoken"
+    ],
+    "3732:text": [
+      "is that boy, Shindo."
+    ],
+    "3733:text": [
+      "I wonder what sort of story he'll tell us."
+    ],
+    "3734:text": [
+      "I'm looking forward to it... Hehehe.”"
+    ],
+    "3744:text": [
+      "Akemi Iwashita"
+    ],
+    "3745:text": [
+      "“That gloomy-looking boy over there is still left."
+    ],
+    "3746:text": [
+      "Arai, if I remember correctly?"
+    ],
+    "3747:text": [
+      "I wonder what sort of scary story he'll tell us. I'll be expecting something good. Hehehe...”"
+    ],
+    "3757:text": [
+      "Akemi Iwashita"
+    ],
+    "3758:text": [
+      "“The last one left is that rather fat boy."
+    ],
+    "3759:text": [
+      "What was his name?"
+    ],
+    "3760:text": [
+      "I must have heard his introduction,"
+    ],
+    "3761:text": [
+      "but I've forgotten."
+    ],
+    "3762:text": [
+      "I wonder what sort of story"
+    ],
+    "3763:text": [
+      "he'll tell us.”"
+    ],
+    "3773:text": [
+      "Akemi Iwashita"
+    ],
+    "3774:text": [
+      "“The only one left now"
+    ],
+    "3775:text": [
+      "is that cute girl."
+    ],
+    "3776:text": [
+      "Fukuzawa, if I remember correctly?"
+    ],
+    "3777:text": [
+      "I'm looking forward to hearing"
+    ],
+    "3778:text": [
+      "what sort of scary story she'll tell. Hehehe...”"
+    ]
+  }
+}

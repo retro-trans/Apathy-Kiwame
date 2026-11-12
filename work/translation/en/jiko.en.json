@@ -1,0 +1,1299 @@
+{
+  "scenario": "data/scenario/jiko.ks",
+  "source_sha256": "99392731baa95ccf6ffe352fe38daae02256309030fbc7cab39c7846b05730b0",
+  "rows": {
+    "57:title.name.1": [
+      "Apathy Kiwame - The Wonderful World of Self-Help"
+    ],
+    "87:text": [
+      "I looked down at the book in my hands."
+    ],
+    "88:text": [
+      "A Self-Help Guide to Getting Your Confidence Back, the cover said. It wasn't a very thick book."
+    ],
+    "90:text": [
+      "The print was large and easy to read, with a few illustrations here and there."
+    ],
+    "91:text": [
+      "There were sticky notes here and there. It looked like Hino really had used the book."
+    ],
+    "93:text": [
+      "I flipped through the table of contents. It looked like the book had seven chapters",
+      "you were supposed to work through in stages."
+    ],
+    "96:text": [
+      "I looked in the direction Hino had run off."
+    ],
+    "97:text": [
+      "I couldn't believe he'd read a book like this..."
+    ],
+    "99:text": [
+      "He never struck me as someone who lacked confidence. Then again, if the book was about getting it back, had something made him lose it in the first place? Was that how he'd become the Hino I knew now?"
+    ],
+    "100:text": [
+      "Either way, it didn't fit the picture I'd had of him at all."
+    ],
+    "102:text": [
+      "I looked up to Hino. A lot, actually."
+    ],
+    "103:text": [
+      "He was an upperclassman I could count on in the club."
+    ],
+    "104:text": [
+      "For a high school student, Hino had a real reporter's drive. He fired off story ideas I'd never think of and wasn't afraid to go out and do the interviews and reporting.",
+      "I'd have a hard time doing what he did."
+    ],
+    "106:text": [
+      "He always looked out for me in all sorts of ways. I really could count on him."
+    ],
+    "108:text": [
+      "I didn't want to become Hino."
+    ],
+    "109:text": [
+      "But I thought it'd be pretty cool to carry myself the way he did."
+    ],
+    "111:text": [
+      "The other younger Newspaper Club members counted on him, too. I hoped I'd be that dependable when I had younger members to look after someday."
+    ],
+    "112:text": [
+      "If the book could get me even a little closer to that... maybe it was worth a read."
+    ],
+    "123:glink.text.1": [
+      "1. No, I don't need it."
+    ],
+    "125:glink.text.1": [
+      "1. No, I don't need it."
+    ],
+    "129:glink.text.1": [
+      "2. I might learn something from it."
+    ],
+    "131:glink.text.1": [
+      "2. I might learn something from it."
+    ],
+    "142:text": [
+      "Hmm. Honestly, I've never put much stock in self-help."
+    ],
+    "143:text": [
+      "Whenever I look it up online, all I find are things that sound like scams."
+    ],
+    "145:text": [
+      "Even the words ‘self-help’ sound shady to me..."
+    ],
+    "146:text": [
+      "I really do respect Hino.",
+      "But that's a separate issue."
+    ],
+    "148:text": [
+      "And honestly, after the way he'd just acted, I couldn't imagine the book being any good..."
+    ],
+    "149:text": [
+      "Then again, giving it back right away would seem rude...",
+      "What should I do?"
+    ],
+    "153:text": [
+      "Emi Kurata"
+    ],
+    "154:text": [
+      "“",
+      ", what's wrong?”"
+    ],
+    "157:text": [
+      "“Oh, Kurata.”"
+    ],
+    "159:text": [
+      "Emi Kurata"
+    ],
+    "160:text": [
+      "“Hey, that book. Did you borrow it from Hino?”"
+    ],
+    "163:text": [
+      "“You know about it?”"
+    ],
+    "165:text": [
+      "Emi Kurata"
+    ],
+    "166:text": [
+      "“Yeah, I do. Hino gave me"
+    ],
+    "167:text": [
+      "a copy of it."
+    ],
+    "168:text": [
+      "Something about manhood or whatever... I mean, talking to me"
+    ],
+    "169:text": [
+      "about manhood? That guy's got no filter."
+    ],
+    "171:text": [
+      "I seriously wasn't interested at first,"
+    ],
+    "172:text": [
+      "but he got so worked up talking about it that I got curious..."
+    ],
+    "173:text": [
+      "And was I in for a surprise!"
+    ],
+    "174:text": [
+      "It was way more interesting than I'd expected."
+    ],
+    "175:text": [
+      "Hey, ",
+      ", if you're on the fence, why not give it a read?"
+    ],
+    "176:text": [
+      "Actually, everyone in the Newspaper Club has read it already."
+    ],
+    "177:text": [
+      "We're supposed to be reporters. We can't afford"
+    ],
+    "178:text": [
+      "to fall behind the times, can we?”"
+    ],
+    "181:text": [
+      "“Really? Well, if you say so,"
+    ],
+    "182:text": [
+      "maybe I'll give it a read. Thanks, Kurata.”"
+    ],
+    "184:text": [
+      "Emi Kurata"
+    ],
+    "185:text": [
+      "“Yeah! See you later, ",
+      "!”"
+    ],
+    "188:text": [
+      "“Yeah, see you.”"
+    ],
+    "190:text": [
+      "She headed home in the opposite direction, her short hair fluttering in the breeze, which was just starting to turn warm."
+    ],
+    "193:text": [
+      "Kurata seemed more cheerful lately."
+    ],
+    "194:text": [
+      "Had she really read the book?"
+    ],
+    "196:text": [
+      "Kurata was actually a lot more skeptical than I was."
+    ],
+    "197:text": [
+      "She'd never fall for a scam, and she was a tough critic about pretty much everything."
+    ],
+    "199:text": [
+      "I'd have thought she was the last person to touch a self-help book. If even she talked it up like that, maybe it really was good."
+    ],
+    "209:text": [
+      "Manhood... a man's grit."
+    ],
+    "210:text": [
+      "Manhood had never played much of a part in my life, but since I was born a guy, I figured I was better off with some."
+    ],
+    "212:text": [
+      "Right. Now that I'd made up my mind, it was time to get started!"
+    ],
+    "219:text": [
+      "I stuffed the book into my bag",
+      "and headed straight home."
+    ],
+    "220:text": [
+      "At the desk in my room, I opened the book right away."
+    ],
+    "221:text": [
+      "It looked like you were meant to work through the exercises over a week, one chapter a day."
+    ],
+    "223:text": [
+      "A week wasn't that long."
+    ],
+    "224:text": [
+      "Summer break was coming up soon."
+    ],
+    "225:text": [
+      "The timing was perfect."
+    ],
+    "227:text": [
+      "I turned to the table of contents to see what Chapter One covered."
+    ],
+    "228:text": [
+      "Huh, so that's the kind of thing you do... Had Hino tried these exercises too?"
+    ],
+    "229:text": [
+      "I still couldn't picture it."
+    ],
+    "231:text": [
+      "It was mostly standard self-help stuff. Nothing looked especially difficult."
+    ],
+    "232:text": [
+      "Oddly enough, that made me want",
+      "to give it a try."
+    ],
+    "234:text": [
+      "I took out a brand-new notebook and wrote my name on the cover."
+    ],
+    "235:text": [
+      "I'd use it to keep track of how I did."
+    ],
+    "236:text": [
+      "I set the book and notebook aside",
+      "and went to sleep."
+    ],
+    "238:text": [
+      "I'd put the plan into action on August 1."
+    ],
+    "245:text": [
+      "August 1. Sunny."
+    ],
+    "247:text": [
+      "Starting today, I'll use this notebook to record how I get on with the self-help book I borrowed from Hino."
+    ],
+    "249:text": [
+      "The first thing I noticed was how specific a lot of the instructions were. I guess that makes sense for a book of exercises."
+    ],
+    "250:text": [
+      "Most of it sounds ordinary when I read it, but I don't think I'd have come up with many of those ideas on my own."
+    ],
+    "252:text": [
+      "I see. Maybe that's what drew Hino to it, too."
+    ],
+    "254:text": [
+      "Chapter One is called “Picture Who You Want to Be.”"
+    ],
+    "256:text": [
+      "Who do I want to be...? I've never really thought about that before."
+    ],
+    "258:text": [
+      "There are people I look up to."
+    ],
+    "259:text": [
+      "Upperclassmen like Hino and Club President Asahina,",
+      "TV idols like Sugi Jun and Ketsu,",
+      "and Dune, the musician..."
+    ],
+    "260:text": [
+      "But I just look up to them. I've never once wanted to actually be them."
+    ],
+    "261:text": [
+      "Actually, there's no way I could become any of them."
+    ],
+    "263:text": [
+      "I'm about as average as a person can get."
+    ],
+    "265:text": [
+      "I'm passing my tests, but I rank in the bottom half."
+    ],
+    "266:text": [
+      "I've got an average face."
+    ],
+    "267:text": [
+      "I'm a little shorter than average."
+    ],
+    "268:text": [
+      "I'm about average at sports, too."
+    ],
+    "270:text": [
+      "Money's not a problem for me,",
+      "but I can't afford to live in luxury."
+    ],
+    "271:text": [
+      "I'm no delinquent or otaku. Even my personality's ordinary. I'm the kind of guy you could find anywhere."
+    ],
+    "272:text": [
+      "That's me, ",
+      "."
+    ],
+    "274:text": [
+      "Hino and the other upperclassmen are one thing, but idols and musicians are in a whole different league."
+    ],
+    "276:text": [
+      "Hmm. I can't keep making excuses, though."
+    ],
+    "277:text": [
+      "The book won't do me any good unless I actually try what's in it."
+    ],
+    "279:text": [
+      "Who do I want to be? If I could, I'd be smarter, better-looking, taller, great at sports, and rich. That's the kind of person"
+    ],
+    "280:text": [
+      "I'd want to be, I guess."
+    ],
+    "282:text": [
+      "Then maybe I'd be living a completely different life."
+    ],
+    "283:text": [
+      "Maybe I'd skip a few grades and do some amazing research",
+      "at a university overseas?"
+    ],
+    "285:text": [
+      "I might even be on TV or on the cover of a magazine."
+    ],
+    "286:text": [
+      "Or I might win a whole pile of Olympic gold medals."
+    ],
+    "288:text": [
+      "Instead of sitting at home doing this over summer break, I'd fly to Guam or Hawaii or Mexico in my private jet and laze around by a gorgeous ocean,",
+      "then rent out a whole theme park for myself and ride roller coasters",
+      "as many times as I wanted."
+    ],
+    "289:text": [
+      "I'd get everything I wanted and feast on whatever I liked, as much as I liked."
+    ],
+    "291:text": [
+      "Wouldn't it be amazing if I could be that person?"
+    ],
+    "292:text": [
+      "Every day would be a lot more fun."
+    ],
+    "294:text": [
+      "Yeah, that's about what I'd want to be like... Am I asking for too much?"
+    ],
+    "295:text": [
+      "But I can't think of anyone in particular I'd want to be. There's no harm in aiming high, is there?"
+    ],
+    "297:text": [
+      "I doubt this book can really turn me into that person, but hey, with enough faith, even a sardine's head can be holy."
+    ],
+    "298:text": [
+      "That'll do for Chapter One, I think."
+    ],
+    "299:text": [
+      "I'll start Chapter Two tomorrow."
+    ],
+    "309:text": [
+      "August 2. Sunny."
+    ],
+    "311:text": [
+      "Day two of self-help."
+    ],
+    "312:text": [
+      "Today it's Chapter Two, “Think About What You're Missing Right Now.”"
+    ],
+    "313:text": [
+      "I'm supposed to figure out what I'm missing compared to the person I pictured in Chapter One."
+    ],
+    "315:text": [
+      "When you put it like that, I'm missing everything..."
+    ],
+    "316:text": [
+      "Yesterday I figured I ought to aim high and went all out imagining my ideal self. Maybe that was a mistake",
+      "..."
+    ],
+    "318:text": [
+      "But even if I tried to narrow it down to one thing, I don't think I could pull any of it off."
+    ],
+    "320:text": [
+      "Even if I started studying hard now, I'd never catch up to the people who've been doing it all along. And I'd never beat a genius."
+    ],
+    "321:text": [
+      "I can't do anything about my face or my height, and I won't get good at sports in a day or two."
+    ],
+    "322:text": [
+      "No matter how much I work part-time, there's only so much a high school kid like me can earn."
+    ],
+    "324:text": [
+      "The world's full of amazing people."
+    ],
+    "325:text": [
+      "And yet for generations, great writers have killed themselves in droves,",
+      "artists have gotten hooked on drugs, actors have had affairs, and rich people have dodged taxes."
+    ],
+    "327:text": [
+      "Even people who have everything can't make life go the way they want. What chance do I have?"
+    ],
+    "329:text": [
+      "I should stop thinking about artists and rich people."
+    ],
+    "330:text": [
+      "We're too different to begin with..."
+    ],
+    "331:text": [
+      "What about the older students or the teachers at school...? No, they've still got too many things I don't."
+    ],
+    "333:text": [
+      "Come to think of it, even Hino had read this book."
+    ],
+    "334:text": [
+      "Someone who's got it together a lot better than I do can still lose confidence."
+    ],
+    "335:text": [
+      "Is it really that hard to believe in yourself?"
+    ],
+    "337:text": [
+      "It really is good to picture who you want to be."
+    ],
+    "338:text": [
+      "And like I wrote yesterday, aiming high is good, too."
+    ],
+    "340:text": [
+      "I just didn't think I'd be this far",
+      "from the person I wanted to become."
+    ],
+    "341:text": [
+      "I thought there'd be at least one thing",
+      "I was good at."
+    ],
+    "342:text": [
+      "In the end, I couldn't find anything."
+    ],
+    "344:text": [
+      "Thinking about it, I realized I'm a long way from the person I want to be."
+    ],
+    "345:text": [
+      "I haven't come anywhere near becoming that person."
+    ],
+    "355:text": [
+      "August 3. Sunny, then rain."
+    ],
+    "357:text": [
+      "Day three of self-help."
+    ],
+    "358:text": [
+      "Today's exercise is Chapter Three, “Think About What You Can Do.”"
+    ],
+    "359:text": [
+      "Yesterday I saw the gap between who I am and who I want to be. Today, it looks like I'm supposed to do something I can manage as I am."
+    ],
+    "361:text": [
+      "“However far you may be from your ideal self,"
+    ],
+    "362:text": [
+      "there is always something only you, as you are right now, can do."
+    ],
+    "363:text": [
+      "Start by accepting that you're someone"
+    ],
+    "364:text": [
+      "with nothing going for you."
+    ],
+    "365:text": [
+      "Might there be things you can do"
+    ],
+    "366:text": [
+      "precisely because you have nothing?”"
+    ],
+    "368:text": [
+      "That's what the book says."
+    ],
+    "369:text": [
+      "Because I have nothing, huh..."
+    ],
+    "373:text": [
+      "I decided to take Pohe for a walk, for starters."
+    ],
+    "374:text": [
+      "I can manage a walk, at least."
+    ],
+    "375:text": [
+      "Pohe hasn't been getting enough exercise lately, anyway. It's perfect timing."
+    ],
+    "380:text": [
+      "It felt like summer today. The sky seemed higher than usual, and the cicadas' calls carried far into the distance.",
+      "It was perfect weather for a walk."
+    ],
+    "381:text": [
+      "But it really was hot, so halfway through the walk I switched to playing catch in the shade at the park."
+    ],
+    "383:text": [
+      "Pohe gets so caught up in playing and tumbles around. With a body that round, I can't tell dog from ball."
+    ],
+    "388:text": [
+      "On the way home from the park, we got caught in a sudden late-afternoon downpour."
+    ],
+    "389:text": [
+      "Back home, I washed the mud off Pohe in the bath. It had been a while since we'd bathed together, which might explain why Pohe was even more excited than usual. It was adorable."
+    ],
+    "393:text": [
+      "Tonight I'm going to fall asleep with Pohe in my arms."
+    ],
+    "394:text": [
+      "How long has it been since Pohe last slept in my room with me?"
+    ],
+    "396:text": [
+      "Spending time with Pohe was so relaxing. It was a good day."
+    ],
+    "397:text": [
+      "It's because I have nothing that I've got time to give Pohe some attention."
+    ],
+    "398:text": [
+      "That's what I can do right now."
+    ],
+    "400:text": [
+      "All right. That's enough for today."
+    ],
+    "407:text": [
+      "August 4. Rain."
+    ],
+    "409:text": [
+      "Day four. I'm halfway through."
+    ],
+    "410:text": [
+      "Today's theme is Chapter Four, “Stay Humble. Thank the People Around You.”"
+    ],
+    "412:text": [
+      "Pohe slept beside me last night, so I spent a while petting Pohe as soon as I woke up."
+    ],
+    "413:text": [
+      "Pohe was adorable, wagging that short tail for all it was worth."
+    ],
+    "414:text": [
+      "I wonder how much time I have left with Pohe."
+    ],
+    "418:text": [
+      "Next, I decided to thank Mom."
+    ],
+    "419:text": [
+      "It was really embarrassing to come out and say it, but it's part of the self-help exercises."
+    ],
+    "421:text": [
+      "I thanked her for doing the housework and for everything she does for me every day. She got worried and asked if I had a fever."
+    ],
+    "422:text": [
+      "That just goes to show I don't usually say it... Now that I think about it, Mother's Day might be the only time",
+      "I ever really thank her."
+    ],
+    "424:text": [
+      "She laughed and said I was creeping her out, but seeing how happy she was made me happy too."
+    ],
+    "428:text": [
+      "During the day, I went to my friends' houses to thank them."
+    ],
+    "429:text": [
+      "They were all surprised and asked why, but I couldn't tell them I was following a self-help book."
+    ],
+    "430:text": [
+      "I didn't really want them thinking I was taking this stuff seriously."
+    ],
+    "432:text": [
+      "Kurata in particular wouldn't stop asking, so it was hard to dodge the question."
+    ],
+    "434:text": [
+      "When I told her I'd been out shopping and felt like dropping by to see her,",
+      "she made a big show of teasing me about how creepy that was."
+    ],
+    "436:text": [
+      "Thanking people is hard... Is that because of the way I usually act?"
+    ],
+    "437:text": [
+      "No, in Kurata's case, that's just how she is."
+    ],
+    "438:text": [
+      "In the end, though, she did",
+      "thank me back."
+    ],
+    "440:text": [
+      "On my way home I stopped by Hino's house to thank him for lending me the book, but nobody was there."
+    ],
+    "442:text": [
+      "I wanted to tell him how the exercises were going too, but it couldn't be helped."
+    ],
+    "443:text": [
+      "I thought I ought to tell him face-to-face, but I've got something else to do tomorrow. When I got home, I emailed him to tell him how it was going and to thank him."
+    ],
+    "447:text": [
+      "When Dad got home from work that evening, I thanked him. He reacted just like Mom did."
+    ],
+    "448:text": [
+      "It was even more embarrassing with him."
+    ],
+    "450:text": [
+      "Before bed I called my grandparents to thank them."
+    ],
+    "451:text": [
+      "They kept asking me to come over, so I promised I'd visit them during the Obon holiday. They both sounded delighted."
+    ],
+    "453:text": [
+      "I wonder if I've thanked everyone who helps me out now."
+    ],
+    "454:text": [
+      "There might be someone else, but for now I've thanked everyone I can think of."
+    ],
+    "458:text": [
+      "Looking back on the day, I keep wondering how much time I have left with everyone."
+    ],
+    "460:text": [
+      "I might not even have a few more years with Pohe."
+    ],
+    "461:text": [
+      "It's something I always think about when I have a pet."
+    ],
+    "462:text": [
+      "How short their lives are compared with mine, and how I'll have to say goodbye."
+    ],
+    "464:text": [
+      "Everyone says time heals everything, but how I'll take it when it actually happens to me..."
+    ],
+    "465:text": [
+      "Will I be able to bear it when the time comes?"
+    ],
+    "467:text": [
+      "If just thinking about Pohe makes me feel like this, I don't even want to think about losing my parents or my friends."
+    ],
+    "469:text": [
+      "Today's about remembering to be grateful. I should stop dwelling on all this."
+    ],
+    "470:text": [
+      "I'm exhausted after going all over the place today."
+    ],
+    "471:text": [
+      "I'll get a good night's sleep."
+    ],
+    "473:text": [
+      "That's it for today."
+    ],
+    "480:text": [
+      "August 5. Cloudy."
+    ],
+    "482:text": [
+      "Maybe the rain stopped sometime last night. Today it's gloomy and overcast."
+    ],
+    "483:text": [
+      "The rain that's soaked into the asphalt seems to be making the air damp and sticky. It isn't a very pleasant day."
+    ],
+    "485:text": [
+      "Still, a day like this might be just right for getting things done at home."
+    ],
+    "486:text": [
+      "Chapter Five is “Write a Letter and Sort Out",
+      "Your Feelings.” That's what I'm doing today."
+    ],
+    "488:text": [
+      "I don't usually write letters, so I'll use an envelope my parents gave me."
+    ],
+    "489:text": [
+      "This notebook will do for stationery."
+    ],
+    "491:text": [
+      "I guess it's a bit too plain, but it's a letter to myself. It should be fine."
+    ],
+    "493:text": [
+      "“Write a letter to yourself"
+    ],
+    "494:text": [
+      "to sort out your feelings."
+    ],
+    "495:text": [
+      "If you've completed the previous steps,"
+    ],
+    "496:text": [
+      "what you need to write should come to you on its own."
+    ],
+    "497:text": [
+      "Write a letter that will leave you with no regrets,"
+    ],
+    "498:text": [
+      "even if someone else reads it."
+    ],
+    "499:text": [
+      "If you've put the earlier chapters into practice,"
+    ],
+    "500:text": [
+      "you should already understand."
+    ],
+    "501:text": [
+      "Write your letter"
+    ],
+    "502:text": [
+      "with a ballpoint pen or a fountain pen."
+    ],
+    "503:text": [
+      "Your resolve means nothing"
+    ],
+    "504:text": [
+      "unless you write in ink that can't be erased.”"
+    ],
+    "506:text": [
+      "That's what the book says."
+    ],
+    "510:text": [
+      "I really have thought about a lot of things since I started these exercises."
+    ],
+    "511:text": [
+      "Looking back on all of it, the words do come to me on their own."
+    ],
+    "513:text": [
+      "I wrote the letter on the page next to this one."
+    ],
+    "514:text": [
+      "I'll leave the letter on my desk where it's easy to see."
+    ],
+    "516:text": [
+      "Once I'd finished writing the letter, my head felt clear."
+    ],
+    "517:text": [
+      "It felt like the thoughts I'd had a moment ago had turned into words and flowed out of me."
+    ],
+    "518:text": [
+      "It was as if everything that had been clogging up my head was gone and I could see all the way to the back of my mind."
+    ],
+    "520:text": [
+      "So this is what it means",
+      "to sort out your feelings."
+    ],
+    "521:text": [
+      "I realized even I, empty as I was, had all these feelings packed inside me."
+    ],
+    "523:text": [
+      "I could do it, even though I've got nothing."
+    ],
+    "524:text": [
+      "That's a wonderful thing."
+    ],
+    "526:text": [
+      "That's it for today. Just two chapters left and I'm done."
+    ],
+    "533:text": [
+      "August 6. Cloudy."
+    ],
+    "535:text": [
+      "When I woke up this morning, the letter was still sitting on my desk, right where I'd left it yesterday."
+    ],
+    "537:text": [
+      "It's still cloudy outside."
+    ],
+    "538:text": [
+      "Even though it was daytime, the room was dim."
+    ],
+    "539:text": [
+      "The air conditioner hummed, drowning out the sounds of summer beyond the closed window."
+    ],
+    "541:text": [
+      "Today I'm doing Chapter Six, “Get Rid of Whatever Stands Between You and the Person You Want to Be.”"
+    ],
+    "543:text": [
+      "I decided to start by mailing yesterday's letters to my parents, the older students I knew, and my friends."
+    ],
+    "544:text": [
+      "This is a good chance to let them get to know the real me."
+    ],
+    "546:text": [
+      "They'll probably all leave me once they know the truth. That's fine."
+    ],
+    "547:text": [
+      "I've had enough of relationships where everybody just keeps up appearances."
+    ],
+    "548:text": [
+      "I don't need them in my new life."
+    ],
+    "550:text": [
+      "Next time, I want friends I can really speak my mind with."
+    ],
+    "551:text": [
+      "I want to hear what people really think."
+    ],
+    "556:text": [
+      "Outside, I was enveloped in heat I hadn't felt in my room."
+    ],
+    "557:text": [
+      "It clung to me. I hated the feeling."
+    ],
+    "559:text": [
+      "I used to love summer."
+    ],
+    "560:text": [
+      "It was the liveliest time of year. Everything was so lush.",
+      "The trees and plants that had been all sorts of colors through spring turned one beautiful shade of green... That's the summer I loved."
+    ],
+    "562:text": [
+      "Now I think I just liked all that energy and life because I had none of my own."
+    ],
+    "563:text": [
+      "Even under that gray sky, the sunflowers grew straight up and opened their huge blooms. Now they just looked stupid to me."
+    ],
+    "565:text": [
+      "After mailing the letters, I took my usual route home."
+    ],
+    "567:text": [
+      "Rows of identical houses lined the flat streets.",
+      "Housing blocks and apartments were just boxes stacked up. At the park, mothers who barely knew one another showed off their kids."
+    ],
+    "568:text": [
+      "I stopped at the convenience store, where a clerk who didn't care went through the motions."
+    ],
+    "570:text": [
+      "My walk home looked just like the life I'd expected to live."
+    ],
+    "571:text": [
+      "It suits who I am now well enough. It won't suit who I become next."
+    ],
+    "572:text": [
+      "I've seen enough of this."
+    ],
+    "576:text": [
+      "When I got home, I got rid of the things I didn't need."
+    ],
+    "577:text": [
+      "Manga and novels still on the shelf even though I never read them anymore."
+    ],
+    "578:text": [
+      "Games I'd stopped playing."
+    ],
+    "579:text": [
+      "CDs I hadn't listened to in so long I'd forgotten I owned them."
+    ],
+    "581:text": [
+      "All my clothes stayed in the dresser except for the few familiar ones I wore because they were comfortable. I didn't even like those that much."
+    ],
+    "582:text": [
+      "I stuffed the lot into trash bags."
+    ],
+    "584:text": [
+      "They make it easy these days."
+    ],
+    "585:text": [
+      "You can put out almost anything with the burnable trash."
+    ],
+    "587:text": [
+      "Once I'd thrown out everything within reach, I started on the closet."
+    ],
+    "589:text": [
+      "How long had it been since I'd used anything in there?"
+    ],
+    "591:text": [
+      "Weird little things I'd made for fun as a kid."
+    ],
+    "592:text": [
+      "Yearbooks I'd kept even though I never opened them."
+    ],
+    "593:text": [
+      "Piles of junk I'd stuffed into cardboard boxes because I had nowhere else to put them."
+    ],
+    "595:text": [
+      "I'd never use my grade-school backpack or the middle-school uniform I'd worn until last year. I'd never need either of them again."
+    ],
+    "597:text": [
+      "Why had I held on to them this long?"
+    ],
+    "598:text": [
+      "I didn't need any of it."
+    ],
+    "600:text": [
+      "One thing at a time, I cleared out my room."
+    ],
+    "601:text": [
+      "My room was barely six tatami mats in size. I couldn't believe how much useless stuff had fit in it."
+    ],
+    "603:text": [
+      "Five cardboard boxes. Seven trash bags."
+    ],
+    "604:text": [
+      "That's how much trash came out of my room."
+    ],
+    "605:text": [
+      "That's all I am."
+    ],
+    "607:text": [
+      "With everything gone, my room felt",
+      "so much bigger."
+    ],
+    "608:text": [
+      "To either side, up or down, there was nothing wherever I looked."
+    ],
+    "609:text": [
+      "An empty closet, an empty dresser,",
+      "an empty desk, an empty room."
+    ],
+    "611:text": [
+      "The same feeling I had when I wrote the letters yesterday welled up again."
+    ],
+    "613:text": [
+      "I'd been surrounded by things that got in my way."
+    ],
+    "614:text": [
+      "The junk in my room, the older students and friends at school,",
+      "and my parents, too."
+    ],
+    "616:text": [
+      "Each time I threw something out, I let go of one more thing I'd been clinging to inside, even though I had nothing."
+    ],
+    "617:text": [
+      "Oh, it feels good to be rid of it."
+    ],
+    "618:text": [
+      "I've finally cleared everything away."
+    ],
+    "620:text": [
+      "What should I fill this room with in my new life?"
+    ],
+    "621:text": [
+      "Actually, I'll need a bigger room."
+    ],
+    "622:text": [
+      "If it was cramped even for me with nothing in me, it'll be tighter still for the new me when I'm full of things."
+    ],
+    "624:text": [
+      "I'm sitting on the floor with all this room around me,",
+      "writing it down."
+    ],
+    "625:text": [
+      "This room is who I am now."
+    ],
+    "626:text": [
+      "An empty room and an empty me."
+    ],
+    "628:text": [
+      "Tomorrow my new life begins."
+    ],
+    "635:text": [
+      "August 7. Beautifully sunny."
+    ],
+    "637:text": [
+      "It cleared up."
+    ],
+    "638:text": [
+      "The sky was so clear and bright you'd never think it had been gloomy as recently as yesterday."
+    ],
+    "639:text": [
+      "It was as if God had made the weather just for the new me who would be born today."
+    ],
+    "641:text": [
+      "It's a fitting day to put the last chapter into practice."
+    ],
+    "642:text": [
+      "Chapter Seven. “Say Goodbye to the Self You Hate and Set Out for a New World.”"
+    ],
+    "644:text": [
+      "Over these seven days, I finally found the real me."
+    ],
+    "645:text": [
+      "I found something the old ",
+      " could never have had. Confidence."
+    ],
+    "647:text": [
+      "I used to be an empty shell with nothing to be proud of."
+    ],
+    "648:text": [
+      "Of course I couldn't have confidence."
+    ],
+    "650:text": [
+      "That's it. If my old self couldn't do it, I'll just be born again."
+    ],
+    "651:text": [
+      "I can start everything over in a new life. All the regret and despair will be gone."
+    ],
+    "653:text": [
+      "I might never be exactly who I pictured, but I can start from scratch with studying and sports."
+    ],
+    "654:text": [
+      "Looks, height, and money might come down to luck. I can have another shot."
+    ],
+    "656:text": [
+      "This time, I'll have a much more wonderful life, and I'll enjoy it so much more."
+    ],
+    "658:text": [
+      "And the ",
+      " who lives that life is bound to be full of confidence."
+    ],
+    "660:text": [
+      "Now I know exactly what Hino meant."
+    ],
+    "661:text": [
+      "The book Hino lent me",
+      "really was wonderful."
+    ],
+    "663:text": [
+      "I'd actually like to take the book with me, but my new self won't need it."
+    ],
+    "664:text": [
+      "I feel bad that I can't return it myself. I've asked my parents, though, so they'll probably bring it back sooner or later."
+    ],
+    "666:text": [
+      "I didn't get to see you the other day, so I'm leaving my thanks here."
+    ],
+    "668:text": [
+      "Hino, this was a wonderful book."
+    ],
+    "669:text": [
+      "I think I'm going to get my confidence back."
+    ],
+    "670:text": [
+      "I can feel myself waking up to who I really am. Maybe that's why even the title of the book looks different to me now."
+    ],
+    "672:text": [
+      "I want to thank you again."
+    ],
+    "673:text": [
+      "Thank you so much."
+    ],
+    "675:text": [
+      "The sunlight coming through the window is hot."
+    ],
+    "676:text": [
+      "I can hear Pohe barking downstairs."
+    ],
+    "677:text": [
+      "I can hear summer through the window."
+    ],
+    "679:text": [
+      "The last day of my self-help exercises. The day I've been waiting for."
+    ],
+    "680:text": [
+      "Goodbye, empty me."
+    ],
+    "681:text": [
+      "The new me doesn't need you."
+    ],
+    "761:text": [
+      "Come on, ",
+      ". You shouldn't have left a notebook like this behind."
+    ],
+    "763:text": [
+      "'s parents called me. When I came over, I found ",
+      "'s room all cleaned out."
+    ],
+    "764:text": [
+      "Nothing left in here but this notebook, the letters,",
+      "the book, and ",
+      " hanging from the ceiling."
+    ],
+    "766:text": [
+      "I'm impressed. You cleared all this out in a single day."
+    ],
+    "767:text": [
+      "It's a small room, sure, but it must've been hard to do alone."
+    ],
+    "769:text": [
+      "Funny how well it all worked out."
+    ],
+    "770:text": [
+      "This book works wonders."
+    ],
+    "771:text": [
+      "Or maybe it only worked because it was you, ",
+      "."
+    ],
+    "772:text": [
+      "The more earnest and ordinary someone is, the better this kind of thing works on them."
+    ],
+    "774:text": [
+      "One week on the dot... When you came to see me partway through, I wasn't sure whether to see you. I was right to stay away."
+    ],
+    "776:text": [
+      "You drowned in your own thoughts and killed yourself."
+    ],
+    "777:text": [
+      ", you wrote that you were empty, but that imagination of yours was something else."
+    ],
+    "778:text": [
+      "You did more than enough for me."
+    ],
+    "780:text": [
+      "Now, what to do next?"
+    ],
+    "781:text": [
+      "It looks like ",
+      "'s parents haven't noticed yet. The rest depends on how well I play my part."
+    ],
+    "783:text": [
+      "Summer was the right time to do it."
+    ],
+    "784:text": [
+      "Close the window and turn off the air conditioner, and you'll start rotting in no time."
+    ],
+    "785:text": [
+      "There's a suicide note ready. If nothing looks suspicious, they won't bother with an autopsy."
+    ],
+    "786:text": [
+      "Once the police release the body, it'll go straight to cremation."
+    ],
+    "788:text": [
+      "I've already paid my respects to your parents. If it does look like they're going to do an autopsy, I'll tell them to think of poor ",
+      ". They're soft enough to listen."
+    ],
+    "789:text": [
+      "They'll go to the police and say exactly what I tell them to."
+    ],
+    "791:text": [
+      ", you were a good kid to have in the club."
+    ],
+    "792:text": [
+      "I never had anything against you."
+    ],
+    "793:text": [
+      "But I've got to kill Kiyose. I can't let that go."
+    ],
+    "795:text": [
+      "That guy's a thorn",
+      "in my side."
+    ],
+    "796:text": [
+      "At school or on my own time, he's always one step ahead of me, always in my way."
+    ],
+    "797:text": [
+      "I'm sick of living like that."
+    ],
+    "799:text": [
+      "But if I just up and killed him myself, these days I'd get caught in no time."
+    ],
+    "800:text": [
+      "So I arranged to kill you and have Kiyose killed in return."
+    ],
+    "801:text": [
+      "A murder swap. Ha ha ha. I never thought it would go this well."
+    ],
+    "803:text": [
+      "All that's left is to take the notebook and the book, then throw the door open with a bang... What a pain. Time",
+      "to finish the job."
+    ],
+    "805:text": [
+      ", enjoy your new life."
+    ],
+    "806:text": [
+      "Maybe we'll meet again... Nah, I guess we won't."
+    ],
+    "807:text": [
+      "Sounds like you don't need me in your life."
+    ],
+    "809:text": [
+      "The feeling's mutual, ",
+      "."
+    ],
+    "841:text": [
+      "Shinya Asahina"
+    ],
+    "842:text": [
+      "“...There's nobody left in the Newspaper Club"
+    ],
+    "843:text": [
+      "now."
+    ],
+    "844:text": [
+      "I guess all that's left is to shut it down. I'm sorry, everyone...”"
+    ],
+    "854:text": [
+      "Emi Kurata"
+    ],
+    "855:text": [
+      "“Asahina looks so down. Poor guy."
+    ],
+    "856:text": [
+      "Hey, Hino, who do you think's coming next?"
+    ],
+    "857:text": [
+      "I'd like it to be ",
+      ", myself."
+    ],
+    "858:text": [
+      "Do you think ",
+      " will be here soon?”"
+    ],
+    "860:text": [
+      "Sadao Hino"
+    ],
+    "861:text": [
+      "“Hard to say. Unfortunately, Asahina wouldn't"
+    ],
+    "862:text": [
+      "read it..."
+    ],
+    "863:text": [
+      "But your pick's one of the most earnest people in the club."
+    ],
+    "864:text": [
+      "I'll bet he's already reading it. He'll finish his full week of"
+    ],
+    "865:text": [
+      "self-harm right on schedule."
+    ],
+    "866:text": [
+      "I'm sure the others will be here soon too."
+    ],
+    "867:text": [
+      "Still, I didn't think you'd be the one to come after me."
+    ],
+    "868:text": [
+      "I never thought you'd actually read that book properly."
+    ],
+    "869:text": [
+      "You don't usually buy into stuff like that.”"
+    ],
+    "871:text": [
+      "Emi Kurata"
+    ],
+    "872:text": [
+      "“What are you talking about, Hino?"
+    ],
+    "873:text": [
+      "You're the one who recommended it."
+    ],
+    "874:text": [
+      "And of course I'd try the exercises"
+    ],
+    "875:text": [
+      "once I'd read it!"
+    ],
+    "876:text": [
+      "How often do you get the chance"
+    ],
+    "877:text": [
+      "to become a whole new person?"
+    ],
+    "878:text": [
+      "That's a huge scoop. Huge! I can't wait to become"
+    ],
+    "879:text": [
+      "someone new and write the story!"
+    ],
+    "881:text": [
+      "But we'll need a hand, so I hope"
+    ],
+    "882:text": [
+      "we can get ",
+      " here soon."
+    ],
+    "883:text": [
+      "No matter how much I can count on you, Hino,"
+    ],
+    "884:text": [
+      "one person only has half as many hands as two."
+    ],
+    "885:text": [
+      "Right?”"
+    ],
+    "887:text": [
+      "Sadao Hino"
+    ],
+    "888:text": [
+      "“You've got some nerve, Kurata. Wanting to write the paper"
+    ],
+    "889:text": [
+      "even after you're dead. That's you all over..."
+    ],
+    "890:text": [
+      "Well, I'm the one who brought you into this new world,"
+    ],
+    "891:text": [
+      "after all."
+    ],
+    "892:text": [
+      "I can keep you company for a little while."
+    ],
+    "893:text": [
+      "Even if it was the old you, you were a junior"
+    ],
+    "894:text": [
+      "I was fond of."
+    ],
+    "895:text": [
+      "Oh... Looks like he's here.”"
+    ],
+    "897:text": [
+      "Emi Kurata"
+    ],
+    "898:text": [
+      "“Oh! You're right! ",
+      "!"
+    ],
+    "899:text": [
+      "You're late! Come on, hurry, hurry!”"
+    ],
+    "901:text": [
+      "Sadao Hino"
+    ],
+    "902:text": [
+      "“We've been waiting, ",
+      "."
+    ],
+    "903:text": [
+      "I hope your next life is a good one.”"
+    ]
+  }
+}

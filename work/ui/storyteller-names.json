@@ -1,0 +1,14 @@
+{
+  "canvas": {"width": 960, "height": 690},
+  "scenario": "data/scenario/kataribe.ks",
+  "button_size": {"width": 206, "height": 45},
+  "heading": {"x": 534, "y": 100, "width": 426, "height": 50, "label": "Whose story should I hear?"},
+  "buttons": [
+    {"id": "shindo", "asset": "新堂", "x": 30, "y": 240},
+    {"id": "arai", "asset": "荒井", "x": 30, "y": 310},
+    {"id": "kazama", "asset": "風間", "x": 30, "y": 380},
+    {"id": "hosoda", "asset": "細田", "x": 30, "y": 450},
+    {"id": "iwashita", "asset": "岩下", "x": 30, "y": 520},
+    {"id": "fukuzawa", "asset": "福沢", "x": 30, "y": 590}
+  ]
+}

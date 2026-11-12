@@ -1,0 +1,21 @@
+{
+  "scenario": "data/scenario/settei/macro.ks",
+  "source_sha256": "34c8def442badd24cc0cb6642399236aec3138700d3a3c9d57b10770f1e5230e",
+  "rows": {
+    "323:button.hint.1": [
+      "Open Old School Building Field Notes"
+    ],
+    "385:button.hint.1": [
+      "Open Old School Building Field Notes"
+    ],
+    "461:ptext.text.1": [
+      "HP"
+    ],
+    "480:ptext.text.1": [
+      "Sadao Hino"
+    ],
+    "481:ptext.text.1": [
+      "HP"
+    ]
+  }
+}

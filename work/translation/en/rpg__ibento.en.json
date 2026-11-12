@@ -1,0 +1,574 @@
+{
+  "scenario": "data/scenario/rpg/ibento.ks",
+  "source_sha256": "1a1880f8139aacb68c40bb13388a32b2bfe10b8258a5bd140bc63c1b7a51ee11",
+  "rows": {
+    "7:text": [
+      "There's a sheet of paper here."
+    ],
+    "8:text": [
+      "Wouldn't you like to find happiness with the magic stone Ruberaize?"
+    ],
+    "9:text": [
+      "What's this?",
+      " It looks like a flyer for the kind of gems a shady cult would sell."
+    ],
+    "11:text": [
+      "This has nothing to do with me.",
+      " I'll leave it alone."
+    ],
+    "24:text": [
+      "What was that?"
+    ],
+    "25:text": [
+      "...Something just moved."
+    ],
+    "27:text": [
+      "It looks like there's something in here. "
+    ],
+    "28:text": [
+      "...I'm scared, but I'll try reaching in."
+    ],
+    "33:text": [
+      "Aaagh!!",
+      " I-it was a bug."
+    ],
+    "34:text": [
+      "It was one of those black bugs you should never touch."
+    ],
+    "35:text": [
+      "Ugh...",
+      " That's disgusting."
+    ],
+    "50:text": [
+      "Hm? What's this?",
+      " There's a mask here."
+    ],
+    "51:text": [
+      "It's white and expressionless.",
+      " Did someone leave it here?"
+    ],
+    "52:text": [
+      "I'll leave it alone."
+    ],
+    "64:text": [
+      "There's a notebook here.",
+      " I wonder what it says."
+    ],
+    "65:text": [
+      " Now that you've read this, you will die."
+    ],
+    "67:text": [
+      "What an obnoxious notebook.",
+      " I shouldn't have read it."
+    ],
+    "79:text": [
+      "There's a notebook here.",
+      " ...Let's see."
+    ],
+    "81:text": [
+      "It's called “Exploring the Room Between.”",
+      " Huh. That sounds interesting."
+    ],
+    "82:text": [
+      "I'll read a bit of it."
+    ],
+    "84:text": [
+      "...Whoa, the pages are so tattered I can't read a thing."
+    ],
+    "85:text": [
+      "There's no point looking through it."
+    ],
+    "97:text": [
+      "There's some chocolate here."
+    ],
+    "98:text": [
+      "How long has it been here?"
+    ],
+    "100:text": [
+      "It's half-eaten, too."
+    ],
+    "101:text": [
+      "Whoever forgot their half-eaten chocolate in a locker like this"
+    ],
+    "102:text": [
+      "must be out of their mind."
+    ],
+    "114:text": [
+      "Huh?",
+      " There's something written at the back of the locker."
+    ],
+    "116:text": [
+      "Let's see... “You have a week to tell ten people the story of Takagi the Hag."
+    ],
+    "117:text": [
+      "If you don't, your right leg will be taken from you.”"
+    ],
+    "119:text": [
+      "What a nasty prank. Nobody's going to fall for that."
+    ],
+    "120:text": [
+      "Ha ha ha...",
+      " Wait. I'm really going to be okay, right?"
+    ],
+    "132:text": [
+      "It's a flyer."
+    ],
+    "133:text": [
+      "The ultimate game, “School Days,” is a hit! On sale now for 50,000 yen. Mail order only."
+    ],
+    "135:text": [
+      "Fifty thousand yen for a game?",
+      " You can play mobile games for free these days."
+    ],
+    "136:text": [
+      "Who'd play a game like that?"
+    ],
+    "148:text": [
+      "There's a strange sheet of paper here."
+    ],
+    "149:text": [
+      "Is this a family tree?",
+      " It says “Kazama Family Tree.”"
+    ],
+    "150:text": [
+      "What is this?",
+      " Every name on it is Nozomu Kazama."
+    ],
+    "152:text": [
+      "That's creepy.",
+      " Whose idea of a joke is this?"
+    ],
+    "164:text": [
+      "Huh?",
+      " There's a pair of underpants in here."
+    ],
+    "165:text": [
+      "They're filthy, too.",
+      " Ugh, that's disgusting."
+    ],
+    "167:text": [
+      "Who would leave something like this here?"
+    ],
+    "168:text": [
+      "Wait.",
+      " There's a name written on them—"
+    ],
+    "170:text": [
+      "Hosoda...",
+      " Hosoda, Tomo...",
+      " The rest is stained brown. I can't read it."
+    ],
+    "180:text": [
+      "Someone left a textbook here.",
+      " Is it a social studies book?"
+    ],
+    "181:text": [
+      "Someone's doodled all over the faces of these historical figures. Ha ha ha."
+    ],
+    "183:text": [
+      "Whoever drew this is pretty good, though.",
+      " It's like that portrait is glaring right at me."
+    ],
+    "184:text": [
+      "...This is starting to creep me out."
+    ],
+    "186:text": [
+      "That face is so scary, it looks like it wants to kill me."
+    ],
+    "187:text": [
+      "I'll pretend I never saw this.",
+      " I need to forget it. Forget it."
+    ],
+    "198:text": [
+      "Huh? There's something in this desk."
+    ],
+    "199:text": [
+      "I can't see it very well.",
+      " Is it a doll?"
+    ],
+    "200:text": [
+      "It's pretty grimy, but it's a doll of a girl."
+    ],
+    "202:text": [
+      "So it talks when you press its belly.",
+      " Ha ha ha, that's pretty clever."
+    ],
+    "203:text": [
+      "It must run on batteries. They've lasted an awfully long time."
+    ],
+    "204:text": [
+      "...Wait. "
+    ],
+    "206:text": [
+      "But that doesn't quite add up, does it?"
+    ],
+    "208:text": [
+      "Can batteries really last that long?"
+    ],
+    "212:text": [
+      "Whoa!",
+      " The compartment's empty.",
+      " There aren't any batteries in it."
+    ],
+    "214:text": [
+      "This doll's talking on its own!!"
+    ],
+    "216:text": [
+      "This is creepy. I'll put it back."
+    ],
+    "227:text": [
+      "This desk is a mess."
+    ],
+    "228:text": [
+      "I don't know who did it,"
+    ],
+    "229:text": [
+      "but they wrote things like “Drop dead,” “Trash,” and “Don't come to school.”"
+    ],
+    "231:text": [
+      "They even used a carving tool so some of it couldn't be erased."
+    ],
+    "233:text": [
+      "Poor kid. This desk belongs to—"
+    ],
+    "235:text": [
+      "..."
+    ],
+    "237:text": [
+      "What?",
+      " The owner of this desk has the same name as me?"
+    ],
+    "239:text": [
+      "...Ha ha ha. What a creepy coincidence.",
+      " I'd better put it out of my head."
+    ],
+    "250:text": [
+      "Wow, this desk is a mess inside."
+    ],
+    "251:text": [
+      "It's so crammed with trash I can't see what's in there."
+    ],
+    "253:text": [
+      "Who on earth stuffed so much in here?"
+    ],
+    "254:text": [
+      "Huh?",
+      " Is that a noise coming from inside the desk?"
+    ],
+    "256:text": [
+      "It sounds like something's scratching away in there...",
+      " No. I'm imagining things. I'm imagining things."
+    ],
+    "257:text": [
+      "I must be hearing things."
+    ],
+    "258:text": [
+      "Nothing could possibly be alive in there."
+    ],
+    "260:text": [
+      "I'm hearing things. Just hearing things... Ha ha ha."
+    ],
+    "271:text": [
+      "There's something in this desk."
+    ],
+    "272:text": [
+      "What is it? It's rolling around in here...",
+      " Is it a ping-pong ball?"
+    ],
+    "273:text": [
+      "No, maybe a golf ball?"
+    ],
+    "275:text": [
+      "No.",
+      " It's... a piece of hard candy."
+    ],
+    "276:text": [
+      "It's huge, though.",
+      " Would it even fit in my mouth?"
+    ],
+    "278:text": [
+      "Even if it fit, I'd be in trouble if I swallowed it by accident and it got stuck in my throat."
+    ],
+    "279:text": [
+      "That's kind of scary.",
+      " I'd better put it back."
+    ],
+    "290:text": [
+      "There's something weird written here.",
+      " How to Catch and Keep Sunbaralians."
+    ],
+    "291:text": [
+      "What's this supposed to be?"
+    ],
+    "293:text": [
+      "Don't let the water get too hot or too cold.",
+      " Keep it at a steady, warm temperature."
+    ],
+    "294:text": [
+      "Huh. So Sunbaralians like lukewarm water."
+    ],
+    "296:text": [
+      "Now, how do you actually catch one... Wait, what?!"
+    ],
+    "297:text": [
+      "N-No way... You can really catch one like that?"
+    ],
+    "298:text": [
+      "I never would have thought of that."
+    ],
+    "300:text": [
+      "...But what exactly is a Sunbaralian, anyway?"
+    ],
+    "301:text": [
+      "I guess it doesn't matter right now."
+    ],
+    "312:text": [
+      "Occult Society Activity Report."
+    ],
+    "313:text": [
+      "Hmm. The Occult Society, huh."
+    ],
+    "315:text": [
+      "Come to think of it, I'd heard rumors that Narugami Academy had a society like that,"
+    ],
+    "316:text": [
+      "but it was just an urban legend, wasn't it?"
+    ],
+    "318:text": [
+      "I'd never seen it myself, or heard anything about it beyond the rumors."
+    ],
+    "320:text": [
+      "Still, back when the old school building was in use,"
+    ],
+    "321:text": [
+      "maybe there really was a society like this."
+    ],
+    "323:text": [
+      "Huh?",
+      " The date on here was only about a week ago."
+    ],
+    "325:text": [
+      "Did that mean the Occult Society really existed"
+    ],
+    "326:text": [
+      "and was still operating out of the old school building?"
+    ],
+    "328:text": [
+      "I felt a chill run down my spine."
+    ],
+    "329:text": [
+      "I'd pretend I'd never seen that activity report."
+    ],
+    "330:text": [
+      "Best to let sleeping gods lie."
+    ],
+    "341:text": [
+      "What's this? ‘Dream of Doom’...",
+      " How are you supposed to read those characters?"
+    ],
+    "342:text": [
+      "Let's see... One day, you have a dream."
+    ],
+    "344:text": [
+      "If someone in that dream takes their own life the next day, the countdown begins."
+    ],
+    "346:text": [
+      "You keep dreaming every day. On day six, someone you know appears in your dream,"
+    ],
+    "347:text": [
+      "and you pass the baton to them."
+    ],
+    "348:text": [
+      "Then on the seventh day, it's your turn.",
+      " It's all over. Bye-bye."
+    ],
+    "350:text": [
+      "That's the final stop on the way to paradise."
+    ],
+    "351:text": [
+      "Dream of Doom... It's a curse that spreads."
+    ],
+    "353:text": [
+      "That's creepy.",
+      " I'll pretend I never saw it."
+    ],
+    "364:text": [
+      "What's with this creepy drawing?"
+    ],
+    "365:text": [
+      "Who drew a monster like that?"
+    ],
+    "366:text": [
+      "Let's see... Upside-Down Woman?",
+      " Huh, that's what she's called."
+    ],
+    "368:text": [
+      "She certainly is upside down."
+    ],
+    "369:text": [
+      "But how does something like that hang from the ceiling?"
+    ],
+    "371:text": [
+      "Ahahaha! The thought of it is making me laugh."
+    ],
+    "372:text": [
+      "Huh? It says not to turn around? If I do, the Upside-Down Woman will be there?"
+    ],
+    "374:text": [
+      "Whoa, hold on. What kind of joke is that?"
+    ],
+    "375:text": [
+      "Even if I turned around... No, I'd better not."
+    ],
+    "376:text": [
+      "Yeah, I'd better not."
+    ],
+    "378:text": [
+      "I'm not scared.",
+      " I just... don't need to turn around."
+    ],
+    "379:text": [
+      "Right, I'm not scared. Not scared. I'd better hurry and look somewhere else."
+    ],
+    "390:text": [
+      "The Subterraneans' Plan to Invade the Surface... That's a pretty ominous thing to write on a blackboard."
+    ],
+    "391:text": [
+      "Let's see... The subterraneans are secretly plotting to invade the surface."
+    ],
+    "393:text": [
+      "Prince Mogu-Mogu of the subterraneans climbed aboard the invasion machine Yum-Yum,"
+    ],
+    "394:text": [
+      "and at last began his attack on the surface."
+    ],
+    "396:text": [
+      "But since it travels at two meters an hour,"
+    ],
+    "397:text": [
+      "the invasion probably won't start until after the end of the world."
+    ],
+    "398:text": [
+      "No need to worry. No need to worry."
+    ],
+    "400:text": [
+      "What is this?",
+      " It makes no sense,"
+    ],
+    "401:text": [
+      "and why would anyone write something like that"
+    ],
+    "402:text": [
+      "on a blackboard in the old school building in the first place?"
+    ],
+    "404:text": [
+      "This old school building has way too many mysteries."
+    ],
+    "436:text": [
+      "“What, you can't think of anything to do?”"
+    ],
+    "438:text": [
+      "“When you're reporting, use your own eyes and ears."
+    ],
+    "439:text": [
+      "That's the first rule, ",
+      ".”"
+    ],
+    "450:text": [
+      "“Hey, ",
+      "..."
+    ],
+    "451:text": [
+      "Did you just hear someone's voice?”"
+    ],
+    "455:text": [
+      "“No, I didn't hear anything unusual...”"
+    ],
+    "459:text": [
+      "“No, I heard it."
+    ],
+    "460:text": [
+      "It came from upstairs.",
+      " Listen, there are footsteps, too...!”"
+    ],
+    "463:text": [
+      "Hino shone his flashlight up at the ceiling,"
+    ],
+    "464:text": [
+      "trying desperately to convince me."
+    ],
+    "466:text": [
+      "There couldn't be anyone in this old school building..."
+    ],
+    "468:text": [
+      "...Wait.",
+      " But earlier..."
+    ],
+    "478:text": [
+      "“Let's start at the entrance hall and search one area at a time.”"
+    ],
+    "487:text": [
+      "“That photo from before probably showed a locker in a classroom."
+    ],
+    "488:text": [
+      "I couldn't tell you which classroom, though...”"
+    ],
+    "490:text": [
+      "“Wait, that number does look familiar..."
+    ],
+    "491:text": [
+      "Second floor... or was it the third?”"
+    ],
+    "500:text": [
+      "“That key..."
+    ],
+    "501:text": [
+      "It looks like it belongs to a locker."
+    ],
+    "502:text": [
+      "Why don't you try it on the locker we couldn't open earlier?”"
+    ],
+    "512:text": [
+      "“Yoshino... Somei..."
+    ],
+    "513:text": [
+      "A place that might connect the two...”"
+    ],
+    "524:text": [
+      "“Looks like something went on a rampage here..."
+    ],
+    "525:text": [
+      "Could there be something in here besides us...?”"
+    ],
+    "535:text": [
+      "“The Stalker, huh..."
+    ],
+    "536:text": [
+      "If they're attacking Fukuzawa outright,"
+    ],
+    "537:text": [
+      "they might be seriously unhinged.”"
+    ],
+    "539:text": [
+      "“Be careful.”"
+    ],
+    "549:text": [
+      "“We don't know where the Stalker is."
+    ],
+    "550:text": [
+      "Shouldn't we look for a weapon?”"
+    ],
+    "560:text": [
+      "“If we keep wandering around, the Stalker will find us again."
+    ],
+    "561:text": [
+      "Is there anywhere we can hide?”"
+    ],
+    "571:text": [
+      "“Weapons don't work, and the Stalker still finds us when we hide..."
+    ],
+    "572:text": [
+      "Is there any way we can drive that Stalker off...?”"
+    ]
+  }
+}

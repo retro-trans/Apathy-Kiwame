@@ -1,0 +1,15 @@
+{
+  "language": "en",
+  "scope": "Shoji Arai's Mountains of Madness story in game.ks.",
+  "entries": [
+    {"id": "mountains_of_madness", "ja": "狂気山脈", "en": "Mountains of Madness", "kind": "route and in-story location", "note": "Project title for the route and the hidden peak. Use At the Mountains of Madness for an explicit reference to Lovecraft's novella.", "sources": ["Steam scenario game.ks", "https://booth.pm/ja/items/1334042", "https://www.hplovecraft.com/writings/texts/fiction/mm.aspx"]},
+    {"id": "junya_onozato", "ja": "小野里順也", "reading": "おのざと じゅんや", "en": "Junya Onozato", "kind": "character", "gender": "male", "role": "Arai's friend and member of his school's mountaineering club", "note": "Use Onozato when referred to by surname.", "sources": ["Steam scenario game.ks, line 2567", "https://w.atwiki.jp/allmiccore/pages/198.html"]},
+    {"id": "ushikubi_tunnel", "ja": "牛首トンネル", "en": "Ushikubi Tunnel", "kind": "location", "sources": ["Steam scenario game.ks, line 2530", "https://www.town.tsubata.lg.jp/site/kankou/6371.html"]},
+    {"id": "chiba_beaches", "ja": ["守谷", "片貝", "沖ノ島", "城崎", "上総湊", "勝浦"], "en": ["Moriya", "Katakai", "Okinoshima", "Shirosaki", "Kazusa-Minato", "Katsuura"], "kind": "locations", "sources": ["Steam scenario game.ks, lines 2512–2514", "https://www.pref.chiba.lg.jp/kokusai/english/information/residents/news/issues/jul2026.html"]},
+    {"id": "white_throne_of_the_gods", "ja": "蒼天の白き神の座", "en": "The White Throne of the Gods", "kind": "in-story game title", "note": "Project title for the fictional game in Kiwame. Preserve the different title used by the original PlayStation reference when discussing it outside the game.", "sources": ["Steam scenario game.ks, line 2701", "https://w.atwiki.jp/allmiccore/pages/198.html", "https://psinstructionmanual.com/soutennoshirokikaminokura/"]},
+    {"id": "manutse_range", "ja": "マヌーツェ山脈", "en": "Manutse Range", "kind": "in-story location", "note": "Use Manutse Range — Southwest Approach on the game screen. The PlayStation reference uses MANU T SE.", "sources": ["Steam artwork game/arai/ゲーム画面_マヌ.jpg", "https://w.atwiki.jp/greatpeak/pages/13.html"]},
+    {"id": "world_happy_mountain_association", "ja": "ワールド・ハッピー・山脈協会", "en": "World Happy Mountain Association", "kind": "organization", "note": "Project rendering of the credits. The original blurs the character after 山.", "sources": ["Steam artwork game/arai/ゲーム画面_ED.jpg", "https://w.atwiki.jp/allmiccore/pages/50.html"]},
+    {"id": "tupungato", "ja": "トゥプンガート", "en": "Tupungato", "kind": "mountain name", "sources": ["Steam artwork game/arai/ゲーム画面_選択.jpg", "https://volcano.si.edu/volcano.cfm?vn=357800"]},
+    {"id": "mountaineering_kits", "ja": ["登攀セット", "登壁セット", "整地セット", "ルート工作"], "en": ["climbing kit", "wall-climbing kit", "ground preparation kit", "route preparation"], "kind": "in-story game terminology", "sources": ["Steam scenario game.ks, lines 2852–2864"]}
+  ]
+}

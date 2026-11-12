@@ -1,0 +1,5902 @@
+{
+  "scenario": "data/scenario/fukuzawa.ks",
+  "source_sha256": "b4f18161215136fe2307f12231519e7a99497773ce8e5524f6a19c10369033e0",
+  "rows": {
+    "80:text": [
+      "Reiko Fukuzawa"
+    ],
+    "81:text": [
+      "“I'm up first? Are you sure?"
+    ],
+    "82:text": [
+      "My story's really scary, you know."
+    ],
+    "83:text": [
+      "Are you sure? Really sure? It's too late"
+    ],
+    "84:text": [
+      "to change your mind now!"
+    ],
+    "86:text": [
+      "Since we're here, maybe I'll tell you"
+    ],
+    "87:text": [
+      "a little more about myself."
+    ],
+    "88:text": [
+      "I'm Reiko Fukuzawa, a first-year high school student"
+    ],
+    "89:text": [
+      "living in Gifu Prefecture."
+    ],
+    "90:text": [
+      "Hey, ",
+      ", we're in the same year! Nice to meetcha!"
+    ],
+    "91:text": [
+      "Um, okay then. Here goes.”"
+    ],
+    "96:text": [
+      "Reiko Fukuzawa"
+    ],
+    "97:text": [
+      "“So I'm last!"
+    ],
+    "98:text": [
+      "Since we're here, maybe I'll tell you"
+    ],
+    "99:text": [
+      "a little more about myself."
+    ],
+    "100:text": [
+      "I'm Reiko Fukuzawa, a first-year high school student"
+    ],
+    "101:text": [
+      "living in Gifu Prefecture."
+    ],
+    "102:text": [
+      "Hey, ",
+      ", we're in the same year! Nice to meetcha!"
+    ],
+    "103:text": [
+      "Hehe, just wait till you hear it."
+    ],
+    "104:text": [
+      "Everyone else's stories were pretty scary,"
+    ],
+    "105:text": [
+      "but mine's in a league of its own!”"
+    ],
+    "110:text": [
+      "Reiko Fukuzawa"
+    ],
+    "111:text": [
+      "“Hmm, this is the story I've been saving up,"
+    ],
+    "112:text": [
+      "so I was hoping I'd get to go last..."
+    ],
+    "113:text": [
+      "Oh well. What can you do?"
+    ],
+    "114:text": [
+      "Since we're here, maybe I'll tell you"
+    ],
+    "115:text": [
+      "a little more about myself."
+    ],
+    "116:text": [
+      "I'm Reiko Fukuzawa, a first-year high school student"
+    ],
+    "117:text": [
+      "living in Gifu Prefecture."
+    ],
+    "118:text": [
+      "Hey, ",
+      ", we're in the same year! Nice to meetcha!"
+    ],
+    "119:text": [
+      "Um, okay then. Here goes.”"
+    ],
+    "127:text": [
+      "Reiko Fukuzawa"
+    ],
+    "128:text": [
+      "“Okay, random question, everyone. Can you drink tap water"
+    ],
+    "129:text": [
+      "without worrying? What about you, ",
+      "?”"
+    ],
+    "139:glink.text.1": [
+      "1. I can"
+    ],
+    "141:glink.text.1": [
+      "1. I can"
+    ],
+    "145:glink.text.1": [
+      "2. I can't"
+    ],
+    "148:glink.text.1": [
+      "2. I can't"
+    ],
+    "158:text": [
+      "Reiko Fukuzawa"
+    ],
+    "159:text": [
+      "“You can? Wow, that's amazing."
+    ],
+    "160:text": [
+      "You must be pretty crude"
+    ],
+    "161:text": [
+      "to be able to drink tap water."
+    ],
+    "162:text": [
+      "Just like you look! Kidding, kidding!"
+    ],
+    "164:text": [
+      "I can't drink it."
+    ],
+    "165:text": [
+      "Well, it's more like... when I pour tap water"
+    ],
+    "166:text": [
+      "into a glass,"
+    ],
+    "167:text": [
+      "I end up staring"
+    ],
+    "168:text": [
+      "right into it."
+    ],
+    "170:text": [
+      "Don't you ever do that?"
+    ],
+    "171:text": [
+      "It's a habit of mine."
+    ],
+    "173:text": [
+      "I mean, you wouldn't want anything weird"
+    ],
+    "174:text": [
+      "in there, would you?"
+    ],
+    "175:text": [
+      "You know how the water comes out reddish and rusty"
+    ],
+    "176:text": [
+      "after the water's been shut off?"
+    ],
+    "177:text": [
+      "It looks like blood to me."
+    ],
+    "178:text": [
+      "I start thinking, maybe there's"
+    ],
+    "179:text": [
+      "blood mixed in with the water."
+    ],
+    "180:text": [
+      "I know that couldn't happen, though."
+    ],
+    "182:text": [
+      "But I still don't trust tap water."
+    ],
+    "183:text": [
+      "What if cockroaches crawled inside the tap"
+    ],
+    "184:text": [
+      "and started living there?"
+    ],
+    "185:text": [
+      "And you didn't notice and just kept"
+    ],
+    "186:text": [
+      "drinking the water like nothing was wrong."
+    ],
+    "188:text": [
+      "Sometimes there's oil floating on top,"
+    ],
+    "189:text": [
+      "but you don't think about it and drink it anyway."
+    ],
+    "190:text": [
+      "Then one day, you turn the tap all the way,"
+    ],
+    "191:text": [
+      "and cockroaches gush out along with the water,"
+    ],
+    "192:text": [
+      "swimming and splashing around in your glass."
+    ],
+    "193:text": [
+      "What would you do?"
+    ],
+    "194:text": [
+      "Awful, right? I'd hate it. I'd really, really hate it."
+    ],
+    "205:text": [
+      "My family and I go camping a lot."
+    ],
+    "206:text": [
+      "Dad loves camping."
+    ],
+    "208:text": [
+      "You know, places like that"
+    ],
+    "209:text": [
+      "are scary."
+    ],
+    "210:text": [
+      "There aren't many lights."
+    ],
+    "211:text": [
+      "The toilets are filthy."
+    ],
+    "212:text": [
+      "And you hear owls and bugs calling."
+    ],
+    "213:text": [
+      "When the wind blows, the trees rustle"
+    ],
+    "214:text": [
+      "in this really creepy way."
+    ],
+    "216:text": [
+      "Anyway, it's scary."
+    ],
+    "217:text": [
+      "And then Dad starts telling scary stories."
+    ],
+    "219:text": [
+      "You can pretty much count on finding"
+    ],
+    "220:text": [
+      "a campsite by a lake."
+    ],
+    "221:text": [
+      "If it's a big lake, you can be sure of it."
+    ],
+    "223:text": [
+      "So how do you think those campsites"
+    ],
+    "224:text": [
+      "get their water?"
+    ],
+    "225:text": [
+      "These days, they pipe in tap water from a reservoir,"
+    ],
+    "226:text": [
+      "but back then, they apparently took the water"
+    ],
+    "227:text": [
+      "straight out of the lake."
+    ],
+    "229:text": [
+      "Of course, they piped it in and filtered"
+    ],
+    "230:text": [
+      "and purified it properly."
+    ],
+    "234:text": [
+      "Still, yuck. It's lake water."
+    ],
+    "235:text": [
+      "It's that murky green stuff."
+    ],
+    "236:text": [
+      "It's the same water people go boating"
+    ],
+    "237:text": [
+      "and swimming in."
+    ],
+    "238:text": [
+      "You never know if somebody's"
+    ],
+    "239:text": [
+      "peed in there."
+    ],
+    "240:text": [
+      "And people were drinking that."
+    ],
+    "242:text": [
+      "You know how even campsites have taps"
+    ],
+    "243:text": [
+      "in the washing area?"
+    ],
+    "244:text": [
+      "So they look just like"
+    ],
+    "245:text": [
+      "ordinary taps."
+    ],
+    "246:text": [
+      "But what comes out is lake water."
+    ],
+    "247:text": [
+      "That's gross, right?"
+    ],
+    "251:text": [
+      "And get this. I hear it's pretty common for hair"
+    ],
+    "252:text": [
+      "to come out of those taps."
+    ],
+    "253:text": [
+      "And I mean human hair."
+    ],
+    "255:text": [
+      "Say you're washing your hands."
+    ],
+    "256:text": [
+      "You feel something tangling around them and look down,"
+    ],
+    "257:text": [
+      "and your hands are covered"
+    ],
+    "258:text": [
+      "in tangled hair."
+    ],
+    "259:text": [
+      "Brrr..."
+    ],
+    "261:text": [
+      "No matter how much you rinse and rinse,"
+    ],
+    "262:text": [
+      "it clings on and is really hard to get off."
+    ],
+    "263:text": [
+      "It's so gross, right?"
+    ],
+    "264:text": [
+      "They say it's true."
+    ],
+    "266:text": [
+      "Apparently, some lakes are famous"
+    ],
+    "267:text": [
+      "as suicide spots."
+    ],
+    "268:text": [
+      "Lots of people have died in them, I hear."
+    ],
+    "270:text": [
+      "You know how algae can get tangled around you in a lake?"
+    ],
+    "271:text": [
+      "So the bodies don't float up very easily, I hear."
+    ],
+    "272:text": [
+      "Then over time, they start rotting away"
+    ],
+    "273:text": [
+      "and end up as fish food."
+    ],
+    "274:text": [
+      "Even when the bodies dissolve, the hair stays."
+    ],
+    "275:text": [
+      "And then just the hair comes flowing"
+    ],
+    "276:text": [
+      "through the pipes."
+    ],
+    "278:text": [
+      "Even if they filter it, hair's so fine, right?"
+    ],
+    "279:text": [
+      "Sometimes it slips right through, I hear."
+    ],
+    "280:text": [
+      "Apparently, that was still happening"
+    ],
+    "281:text": [
+      "just a few decades ago."
+    ],
+    "283:text": [
+      "I bet you could still find someplace like that"
+    ],
+    "284:text": [
+      "by a lake even now."
+    ],
+    "285:text": [
+      "I mean a place that gets its water from the lake."
+    ],
+    "286:text": [
+      "That's gross, huh? When I heard that story,"
+    ],
+    "287:text": [
+      "I just burst into tears."
+    ],
+    "288:text": [
+      "I couldn't drink any water at the campsite,"
+    ],
+    "289:text": [
+      "and I made a huge fuss about it."
+    ],
+    "291:text": [
+      "Dad laughed and said it was a joke,"
+    ],
+    "292:text": [
+      "but that was no joke."
+    ],
+    "293:text": [
+      "It's a true story."
+    ],
+    "304:text": [
+      "Tap water's gross, right?"
+    ],
+    "305:text": [
+      "So, ",
+      ", can you still drink tap water after hearing that?”"
+    ],
+    "317:glink.text.1": [
+      "1. I can"
+    ],
+    "319:glink.text.1": [
+      "1. I can"
+    ],
+    "323:glink.text.1": [
+      "2. I can't"
+    ],
+    "325:glink.text.1": [
+      "2. I can't"
+    ],
+    "329:glink.text.1": [
+      "3. What about the camping story?"
+    ],
+    "331:glink.text.1": [
+      "3. What about the camping story?"
+    ],
+    "342:text": [
+      "Reiko Fukuzawa"
+    ],
+    "343:text": [
+      "“Ohh, so you can't drink it."
+    ],
+    "344:text": [
+      "You know that thing everyone was talking about"
+    ],
+    "345:text": [
+      "a little while back?"
+    ],
+    "346:text": [
+      "About how clean the water tanks were"
+    ],
+    "347:text": [
+      "in apartment and office buildings..."
+    ],
+    "349:text": [
+      "I mean, when it comes to how safe tap water is,"
+    ],
+    "350:text": [
+      "everyone just drinks it, so I figure"
+    ],
+    "351:text": [
+      "it's safe enough."
+    ],
+    "352:text": [
+      "Whether you can stomach drinking it is another matter."
+    ],
+    "354:text": [
+      "So, you know those water tanks"
+    ],
+    "355:text": [
+      "that hold tap water, right?"
+    ],
+    "356:text": [
+      "You don't see them much in ordinary houses, but"
+    ],
+    "357:text": [
+      "apartment buildings and other big buildings nearly always"
+    ],
+    "358:text": [
+      "have them, right?"
+    ],
+    "360:text": [
+      "From what I've heard, some of them"
+    ],
+    "361:text": [
+      "aren't being looked after properly."
+    ],
+    "362:text": [
+      "They say that when the insides aren't cleaned,"
+    ],
+    "363:text": [
+      "they get totally caked with stuff like"
+    ],
+    "364:text": [
+      "limescale."
+    ],
+    "366:text": [
+      "In really bad cases, the lids weren't shut properly,"
+    ],
+    "367:text": [
+      "and they apparently found dead rats and"
+    ],
+    "368:text": [
+      "dead crows that had gotten"
+    ],
+    "369:text": [
+      "inside."
+    ],
+    "371:text": [
+      "And apparently, the chlorine had bleached"
+    ],
+    "372:text": [
+      "the color out of the crow..."
+    ],
+    "373:text": [
+      "Well, it's just something I heard, so I don't know"
+    ],
+    "374:text": [
+      "how much of it's true."
+    ],
+    "376:text": [
+      "So, apparently, the rules say those tanks have to"
+    ],
+    "377:text": [
+      "be cleaned a few times"
+    ],
+    "378:text": [
+      "a month."
+    ],
+    "379:text": [
+      "But there are still places where they don't"
+    ],
+    "380:text": [
+      "clean them properly."
+    ],
+    "382:text": [
+      "It sounds like the people using that water thought"
+    ],
+    "383:text": [
+      "it smelled funny, or that there was"
+    ],
+    "384:text": [
+      "something in it."
+    ],
+    "385:text": [
+      "But I bet they never imagined there were dead rats"
+    ],
+    "386:text": [
+      "or dead crows"
+    ],
+    "387:text": [
+      "in it."
+    ],
+    "389:text": [
+      "It's a surprising blind spot, huh?"
+    ],
+    "390:text": [
+      "Even if the tap water itself is fine, it won't help"
+    ],
+    "391:text": [
+      "if there's something wrong with how it's stored."
+    ],
+    "393:text": [
+      "And that got me thinking. Humans are"
+    ],
+    "394:text": [
+      "surprisingly tough, aren't they?"
+    ],
+    "395:text": [
+      "I thought they were delicate, but"
+    ],
+    "396:text": [
+      "they can take quite a bit and still be"
+    ],
+    "397:text": [
+      "perfectly fine."
+    ],
+    "399:text": [
+      "I mean, it's rat and crow extract!"
+    ],
+    "400:text": [
+      "Hmm... But no matter how tough humans might be,"
+    ],
+    "401:text": [
+      "if you asked me whether I could drink that water..."
+    ],
+    "402:text": [
+      "well...”"
+    ],
+    "412:text": [
+      "Reiko Fukuzawa"
+    ],
+    "413:text": [
+      "“You couldn't drink it after all, right? I get it,"
+    ],
+    "414:text": [
+      "I totally get how you feel."
+    ],
+    "415:text": [
+      "Even with a filter on the tap, you'd worry."
+    ],
+    "416:text": [
+      "That stuff doesn't normally come out of"
+    ],
+    "417:text": [
+      "a tap."
+    ],
+    "419:text": [
+      "I've got an older sister, you know."
+    ],
+    "420:text": [
+      "She told me this story. At her high school, there's a"
+    ],
+    "421:text": [
+      "drinking fountain next to"
+    ],
+    "422:text": [
+      "the gym."
+    ],
+    "424:text": [
+      "It's a regular drinking fountain, with water piped"
+    ],
+    "425:text": [
+      "in from a reservoir."
+    ],
+    "426:text": [
+      "The kids in sports clubs guzzle water there after"
+    ],
+    "427:text": [
+      "practice and stuff."
+    ],
+    "429:text": [
+      "But you know, the second tap from the right is the"
+    ],
+    "430:text": [
+      "only one you can't use."
+    ],
+    "431:text": [
+      "It's got wire wrapped around it really tight,"
+    ],
+    "432:text": [
+      "so you can't turn the tap."
+    ],
+    "434:text": [
+      "It's all rusted solid now. The wire and the tap"
+    ],
+    "435:text": [
+      "look like they've fused together."
+    ],
+    "437:text": [
+      "Apparently, it's been that way for"
+    ],
+    "438:text": [
+      "years."
+    ],
+    "439:text": [
+      "It's not broken or anything."
+    ],
+    "440:text": [
+      "Water will come out just fine, and you can even"
+    ],
+    "441:text": [
+      "drink it."
+    ],
+    "443:text": [
+      "But they say something happened one day."
+    ],
+    "444:text": [
+      "And apparently, nobody's used it"
+    ],
+    "445:text": [
+      "since.”"
+    ],
+    "464:text": [
+      "Reiko Fukuzawa"
+    ],
+    "465:text": [
+      "“A long time ago, there was a second-year girl called"
+    ],
+    "466:text": [
+      "Shigeko Ohara."
+    ],
+    "467:text": [
+      "She was really high-strung."
+    ],
+    "469:text": [
+      "Of course, the only water she'd drink was"
+    ],
+    "470:text": [
+      "store-bought mineral water."
+    ],
+    "471:text": [
+      "If she touched anything, she'd scrub her hands with soap."
+    ],
+    "472:text": [
+      "She even covered doorknobs with a tissue or"
+    ],
+    "473:text": [
+      "handkerchief before grabbing them. She was that thorough."
+    ],
+    "475:text": [
+      "I guess you'd call her a serious germaphobe."
+    ],
+    "476:text": [
+      "She's such a pain, isn't she?"
+    ],
+    "485:text": [
+      "It happened one summer, when she was in her second year."
+    ],
+    "486:text": [
+      "That year, the number of days without a single drop of rain"
+    ],
+    "487:text": [
+      "just kept breaking the record."
+    ],
+    "488:text": [
+      "With no rain at all, no matter what you did"
+    ],
+    "489:text": [
+      "or where you were, I bet it was"
+    ],
+    "490:text": [
+      "unbearably hot."
+    ],
+    "492:text": [
+      "Air conditioning probably wasn't all that common"
+    ],
+    "493:text": [
+      "back then, either, so they must've had"
+    ],
+    "494:text": [
+      "a pretty rough time."
+    ],
+    "496:text": [
+      "They even shut the water off at certain hours,"
+    ],
+    "497:text": [
+      "something they only do when things get really bad,"
+    ],
+    "498:text": [
+      "even in a scorching summer."
+    ],
+    "499:text": [
+      "Even sunflowers and morning glories, which are supposed to handle heat,"
+    ],
+    "500:text": [
+      "were apparently on the verge of drying up."
+    ],
+    "502:text": [
+      "There was barely enough water for people to drink,"
+    ],
+    "503:text": [
+      "so of course there wasn't any to spare for the plants."
+    ],
+    "504:text": [
+      "And I heard there was a huge mosquito outbreak that year,"
+    ],
+    "505:text": [
+      "so mosquito coils sold like crazy."
+    ],
+    "506:text": [
+      "That's how awful that summer was."
+    ],
+    "508:text": [
+      "Anyway, at my older sister's school, the whole school"
+    ],
+    "509:text": [
+      "weeds the school grounds every July."
+    ],
+    "510:text": [
+      "It's their annual thing before summer vacation."
+    ],
+    "512:text": [
+      "Her class had been assigned"
+    ],
+    "513:text": [
+      "the sports field."
+    ],
+    "514:text": [
+      "The sun was beating down on that field,"
+    ],
+    "515:text": [
+      "with no shade anywhere."
+    ],
+    "516:text": [
+      "I'm sweating just imagining it."
+    ],
+    "518:text": [
+      "At first, they were all chatting happily"
+    ],
+    "519:text": [
+      "while they pulled weeds, but she"
+    ],
+    "520:text": [
+      "gradually began feeling sick."
+    ],
+    "521:text": [
+      "Judging by her symptoms, it looked like sunstroke."
+    ],
+    "523:text": [
+      "What else could it be"
+    ],
+    "524:text": [
+      "in a situation like that?"
+    ],
+    "525:text": [
+      "Her classmates were worried, of course, and tried to take her"
+    ],
+    "526:text": [
+      "to the nurse's office, but she said...”"
+    ],
+    "528:text": [
+      "Shigeko Ohara"
+    ],
+    "529:text": [
+      "“I'm fine. I can go by myself...”"
+    ],
+    "531:text": [
+      "Reiko Fukuzawa"
+    ],
+    "532:text": [
+      "“That's what she said as she walked off, swaying a little."
+    ],
+    "534:text": [
+      "Yet her vision was swirling and rippling,"
+    ],
+    "535:text": [
+      "and she felt her body rising with the heat haze"
+    ],
+    "536:text": [
+      "from the ground, as if about to turn into vapor"
+    ],
+    "537:text": [
+      "and disappear.”"
+    ],
+    "542:text": [
+      "Shigeko Ohara"
+    ],
+    "543:text": [
+      "“I want some water...”"
+    ],
+    "545:text": [
+      "Reiko Fukuzawa"
+    ],
+    "546:text": [
+      "“Her throat was so dry that the mucous membranes"
+    ],
+    "547:text": [
+      "stuck together. She couldn't even swallow her own spit."
+    ],
+    "548:text": [
+      "By then, she was already"
+    ],
+    "549:text": [
+      "dehydrated."
+    ],
+    "550:text": [
+      "Then she looked up and saw"
+    ],
+    "551:text": [
+      "a row of taps beside the gym.”"
+    ],
+    "553:text": [
+      "Shigeko Ohara"
+    ],
+    "554:text": [
+      "“Water like that? I-I can't drink it...”"
+    ],
+    "566:text": [
+      "Reiko Fukuzawa"
+    ],
+    "567:text": [
+      "“She was such a germaphobe. Tap water"
+    ],
+    "568:text": [
+      "was out of the question, right?"
+    ],
+    "569:text": [
+      "But she couldn't help thinking."
+    ],
+    "570:text": [
+      "How good would it feel to drink the water"
+    ],
+    "571:text": [
+      "gushing from the tap, gulping it down"
+    ],
+    "572:text": [
+      "as if she were showering in it?"
+    ],
+    "573:text": [
+      "She felt a little pathetic"
+    ],
+    "574:text": [
+      "for being so fussy about water until now.”"
+    ],
+    "576:text": [
+      "Shigeko Ohara"
+    ],
+    "577:text": [
+      "“I can't take it anymore.”"
+    ],
+    "579:text": [
+      "Reiko Fukuzawa"
+    ],
+    "580:text": [
+      "“She staggered over to the drinking fountain,"
+    ],
+    "581:text": [
+      "turned on a tap and slurped"
+    ],
+    "582:text": [
+      "with all her might.”"
+    ],
+    "586:text": [
+      "Shigeko Ohara"
+    ],
+    "587:text": [
+      "“Gulp, gulp.”"
+    ],
+    "589:text": [
+      "Reiko Fukuzawa"
+    ],
+    "590:text": [
+      "“But then she suddenly felt"
+    ],
+    "591:text": [
+      "a cold sweat break out.”"
+    ],
+    "593:text": [
+      "Shigeko Ohara"
+    ],
+    "594:text": [
+      "“Something's not right...”"
+    ],
+    "596:text": [
+      "Reiko Fukuzawa"
+    ],
+    "597:text": [
+      "“Then she felt something wriggling"
+    ],
+    "598:text": [
+      "inside her mouth.”"
+    ],
+    "601:text": [
+      "Shigeko Ohara"
+    ],
+    "602:text": [
+      "“Th-This isn't water!!”"
+    ],
+    "604:text": [
+      "Reiko Fukuzawa"
+    ],
+    "605:text": [
+      "“She jerked her mouth away from the tap."
+    ],
+    "606:text": [
+      "But she'd sucked at it so hard"
+    ],
+    "607:text": [
+      "that she'd apparently swallowed a lot of them.”"
+    ],
+    "609:text": [
+      "Shigeko Ohara"
+    ],
+    "610:text": [
+      "“Urk.”"
+    ],
+    "622:text": [
+      "Reiko Fukuzawa"
+    ],
+    "623:text": [
+      "“She looked, and a huge swarm of ants was pouring"
+    ],
+    "624:text": [
+      "out of the tap!"
+    ],
+    "626:text": [
+      "The water was shut off just then, see."
+    ],
+    "627:text": [
+      "It'd been off for quite a while, and even the water tank"
+    ],
+    "628:text": [
+      "that drew water from the reservoir was empty."
+    ],
+    "629:text": [
+      "There wasn't any water to come out."
+    ],
+    "631:text": [
+      "So instead of water, she'd swallowed"
+    ],
+    "632:text": [
+      "the countless ants that had gotten into"
+    ],
+    "633:text": [
+      "that empty water tank!”"
+    ],
+    "645:text": [
+      "Shigeko Ohara"
+    ],
+    "646:text": [
+      "“Hurk! Hurk!”"
+    ],
+    "648:text": [
+      "Reiko Fukuzawa"
+    ],
+    "649:text": [
+      "“She shoved her hand into her mouth, trying"
+    ],
+    "650:text": [
+      "to get the ants she'd swallowed out."
+    ],
+    "651:text": [
+      "But ants are tiny. There's no way"
+    ],
+    "652:text": [
+      "she could get them out by doing that."
+    ],
+    "653:text": [
+      "The ants inside her throat bit"
+    ],
+    "654:text": [
+      "mercilessly into its lining."
+    ],
+    "655:text": [
+      "She clawed at her throat"
+    ],
+    "656:text": [
+      "and writhed around in agony."
+    ],
+    "658:text": [
+      "No, maybe it wasn't the ant bites so much as"
+    ],
+    "659:text": [
+      "the panic that had already hit her"
+    ],
+    "660:text": [
+      "the moment she'd swallowed them."
+    ],
+    "661:text": [
+      "And the ants that hadn't gotten into her mouth"
+    ],
+    "662:text": [
+      "crawled into her hair and inside her clothes."
+    ],
+    "666:text": [
+      "Luckily, a teacher noticed what was happening"
+    ],
+    "667:text": [
+      "and took her to the hospital right away."
+    ],
+    "668:text": [
+      "I hear the ant bites weren't all that bad,"
+    ],
+    "669:text": [
+      "but she'd been so badly shaken"
+    ],
+    "670:text": [
+      "that she had to stay in the hospital a long time."
+    ],
+    "672:text": [
+      "Apparently, she could barely drink any water"
+    ],
+    "673:text": [
+      "and relied on an IV every day."
+    ],
+    "674:text": [
+      "Because she'd see ants that weren't there"
+    ],
+    "675:text": [
+      "whenever she looked at water."
+    ],
+    "679:text": [
+      "One day, she disappeared from the hospital."
+    ],
+    "680:text": [
+      "And guess where she went..."
+    ],
+    "682:text": [
+      "They found her in the water tank that supplied"
+    ],
+    "683:text": [
+      "the tap where it had all happened."
+    ],
+    "685:text": [
+      "They found her because the students"
+    ],
+    "686:text": [
+      "who'd used that tap kept complaining"
+    ],
+    "687:text": [
+      "that the water smelled funny."
+    ],
+    "688:text": [
+      "From what I hear, she lost her footing"
+    ],
+    "689:text": [
+      "and fell into the tank."
+    ],
+    "691:text": [
+      "Huh? How'd she die? Did she drown?"
+    ],
+    "692:text": [
+      "Yeah, well, you could say that, but..."
+    ],
+    "693:text": [
+      "They say her body had soaked up so much water,"
+    ],
+    "694:text": [
+      "it was all swollen."
+    ],
+    "695:text": [
+      "So far, it was just an ordinary drowned corpse..."
+    ],
+    "697:text": [
+      "But when they found her,"
+    ],
+    "698:text": [
+      "she was completely white."
+    ],
+    "699:text": [
+      "That's right. Bleach had stripped all the color out of her."
+    ],
+    "700:text": [
+      "Her hair, clothes, eyeballs—everything."
+    ],
+    "702:text": [
+      "Apparently, she wanted to make that water tank"
+    ],
+    "703:text": [
+      "just a little cleaner, so she'd poured in"
+    ],
+    "704:text": [
+      "mountains of bleach."
+    ],
+    "705:text": [
+      "They say she probably slipped"
+    ],
+    "706:text": [
+      "while she was doing that."
+    ],
+    "707:text": [
+      "Lots of bleach containers were found"
+    ],
+    "708:text": [
+      "scattered around the tank, I hear."
+    ],
+    "710:text": [
+      "It sounds like she'd gone a little crazy."
+    ],
+    "711:text": [
+      "It's not like pouring that stuff in"
+    ],
+    "712:text": [
+      "would make the tank or the water clean."
+    ],
+    "714:text": [
+      "In the tank, the color slowly drained from her body,"
+    ],
+    "715:text": [
+      "while water seeped in to replace it"
+    ],
+    "716:text": [
+      "through her pores."
+    ],
+    "717:text": [
+      "It's pitiful, isn't it..."
+    ],
+    "723:text": [
+      "After that, whenever anyone used that tap,"
+    ],
+    "724:text": [
+      "pure-white ants came out with the water,"
+    ],
+    "725:text": [
+      "and it caused a huge fuss, apparently."
+    ],
+    "727:text": [
+      "The students found it so disgusting"
+    ],
+    "728:text": [
+      "that the teachers sealed the tap off."
+    ],
+    "729:text": [
+      "Everyone said it was"
+    ],
+    "730:text": [
+      "her curse."
+    ],
+    "740:text": [
+      "Oh, sorry."
+    ],
+    "741:text": [
+      "That was the kind of story that puts you off drinking tap water."
+    ],
+    "742:text": [
+      "Hehehe... That's the end of my story."
+    ],
+    "764:text": [
+      "Reiko Fukuzawa"
+    ],
+    "765:text": [
+      "“...Huh, wow. I'm impressed."
+    ],
+    "766:text": [
+      "Not many people can drink tap water"
+    ],
+    "767:text": [
+      "after hearing that story."
+    ],
+    "768:text": [
+      "I guess you're really calm and collected. Or maybe just"
+    ],
+    "769:text": [
+      "oblivious..."
+    ],
+    "770:text": [
+      "Kidding, kidding! It was a joke."
+    ],
+    "772:text": [
+      "I've got an older sister, you know."
+    ],
+    "773:text": [
+      "She told me this story. At her school, there's a"
+    ],
+    "774:text": [
+      "drinking fountain next to"
+    ],
+    "775:text": [
+      "the gym."
+    ],
+    "777:text": [
+      "It's a regular drinking fountain, with water piped"
+    ],
+    "778:text": [
+      "in from a reservoir."
+    ],
+    "779:text": [
+      "The kids in sports clubs guzzle water there after"
+    ],
+    "780:text": [
+      "practice and stuff."
+    ],
+    "791:text": [
+      "But you know, the second tap from the right is the"
+    ],
+    "792:text": [
+      "only one you can't use."
+    ],
+    "794:text": [
+      "It's got wire wrapped around it really tight,"
+    ],
+    "795:text": [
+      "so you can't turn the tap."
+    ],
+    "796:text": [
+      "It's all rusted solid now. The wire and the tap"
+    ],
+    "797:text": [
+      "look like they've fused together."
+    ],
+    "799:text": [
+      "Apparently, it's been that way for years."
+    ],
+    "800:text": [
+      "It's not broken or anything."
+    ],
+    "801:text": [
+      "Water will come out just fine, and you can even"
+    ],
+    "802:text": [
+      "drink it."
+    ],
+    "804:text": [
+      "But they say something happened one day."
+    ],
+    "805:text": [
+      "And apparently, nobody's used it"
+    ],
+    "806:text": [
+      "since."
+    ],
+    "815:text": [
+      "...You know, a long time ago, there was a girl at my sister's"
+    ],
+    "816:text": [
+      "school called Naoko Shita."
+    ],
+    "817:text": [
+      "She was really beautiful and always popular"
+    ],
+    "818:text": [
+      "at school, apparently."
+    ],
+    "820:text": [
+      "People always say pretty girls have awful"
+    ],
+    "821:text": [
+      "personalities, right?"
+    ],
+    "822:text": [
+      "But Shita was nice to everyone and loved"
+    ],
+    "823:text": [
+      "animals and stuff."
+    ],
+    "824:text": [
+      "She was good at school, and on top of that, she could even"
+    ],
+    "825:text": [
+      "sing really well, apparently."
+    ],
+    "826:text": [
+      "It all sounds a bit too perfect, but people like that"
+    ],
+    "827:text": [
+      "really do exist, I guess."
+    ],
+    "829:text": [
+      "Everyone said Shita was bound to get scouted"
+    ],
+    "830:text": [
+      "for show business."
+    ],
+    "831:text": [
+      "Apparently, a few opportunities like that had actually"
+    ],
+    "832:text": [
+      "come up."
+    ],
+    "836:text": [
+      "I'm jealous, aren't you?"
+    ],
+    "839:text": [
+      "And there was one girl Shita was especially close to,"
+    ],
+    "840:text": [
+      "Yoshiko Tamai."
+    ],
+    "841:text": [
+      "They were apparently as close"
+    ],
+    "842:text": [
+      "as real sisters."
+    ],
+    "844:text": [
+      "But they looked completely different."
+    ],
+    "845:text": [
+      "I feel bad saying this, but apparently"
+    ],
+    "846:text": [
+      "Tamai wore glasses as thick as the bottoms of milk bottles,"
+    ],
+    "847:text": [
+      "was fat and flabby, with acne"
+    ],
+    "848:text": [
+      "all over her face, and on top of that, her breath"
+    ],
+    "849:text": [
+      "really stank."
+    ],
+    "854:text": [
+      "Total opposites, right?"
+    ],
+    "855:text": [
+      "So you'd expect people to say Shita kept Tamai around"
+    ],
+    "856:text": [
+      "just to make herself look"
+    ],
+    "857:text": [
+      "better, right?"
+    ],
+    "859:text": [
+      "But you know, nobody ever said that."
+    ],
+    "860:text": [
+      "It wasn't anything to do with"
+    ],
+    "861:text": [
+      "Tamai."
+    ],
+    "862:text": [
+      "Shita was just that much of"
+    ],
+    "863:text": [
+      "an angel."
+    ],
+    "864:text": [
+      "That's why nobody ever thought"
+    ],
+    "865:text": [
+      "anything like that."
+    ],
+    "867:text": [
+      "But everyone did think it was strange."
+    ],
+    "868:text": [
+      "They came to school together."
+    ],
+    "869:text": [
+      "They went home together."
+    ],
+    "870:text": [
+      "They ate lunch together."
+    ],
+    "871:text": [
+      "They were always together."
+    ],
+    "873:text": [
+      "Lots of groups tried to get Shita"
+    ],
+    "874:text": [
+      "to join them."
+    ],
+    "875:text": [
+      "But not one group tried to invite"
+    ],
+    "876:text": [
+      "Tamai."
+    ],
+    "880:text": [
+      "Say someone invited Shita"
+    ],
+    "881:text": [
+      "to join them."
+    ],
+    "882:text": [
+      "Then Tamai would silently"
+    ],
+    "883:text": [
+      "step aside."
+    ],
+    "884:text": [
+      "Then she'd be all by herself, I hear."
+    ],
+    "885:text": [
+      "It's kind of touching, right?"
+    ],
+    "887:text": [
+      "Then Shita would invite Tamai over."
+    ],
+    "888:text": [
+      "All smiles, she'd say,"
+    ],
+    "889:text": [
+      "‘Let's all get along.’"
+    ],
+    "890:text": [
+      "She'd say it so casually"
+    ],
+    "891:text": [
+      "that the people who'd invited Shita"
+    ],
+    "892:text": [
+      "would end up inviting Tamai too,"
+    ],
+    "893:text": [
+      "without a second thought."
+    ],
+    "895:text": [
+      "I guess when Shita asked,"
+    ],
+    "896:text": [
+      "they just couldn't say no."
+    ],
+    "898:text": [
+      "Apparently, everyone would do what she said,"
+    ],
+    "899:text": [
+      "as if they'd been hypnotized."
+    ],
+    "905:text": [
+      "So they'd let Tamai into the group. At first,"
+    ],
+    "906:text": [
+      "it'd be fine, but gradually they'd"
+    ],
+    "907:text": [
+      "start finding her annoying."
+    ],
+    "908:text": [
+      "You know those people who aren't bad,"
+    ],
+    "909:text": [
+      "but somehow they just get on your nerves?"
+    ],
+    "910:text": [
+      "People you just can't bring yourself to like."
+    ],
+    "911:text": [
+      "That's what Tamai was like."
+    ],
+    "916:text": [
+      "But they had to think about Shita too, right?"
+    ],
+    "917:text": [
+      "They felt they couldn't say anything, so when they"
+    ],
+    "918:text": [
+      "started acting awkwardly around Tamai, Shita"
+    ],
+    "919:text": [
+      "would pick up on it right away."
+    ],
+    "920:text": [
+      "She wouldn't blame anyone. She'd just quietly"
+    ],
+    "921:text": [
+      "leave the group and go back"
+    ],
+    "922:text": [
+      "to being close with Tamai, just the two of them."
+    ],
+    "924:text": [
+      "Apparently, everyone was really jealous"
+    ],
+    "925:text": [
+      "of how close the two of them were."
+    ],
+    "926:text": [
+      "With Shita being that much of an angel,"
+    ],
+    "927:text": [
+      "nobody could bring themselves"
+    ],
+    "928:text": [
+      "to criticize or gossip."
+    ],
+    "929:text": [
+      "So Tamai wasn't bullied"
+    ],
+    "930:text": [
+      "either."
+    ],
+    "932:text": [
+      "Everyone figured the two were best off like that,"
+    ],
+    "933:text": [
+      "so they just watched over them fondly."
+    ],
+    "934:text": [
+      "It's a pretty amazing world when you picture it."
+    ],
+    "935:text": [
+      "It's like something out of a manga, right?"
+    ],
+    "946:text": [
+      "Still, Shita's one of a kind, isn't she?"
+    ],
+    "947:text": [
+      "I've never met anyone like her."
+    ],
+    "948:text": [
+      "By the way, ",
+      "."
+    ],
+    "949:text": [
+      "Do you think Shita's a weirdo?"
+    ],
+    "950:text": [
+      "Or do you think she's an angel?”"
+    ],
+    "966:glink.text.1": [
+      "1. An angel"
+    ],
+    "969:glink.text.1": [
+      "1. An angel"
+    ],
+    "973:glink.text.1": [
+      "2. A weirdo"
+    ],
+    "975:glink.text.1": [
+      "2. A weirdo"
+    ],
+    "979:glink.text.1": [
+      "3. An ordinary person"
+    ],
+    "981:glink.text.1": [
+      "3. An ordinary person"
+    ],
+    "985:glink.text.1": [
+      "4. A truly evil person"
+    ],
+    "987:glink.text.1": [
+      "4. A truly evil person"
+    ],
+    "991:glink.text.1": [
+      "5. Someone who knows how to get ahead"
+    ],
+    "993:glink.text.1": [
+      "5. Someone who knows how to get ahead"
+    ],
+    "1003:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1004:text": [
+      "“...Wow, you're honest."
+    ],
+    "1005:text": [
+      "Honest, or maybe you just see the world"
+    ],
+    "1006:text": [
+      "through cynical eyes..."
+    ],
+    "1007:text": [
+      "I'm kidding! Just kidding. I think"
+    ],
+    "1008:text": [
+      "the same thing."
+    ],
+    "1009:text": [
+      "She isn't exactly normal, is she?"
+    ],
+    "1010:text": [
+      "And it turned out that was true."
+    ],
+    "1024:text": [
+      "One day, the two of them suddenly stopped getting along."
+    ],
+    "1025:text": [
+      "Or rather, Shita just"
+    ],
+    "1026:text": [
+      "pulled away from her."
+    ],
+    "1027:text": [
+      "She suddenly started ignoring Tamai,"
+    ],
+    "1028:text": [
+      "as if she wouldn't even acknowledge she existed."
+    ],
+    "1029:text": [
+      "She suddenly did a complete about-face"
+    ],
+    "1030:text": [
+      "and turned cold."
+    ],
+    "1035:text": [
+      "But I guess everyone around them"
+    ],
+    "1036:text": [
+      "thought that was only natural."
+    ],
+    "1037:text": [
+      "The way things had been before was the weird part."
+    ],
+    "1039:text": [
+      "Shita was still as nice to everyone as ever,"
+    ],
+    "1040:text": [
+      "and just as friendly."
+    ],
+    "1041:text": [
+      "The only thing that changed was"
+    ],
+    "1042:text": [
+      "how she treated Tamai."
+    ],
+    "1044:text": [
+      "All they wanted was to be friends"
+    ],
+    "1045:text": [
+      "with Shita, anyway."
+    ],
+    "1046:text": [
+      "So Shita was still"
+    ],
+    "1047:text": [
+      "everybody's favorite."
+    ],
+    "1049:text": [
+      "Tamai, meanwhile, grew more isolated"
+    ],
+    "1050:text": [
+      "than ever."
+    ],
+    "1052:text": [
+      "Even after Shita turned cold toward Tamai,"
+    ],
+    "1053:text": [
+      "the others may have still cared what Shita thought,"
+    ],
+    "1054:text": [
+      "because it seems Tamai wasn't"
+    ],
+    "1055:text": [
+      "bullied."
+    ],
+    "1056:text": [
+      "She was just always on her own,"
+    ],
+    "1057:text": [
+      "looking lonely."
+    ],
+    "1059:text": [
+      "But Tamai would pretend not to look"
+    ],
+    "1060:text": [
+      "while sneaking sideways glances at Shita, apparently."
+    ],
+    "1071:text": [
+      "They'd been close enough"
+    ],
+    "1072:text": [
+      "to make everyone jealous, right?"
+    ],
+    "1073:text": [
+      "Then Tamai suddenly got the cold shoulder."
+    ],
+    "1074:text": [
+      "I guess she still couldn't let go."
+    ],
+    "1075:text": [
+      "But aren't you curious about why Shita"
+    ],
+    "1076:text": [
+      "suddenly turned so cold?”"
+    ],
+    "1086:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1087:text": [
+      "“Why are guys like this?"
+    ],
+    "1088:text": [
+      "That's probably why so many guys wind up crying"
+    ],
+    "1089:text": [
+      "later about how they got played."
+    ],
+    "1090:text": [
+      "With a pretty girl, you never know"
+    ],
+    "1091:text": [
+      "what she's getting up to behind the scenes."
+    ],
+    "1093:text": [
+      "What do you mean, angel? We're human."
+    ],
+    "1094:text": [
+      "We're omnivorous beasts who'll eat anything."
+    ],
+    "1095:text": [
+      "We're humans with all 108 worldly desires!"
+    ],
+    "1097:text": [
+      "A human body is nothing more"
+    ],
+    "1098:text": [
+      "than a vessel for the soul."
+    ],
+    "1099:text": [
+      "Just because the vessel's a little better than average"
+    ],
+    "1100:text": [
+      "doesn't make anyone an angel."
+    ],
+    "1101:text": [
+      "Anyway, whatever."
+    ],
+    "1115:text": [
+      "So, those two... Sometimes they were so close"
+    ],
+    "1116:text": [
+      "it was kind of creepy, and people even said"
+    ],
+    "1117:text": [
+      "they were a couple."
+    ],
+    "1118:text": [
+      "They never talked about themselves"
+    ],
+    "1119:text": [
+      "at all, so..."
+    ],
+    "1121:text": [
+      "When people are mysterious, everyone starts imagining things,"
+    ],
+    "1122:text": [
+      "and all sorts of weird rumors go around."
+    ],
+    "1123:text": [
+      "Like how they were hugging each other in the classroom after school,"
+    ],
+    "1124:text": [
+      "or how Shita had been crying"
+    ],
+    "1125:text": [
+      "and making things difficult for Tamai. The list went on and on..."
+    ],
+    "1127:text": [
+      "I don't know whether any of those rumors were true, though."
+    ],
+    "1128:text": [
+      "After all, rumors are just rumors..."
+    ],
+    "1129:text": [
+      "Maybe everyone was just jealous"
+    ],
+    "1130:text": [
+      "of how close they were."
+    ],
+    "1134:text": [
+      "So, sorry to burst your bubble after you called her an angel,"
+    ],
+    "1135:text": [
+      "but she turned out to be"
+    ],
+    "1136:text": [
+      "human after all."
+    ],
+    "1137:text": [
+      "One day, the two of them suddenly stopped getting along."
+    ],
+    "1139:text": [
+      "Or rather, Shita just"
+    ],
+    "1140:text": [
+      "pulled away from her."
+    ],
+    "1141:text": [
+      "She suddenly started ignoring Tamai,"
+    ],
+    "1142:text": [
+      "as if she wouldn't even acknowledge she existed."
+    ],
+    "1143:text": [
+      "She suddenly did a complete about-face"
+    ],
+    "1144:text": [
+      "and turned cold."
+    ],
+    "1146:text": [
+      "But I guess everyone around them"
+    ],
+    "1147:text": [
+      "thought that was only natural."
+    ],
+    "1148:text": [
+      "The way things had been before was the weird part."
+    ],
+    "1149:text": [
+      "Shita was still as nice to everyone as ever,"
+    ],
+    "1150:text": [
+      "and just as friendly."
+    ],
+    "1152:text": [
+      "The only thing that changed was"
+    ],
+    "1153:text": [
+      "how she treated Tamai."
+    ],
+    "1154:text": [
+      "All they wanted was to be friends"
+    ],
+    "1155:text": [
+      "with Shita, anyway."
+    ],
+    "1156:text": [
+      "So Shita was still"
+    ],
+    "1157:text": [
+      "everybody's favorite."
+    ],
+    "1159:text": [
+      "Tamai, meanwhile, grew more isolated"
+    ],
+    "1160:text": [
+      "than ever."
+    ],
+    "1162:text": [
+      "Even after Shita turned cold toward Tamai,"
+    ],
+    "1163:text": [
+      "the others may have still cared what Shita thought,"
+    ],
+    "1164:text": [
+      "because nobody bullied Tamai."
+    ],
+    "1166:text": [
+      "She was just always on her own,"
+    ],
+    "1167:text": [
+      "looking lonely."
+    ],
+    "1169:text": [
+      "But Tamai would pretend not to look"
+    ],
+    "1170:text": [
+      "while sneaking sideways glances at Shita, apparently."
+    ],
+    "1171:text": [
+      "They'd been close enough"
+    ],
+    "1172:text": [
+      "to make everyone jealous, right?"
+    ],
+    "1173:text": [
+      "Then Tamai suddenly got the cold shoulder."
+    ],
+    "1174:text": [
+      "I guess she still couldn't let go."
+    ],
+    "1176:text": [
+      "But aren't you curious about why Shita"
+    ],
+    "1177:text": [
+      "suddenly turned so cold?"
+    ],
+    "1178:text": [
+      "Well, here's how it all"
+    ],
+    "1179:text": [
+      "happened.”"
+    ],
+    "1189:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1190:text": [
+      "“Yeah, right? You think so too?"
+    ],
+    "1191:text": [
+      "Even the best of us are only human."
+    ],
+    "1192:text": [
+      "We're omnivorous beasts."
+    ],
+    "1193:text": [
+      "We're humans with all 108 worldly desires."
+    ],
+    "1194:text": [
+      "And Shita turned out to be a human"
+    ],
+    "1195:text": [
+      "with all those desires too."
+    ],
+    "1197:text": [
+      "Huh? Why do I say that?"
+    ],
+    "1198:text": [
+      "One day, the two of them suddenly stopped"
+    ],
+    "1199:text": [
+      "getting along."
+    ],
+    "1200:text": [
+      "She suddenly started ignoring Tamai,"
+    ],
+    "1201:text": [
+      "as if she wouldn't even acknowledge she existed."
+    ],
+    "1202:text": [
+      "She suddenly did a complete about-face"
+    ],
+    "1203:text": [
+      "and turned cold."
+    ],
+    "1214:text": [
+      "But I guess everyone around them"
+    ],
+    "1215:text": [
+      "thought that was only natural."
+    ],
+    "1216:text": [
+      "The way things had been before was the weird part."
+    ],
+    "1218:text": [
+      "Shita was still as nice to everyone as ever,"
+    ],
+    "1219:text": [
+      "and just as friendly."
+    ],
+    "1220:text": [
+      "The only thing that changed was"
+    ],
+    "1221:text": [
+      "how she treated Tamai."
+    ],
+    "1223:text": [
+      "All they wanted was to be friends"
+    ],
+    "1224:text": [
+      "with Shita, anyway."
+    ],
+    "1225:text": [
+      "So Shita was still"
+    ],
+    "1226:text": [
+      "everybody's favorite."
+    ],
+    "1228:text": [
+      "Tamai, meanwhile, grew more isolated"
+    ],
+    "1229:text": [
+      "than ever."
+    ],
+    "1231:text": [
+      "Even after Shita turned cold toward Tamai,"
+    ],
+    "1232:text": [
+      "the others may have still cared what Shita thought,"
+    ],
+    "1233:text": [
+      "because nobody bullied Tamai."
+    ],
+    "1234:text": [
+      "She was just always on her own,"
+    ],
+    "1235:text": [
+      "looking lonely."
+    ],
+    "1237:text": [
+      "But Tamai would pretend not to look"
+    ],
+    "1238:text": [
+      "while sneaking sideways glances at Shita, apparently."
+    ],
+    "1249:text": [
+      "They'd been close enough"
+    ],
+    "1250:text": [
+      "to make everyone jealous, right?"
+    ],
+    "1251:text": [
+      "Then Tamai suddenly got the cold shoulder."
+    ],
+    "1252:text": [
+      "She still couldn't let go."
+    ],
+    "1253:text": [
+      "But aren't you curious about why Shita"
+    ],
+    "1254:text": [
+      "suddenly turned so cold?”"
+    ],
+    "1264:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1265:text": [
+      "“Truly evil... Were you dumped by a girl"
+    ],
+    "1266:text": [
+      "like her or something? Is there some trauma there?"
+    ],
+    "1267:text": [
+      "I wouldn't go as far as truly evil, but I was sure"
+    ],
+    "1268:text": [
+      "there was something going on behind the scenes."
+    ],
+    "1269:text": [
+      "I mean, there was definitely something weird about it."
+    ],
+    "1271:text": [
+      "But they really weren't kidding when they said"
+    ],
+    "1272:text": [
+      "truth is stranger than fiction."
+    ],
+    "1273:text": [
+      "The truth was something completely outrageous."
+    ],
+    "1284:text": [
+      "One day, the two of them suddenly stopped getting along."
+    ],
+    "1286:text": [
+      "When you hear they stopped getting along, you usually"
+    ],
+    "1287:text": [
+      "think Shita started ignoring Tamai or something,"
+    ],
+    "1288:text": [
+      "right?"
+    ],
+    "1289:text": [
+      "But get this: it was Tamai who started"
+    ],
+    "1290:text": [
+      "avoiding Shita."
+    ],
+    "1291:text": [
+      "Shita would run up to her, trying to talk,"
+    ],
+    "1292:text": [
+      "but Tamai would run away without"
+    ],
+    "1293:text": [
+      "saying a word."
+    ],
+    "1294:text": [
+      "I bet the people watching just couldn't"
+    ],
+    "1295:text": [
+      "make sense of it."
+    ],
+    "1296:text": [
+      "Like, ‘What's with that girl?’"
+    ],
+    "1298:text": [
+      "And that left Shita all by herself, right?"
+    ],
+    "1299:text": [
+      "So the others saw their chance and went"
+    ],
+    "1300:text": [
+      "over to talk to Shita, trying to get her"
+    ],
+    "1301:text": [
+      "to join their group.”"
+    ],
+    "1303:text": [
+      "Female Student"
+    ],
+    "1304:text": [
+      "“Shita, forget about Tamai."
+    ],
+    "1305:text": [
+      "Come eat lunch with us over here.”"
+    ],
+    "1307:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1308:text": [
+      "“Then Shita would smile sadly and say"
+    ],
+    "1309:text": [
+      "this.”"
+    ],
+    "1313:text": [
+      "Naoko Shita"
+    ],
+    "1314:text": [
+      "“I'm sorry. I'm going to go look"
+    ],
+    "1315:text": [
+      "for Tamai...”"
+    ],
+    "1320:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1321:text": [
+      "“Stubborn, or whatever you want to call it..."
+    ],
+    "1322:text": [
+      "It's beyond us ordinary people."
+    ],
+    "1323:text": [
+      "Maybe Shita and Tamai were lovers"
+    ],
+    "1324:text": [
+      "in a past life or something?"
+    ],
+    "1325:text": [
+      "Otherwise, I just can't make sense of it."
+    ],
+    "1327:text": [
+      "Then, a few days after Tamai began avoiding"
+    ],
+    "1328:text": [
+      "Shita, a seriously fancy car pulled up"
+    ],
+    "1329:text": [
+      "right in front of the school."
+    ],
+    "1330:text": [
+      "It was black and looked really expensive."
+    ],
+    "1332:text": [
+      "Out got a middle-aged woman dressed like she had"
+    ],
+    "1333:text": [
+      "loads of money. She headed into the school with"
+    ],
+    "1334:text": [
+      "an attendant."
+    ],
+    "1335:text": [
+      "And where do you think she was going? To"
+    ],
+    "1336:text": [
+      "Shita and Tamai's classroom."
+    ],
+    "1337:text": [
+      "Even though class was in session, she opened the door"
+    ],
+    "1338:text": [
+      "and said this, apparently.”"
+    ],
+    "1340:text": [
+      "Wealthy-Looking Woman"
+    ],
+    "1341:text": [
+      "“Yoshiko, Miss Shita, come here a moment.”"
+    ],
+    "1343:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1344:text": [
+      "“Apparently, everyone was in an uproar."
+    ],
+    "1345:text": [
+      "Well, of course they were! She suddenly pulls up"
+    ],
+    "1346:text": [
+      "in a black car, barges into their classroom, and"
+    ],
+    "1347:text": [
+      "calls Tamai and Shita"
+    ],
+    "1348:text": [
+      "out."
+    ],
+    "1350:text": [
+      "And she called Tamai by her first name. Could that"
+    ],
+    "1351:text": [
+      "woman be her mom?"
+    ],
+    "1352:text": [
+      "Tamai was actually"
+    ],
+    "1353:text": [
+      "loaded."
+    ],
+    "1354:text": [
+      "Nobody'd ever asked about Tamai,"
+    ],
+    "1355:text": [
+      "so they had no idea."
+    ],
+    "1362:text": [
+      "Tamai's mom took her and Shita"
+    ],
+    "1363:text": [
+      "to the principal's office."
+    ],
+    "1365:text": [
+      "A student secretly followed them and listened in."
+    ],
+    "1366:text": [
+      "And apparently, the conversation was something else."
+    ],
+    "1368:text": [
+      "It turned out Shita and Tamai were"
+    ],
+    "1369:text": [
+      "dating."
+    ],
+    "1371:text": [
+      "Huh? ...You don't know what I mean?"
+    ],
+    "1372:text": [
+      "Exactly what I said!"
+    ],
+    "1373:text": [
+      "Shita and Tamai were dating!"
+    ],
+    "1374:text": [
+      "They were in love!"
+    ],
+    "1376:text": [
+      "...Pretty shocking, right?"
+    ],
+    "1377:text": [
+      "Apparently, Tamai's mom found out about"
+    ],
+    "1378:text": [
+      "them, got furious, and stormed into"
+    ],
+    "1379:text": [
+      "the school."
+    ],
+    "1381:text": [
+      "She demanded they expel that woman who'd led her daughter"
+    ],
+    "1382:text": [
+      "astray—immediately!"
+    ],
+    "1384:text": [
+      "They said they could hear Tamai sobbing"
+    ],
+    "1385:text": [
+      "and begging her mother"
+    ],
+    "1386:text": [
+      "to stop."
+    ],
+    "1387:text": [
+      "Maybe Shita kept quiet, because apparently no one"
+    ],
+    "1388:text": [
+      "heard her say anything."
+    ],
+    "1394:text": [
+      "A little while later, Shita"
+    ],
+    "1395:text": [
+      "dropped out of school."
+    ],
+    "1396:text": [
+      "Officially, she'd left of her own free will, but"
+    ],
+    "1397:text": [
+      "I'm sure Tamai's mom was applying pressure"
+    ],
+    "1398:text": [
+      "behind the scenes."
+    ],
+    "1400:text": [
+      "After that, Tamai, who'd already been gloomy,"
+    ],
+    "1401:text": [
+      "became even more withdrawn."
+    ],
+    "1402:text": [
+      "Everyone gave her colder looks than ever,"
+    ],
+    "1403:text": [
+      "and day after day was tense and awkward."
+    ],
+    "1405:text": [
+      "Then one day, Tamai stopped"
+    ],
+    "1406:text": [
+      "coming to school."
+    ],
+    "1407:text": [
+      "Apparently, she hadn't gone home either. She'd completely"
+    ],
+    "1408:text": [
+      "disappeared."
+    ],
+    "1420:text": [
+      "A few days later, her drowned body was found"
+    ],
+    "1421:text": [
+      "in a reservoir."
+    ],
+    "1422:text": [
+      "Shita's body was found with hers."
+    ],
+    "1423:text": [
+      "They held hands so tightly that"
+    ],
+    "1424:text": [
+      "apparently, it was hard to pry them apart."
+    ],
+    "1426:text": [
+      "A suicide note, apparently written by the two of them,"
+    ],
+    "1427:text": [
+      "had been left near the reservoir."
+    ],
+    "1428:text": [
+      "This is what it said:"
+    ],
+    "1430:text": [
+      "‘We'll be together in heaven. Goodbye...’"
+    ],
+    "1442:text": [
+      "After that, whenever anyone turned the second tap"
+    ],
+    "1443:text": [
+      "from the right by the gym, something strange"
+    ],
+    "1444:text": [
+      "started coming out with the water."
+    ],
+    "1446:text": [
+      "It was hair."
+    ],
+    "1447:text": [
+      "When you turned on the tap, tangled hair came"
+    ],
+    "1448:text": [
+      "gushing out with the water."
+    ],
+    "1450:text": [
+      "I told you the school got its water from"
+    ],
+    "1451:text": [
+      "a reservoir, right?"
+    ],
+    "1452:text": [
+      "Apparently, the taps by the gym drew water from"
+    ],
+    "1453:text": [
+      "the reservoir where the two of them had killed"
+    ],
+    "1454:text": [
+      "themselves."
+    ],
+    "1456:text": [
+      "It wasn't just a problem"
+    ],
+    "1457:text": [
+      "with the filtration or anything."
+    ],
+    "1458:text": [
+      "Because the water from all the other taps"
+    ],
+    "1459:text": [
+      "came out just fine."
+    ],
+    "1461:text": [
+      "It was only that one tap. Turn it on,"
+    ],
+    "1462:text": [
+      "and tangled hair always came out."
+    ],
+    "1463:text": [
+      "As if to symbolize the two of them,"
+    ],
+    "1464:text": [
+      "those tangled strands never came apart"
+    ],
+    "1465:text": [
+      "as they flowed out of the tap, apparently."
+    ],
+    "1476:text": [
+      "So that's why the second tap from the right"
+    ],
+    "1477:text": [
+      "beside the gym at my older sister's school"
+    ],
+    "1478:text": [
+      "was sealed off so no one could use it."
+    ],
+    "1479:text": [
+      "The end."
+    ],
+    "1508:glink.text.1": [
+      "1. I'm interested"
+    ],
+    "1510:glink.text.1": [
+      "1. I'm interested"
+    ],
+    "1514:glink.text.1": [
+      "2. I'm not interested"
+    ],
+    "1517:glink.text.1": [
+      "2. I'm not interested"
+    ],
+    "1527:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1528:text": [
+      "“Right? And here's the crazy part.”"
+    ],
+    "1546:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1547:text": [
+      "“One day, this was written in huge letters"
+    ],
+    "1548:text": [
+      "on the school noticeboard."
+    ],
+    "1550:text": [
+      "‘EXCLUSIVE SCOOP! The truth about the school's angel,"
+    ],
+    "1551:text": [
+      "Naoko Shita!"
+    ],
+    "1552:text": [
+      "Naoko Shita was dating Yoshiko Tamai"
+    ],
+    "1553:text": [
+      "for an allowance of 500,000 yen a month!’"
+    ],
+    "1555:text": [
+      "That's what it said."
+    ],
+    "1556:text": [
+      "Complete with photographs to prove it."
+    ],
+    "1557:text": [
+      "You can imagine the uproar."
+    ],
+    "1559:text": [
+      "Um, this is kind of hard for me to explain, but basically,"
+    ],
+    "1560:text": [
+      "Tamai just wasn't interested"
+    ],
+    "1561:text": [
+      "in guys."
+    ],
+    "1562:text": [
+      "That part's pretty wild, but the allowance"
+    ],
+    "1563:text": [
+      "is a shock too, right?"
+    ],
+    "1565:text": [
+      "You're wondering where a high school girl"
+    ],
+    "1566:text": [
+      "got that kind of money, right?"
+    ],
+    "1567:text": [
+      "Nobody had ever cared about Tamai"
+    ],
+    "1568:text": [
+      "or bothered to find out anything about her."
+    ],
+    "1570:text": [
+      "Apparently, she was"
+    ],
+    "1571:text": [
+      "incredibly rich."
+    ],
+    "1572:text": [
+      "She was spoiled. If she wanted something,"
+    ],
+    "1573:text": [
+      "she'd do anything to get it."
+    ],
+    "1575:text": [
+      "And Tamai"
+    ],
+    "1576:text": [
+      "decided she wanted Shita."
+    ],
+    "1577:text": [
+      "Apparently, the moment she saw her,"
+    ],
+    "1578:text": [
+      "she decided Shita was the only one."
+    ],
+    "1579:text": [
+      "So she paid Shita 500,000 yen every month"
+    ],
+    "1580:text": [
+      "to be close to her."
+    ],
+    "1581:text": [
+      "It's pretty wild, huh?"
+    ],
+    "1585:text": [
+      "Then, apparently, Shita's debut"
+    ],
+    "1586:text": [
+      "in show business"
+    ],
+    "1587:text": [
+      "was officially confirmed."
+    ],
+    "1588:text": [
+      "So she didn't need"
+    ],
+    "1589:text": [
+      "Tamai's allowance anymore."
+    ],
+    "1591:text": [
+      "That's why she turned cold."
+    ],
+    "1592:text": [
+      "When the money runs out, the... you know how it goes."
+    ],
+    "1593:text": [
+      "There's a lot of truth in that."
+    ],
+    "1594:text": [
+      "I'd want both if it were me. Just kidding."
+    ],
+    "1604:text": [
+      "But with something like that on the noticeboard,"
+    ],
+    "1605:text": [
+      "the school couldn't just ignore it, right?"
+    ],
+    "1606:text": [
+      "It seems they couldn't just laugh it off as a joke."
+    ],
+    "1608:text": [
+      "So the two of them were investigated."
+    ],
+    "1609:text": [
+      "And both of them admitted"
+    ],
+    "1610:text": [
+      "it was true."
+    ],
+    "1611:text": [
+      "Shita was expelled."
+    ],
+    "1613:text": [
+      "Of course, that ended her shot at show business, too."
+    ],
+    "1614:text": [
+      "Apparently, the agency people were glad"
+    ],
+    "1615:text": [
+      "it had happened before they'd started promoting her."
+    ],
+    "1617:text": [
+      "But Tamai didn't get"
+    ],
+    "1618:text": [
+      "any punishment at all."
+    ],
+    "1619:text": [
+      "It looks like her parents pulled some strings."
+    ],
+    "1620:text": [
+      "I bet they made some enormous donation."
+    ],
+    "1621:text": [
+      "So she got off without so much as a reprimand."
+    ],
+    "1622:text": [
+      "There's even a rumor that the school was pressured"
+    ],
+    "1623:text": [
+      "into expelling Shita."
+    ],
+    "1624:text": [
+      "And people say Tamai herself"
+    ],
+    "1625:text": [
+      "was the one who wrote that scoop."
+    ],
+    "1636:text": [
+      "At this point, I don't even know"
+    ],
+    "1637:text": [
+      "which one to feel sorry for."
+    ],
+    "1638:text": [
+      "Which one would you feel sorrier"
+    ],
+    "1639:text": [
+      "for?”"
+    ],
+    "1649:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1650:text": [
+      "“Oh, really? I was sure you'd be"
+    ],
+    "1651:text": [
+      "interested."
+    ],
+    "1652:text": [
+      "That's no fun."
+    ],
+    "1653:text": [
+      "Well, if you're not interested, you don't need"
+    ],
+    "1654:text": [
+      "to hear it, right?"
+    ],
+    "1655:text": [
+      "Even if you ask me later, I'm definitely not"
+    ],
+    "1656:text": [
+      "telling you."
+    ],
+    "1658:text": [
+      "Are you a little disappointed? Ehehehe."
+    ],
+    "1659:text": [
+      "Well, that's the end of my story."
+    ],
+    "1688:glink.text.1": [
+      "1. Tamai"
+    ],
+    "1690:glink.text.1": [
+      "1. Tamai"
+    ],
+    "1694:glink.text.1": [
+      "2. Shita"
+    ],
+    "1697:glink.text.1": [
+      "2. Shita"
+    ],
+    "1701:glink.text.1": [
+      "3. I don't feel sorry for either of them"
+    ],
+    "1703:glink.text.1": [
+      "3. I don't feel sorry for either of them"
+    ],
+    "1714:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1715:text": [
+      "“When you think about it, she might be the one"
+    ],
+    "1716:text": [
+      "to feel sorriest for."
+    ],
+    "1717:text": [
+      "She can only get what she wants"
+    ],
+    "1718:text": [
+      "by handing over money."
+    ],
+    "1719:text": [
+      "If she worked on being a more appealing person,"
+    ],
+    "1720:text": [
+      "she could make friends."
+    ],
+    "1722:text": [
+      "So that's no reason to feel sorry for her."
+    ],
+    "1723:text": [
+      "Tamai may have been selfish too, but her parents"
+    ],
+    "1724:text": [
+      "settled everything with money, so they were"
+    ],
+    "1725:text": [
+      "pretty selfish themselves."
+    ],
+    "1727:text": [
+      "I mean, they were pushy."
+    ],
+    "1728:text": [
+      "She grew up with parents like that, so I kind of feel"
+    ],
+    "1729:text": [
+      "like she couldn't help it."
+    ],
+    "1730:text": [
+      "It seems she really believed you could buy anything"
+    ],
+    "1731:text": [
+      "with money."
+    ],
+    "1733:text": [
+      "But that sham love you buy with money"
+    ],
+    "1734:text": [
+      "isn't real, is it?"
+    ],
+    "1735:text": [
+      "I think even Tamai thought so"
+    ],
+    "1736:text": [
+      "at first."
+    ],
+    "1737:text": [
+      "But as she spent time with Shita, I guess"
+    ],
+    "1738:text": [
+      "she convinced herself that this was"
+    ],
+    "1739:text": [
+      "true love."
+    ],
+    "1741:text": [
+      "Then she had to face the fact that Shita was going"
+    ],
+    "1742:text": [
+      "into show business, out of her reach."
+    ],
+    "1743:text": [
+      "Maybe she didn't know what to do, and that's why"
+    ],
+    "1744:text": [
+      "she did something like that."
+    ],
+    "1745:text": [
+      "People are scary, aren't they?”"
+    ],
+    "1756:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1757:text": [
+      "“I feel sorry for Shita too."
+    ],
+    "1758:text": [
+      "Well, it did end like this, though."
+    ],
+    "1759:text": [
+      "Shita was blinded by money. Maybe she really is"
+    ],
+    "1760:text": [
+      "a money-grubber after all."
+    ],
+    "1762:text": [
+      "But I can understand her."
+    ],
+    "1763:text": [
+      "I mean, she's still in high school, right?"
+    ],
+    "1764:text": [
+      "500,000 yen a month is a lot of money."
+    ],
+    "1765:text": [
+      "I think anyone, not just Shita, would be tempted"
+    ],
+    "1766:text": [
+      "by an offer that good."
+    ],
+    "1768:text": [
+      "I don't know how rich Tamai's family is,"
+    ],
+    "1769:text": [
+      "but trying to lure Shita in with money is"
+    ],
+    "1770:text": [
+      "unforgivable, right?"
+    ],
+    "1771:text": [
+      "What's scary is that it actually"
+    ],
+    "1772:text": [
+      "worked...”"
+    ],
+    "1783:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1784:text": [
+      "“Right. I think so too."
+    ],
+    "1785:text": [
+      "Once you've heard the story, it seems like such"
+    ],
+    "1786:text": [
+      "a stupid ending, doesn't it?"
+    ],
+    "1788:text": [
+      "But Tamai stayed at the school,"
+    ],
+    "1789:text": [
+      "right?"
+    ],
+    "1790:text": [
+      "Apparently, people gossiped about her a lot,"
+    ],
+    "1791:text": [
+      "saying, ‘How can she show her face at school?’"
+    ],
+    "1792:text": [
+      "I hear people openly harassed her too."
+    ],
+    "1804:text": [
+      "But she had a pretty thick skin."
+    ],
+    "1805:text": [
+      "Whatever people said about her, whoever told her off,"
+    ],
+    "1806:text": [
+      "it didn't bother her one bit."
+    ],
+    "1807:text": [
+      "In fact, she got even more arrogant"
+    ],
+    "1808:text": [
+      "than before."
+    ],
+    "1809:text": [
+      "She acted like, ‘What did I do wrong?’"
+    ],
+    "1810:text": [
+      "as if none of it concerned her."
+    ],
+    "1812:text": [
+      "Everyone was just fed up with her."
+    ],
+    "1813:text": [
+      "They thought even gossiping about her was pointless,"
+    ],
+    "1814:text": [
+      "so they stopped having anything to do with her."
+    ],
+    "1819:text": [
+      "Then all of a sudden, no one saw Tamai"
+    ],
+    "1820:text": [
+      "sitting all alone at her desk"
+    ],
+    "1821:text": [
+      "during breaks anymore."
+    ],
+    "1822:text": [
+      "Everyone was happy"
+    ],
+    "1823:text": [
+      "to be rid of such a nasty girl."
+    ],
+    "1824:text": [
+      "Where do you think she'd gone?"
+    ],
+    "1828:text": [
+      "She spent the whole break"
+    ],
+    "1829:text": [
+      "drinking water."
+    ],
+    "1830:text": [
+      "At the drinking fountain beside the gym."
+    ],
+    "1832:text": [
+      "Every break, she'd run over there,"
+    ],
+    "1833:text": [
+      "press her mouth to a tap,"
+    ],
+    "1834:text": [
+      "and drink in a frenzy, apparently."
+    ],
+    "1835:text": [
+      "Always the second tap from the right."
+    ],
+    "1836:text": [
+      "They say she'd drink through the entire break"
+    ],
+    "1837:text": [
+      "without taking her mouth off it even once."
+    ],
+    "1839:text": [
+      "Wild, right? They figured she'd finally lost it,"
+    ],
+    "1840:text": [
+      "and everyone watched and laughed. But apparently"
+    ],
+    "1841:text": [
+      "she even started skipping class to drink."
+    ],
+    "1843:text": [
+      "Little by little, everyone started to find it creepy."
+    ],
+    "1844:text": [
+      "It had gotten so bad"
+    ],
+    "1845:text": [
+      "that she wouldn't stop drinking"
+    ],
+    "1846:text": [
+      "unless someone made her."
+    ],
+    "1848:text": [
+      "Yoshiko Tamai"
+    ],
+    "1849:text": [
+      "“Stop it! Let me drink more!"
+    ],
+    "1850:text": [
+      "It's delicious juice!"
+    ],
+    "1851:text": [
+      "Orange juice comes out"
+    ],
+    "1852:text": [
+      "of that tap!”"
+    ],
+    "1854:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1855:text": [
+      "“Apparently, that's what Tamai yelled"
+    ],
+    "1856:text": [
+      "when a teacher tried to pull her away from the tap."
+    ],
+    "1857:text": [
+      "Other students heard her and tried turning on that tap,"
+    ],
+    "1858:text": [
+      "but all that came out was ordinary water."
+    ],
+    "1859:text": [
+      "There wasn't any orange juice."
+    ],
+    "1861:text": [
+      "Everyone was convinced"
+    ],
+    "1862:text": [
+      "Tamai had completely lost it."
+    ],
+    "1863:text": [
+      "It was less like she was coming to school"
+    ],
+    "1864:text": [
+      "and more like she was coming to drink at that fountain."
+    ],
+    "1865:text": [
+      "She ignored her classes. Whether class was in session"
+    ],
+    "1866:text": [
+      "or not, she just wouldn't"
+    ],
+    "1867:text": [
+      "leave that drinking fountain."
+    ],
+    "1869:text": [
+      "Finally, a teacher got angry."
+    ],
+    "1870:text": [
+      "They dragged Tamai away"
+    ],
+    "1871:text": [
+      "while she was drinking."
+    ],
+    "1873:text": [
+      "And guess what? Everyone who was there"
+    ],
+    "1874:text": [
+      "saw it happen."
+    ],
+    "1875:text": [
+      "Along with a thick, sludgy liquid,"
+    ],
+    "1876:text": [
+      "something like reddish threads"
+    ],
+    "1877:text": [
+      "came plopping out of the tap."
+    ],
+    "1888:text": [
+      "They were earthworms."
+    ],
+    "1889:text": [
+      "Earthworms oozed out of the tap"
+    ],
+    "1890:text": [
+      "along with that sticky liquid."
+    ],
+    "1891:text": [
+      "Everyone was speechless"
+    ],
+    "1892:text": [
+      "and frozen to the spot.”"
+    ],
+    "1894:text": [
+      "Yoshiko Tamai"
+    ],
+    "1895:text": [
+      "“Orange juice! Delicious orange"
+    ],
+    "1896:text": [
+      "juice!"
+    ],
+    "1897:text": [
+      "I'm not letting anyone else drink it!”"
+    ],
+    "1899:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1900:text": [
+      "“They say Tamai's mouth"
+    ],
+    "1901:text": [
+      "was packed with earthworms."
+    ],
+    "1902:text": [
+      "And yet she was still slurping up the earthworms"
+    ],
+    "1903:text": [
+      "spilling from the tap.”"
+    ],
+    "1914:text": [
+      "Yoshiko Tamai"
+    ],
+    "1915:text": [
+      "“Aagh!”"
+    ],
+    "1917:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1918:text": [
+      "“All of a sudden, Tamai screamed, collapsed,"
+    ],
+    "1919:text": [
+      "and lost consciousness."
+    ],
+    "1920:text": [
+      "They say she was gagging up earthworms."
+    ],
+    "1921:text": [
+      "They must've gotten stuck in her throat."
+    ],
+    "1924:text": [
+      "Then they took her to the hospital and operated on her."
+    ],
+    "1925:text": [
+      "Apparently, Tamai's mouth"
+    ],
+    "1926:text": [
+      "was full of earthworms."
+    ],
+    "1927:text": [
+      "She survived, but nobody knows"
+    ],
+    "1928:text": [
+      "what she's doing now."
+    ],
+    "1930:text": [
+      "...And that's why"
+    ],
+    "1931:text": [
+      "that tap isn't used anymore."
+    ],
+    "1942:text": [
+      "And this is just something I heard, but apparently Shita killed herself."
+    ],
+    "1943:text": [
+      "They say it was a tiny item in the newspaper."
+    ],
+    "1945:text": [
+      "Apparently, she drowned herself in the reservoir."
+    ],
+    "1946:text": [
+      "That reservoir supplied water to my older sister's school, too."
+    ],
+    "1947:text": [
+      "And I hear the time Shita died and the time Tamai couldn't stay away from the drinking fountain",
+      "matched up exactly."
+    ],
+    "1949:text": [
+      "Everyone spread the rumor"
+    ],
+    "1950:text": [
+      "that it was Shita's curse."
+    ],
+    "1952:text": [
+      "That's the end of my story."
+    ],
+    "1954:text": [
+      "...By the way, ",
+      ", you said you could drink tap water, right?"
+    ],
+    "1955:text": [
+      "Does it taste good?"
+    ],
+    "1956:text": [
+      "If you think it tastes good, shouldn't you be careful?"
+    ],
+    "1957:text": [
+      "Maybe you're the only one who thinks it's water. Maybe it's really..."
+    ],
+    "1978:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1979:text": [
+      "“But Tamai stayed at the school,"
+    ],
+    "1980:text": [
+      "right?"
+    ],
+    "1981:text": [
+      "Apparently, people gossiped about her a lot,"
+    ],
+    "1982:text": [
+      "saying, ‘How can she show her face at school?’"
+    ],
+    "1983:text": [
+      "I hear people openly harassed her too."
+    ],
+    "1995:text": [
+      "Ever since then, everyone had been looking"
+    ],
+    "1996:text": [
+      "down on Tamai. But she was human too,"
+    ],
+    "1997:text": [
+      "and bit by bit, she couldn't stand"
+    ],
+    "1998:text": [
+      "being treated like that anymore."
+    ],
+    "2003:text": [
+      "Whenever she wasn't in class, she'd always"
+    ],
+    "2004:text": [
+      "disappear somewhere."
+    ],
+    "2005:text": [
+      "Eventually, she started skipping classes"
+    ],
+    "2006:text": [
+      "too."
+    ],
+    "2007:text": [
+      "Everyone was happy to have"
+    ],
+    "2008:text": [
+      "gotten rid of a nuisance, though."
+    ],
+    "2013:text": [
+      "Then one day, some students using the taps"
+    ],
+    "2014:text": [
+      "beside the gym started making a fuss"
+    ],
+    "2015:text": [
+      "about the water smelling strange."
+    ],
+    "2017:text": [
+      "And sure enough, the tap water"
+    ],
+    "2018:text": [
+      "gave off this indescribable fishy smell."
+    ],
+    "2019:text": [
+      "Even the color was strange, kind of blackish."
+    ],
+    "2021:text": [
+      "It was only the taps at that drinking fountain,"
+    ],
+    "2022:text": [
+      "but every one of them was like that."
+    ],
+    "2023:text": [
+      "The water in the new school building was"
+    ],
+    "2024:text": [
+      "perfectly fine, though."
+    ],
+    "2026:text": [
+      "I mentioned earlier how the tap water at my older sister's"
+    ],
+    "2027:text": [
+      "school came from a reservoir, right?"
+    ],
+    "2029:text": [
+      "But apparently, the water for the taps beside the gym"
+    ],
+    "2030:text": [
+      "was stored in a separate water tank"
+    ],
+    "2031:text": [
+      "before it came out of the taps."
+    ],
+    "2033:text": [
+      "A teacher thought something was wrong and went"
+    ],
+    "2034:text": [
+      "up to the roof to check the water tank"
+    ],
+    "2035:text": [
+      "connected to those taps, and..."
+    ],
+    "2036:text": [
+      "There was Tamai. She'd opened the tank's lid"
+    ],
+    "2037:text": [
+      "and stuck her face inside.”"
+    ],
+    "2039:text": [
+      "Teacher"
+    ],
+    "2040:text": [
+      "“Hey, that's dangerous! What are you doing"
+    ],
+    "2041:text": [
+      "up there?!”"
+    ],
+    "2043:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2044:text": [
+      "“Tamai turned around and glared"
+    ],
+    "2045:text": [
+      "at the teacher for a moment, then stuck her face"
+    ],
+    "2046:text": [
+      "back inside the tank.”"
+    ],
+    "2048:text": [
+      "Teacher"
+    ],
+    "2049:text": [
+      "“Hey, what are you mumbling about...?”"
+    ],
+    "2051:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2052:text": [
+      "“The teacher could see Tamai was clearly"
+    ],
+    "2053:text": [
+      "not acting normally, so they called other teachers"
+    ],
+    "2054:text": [
+      "and dragged her down from there."
+    ],
+    "2055:text": [
+      "Apparently, she thrashed around so wildly"
+    ],
+    "2056:text": [
+      "they couldn't control her."
+    ],
+    "2057:text": [
+      "Then she screamed.”"
+    ],
+    "2059:text": [
+      "Yoshiko Tamai"
+    ],
+    "2060:text": [
+      "“You're all trying to take away what's precious"
+    ],
+    "2061:text": [
+      "to me!! Why?!”"
+    ],
+    "2063:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2064:text": [
+      "“You've figured it out by now, right?"
+    ],
+    "2065:text": [
+      "That's right. Tamai was always coming here"
+    ],
+    "2066:text": [
+      "to see Shita."
+    ],
+    "2077:text": [
+      "Shita had been locked inside"
+    ],
+    "2078:text": [
+      "that water tank."
+    ],
+    "2079:text": [
+      "I hear she'd been dead for quite a while."
+    ],
+    "2081:text": [
+      "Her drowned body had soaked up so much water"
+    ],
+    "2082:text": [
+      "that apparently, there was no trace left"
+    ],
+    "2083:text": [
+      "of how beautiful she'd been when she was alive."
+    ],
+    "2084:text": [
+      "Her nails had peeled off too. I hear it was awful."
+    ],
+    "2086:text": [
+      "There were lots of scratches inside the tank."
+    ],
+    "2087:text": [
+      "She must have struggled desperately"
+    ],
+    "2088:text": [
+      "to get out."
+    ],
+    "2090:text": [
+      "In that dim water tank, with little oxygen,"
+    ],
+    "2091:text": [
+      "she'd sunk into the cold water and died,"
+    ],
+    "2092:text": [
+      "hoping someone would come and save her."
+    ],
+    "2103:text": [
+      "Tamai wanted Shita to stay by her side all the time,"
+    ],
+    "2104:text": [
+      "so she locked her in that water tank and"
+    ],
+    "2105:text": [
+      "kept watch over her."
+    ],
+    "2106:text": [
+      "Even after Shita died, she didn't"
+    ],
+    "2107:text": [
+      "care."
+    ],
+    "2109:text": [
+      "That's how far Tamai was willing to go"
+    ],
+    "2110:text": [
+      "to keep Shita all to herself."
+    ],
+    "2111:text": [
+      "Maybe Tamai no longer saw Shita as"
+    ],
+    "2112:text": [
+      "a human being."
+    ],
+    "2113:text": [
+      "She was just an object to her, I'm sure."
+    ],
+    "2114:text": [
+      "I feel so sorry for her."
+    ],
+    "2125:text": [
+      "And you know what I heard? The tank was supposed to have been cleaned loads of times."
+    ],
+    "2126:text": [
+      "But it never was."
+    ],
+    "2127:text": [
+      "It was cleaning in name only. Nobody was doing it properly."
+    ],
+    "2129:text": [
+      "Apparently, if they'd actually cleaned it back then, they might have found her and saved her."
+    ],
+    "2131:text": [
+      "They've cleaned the tank since then and got the taps working again, but it's a bit late now, isn't it?"
+    ],
+    "2132:text": [
+      "And for some reason, apparently, a thick, fishy-smelling liquid comes bubbling and gurgling out of that second tap from the right."
+    ],
+    "2133:text": [
+      "Even though all the other taps have perfectly normal water!"
+    ],
+    "2135:text": [
+      "Apparently, no matter how many times they checked the pipes and the tank, they couldn't find anything wrong."
+    ],
+    "2137:text": [
+      "But if you accidentally touch that thick liquid from the tap, apparently your skin looks like it's lost its color and doesn't go back to normal for a while."
+    ],
+    "2139:text": [
+      "So the teachers sealed off the tap, because the students found it so disgusting."
+    ],
+    "2141:text": [
+      "Huh? You're asking if that fishy-smelling stuff still comes out of it?"
+    ],
+    "2142:text": [
+      "I have no idea. I've never checked."
+    ],
+    "2143:text": [
+      ", do you want to come to my sister's school and find out? Hehehe."
+    ],
+    "2144:text": [
+      "Okay, that's the end of my story."
+    ],
+    "2173:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2174:text": [
+      "“Someone who knows how to get ahead, huh? Maybe she is."
+    ],
+    "2175:text": [
+      "Just by hanging out with Tamai, Shita had earned"
+    ],
+    "2176:text": [
+      "a reputation as ‘a good person who's nice even"
+    ],
+    "2177:text": [
+      "to someone like Tamai,’"
+    ],
+    "2178:text": [
+      "right?"
+    ],
+    "2180:text": [
+      "But that wasn't all. There was a secret behind"
+    ],
+    "2181:text": [
+      "Shita's reasons for being"
+    ],
+    "2182:text": [
+      "with Tamai."
+    ],
+    "2190:title.name.1": [
+      "Apathy Kiwame - Social Media Ghost Story"
+    ],
+    "2221:text": [
+      "The secret had to do with a certain social media site."
+    ],
+    "2222:text": [
+      "I don't need to explain what social media is at this point, right?"
+    ],
+    "2223:text": [
+      "It's a way of connecting people over the internet."
+    ],
+    "2225:text": [
+      ", have you heard of Poetter?"
+    ],
+    "2226:text": [
+      "It's a social media service with a low character limit per post, which apparently makes it easier to talk to people."
+    ],
+    "2228:text": [
+      "...You've heard of it, right?"
+    ],
+    "2229:text": [
+      "Apparently, loads of people use it, from little kids to old folks."
+    ],
+    "2231:text": [
+      "Shita was on Poetter, and apparently,",
+      "she was always uploading gorgeous selfies."
+    ],
+    "2233:text": [
+      "The captions were just like Shita: classy and gentle, a bit girly in places, but that was part of their charm."
+    ],
+    "2235:text": [
+      "Her looks and personality were both outstanding, and she was really popular on Poetter too."
+    ],
+    "2236:text": [
+      "Apparently, she kept the very fact that she had an account secret from her classmates. But she was a hit with all sorts of people who didn't know her in person."
+    ],
+    "2238:text": [
+      "She was like an idol."
+    ],
+    "2239:text": [
+      "...No, actually, the whole reason Shita started using Poetter was to become an idol."
+    ],
+    "2241:text": [
+      "...Ahaha, ",
+      ", you look like something's bothering you."
+    ],
+    "2242:text": [
+      "You want to know what Shita and Tamai's secret actually was, right?"
+    ],
+    "2243:text": [
+      "Sorry for keeping you in suspense."
+    ],
+    "2245:text": [
+      "Well, here's the secret."
+    ],
+    "2246:text": [
+      "—Gorgeous Poetter star Naoko Shita",
+      "had Tamai to thank for that sweet, wholesome image of hers."
+    ],
+    "2248:text": [
+      "There were two main things Tamai did."
+    ],
+    "2250:text": [
+      "The first was editing the photos."
+    ],
+    "2251:text": [
+      "Tamai had expensive professional image-editing software at home, and she knew how to use it."
+    ],
+    "2252:text": [
+      "She used it to make Shita's selfies look absolutely gorgeous."
+    ],
+    "2254:text": [
+      "No matter how cute you are, it won't show if you don't photograph well."
+    ],
+    "2255:text": [
+      "And even if your face is only so-so, editing software can supposedly make you look like a totally different, beautiful",
+      "person."
+    ],
+    "2257:text": [
+      "So Shita was gorgeous already, but Tamai's ‘makeup’ turned her into this stunning beauty, like a fairy."
+    ],
+    "2259:text": [
+      "The other thing was what went into her ‘poets’."
+    ],
+    "2261:text": [
+      "...Oh, a ‘poet’ is one of those short messages you can post on Poetter."
+    ],
+    "2262:text": [
+      "The name comes from the word poem, but most are just updates about your day, or thoughts that pop into your head. Stuff like that."
+    ],
+    "2263:text": [
+      "You can choose who you send them to, or make them visible only to certain people."
+    ],
+    "2264:text": [
+      "—Oh, you knew that. Sorry, sorry."
+    ],
+    "2266:text": [
+      "Anyway, all those classy, slightly ditzy, adorable poets on Shita's account were actually written for her by Tamai."
+    ],
+    "2275:text": [
+      "See, Shita actually had a pretty fierce temper, apparently."
+    ],
+    "2276:text": [
+      "Like I said, she had a reputation as ‘someone who was nice to everyone, like an angel,’",
+      "but that was only in real life."
+    ],
+    "2278:text": [
+      "Shita was great at putting on an innocent act in person, but online, her true colors apparently came out right away."
+    ],
+    "2279:text": [
+      "She was overbearing, foul-mouthed, and mean-spirited..."
+    ],
+    "2281:text": [
+      "I think that's pretty weird."
+    ],
+    "2282:text": [
+      "In person, your real feelings can slip out before you've had time to think. But on social media, nothing goes up until you hit the post button, so you've got plenty of time to think about what you're saying."
+    ],
+    "2283:text": [
+      "You'd think it'd be easier to avoid trouble on social media."
+    ],
+    "2285:text": [
+      "But lots of people make careless comments on social media and get a huge backlash, so maybe",
+      "that's just how it is."
+    ],
+    "2287:text": [
+      "Anyway, let's leave aside which type is more common."
+    ],
+    "2288:text": [
+      "That's the kind of person Shita was."
+    ],
+    "2289:text": [
+      "She could act nice in person, but her true colors came out on social media."
+    ],
+    "2294:text": [
+      "Tamai was the complete opposite."
+    ],
+    "2295:text": [
+      "Remember when I said Tamai was ‘the kind of person who gets on your nerves even though she isn't bad’?"
+    ],
+    "2297:text": [
+      "Basically, she somehow got on people's nerves, but her personality itself wasn't bad."
+    ],
+    "2298:text": [
+      "If anything, she was pure-hearted and kind, able to understand how people felt."
+    ],
+    "2299:text": [
+      "And online, all you saw were those good qualities."
+    ],
+    "2301:text": [
+      "Weird, right?"
+    ],
+    "2302:text": [
+      "My guess is it's her voice, gestures, or way of talking that annoys people. Online, without those, maybe it's easier to see who she really is."
+    ],
+    "2311:text": [
+      "So, after all that, you can see how Tamai was",
+      "the ‘person behind the account’ for Shita, right?"
+    ],
+    "2312:text": [
+      "Refined, gentle, girlish, and cute—that was Tamai's personality."
+    ],
+    "2314:text": [
+      "And as for why she was doing all that..."
+    ],
+    "2315:text": [
+      "Just like everyone had been saying, Shita dreamed of going into show business."
+    ],
+    "2317:text": [
+      "Apparently, she'd actually been scouted by several talent agencies."
+    ],
+    "2318:text": [
+      "But her parents were strict. They'd made her promise, ‘At least wait until you've graduated from high school.’"
+    ],
+    "2320:text": [
+      "But Shita wanted to start while she was still as young as possible."
+    ],
+    "2321:text": [
+      "Some idols start while they're still in elementary or middle school, after all."
+    ],
+    "2322:text": [
+      "Shita was worried that waiting",
+      "until after graduation to get started",
+      "would be too late."
+    ],
+    "2324:text": [
+      "So her compromise was to get a head start building a fanbase as an idol on Poetter."
+    ],
+    "2325:text": [
+      "She didn't actually call it that, but that's what it ended up being."
+    ],
+    "2327:text": [
+      "Shita's looks and Tamai's gentle nature successfully created the image of a flawless idol."
+    ],
+    "2329:text": [
+      "One day, Shita said, ‘I'm interested",
+      "in show business."
+    ],
+    "2330:text": [
+      "I'd like to try it as a career after I graduate.’ And then—"
+    ],
+    "2331:text": [
+      "Really, Tamai was the one saying it, of course—but Shita's fans welcomed it."
+    ],
+    "2332:text": [
+      "You can make it! We'll support you! That sort of thing."
+    ],
+    "2334:text": [
+      "I guess it makes people happy when someone they already like",
+      "becomes an idol."
+    ],
+    "2335:text": [
+      "Like, I had my eye on her back when she was a diamond in the rough."
+    ],
+    "2336:text": [
+      "Their plan hit the jackpot."
+    ],
+    "2338:text": [
+      "Shita really does know how to get ahead, huh?"
+    ],
+    "2339:text": [
+      "Yep, just like you said earlier, ",
+      "."
+    ],
+    "2341:text": [
+      "Apparently, Tamai smiled and happily did whatever Shita told her."
+    ],
+    "2343:text": [
+      "From what I heard, Tamai and Shita were childhood friends who'd grown up together since they were little."
+    ],
+    "2345:text": [
+      "But apparently, you couldn't really call that relationship friendship."
+    ],
+    "2346:text": [
+      "One was an arrogant princess who put on a sweet face, and the other was her devoted, fiercely loyal servant."
+    ],
+    "2348:text": [
+      "It seems Tamai didn't like herself",
+      "very much."
+    ],
+    "2349:text": [
+      "She wasn't pretty, and people didn't look up to her."
+    ],
+    "2351:text": [
+      "So, like a drab girl dreaming of a fairy-tale princess, she pinned her own dreams on Shita."
+    ],
+    "2352:text": [
+      "She truly wanted Shita to spread her wings out into the world."
+    ],
+    "2354:text": [
+      "Then something happened",
+      "that put a serious crack in their relationship."
+    ],
+    "2364:text": [
+      "Tamai had her own Poetter account, separate from the one under Shita's name."
+    ],
+    "2365:text": [
+      "She'd kept this account secret from everyone—her classmates, her family, even Shita."
+    ],
+    "2367:text": [
+      "She'd made it to pose as a fan and send Shita supportive poets."
+    ],
+    "2369:text": [
+      "There were two things she wanted to achieve with that ‘setup.’"
+    ],
+    "2371:text": [
+      "First, she wanted to keep Shita happy."
+    ],
+    "2372:text": [
+      "Shita had a queen's temperament. She couldn't stand being put down, of course, but she also couldn't stand being ignored",
+      "or going without praise."
+    ],
+    "2373:text": [
+      "She'd immediately start sulking."
+    ],
+    "2375:text": [
+      "So posing as an enthusiastic fan to cheer her on and keep her motivated was an important job for Tamai."
+    ],
+    "2376:text": [
+      "She was so devoted... it was kind of creepy."
+    ],
+    "2378:text": [
+      "The other goal was to stir up interest by posing as a fan."
+    ],
+    "2379:text": [
+      "Things other people praise start to look good, right?"
+    ],
+    "2380:text": [
+      "Just like spotting a line outside a shop makes you wonder what's inside."
+    ],
+    "2381:text": [
+      "Besides, for people who were already fans, it could fire up the urge to support her at least as much as anyone else!"
+    ],
+    "2383:text": [
+      "So with those two aims, Tamai secretly kept a Poetter account and went on posing as an enthusiastic fan."
+    ],
+    "2385:text": [
+      "Shita seems to have really taken a liking to this ‘fan’ Tamai was playing."
+    ],
+    "2387:text": [
+      "I told you Tamai was naturally good",
+      "at understanding other people's feelings, right?"
+    ],
+    "2388:text": [
+      "And she'd been with Shita since they were little."
+    ],
+    "2389:text": [
+      "She knew exactly what would make Shita happy and kept picking words to please her. Maybe it was only natural that she won Shita's heart."
+    ],
+    "2391:text": [
+      "Eventually, Shita started wanting to get closer to this ‘fan.’"
+    ],
+    "2393:text": [
+      "But Tamai managed Shita's Poetter account."
+    ],
+    "2394:text": [
+      "If Shita tried messaging the fan from her public account, Tamai would see."
+    ],
+    "2395:text": [
+      "And Shita didn't want that."
+    ],
+    "2397:text": [
+      "But Shita had an account of her own that nobody knew about, too."
+    ],
+    "2398:text": [
+      "It was a private alt, where only certain people—followers she'd approved—could see",
+      "what she posted."
+    ],
+    "2400:text": [
+      "Shita contacted the ‘fan’ from that account and invited them to follow it."
+    ],
+    "2401:text": [
+      "Without knowing the fan was Tamai, Shita allowed them to view her alt account."
+    ],
+    "2403:text": [
+      "Tamai must've been surprised."
+    ],
+    "2404:text": [
+      "A locked account claiming to be Shita had just contacted her."
+    ],
+    "2406:text": [
+      "Shita had never told her about an alt account—but even if it was an impostor, she couldn't just leave it alone."
+    ],
+    "2407:text": [
+      "She did as she was told and followed",
+      "Shita's alt account."
+    ],
+    "2409:text": [
+      "And what Tamai found there was... a never-ending stream of Shita badmouthing her."
+    ],
+    "2411:text": [
+      "She never actually named her, but she wrote about a girl who was her “childhood friend” and “classmate,” so Tamai knew right away she was the target."
+    ],
+    "2413:text": [
+      "She's ugly.",
+      "Her voice is unbearable.",
+      "Her skin is filthy."
+    ],
+    "2414:text": [
+      "Her breath stinks.",
+      "She goes days without bathing. She's filthy."
+    ],
+    "2415:text": [
+      "She follows me around even when I want to be alone. It's so annoying."
+    ],
+    "2416:text": [
+      "Her personality's twisted, too. All she does is badmouth people and tell lies."
+    ],
+    "2417:text": [
+      "She steals things. She's taken so many of my favorite possessions."
+    ],
+    "2418:text": [
+      "Whenever I try to be friends with someone else,",
+      "she gets in the way."
+    ],
+    "2419:text": [
+      "At worst, she attacks them, so I can't hang out with anyone else. I have no choice but to stay with her—"
+    ],
+    "2421:text": [
+      "It makes my heart ache to imagine how Tamai must've felt."
+    ],
+    "2422:text": [
+      "Of course, almost all of that was a lie."
+    ],
+    "2424:text": [
+      "Tamai didn't gossip about people, she didn't steal, and she never interfered when Shita made friends with someone."
+    ],
+    "2426:text": [
+      "So Shita was saying all kinds of nasty things about Tamai, true or not, to present herself as an ‘angel who wouldn't abandon such a creepy childhood friend.’"
+    ],
+    "2428:text": [
+      "Tamai must've been",
+      "stunned."
+    ],
+    "2429:text": [
+      "For a while, she kept playing the ‘fan’ just as before."
+    ],
+    "2430:text": [
+      "She kept listening to Shita complain on her alt account,",
+      "enduring all those lies and spiteful claims about herself."
+    ],
+    "2432:text": [
+      "Then, a week later."
+    ],
+    "2433:text": [
+      "Tamai couldn't take it anymore. Still pretending to be the ‘fan,’ she asked Shita to meet her."
+    ],
+    "2435:text": [
+      "Shita was completely taken with the ‘fan’ and had often said she wanted to meet them, so she readily accepted the invitation."
+    ],
+    "2442:text": [
+      "The place was the shore of a big local lake. The time was",
+      "midnight."
+    ],
+    "2443:text": [
+      "There was a new moon. The sky, the lake, and the trees along the shore were all painted pitch-black, and everything was deathly quiet."
+    ],
+    "2444:text": [
+      "...Hey, ",
+      ". Why do you think Tamai asked Shita to meet her?”"
+    ],
+    "2476:glink.text.1": [
+      "1. To kill her"
+    ],
+    "2478:glink.text.1": [
+      "1. To kill her"
+    ],
+    "2482:glink.text.1": [
+      "2. To threaten her"
+    ],
+    "2484:glink.text.1": [
+      "2. To threaten her"
+    ],
+    "2497:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2498:text": [
+      "“To kill her, huh? That's a pretty violent idea."
+    ],
+    "2499:text": [
+      "But I can see why you'd think that."
+    ],
+    "2500:text": [
+      "If someone betrayed me like that, I'd get my revenge"
+    ],
+    "2501:text": [
+      "good and proper."
+    ],
+    "2502:text": [
+      "Well, I wouldn't be as devoted to supporting someone"
+    ],
+    "2503:text": [
+      "as Tamai was in the first place."
+    ],
+    "2505:text": [
+      "Tamai had served Shita ever since they were children."
+    ],
+    "2507:text": [
+      "I don't know either of them personally, but just from what I've told you, I can see how deeply Tamai loved her."
+    ],
+    "2508:text": [
+      "She was more like a mother than a friend—no, maybe a grandmother who spoiled her grandchild rotten."
+    ],
+    "2509:text": [
+      "I guess making Shita happy was what made Tamai happy."
+    ],
+    "2511:text": [
+      "Of course, just because someone loves you, that doesn't mean you have to love them back."
+    ],
+    "2512:text": [
+      "But I don't think Tamai wanted anything in return from Shita."
+    ],
+    "2514:text": [
+      "She didn't even need any thanks."
+    ],
+    "2515:text": [
+      "If Shita had said, ‘You're annoying. Go away,’ I bet Tamai would've quietly disappeared."
+    ],
+    "2517:text": [
+      "I'm sure all she wanted was not to get such extreme malice in return."
+    ],
+    "2518:text": [
+      "Putting Tamai down as the villain behind her back, just to make herself look like an angel—Tamai could've taken anything but malice like that."
+    ],
+    "2520:text": [
+      "That malice broke",
+      "Tamai."
+    ],
+    "2522:text": [
+      "With her mind broken, she got a hammer and a sturdy chain ready."
+    ],
+    "2524:text": [
+      "Then she crept up on Shita as she stood on the lakeshore, and struck her from behind—"
+    ],
+    "2529:text": [
+      "—THWACK!"
+    ],
+    "2534:text": [
+      "The hard blow to her head sent Shita crumpling to the ground just like that."
+    ],
+    "2536:text": [
+      "Next, Tamai took out the chain."
+    ],
+    "2537:text": [
+      "She used it to fasten Shita's prone body to a suitable rock she'd found",
+      "lying nearby, then dropped them into the lake."
+    ],
+    "2541:text": [
+      "Tamai hated Shita now, but Shita was still her childhood friend and the mistress she'd served for years."
+    ],
+    "2542:text": [
+      "Do you know why she chose to attack her from behind, without even exchanging a few last words?"
+    ],
+    "2544:text": [
+      "I'm sure it was because if she said even a word—no, if she just looked into Shita's eyes, she might not be able to kill her."
+    ],
+    "2545:text": [
+      "No matter how much Shita had humiliated her, I think Tamai knew that affection would well up in that moment and blunt her urge to kill."
+    ],
+    "2547:text": [
+      "Whatever the case, I doubt Tamai's broken heart ever recovered."
+    ],
+    "2552:text": [
+      "The next day, Tamai went to school at the usual time."
+    ],
+    "2553:text": [
+      "She went back to the same daily routine as before."
+    ],
+    "2555:text": [
+      "She didn't even delete their exchange on Poetter, which was evidence that she'd arranged the meeting."
+    ],
+    "2556:text": [
+      "It was such a sloppy crime. She figured she'd be found out soon anyway."
+    ],
+    "2558:text": [
+      "Once Shita's parents noticed their daughter was missing and filed a report, the police would start investigating and soon find the invitation left on social media."
+    ],
+    "2560:text": [
+      "The police might even be able to request deleted poets from the service."
+    ],
+    "2561:text": [
+      "At the very least, the poets on Shita's side wouldn't disappear, so they'd soon find out she'd been getting close to an account calling itself a ‘fan’ lately—and that Tamai was behind it."
+    ],
+    "2563:text": [
+      "‘So the police will be on to me soon. When that happens, I'll let them arrest me without a fight’—",
+      "that's what Tamai thought."
+    ],
+    "2565:text": [
+      "But that whole day, nothing",
+      "changed."
+    ],
+    "2566:text": [
+      "Shita's parents didn't even ask her whether she knew where their daughter was."
+    ],
+    "2568:text": [
+      "To Shita's parents, Tamai was the childhood friend who'd been closer to their daughter than anyone. You'd think she'd be the first person they'd ask, right?"
+    ],
+    "2569:text": [
+      "Tamai wondered why they hadn't."
+    ],
+    "2571:text": [
+      "But as a murderer, she was glad no one was questioning her, so she decided not to worry about it."
+    ],
+    "2573:text": [
+      "Just one strange thing happened that day."
+    ],
+    "2575:text": [
+      "Tamai went for a walk on a whim during lunch break, and as she passed near the gym, she noticed someone."
+    ],
+    "2576:text": [
+      "Judging by their build and clothes, they didn't seem to be a student."
+    ],
+    "2578:text": [
+      "It was a grown woman in a pale-colored hat, a jacket, and a pencil",
+      "skirt, carrying a handbag."
+    ],
+    "2579:text": [
+      "She was bent over the drinking fountain, drinking water, so Tamai couldn't see her face."
+    ],
+    "2581:text": [
+      "...Yeah, that's right. It was the place I mentioned at the start of my story."
+    ],
+    "2582:text": [
+      "It was the drinking fountain beside the gym—the second tap from the right."
+    ],
+    "2584:text": [
+      "I told you that tap was wired shut so tightly you couldn't use it,",
+      "but back then, anyone could still use it."
+    ],
+    "2586:text": [
+      "So there was nothing strange about that tap being on."
+    ],
+    "2587:text": [
+      "There wasn't anything strange about a grown woman drinking water at school in broad daylight, either."
+    ],
+    "2588:text": [
+      "There are plenty of adult visitors: former students, parents who've been called in, student teachers, substitute teachers, all sorts."
+    ],
+    "2590:text": [
+      "What made Tamai notice her was her peculiar way of drinking. She was gulping it down so greedily, you'd never think she was an adult."
+    ],
+    "2592:text": [
+      "She wasn't bending down to drink elegantly. She had her mouth wide open and was gulping away noisily, as if she didn't want to waste a single drop."
+    ],
+    "2593:text": [
+      "She was like a beast devouring raw meat."
+    ],
+    "2595:text": [
+      "You could understand it after intense exercise, but she didn't seem to have been exercising. It was an awfully vulgar way for a woman to drink, wasn't it?"
+    ],
+    "2597:text": [
+      "Tamai got scared and stood staring in a daze—but then the woman suddenly raised her head and, wiping her mouth,",
+      "went off somewhere."
+    ],
+    "2598:text": [
+      "Her face was still hidden behind the brim of her big hat."
+    ],
+    "2600:text": [
+      "Tamai stood rooted to the spot for a while, feeling as though she'd been daydreaming. Eventually, she wandered unsteadily over to that tap."
+    ],
+    "2601:text": [
+      "The woman had made the water look so delicious that Tamai wondered if it really tasted that good."
+    ],
+    "2603:text": [
+      "Then she put her mouth to the running water—but frankly, it was",
+      "undrinkable."
+    ],
+    "2605:text": [
+      "Something like rust, algae, rotten meat—this bizarre, fishy taste hit her all at once, and she spat it out before she could even",
+      "think."
+    ],
+    "2607:text": [
+      "She even started feeling nauseous, so she hurriedly turned on another tap and rinsed her mouth out."
+    ],
+    "2608:text": [
+      "That water tasted normal, and the fishy taste disappeared in an instant."
+    ],
+    "2610:text": [
+      "Hey, that's strange, isn't it?"
+    ],
+    "2611:text": [
+      "The water came from the same reservoir, through the same filters and pipes, only branching off just before the taps. How could it taste so completely different?"
+    ],
+    "2613:text": [
+      "Tamai thought it was strange too, but she didn't have the courage to try the water from the second tap from the right again."
+    ],
+    "2614:text": [
+      "Both that fishy taste and the woman who'd drunk that stuff as if it were delicious terrified her."
+    ],
+    "2616:text": [
+      "There happened to be some discarded wire in a nearby rubbish collection area, so she brought it over and wrapped it round and round the tap."
+    ],
+    "2623:text": [
+      "That night, Tamai opened Poetter for the first time in a while."
+    ],
+    "2624:text": [
+      "The experience had been so creepy that she decided to search Poetter for any similar stories."
+    ],
+    "2626:text": [
+      "Poetter's perfect for posting about the little things that happen in everyday life, you know."
+    ],
+    "2627:text": [
+      "And it's easy to reply, too."
+    ],
+    "2629:text": [
+      "Say someone posts a poet saying, ‘The tap water smelled fishy.’ Someone else might reply,"
+    ],
+    "2630:text": [
+      "‘Maybe it's caused by such-and-such.’"
+    ],
+    "2631:text": [
+      "Knowing someone else had the same experience would be a relief. And finding a likely cause would be even more reassuring, right?"
+    ],
+    "2633:text": [
+      "She'd only opened the app with that simple idea in mind... but what Tamai saw made her eyes widen in shock."
+    ],
+    "2659:text": [
+      "A poet came in, almost as if someone had been waiting for Tamai to open the app."
+    ],
+    "2661:text": [
+      "It was addressed to Tamai's alt—the account where she played the ‘fan.’"
+    ],
+    "2662:text": [
+      "And it came from Shita's alt account."
+    ],
+    "2664:text": [
+      "Yes. Shita, who was supposed to be long dead, was talking to her",
+      "through a poet."
+    ],
+    "2666:text": [
+      "Tamai must've panicked."
+    ],
+    "2667:text": [
+      "After all, she'd received a message like that from someone she'd killed with her own hands."
+    ],
+    "2671:text": [
+      "Come to think of it, I don't know what happened to the phone Shita used for Poetter."
+    ],
+    "2672:text": [
+      "But she wouldn't have left it behind when she went to meet someone she'd met through Poetter for the first time, right?"
+    ],
+    "2674:text": [
+      "If it was in Shita's pocket, it must've either fallen on the shore or sunk into the lake with her."
+    ],
+    "2675:text": [
+      "Even if someone else had picked it up, they'd still have the phone's lock to get past. They could hardly just use it."
+    ],
+    "2676:text": [
+      "I can't imagine they'd manage to send a message so perfectly aimed at terrifying her, either."
+    ],
+    "2678:text": [
+      "Shita had become an evil spirit, and she still hated her—that was what Tamai thought at first."
+    ],
+    "2679:text": [
+      "She must've been dizzy with terror."
+    ],
+    "2681:text": [
+      "But she soon thought of another possibility."
+    ],
+    "2682:text": [
+      "Maybe Shita hadn't died back then."
+    ],
+    "2684:text": [
+      "Maybe Shita had survived the beating, and after being thrown in the lake, she'd somehow shaken off the weight and swum ashore."
+    ],
+    "2685:text": [
+      "And maybe she'd only just regained consciousness and contacted her."
+    ],
+    "2687:text": [
+      "As Tamai trembled at that thought, a newly posted message",
+      "caught her eye."
+    ],
+    "2699:text": [
+      "It was the latest poet on Shita's public account."
+    ],
+    "2700:text": [
+      "It wasn't addressed to anyone in particular. All her followers could see it."
+    ],
+    "2710:text": [
+      "Tamai was the one who mainly managed that account, since posting poets was her job,"
+    ],
+    "2711:text": [
+      "but Shita had created it in the first place. She could still read and post things herself."
+    ],
+    "2713:text": [
+      "So there was nothing strange about Shita posting a new poet."
+    ],
+    "2714:text": [
+      "What bothered her was what it said, and the picture attached to it."
+    ],
+    "2716:text": [
+      "The picture showed a lake at night."
+    ],
+    "2717:text": [
+      "It was the very place where Tamai had beaten Shita and sunk her body."
+    ],
+    "2719:text": [
+      "And it was taken from a low angle, as if the photographer were",
+      "crawling on the ground."
+    ],
+    "2721:text": [
+      "Shita was still at that lake. She didn't know where she was, so she was asking her followers to tell her."
+    ],
+    "2722:text": [
+      "In other words, she'd only just regained consciousness on the lakeshore, and nobody had rescued her."
+    ],
+    "2724:text": [
+      "I'd call the police or an ambulance first,",
+      "but maybe she hadn't because she didn't know where she was."
+    ],
+    "2725:text": [
+      "Maybe the shock of being hit had made her forget where she'd been asked to meet."
+    ],
+    "2727:text": [
+      "Maybe she'd asked on Poetter so that if someone told her where she was,",
+      "she could use that information to get someone to find her."
+    ],
+    "2729:text": [
+      "Anyway, when Tamai saw it, she sprang to her feet and left the house."
+    ],
+    "2731:text": [
+      "She was heading for that lake, of course."
+    ],
+    "2732:text": [
+      "She'd find Shita before anyone else. She hadn't decided what she'd do after that."
+    ],
+    "2734:text": [
+      "Would she finish her off and make sure she sank to the bottom of the lake"
+    ],
+    "2735:text": [
+      "this time?"
+    ],
+    "2736:text": [
+      "Or would she use the fact that each of them knew the other's dark secrets to keep Shita quiet?"
+    ],
+    "2737:text": [
+      "Or maybe the guilt and loyalty that hatred had clouded over had come back, and she'd gone there to protect Shita."
+    ],
+    "2741:text": [
+      "Whatever the reason, Tamai arrived at the lake."
+    ],
+    "2742:text": [
+      "The lake was just as silent as it had been the night before,",
+      "and the wind was a little chilly."
+    ],
+    "2744:text": [
+      "Then Tamai looked around for Shita—but—"
+    ],
+    "2746:text": [
+      "“AAAAAAAAAAAHHHHHHHHHHH!!”"
+    ],
+    "2748:text": [
+      "A tremendous cry rang out behind her."
+    ],
+    "2752:text": [
+      "At the same moment, something struck the back of Tamai's head with a heavy thud."
+    ],
+    "2753:text": [
+      "The pain came a few seconds later. Just as the distant ringing faded and her hearing returned, it hit like a tsunami."
+    ],
+    "2755:text": [
+      "Someone had attacked her."
+    ],
+    "2756:text": [
+      "Just like she'd attacked Shita the night before—"
+    ],
+    "2758:text": [
+      "“It was you! You did that to Naoko...!”"
+    ],
+    "2760:text": [
+      "She tried to turn around and see who it was, but thick blood spilled from her forehead and blocked her sight."
+    ],
+    "2762:text": [
+      "But a brief glimpse of their clothes and that beast-like growl told Tamai who it was."
+    ],
+    "2763:text": [
+      "It was the woman she'd seen drinking from the tap at school that afternoon."
+    ],
+    "2764:text": [
+      "And that woman was... Shita's mother."
+    ],
+    "2769:text": [
+      "A parent's rage and grief over what had been done to her daughter gave those thin arms incredible strength."
+    ],
+    "2770:text": [
+      "Tamai was easily beaten down by the hammer Shita's mother swung at her."
+    ],
+    "2772:text": [
+      "‘If you're a servant, act like one. Go"
+    ],
+    "2773:text": [
+      "to her.’"
+    ],
+    "2775:text": [
+      "That was probably the last voice Tamai ever heard."
+    ],
+    "2780:text": [
+      "After that, Tamai was thrown into the lake with her hands and feet bound with rope."
+    ],
+    "2786:text": [
+      "Her body was found three days later."
+    ],
+    "2787:text": [
+      "The police quickly identified the killer, and Shita's mother was arrested without any trouble."
+    ],
+    "2789:text": [
+      "Apparently, she confessed everything when questioned, without hiding a thing."
+    ],
+    "2790:text": [
+      "But what she said was..."
+    ],
+    "2792:text": [
+      "The night Shita was killed, her mother was fast asleep at home. She had no idea her daughter had sneaked out."
+    ],
+    "2793:text": [
+      "And apparently, her daughter appeared",
+      "in her dream that night."
+    ],
+    "2795:text": [
+      "Naoko Shita"
+    ],
+    "2796:text": [
+      "“Mom. I think I'm dead."
+    ],
+    "2797:text": [
+      "Someone killed me.”"
+    ],
+    "2799:text": [
+      "When her mother asked what she meant, Shita apparently left her with these words."
+    ],
+    "2801:text": [
+      "Naoko Shita"
+    ],
+    "2802:text": [
+      "“Come to my school around noon. Please. Promise"
+    ],
+    "2803:text": [
+      "you will.”"
+    ],
+    "2805:text": [
+      "I hear that by the time her mother woke up, she'd already started thinking what she'd been told in the dream was true."
+    ],
+    "2806:text": [
+      "Then she saw the empty bed in her daughter's room, and that made her even more certain."
+    ],
+    "2808:text": [
+      "So, just as her daughter had told her, the first thing her mother did was go to the school at noon."
+    ],
+    "2809:text": [
+      "As she walked through the school, she felt as if someone was calling her—and before she knew it, she was drinking water from the tap."
+    ],
+    "2811:text": [
+      "That was what Tamai had seen."
+    ],
+    "2813:text": [
+      "Her mother herself didn't think that water tasted good or bad."
+    ],
+    "2814:text": [
+      "But apparently, the moment she drank it, the scenes of Shita's final moments came flooding into her mind."
+    ],
+    "2816:text": [
+      "What do I mean?"
+    ],
+    "2817:text": [
+      "Apparently, the water at my older sister's school comes from the lake where Shita was killed."
+    ],
+    "2818:text": [
+      "I'm sure Shita's grudge traveled through the water and reached her mother."
+    ],
+    "2820:text": [
+      "If that's what happened, doesn't it explain why Tamai found it so fishy-tasting she couldn't swallow it?"
+    ],
+    "2821:text": [
+      "The Shita family's water came from a different reservoir, so her mother had to come to the school",
+      "for it."
+    ],
+    "2823:text": [
+      "Anyway, her mother told the police that drinking the water had shown her how Shita died."
+    ],
+    "2825:text": [
+      "Apparently, her daughter had been summoned through Poetter and then killed."
+    ],
+    "2826:text": [
+      "She'd been struck from behind, so she hadn't even seen the killer's face."
+    ],
+    "2828:text": [
+      "And apparently, her mother understood that her daughter, now in that cold water, wanted her to find the killer and take revenge—"
+    ],
+    "2830:text": [
+      "Maybe if she'd been able to talk it over with Shita's father, it wouldn't have gone as far as",
+      "revenge."
+    ],
+    "2831:text": [
+      "I hear her mother had a little psychic sensitivity, but her father had none at all and was a levelheaded person."
+    ],
+    "2833:text": [
+      "But her father was away on business, so her mother had to agonize alone and carry out the deed alone."
+    ],
+    "2835:text": [
+      "Anyway, her mother decided to start setting up her revenge."
+    ],
+    "2837:text": [
+      "First, she logged into Shita's Poetter account."
+    ],
+    "2838:text": [
+      "To be blunt, Shita's phone was at the bottom of the lake. But apparently, she'd sometimes logged in on the family computer, and her mother used that history to get in."
+    ],
+    "2840:text": [
+      "She read through the exchanges and found out that the one who'd asked Shita to meet them was the ‘fan.’"
+    ],
+    "2841:text": [
+      "Then she sent that first message, filled with hatred."
+    ],
+    "2843:text": [
+      "But from her mother's point of view, the ‘fan’ wasn't necessarily the killer, right?"
+    ],
+    "2844:text": [
+      "Maybe the ‘fan’ had arranged to meet her but was late, and a completely unrelated stranger attacked her in the meantime."
+    ],
+    "2846:text": [
+      "So she sent the photo of the lake to lure them out if they really were the ‘killer.’"
+    ],
+    "2847:text": [
+      "She wanted the killer to mistakenly believe Shita was at the lake right then, wounded."
+    ],
+    "2849:text": [
+      "If you think about it calmly, it's a plan full of holes."
+    ],
+    "2850:text": [
+      "But Tamai followed that line of thought, as if something was controlling her, and ended up going to the scene..."
+    ],
+    "2852:text": [
+      "—Speaking of which, let me ask one last, slightly morbid question."
+    ],
+    "2853:text": [
+      "Do you think Tamai accepted her own death without a fight at the end?"
+    ],
+    "2854:text": [
+      "With her own hands, she'd killed the person she'd spent all that time supporting."
+    ],
+    "2855:text": [
+      "Then that person's mother attacked her the same way, seeking revenge—do you think Tamai still tried",
+      "to survive?”"
+    ],
+    "2865:glink.text.1": [
+      "1. She tried to survive"
+    ],
+    "2867:glink.text.1": [
+      "1. She tried to survive"
+    ],
+    "2871:glink.text.1": [
+      "2. She gave up on living"
+    ],
+    "2873:glink.text.1": [
+      "2. She gave up on living"
+    ],
+    "2884:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2885:text": [
+      "“...Yeah, maybe. After all, what drove her to"
+    ],
+    "2886:text": [
+      "commit the crime was Shita's awful betrayal"
+    ],
+    "2887:text": [
+      "in the first place."
+    ],
+    "2888:text": [
+      "Tamai must have completely come to her senses."
+    ],
+    "2889:text": [
+      "Even if she wanted to atone, I guess she also"
+    ],
+    "2890:text": [
+      "really wanted to live her own life on her own two feet"
+    ],
+    "2891:text": [
+      "this time."
+    ],
+    "2893:text": [
+      "But I doubt Shita would have allowed"
+    ],
+    "2894:text": [
+      "that."
+    ],
+    "2895:text": [
+      "Shita's personality is really something."
+    ],
+    "2896:text": [
+      "She turned her own mother into a criminal"
+    ],
+    "2897:text": [
+      "for the sake of her revenge."
+    ],
+    "2899:text": [
+      "I'm sure even her family and friends are no more"
+    ],
+    "2900:text": [
+      "than the tips of her own fingernails to her."
+    ],
+    "2901:text": [
+      "So she won't forgive anyone who tries to escape her."
+    ],
+    "2903:text": [
+      "...Actually, here's the thing."
+    ],
+    "2904:text": [
+      "After Tamai was thrown into the lake, the ropes round her hands and feet came undone, and she managed to free herself."
+    ],
+    "2905:text": [
+      "I hear there were signs she'd struggled toward the surface, even as she swallowed water."
+    ],
+    "2907:text": [
+      "So why do you think she didn't make it?"
+    ],
+    "2908:text": [
+      "Because her foot got caught in a chain lying underwater, and she couldn't",
+      "get to the surface, no matter what."
+    ],
+    "2910:text": [
+      "...That's right. It was the very chain Tamai had brought herself, the one she'd used to tie a weight to Shita."
+    ],
+    "2911:text": [
+      "Maybe it just happened to get tangled round her when she kicked off the bottom."
+    ],
+    "2912:text": [
+      "That was what sealed Tamai's fate and took her life."
+    ],
+    "2914:text": [
+      "When her strength gave out and all the air was gone from her lungs, Tamai's body sank slowly to the bottom."
+    ],
+    "2915:text": [
+      "The chain tangled round her foot dragged her down—right beside Shita's body."
+    ],
+    "2917:text": [
+      "I hear that when Shita's body was finally brought up, her mother looked at it and smiled."
+    ],
+    "2918:text": [
+      "Shita's angelic beauty was completely gone, but her mother smiled as though she were holding a newborn baby."
+    ],
+    "2920:text": [
+      "‘Thank goodness. Naoko is satisfied.’"
+    ],
+    "2922:text": [
+      "—that's what she said."
+    ],
+    "2946:text": [
+      "Reiko Fukuzawa"
+    ],
+    "2947:text": [
+      "“That might be true."
+    ],
+    "2948:text": [
+      "However terribly she'd been betrayed, murder was"
+    ],
+    "2949:text": [
+      "still murder—and above all, this was someone"
+    ],
+    "2950:text": [
+      "she'd loved all that time."
+    ],
+    "2951:text": [
+      "You can't change how you think that easily."
+    ],
+    "2953:text": [
+      "You could even say that by killing Shita, Tamai"
+    ],
+    "2954:text": [
+      "had robbed her of the chance to atone."
+    ],
+    "2955:text": [
+      "Whatever Shita had done to her, what Tamai had done"
+    ],
+    "2956:text": [
+      "was far worse."
+    ],
+    "2958:text": [
+      "So as her head was struck over and over, maybe"
+    ],
+    "2959:text": [
+      "she felt relieved that this would let her atone."
+    ],
+    "2963:text": [
+      "Here's the proof."
+    ],
+    "2964:text": [
+      "After Tamai was thrown into the lake, the ropes around her hands and feet came loose."
+    ],
+    "2966:text": [
+      "Forensics is amazing, huh? They could even tell when the ropes came loose!"
+    ],
+    "2967:text": [
+      "...Wait, that's not the point."
+    ],
+    "2969:text": [
+      "Anyway, that means Tamai had a chance to survive."
+    ],
+    "2970:text": [
+      "If she'd just swum up to the surface, I'm sure she would've survived."
+    ],
+    "2972:text": [
+      "But she was found dead."
+    ],
+    "2973:text": [
+      "It's hard to explain what happened, but..."
+    ],
+    "2975:text": [
+      "After the ropes came loose, it seems Tamai deliberately sank toward the bottom for some reason."
+    ],
+    "2976:text": [
+      "Then, as if she were nestling up to Shita's body on the lake bed, she let the last breath out of her lungs. That's what I heard."
+    ],
+    "2978:text": [
+      "Why would she do that?"
+    ],
+    "2979:text": [
+      "I mean, wouldn't drowning yourself be incredibly painful?"
+    ],
+    "2980:text": [
+      "No matter how determined you were, you couldn't just do it. Your body would fight it on its own."
+    ],
+    "2991:text": [
+      "Personally, I think it might've been because of the last thing Shita's mother said to her."
+    ],
+    "2993:text": [
+      "‘If you're a servant, act like one. Go"
+    ],
+    "2994:text": [
+      "to her.’"
+    ],
+    "2996:text": [
+      "What a thing to say, huh? That's Shita's mother for you."
+    ],
+    "2997:text": [
+      "Maybe those words gouged right into Tamai's heart and robbed her of the will to live."
+    ],
+    "2999:text": [
+      "Or maybe she simply believed what she'd been told—‘I'm a servant, so I have to stay by Shita's side.’"
+    ],
+    "3000:text": [
+      "Maybe it was because her loyalty had been drilled in so deeply that it was practically instinct."
+    ],
+    "3002:text": [
+      "Either way, I think it's just like a curse."
+    ],
+    "3016:text": [
+      "Reiko Fukuzawa"
+    ],
+    "3017:text": [
+      "“To scare her, huh?"
+    ],
+    "3018:text": [
+      "It still sounds pretty threatening, but maybe that's the more peaceful approach."
+    ],
+    "3019:text": [
+      "You had something on a girl who wanted to be an idol,"
+    ],
+    "3020:text": [
+      "so putting it to good use might not be such a bad"
+    ],
+    "3021:text": [
+      "idea."
+    ],
+    "3023:text": [
+      "...Huh? What would I do if someone did"
+    ],
+    "3024:text": [
+      "the same thing to me?"
+    ],
+    "3025:text": [
+      "Hmm... I'd stop being friends with them. That's all."
+    ],
+    "3027:text": [
+      "I mean, isn't that just how friends are?"
+    ],
+    "3028:text": [
+      "No matter how close you are, if you spend time together, you'll see things you don't like. Everyone complains a little behind their friends'",
+      "backs, right?"
+    ],
+    "3029:text": [
+      "It goes both ways."
+    ],
+    "3031:text": [
+      "Shita took it way too far with her nastiness, but I'd just cut ties, go out and have a blast, and forget all about it."
+    ],
+    "3033:text": [
+      "Besides, I'm not the type to serve someone the way Tamai does."
+    ],
+    "3034:text": [
+      "It's far too risky."
+    ],
+    "3036:text": [
+      "Anyway, Tamai intended to meet Shita and give her a warning."
+    ],
+    "3037:text": [
+      "She just wanted her to promise to stop badmouthing her on her alt account. That was all."
+    ],
+    "3039:text": [
+      "Tamai's so naive."
+    ],
+    "3040:text": [
+      "That just ends with her making a new account",
+      "and doing it all over again."
+    ],
+    "3041:text": [
+      "Shita has absolutely no respect for Tamai."
+    ],
+    "3043:text": [
+      "So when Tamai called her out there and told her all that, Shita got angry and lashed out, just as you'd expect."
+    ],
+    "3047:text": [
+      "Naoko Shita"
+    ],
+    "3048:text": [
+      "“Pretending to be a fan and tricking me? You're the worst!”"
+    ],
+    "3050:text": [
+      "Naoko Shita"
+    ],
+    "3051:text": [
+      "“Snooping into someone's private life? You're"
+    ],
+    "3052:text": [
+      "disgusting!”"
+    ],
+    "3054:text": [
+      "Naoko Shita"
+    ],
+    "3055:text": [
+      "“Besides, those posts weren't even about"
+    ],
+    "3056:text": [
+      "you, okay?"
+    ],
+    "3057:text": [
+      "Did I ever use your name? I"
+    ],
+    "3058:text": [
+      "didn't, did I?"
+    ],
+    "3059:text": [
+      "Making me come all the way out here over your mistake"
+    ],
+    "3060:text": [
+      "is such a pain!”"
+    ],
+    "3062:text": [
+      "She just kept spouting selfish excuses like that."
+    ],
+    "3063:text": [
+      "Even Tamai lost her temper at that."
+    ],
+    "3067:text": [
+      "Yoshiko Tamai"
+    ],
+    "3068:text": [
+      "“You seem to have forgotten, but you used my name about"
+    ],
+    "3069:text": [
+      "three times."
+    ],
+    "3070:text": [
+      "I took screenshots of every single thing you posted"
+    ],
+    "3071:text": [
+      "on your alt account."
+    ],
+    "3072:text": [
+      "I wonder how your public account's followers"
+    ],
+    "3073:text": [
+      "would react if I showed them?”"
+    ],
+    "3075:text": [
+      "Well, of course she'd say that back."
+    ],
+    "3076:text": [
+      "Shita could only throw her weight around when it was just the two of them;"
+    ],
+    "3077:text": [
+      "if this got out, she'd be the one in trouble."
+    ],
+    "3079:text": [
+      "While Shita faltered after spewing all that abuse, Tamai went on."
+    ],
+    "3081:text": [
+      "Yoshiko Tamai"
+    ],
+    "3082:text": [
+      "“Actually, why don't we show our classmates"
+    ],
+    "3083:text": [
+      "too?"
+    ],
+    "3084:text": [
+      "Then we can have them decide which of us"
+    ],
+    "3085:text": [
+      "is worse."
+    ],
+    "3086:text": [
+      "I have solid proof that what you said was"
+    ],
+    "3087:text": [
+      "all lies, and...”"
+    ],
+    "3089:text": [
+      "Naoko Shita"
+    ],
+    "3090:text": [
+      "“You...!”"
+    ],
+    "3092:text": [
+      "Shita shoved Tamai hard in the chest as she searched for a way to strike back."
+    ],
+    "3093:text": [
+      "She was trying to intimidate her into shutting up for the moment."
+    ],
+    "3094:text": [
+      "It was a hard shove, but she figured someone Tamai's size wouldn't even budge."
+    ],
+    "3096:text": [
+      "But—"
+    ],
+    "3098:text": [
+      "Yoshiko Tamai"
+    ],
+    "3099:text": [
+      "‘Ah—?!’"
+    ],
+    "3106:text": [
+      "The shove made Tamai lose her",
+      "footing."
+    ],
+    "3107:text": [
+      "She toppled backward and fell into the lake."
+    ],
+    "3111:text": [
+      "Yoshiko Tamai"
+    ],
+    "3112:text": [
+      "‘H-Help... gack!’"
+    ],
+    "3114:text": [
+      "After a moment, Tamai's cries for help echoed out as she gulped water, along with the splashing of her thrashing in the lake."
+    ],
+    "3115:text": [
+      "Tamai wasn't a good swimmer."
+    ],
+    "3117:text": [
+      "Shita immediately looked around."
+    ],
+    "3118:text": [
+      "She couldn't pull Tamai out on her own."
+    ],
+    "3119:text": [
+      "She looked around for anyone passing by who could help—or that was the idea."
+    ],
+    "3121:text": [
+      "But as she looked out at the utterly deserted shore,",
+      "a different thought began to fill Shita's mind."
+    ],
+    "3123:text": [
+      "‘Why should I help her?"
+    ],
+    "3124:text": [
+      "Heavy, slow, an eyesore, disgusting—and after that exchange, she turns out to be the world's biggest nuisance.’"
+    ],
+    "3126:text": [
+      "Shita picked up a large stone lying at her",
+      "feet."
+    ],
+    "3127:text": [
+      "It was so big she could barely hold it with both hands, and she brought it down on Tamai's head as it bobbed in and out of the water."
+    ],
+    "3131:text": [
+      "Thwack—!"
+    ],
+    "3135:text": [
+      "Her flailing hands tore through the water, sending up",
+      "huge splashes."
+    ],
+    "3136:text": [
+      "Tamai's eyes were visible between the splashes, seeming shocked, accusing, sad—an expression you couldn't quite describe."
+    ],
+    "3137:text": [
+      "Her muffled screams could also be heard as",
+      "she spat out the water flooding in."
+    ],
+    "3141:text": [
+      "Thwack—!"
+    ],
+    "3145:text": [
+      "The light went out of Tamai's eyes."
+    ],
+    "3146:text": [
+      "Her wrist turned weakly, stirring the water one last time. Then her whole body went still."
+    ],
+    "3147:text": [
+      "Bubbles gurgled out from around her mouth underwater as her body sank."
+    ],
+    "3149:text": [
+      "A chilling silence returned."
+    ],
+    "3150:text": [
+      "Bubbles made soft popping sounds where Tamai had vanished beneath the now-calm surface. Before long, even those stopped."
+    ],
+    "3152:text": [
+      "—She'd killed her."
+    ],
+    "3153:text": [
+      "Shita looked around, letting that fact sink in."
+    ],
+    "3154:text": [
+      "There was still nobody there."
+    ],
+    "3156:text": [
+      "She dropped the stone she'd used as a murder weapon into the lake, picked up Tamai's fallen phone—and once she'd finished cleaning up, she left."
+    ],
+    "3158:text": [
+      "‘Tonight, I came to this lake alone."
+    ],
+    "3159:text": [
+      "And now that my little walk's over, I'm going home alone.’"
+    ],
+    "3160:text": [
+      "—That's what she was thinking as she went."
+    ],
+    "3167:text": [
+      "Honestly, I think Shita had a talent for murder."
+    ],
+    "3168:text": [
+      "If a talent for murder means being able to look at things calmly and deal with them after killing someone, that is."
+    ],
+    "3170:text": [
+      "I think it comes down to how completely you can shut off your feelings."
+    ],
+    "3171:text": [
+      "An expert might tell me I'm wrong, though."
+    ],
+    "3172:text": [
+      "But doesn't that sound right? Well, whatever."
+    ],
+    "3174:text": [
+      "Anyway, Shita kept acting",
+      "calmly."
+    ],
+    "3175:text": [
+      "She knew how to unlock Tamai's phone, so she used it to fake Tamai's movements."
+    ],
+    "3184:text": [
+      "Shita's parents were away that week, so she made it look as though Tamai stayed at her house until the weekend."
+    ],
+    "3185:text": [
+      "She pretended to be chatting late into the night, so the neighbors would think she had a guest."
+    ],
+    "3189:text": [
+      "Then, over the weekend, she went to the next town and took tons of photos with Tamai's phone."
+    ],
+    "3191:text": [
+      "Tamai loved birds. She'd photograph anything bird-related in town, from living birds to illustrations of them."
+    ],
+    "3193:text": [
+      "She hated being in photos herself, so even Shita's haphazard pictures didn't look out of place."
+    ],
+    "3194:text": [
+      "Then she posted them to Tamai's public Poetter account."
+    ],
+    "3196:text": [
+      "Oh, didn't I mention it?"
+    ],
+    "3197:text": [
+      "Tamai managed three",
+      "accounts."
+    ],
+    "3198:text": [
+      "Her own, Shita's account where she edited the pictures and messages, and",
+      "the account she used as a ‘fan.’"
+    ],
+    "3200:text": [
+      "The public account I just mentioned was Tamai's own."
+    ],
+    "3201:text": [
+      "Basically, by posting pictures there, Shita was trying to make it look as though Tamai was still alive."
+    ],
+    "3203:text": [
+      "Once she'd done all that, she turned the phone off and left it alone."
+    ],
+    "3204:text": [
+      "Her cover story was that Tamai had come into town to take photos, then been attacked by someone on her way home and vanished."
+    ],
+    "3206:text": [
+      "I mean, the police would probably see through that setup right away if they seriously looked into it."
+    ],
+    "3207:text": [
+      "But oddly enough, that wasn't",
+      "what happened."
+    ],
+    "3209:text": [
+      "The biggest reason was Tamai's family situation."
+    ],
+    "3210:text": [
+      "Her mom had taken up with some man and disappeared, and her dad lived overseas. A pretty messed-up family, huh?"
+    ],
+    "3212:text": [
+      "Tamai lived near her grandfather, who was acting as her guardian."
+    ],
+    "3213:text": [
+      "But her grandpa was starting to go senile. Sometimes he wouldn't notice for days that she was away at camp or something."
+    ],
+    "3214:text": [
+      "Other times, he'd report her missing when she'd only been out for a day!"
+    ],
+    "3216:text": [
+      "But an official... diagnosis? Is that what you call it?"
+    ],
+    "3217:text": [
+      "Apparently, getting him officially diagnosed was taking ages,"
+    ],
+    "3218:text": [
+      "so they couldn't put him in a care home."
+    ],
+    "3220:text": [
+      "Basically, he might not notice she was gone for ages, and even if he reported her missing, the police might think it was just his senility again and give it a lower priority."
+    ],
+    "3222:text": [
+      "Well, how do I put it?"
+    ],
+    "3223:text": [
+      "Basically, all sorts of circumstances became accomplices to Shita's crime."
+    ],
+    "3225:text": [
+      "Pretty girls have it easy, don't they? Even fate's on their side."
+    ],
+    "3226:text": [
+      "Anyway, Shita got away with it."
+    ],
+    "3227:text": [
+      "For a while, nobody made a fuss."
+    ],
+    "3231:text": [
+      "About a week later, things finally started moving, and the police began asking around,",
+      "but Shita got through it with the story she'd prepared."
+    ],
+    "3233:text": [
+      "Apparently, word reached their classmates too, and for a while the classroom buzzed with rumors about Tamai's disappearance."
+    ],
+    "3234:text": [
+      "Some students came to ask Shita about it, since she'd been inseparable from Tamai, but she handled them without any trouble too."
+    ],
+    "3236:text": [
+      "Some students apparently saw Tamai's absence as their chance to get close to Shita at last, and approached her."
+    ],
+    "3238:text": [
+      "But she kept things polite and superficial."
+    ],
+    "3239:text": [
+      "She still had no intention of letting anyone besides Tamai see her true nature."
+    ],
+    "3242:text": [
+      "But on social media, her true colors had started to show a little."
+    ],
+    "3243:text": [
+      "Even without Tamai, she had to keep",
+      "using Poetter."
+    ],
+    "3245:text": [
+      "After all, those connections would be the foundation of her future show-business career."
+    ],
+    "3247:text": [
+      "For a while, Shita took her cues from Tamai's earlier writing and posted inoffensive poets, but she hit her limit sooner than expected."
+    ],
+    "3249:text": [
+      "Two-faced people are scary, aren't they?"
+    ],
+    "3250:text": [
+      "Apparently, they just can't make themselves stop and reread what they've written before hitting the Post button."
+    ],
+    "3252:text": [
+      "Shita got into an argument with one of the fans",
+      "who'd always been so eager to talk to her."
+    ],
+    "3253:text": [
+      "And from what happened, Shita was about eighty percent at fault."
+    ],
+    "3255:text": [
+      "It was on social media, so it spread in no time.",
+      "Well, she wasn't a celebrity, so it wasn't some huge",
+      "backlash, but she'd lost some of the goodwill she'd been steadily building up."
+    ],
+    "3257:text": [
+      "Some people had pegged Shita as a nasty person,",
+      "and after just one argument, the foundation for her showbiz career",
+      "was looking pretty battered."
+    ],
+    "3259:text": [
+      "Even so, Shita didn't feel any remorse. She just thought some annoying people on the sidelines were kicking up a fuss."
+    ],
+    "3261:text": [
+      "Some of her fans even defended her with completely ridiculous arguments."
+    ],
+    "3262:text": [
+      "That only made her more full of herself."
+    ],
+    "3264:text": [
+      "Shita was sulking, but she kept reading through the poets her fans sent, trying to convince herself, ‘I didn't do anything wrong.’"
+    ],
+    "3265:text": [
+      "Then—"
+    ],
+    "3273:text": [
+      "A new poet addressed to Shita",
+      "arrived."
+    ],
+    "3274:text": [
+      "It was a message with no text, just an attached image."
+    ],
+    "3276:text": [
+      "Shita wasn't shocked because it was only an image. It was the sender's name that surprised her."
+    ],
+    "3277:text": [
+      "Because both the account name and the ID matched"
+    ],
+    "3278:text": [
+      "the ‘fan’ Tamai had been posing as."
+    ],
+    "3280:text": [
+      "If I remember right, you can't get the same Poetter account ID someone else is currently using."
+    ],
+    "3281:text": [
+      "Even if they delete their account, I'm pretty sure you can't reuse that ID until a month has passed."
+    ],
+    "3283:text": [
+      "In that case, it couldn't possibly be Tamai herself."
+    ],
+    "3284:text": [
+      "Shita had killed Tamai and sunk her in the lake more than two weeks earlier."
+    ],
+    "3285:text": [
+      "She'd even taken Tamai's phone, kept it switched off, and hidden it in the corner of her room all this time."
+    ],
+    "3287:text": [
+      "—‘It must just look similar.’"
+    ],
+    "3288:text": [
+      "That's what Shita decided to believe."
+    ],
+    "3290:text": [
+      "She didn't remember the whole ID from beginning to end."
+    ],
+    "3291:text": [
+      "If even one letter or number in that long string was different, it would be something else entirely."
+    ],
+    "3293:text": [
+      "But she couldn't shake that strange sense of dread as she opened the image."
+    ],
+    "3295:text": [
+      "Naoko Shita"
+    ],
+    "3296:text": [
+      "‘Eek...!’"
+    ],
+    "3298:text": [
+      "She couldn't help letting out a small scream."
+    ],
+    "3317:text": [
+      "The image showed an ordinary landscape."
+    ],
+    "3318:text": [
+      "It wouldn't mean anything special to anyone but Shita—",
+      "it was a picture of the lake at night."
+    ],
+    "3319:text": [
+      "That's right, the lake where she'd sunk Tamai."
+    ],
+    "3321:text": [
+      "Someone with an ID like Tamai's alt account had sent her a view of the lake where she'd killed Tamai."
+    ],
+    "3322:text": [
+      "To Shita, it was nothing less than an accusation of murder."
+    ],
+    "3324:text": [
+      "—‘I checked that night. Did someone see me anyway?’"
+    ],
+    "3325:text": [
+      "—‘Or is someone who knows Tamai trying to trick me into giving myself away?’"
+    ],
+    "3326:text": [
+      "—‘Or... no, it couldn't be Tamai's ghost—’"
+    ],
+    "3328:text": [
+      "One awful thought after another swelled up until she felt her head would burst."
+    ],
+    "3330:text": [
+      "Hey, what would you do if that happened?"
+    ],
+    "3331:text": [
+      ", what would you do in Shita's shoes?"
+    ],
+    "3333:text": [
+      "It's a tough one, isn't it?"
+    ],
+    "3334:text": [
+      "If you make the wrong move, you might give yourself away."
+    ],
+    "3335:text": [
+      "But ignoring it would make you nervous too..."
+    ],
+    "3337:text": [
+      "But it seems Shita decided to leave it",
+      "alone."
+    ],
+    "3338:text": [
+      "Or maybe she just didn't know what to do."
+    ],
+    "3339:text": [
+      "Anyway, she decided to ignore the poet from that ID without replying."
+    ],
+    "3341:text": [
+      "But—whoever was on the other end wouldn't leave her alone."
+    ],
+    "3359:text": [
+      "Naoko Shita"
+    ],
+    "3360:text": [
+      "‘...?!’"
+    ],
+    "3362:text": [
+      "Woken by notifications in the middle of the night, Shita's sleepy eyes flew wide open in shock."
+    ],
+    "3363:text": [
+      "The ID and account name were the same. Again, the poets had nothing but images attached."
+    ],
+    "3364:text": [
+      "Two of them had arrived."
+    ],
+    "3366:text": [
+      "She opened the images with trembling hands—"
+    ],
+    "3373:text": [
+      "—Both were ordinary photographs",
+      "of roads."
+    ],
+    "3374:text": [
+      "One was a photo of a crosswalk taken three hours earlier."
+    ],
+    "3375:text": [
+      "The other was a photo of the road beside a public phone,",
+      "taken an hour earlier."
+    ],
+    "3377:text": [
+      "Somehow, Shita actually felt",
+      "relieved."
+    ],
+    "3378:text": [
+      "The streets looked familiar to her, but they had nothing to do with her crime."
+    ],
+    "3389:text": [
+      "But when she realized they were on the route from the lake to her house, the fear came flooding back."
+    ],
+    "3391:text": [
+      "If you looked at it a certain way, it was as if Tamai had climbed out of the lake and was slowly following the roads toward Shita, wasn't it?"
+    ],
+    "3393:text": [
+      "Shita pulled the covers over her head and decided to forget what she'd seen."
+    ],
+    "3394:text": [
+      "‘It's okay. She won't come here. Even if she does, Mom and Dad are home tonight, so it's okay,’ she repeated to herself over and over."
+    ],
+    "3398:text": [
+      "And then—...morning came without anything happening."
+    ],
+    "3400:text": [
+      "Shita hadn't slept much, but she was relieved her fears had been groundless, and she sprang out of bed."
+    ],
+    "3401:text": [
+      "She got ready as usual and headed to school."
+    ],
+    "3419:text": [
+      "—Another notification sounded."
+    ],
+    "3420:text": [
+      "She opened it. This time, the attachment was a photo of the school taken two hours earlier."
+    ],
+    "3422:text": [
+      "If she followed last night's imagined scenario, it meant Tamai had passed right by Shita's house and gone to the school."
+    ],
+    "3424:text": [
+      "If anything, that made Shita feel even safer."
+    ],
+    "3426:text": [
+      "There'd be plenty of students at school."
+    ],
+    "3427:text": [
+      "Teachers would be there too."
+    ],
+    "3428:text": [
+      "As long as she wasn't alone, she'd be safe,",
+      "no matter what."
+    ],
+    "3430:text": [
+      "In fact, Shita's conclusion was that this surely wasn't the sort of supernatural phenomenon she'd been afraid of."
+    ],
+    "3432:text": [
+      "If Tamai were doing this, she could've scared Shita a lot more, right?"
+    ],
+    "3433:text": [
+      "Sending pictures in the middle of the night, only to pass right by her house and go to school? That's pretty sloppy for a haunting."
+    ],
+    "3435:text": [
+      "Even if it was a trap set by someone trying to expose Shita's crime, they weren't doing a very good job."
+    ],
+    "3436:text": [
+      "The first picture of the lake had shocked her because it was the crime scene, but the pictures kept moving farther and farther away from it."
+    ],
+    "3437:text": [
+      "If they were trying to trick her into giving herself away, they'd completely failed."
+    ],
+    "3439:text": [
+      "So Shita headed to school feeling even more clearheaded than the day before."
+    ],
+    "3442:text": [
+      "Her morning classes passed without incident."
+    ],
+    "3444:text": [
+      "The only odd thing was that some students from one of the year groups were mopping the corridor, looking a little pissed off."
+    ],
+    "3445:text": [
+      "Apparently, the hallways were filthy when they got to school that",
+      "morning."
+    ],
+    "3446:text": [
+      "A rumor went around that an elephant with dirty feet had walked through. I wasn't sure whether to laugh at that one."
+    ],
+    "3448:text": [
+      "Then came lunch break."
+    ],
+    "3449:text": [
+      "For once, Shita was the one who approached her classmates."
+    ],
+    "3451:text": [
+      "Naoko Shita"
+    ],
+    "3452:text": [
+      "“Um... Would you like to have lunch"
+    ],
+    "3453:text": [
+      "with me?”"
+    ],
+    "3456:text": [
+      "The girls said yes without a second thought."
+    ],
+    "3457:text": [
+      "The Shita they all admired had come up and asked them herself, after all."
+    ],
+    "3459:text": [
+      "Of course, Shita had only asked because she didn't want to be alone at school."
+    ],
+    "3460:text": [
+      "She barely cared about those poets anymore, but she figured she'd take precautions just in case."
+    ],
+    "3462:text": [
+      "Besides, she'd found it was inconvenient being alone in all sorts of ways."
+    ],
+    "3463:text": [
+      "It seems she'd started wanting friends who'd ask teachers questions for her, run to the school shop, and let her copy their notes."
+    ],
+    "3464:text": [
+      "...Well, I don't know whether you could call them friends by normal standards."
+    ],
+    "3466:text": [
+      "Anyway, Shita managed to find three girls to hang out with."
+    ],
+    "3467:text": [
+      "It was a nice day, so they decided to make the most of it and head out to the courtyard",
+      "together."
+    ],
+    "3472:text": [
+      "I think it was around when they were passing the gym."
+    ],
+    "3473:text": [
+      "Shita suddenly felt thirsty."
+    ],
+    "3475:text": [
+      "Luckily, there was a drinking fountain",
+      "right nearby."
+    ],
+    "3476:text": [
+      "Without even pausing to tell the girls with her, Shita drifted over, turned on the tap, and drank."
+    ],
+    "3478:text": [
+      "...Yep, that's right. The place I told you about at the start."
+    ],
+    "3479:text": [
+      "The drinking fountain beside the gym. The second tap from the right."
+    ],
+    "3481:text": [
+      "I told you that tap's been wired shut, but back then, anyone could still use it."
+    ],
+    "3483:text": [
+      "When she turned on the tap, crystal-clear water gushed out, sparkling in the light."
+    ],
+    "3484:text": [
+      "It hit the basin, scattering cool droplets everywhere."
+    ],
+    "3486:text": [
+      "That's an irresistible sight when you're thirsty, isn't it?"
+    ],
+    "3487:text": [
+      "Shita brought her lips to the tap and, thinking of nothing else,"
+    ],
+    "3489:text": [
+      "drank."
+    ],
+    "3490:text": [
+      "Maybe because she was so thirsty,",
+      "it tasted even better than usual."
+    ],
+    "3492:text": [
+      "It was just as refreshing as she'd expected. It washed the stickiness out of her mouth in an instant and left just a hint of sweetness."
+    ],
+    "3494:text": [
+      "You know how people say ‘This water tastes good’?"
+    ],
+    "3495:text": [
+      "Like clear mountain water or deep ocean water."
+    ],
+    "3496:text": [
+      "Or how people moving to Tokyo from the countryside are shocked by how bad city water tastes."
+    ],
+    "3498:text": [
+      "What Shita tasted then was the best water she'd ever had. You'd never believe it had come out of a school tap without any special filter."
+    ],
+    "3500:text": [
+      "Shita drank her fill, and only then did she come to her senses."
+    ],
+    "3501:text": [
+      "She realized she'd been ignoring the girls with her, so she wiped her mouth and turned around."
+    ],
+    "3504:text": [
+      "Naoko Shita"
+    ],
+    "3505:text": [
+      "“...I'm sorry. I suddenly got so thirsty"
+    ],
+    "3506:text": [
+      "...”"
+    ],
+    "3508:text": [
+      "The girls stared blankly at Shita as she lowered her eyes apologetically."
+    ],
+    "3509:text": [
+      "Then, a moment later, they all screamed",
+      "and ran off."
+    ],
+    "3510:text": [
+      "Shita had no idea what was going on. She just stood there."
+    ],
+    "3512:text": [
+      "Here's what the girls said afterward."
+    ],
+    "3514:text": [
+      "It was fine when Shita suddenly started drinking."
+    ],
+    "3515:text": [
+      "She'd suddenly gotten thirsty, so she couldn't help that."
+    ],
+    "3516:text": [
+      "The girls waited quietly for her to finish."
+    ],
+    "3518:text": [
+      "But while they waited, an unbearably horrible smell started spreading all around them."
+    ],
+    "3519:text": [
+      "Like food waste, blood, and sewage, all mixed together and left to rot",
+      "even more. That kind of overpowering stench."
+    ],
+    "3521:text": [
+      "They waited impatiently, wondering how much longer Shita would keep drinking. They just wanted to get out of there."
+    ],
+    "3523:text": [
+      "And when Shita finished drinking and turned around,",
+      "they realized she—no, the tap she'd put her lips to—was where the smell was coming from."
+    ],
+    "3525:text": [
+      "There was some thick, black gunk and white lumps as squishy as tofu stuck all over Shita's pretty mouth, down her neck, and onto her uniform jacket."
+    ],
+    "3526:text": [
+      "The tap she'd wrenched shut trailed a thin string of sticky liquid like coal tar. Apparently, it all gave off a foul, fishy stink beyond description."
+    ],
+    "3528:text": [
+      "One of the girls who ran off apparently dashed into a toilet stall and emptied her stomach."
+    ],
+    "3530:text": [
+      "But Shita had absolutely no idea why the girls had screamed."
+    ],
+    "3531:text": [
+      "As far as she knew, she'd just had a nice long drink of delicious, crystal-clear water."
+    ],
+    "3533:text": [
+      "She frowned at the three girls' screams and watched them run away."
+    ],
+    "3534:text": [
+      "Then—"
+    ],
+    "3540:text": [
+      "her phone chimed with another notification."
+    ],
+    "3541:text": [
+      "Shita immediately pulled out her phone to check."
+    ],
+    "3542:text": [
+      "Was it an email? Or Poetter?"
+    ],
+    "3543:text": [
+      "Maybe someone had reacted to her poet. That would be nice. That's what she was hoping."
+    ],
+    "3545:text": [
+      "Naoko Shita"
+    ],
+    "3546:text": [
+      "“...?”"
+    ],
+    "3550:text": [
+      "That same ID again."
+    ],
+    "3551:text": [
+      "She'd wanted to hear from someone else, not this person."
+    ],
+    "3552:text": [
+      "After everything that had happened, Shita was suddenly in a foul mood. She thought about deleting it without even looking."
+    ],
+    "3554:text": [
+      "But her hand stopped just before she did."
+    ],
+    "3555:text": [
+      "Every message so far had been nothing but a picture, with no text. This time, she could see words."
+    ],
+    "3556:text": [
+      "She cautiously checked, and—"
+    ],
+    "3561:text": [
+      "At last, we're one."
+    ],
+    "3563:text": [
+      "That was all it said. Just that one lonely sentence."
+    ],
+    "3564:text": [
+      "Shita tilted her head, wondering what it meant."
+    ],
+    "3565:text": [
+      "Then, with a casual motion—her fingers moving almost automatically, out of habit—she opened the picture."
+    ],
+    "3579:text": [
+      "Naoko Shita"
+    ],
+    "3580:text": [
+      "“—!”"
+    ],
+    "3581:text": [
+      "It looked like a photo taken with a flash to force an image out of a place where hardly any—no, absolutely no—light got in."
+    ],
+    "3583:text": [
+      "It seemed to be underwater."
+    ],
+    "3584:text": [
+      "But it didn't seem to be a very",
+      "big space."
+    ],
+    "3585:text": [
+      "Both the floor and ceiling were in view, and both were curved."
+    ],
+    "3587:text": [
+      "The walls followed the same curve."
+    ],
+    "3588:text": [
+      "It looked like the inside of a tank full of water."
+    ],
+    "3589:text": [
+      "And something stretched out from the foreground toward the middle of the picture."
+    ],
+    "3591:text": [
+      "It was hard to make out, like a black shadow. But when she looked closely, there were five protrusions",
+      "at the tip."
+    ],
+    "3592:text": [
+      "It looked just like a work glove that had been blown up."
+    ],
+    "3594:text": [
+      "And as soon as she realized that, Shita let out a long, long scream that rang through the whole",
+      "school."
+    ],
+    "3606:text": [
+      "She'd understood it all instinctively."
+    ],
+    "3607:text": [
+      "What that shadow was. What sort of place it was."
+    ],
+    "3608:text": [
+      "What had set its sights on her, what she'd just put in her mouth, and what state she was in now."
+    ],
+    "3610:text": [
+      "The shadow was a human arm."
+    ],
+    "3611:text": [
+      "An arm from a drowned body, waterlogged, rotting, and swollen up huge."
+    ],
+    "3613:text": [
+      "And the place was the water-supply building."
+    ],
+    "3614:text": [
+      "It was inside the huge water tank on the school's roof,",
+      "the kind you hardly see these days."
+    ],
+    "3616:text": [
+      "That's right. Tamai had climbed out of the lake and forced her bloated body to keep moving all through the night."
+    ],
+    "3617:text": [
+      "From one road to the next, all the way to school."
+    ],
+    "3618:text": [
+      "Then through the corridors, and into the water-supply building's tank."
+    ],
+    "3620:text": [
+      "No wonder everyone was talking about the state of the corridor."
+    ],
+    "3621:text": [
+      "A mass of muddy, rotten flesh had squelched its way along it."
+    ],
+    "3623:text": [
+      "Why did Tamai do something like that?"
+    ],
+    "3624:text": [
+      "The message she sent tells you."
+    ],
+    "3626:text": [
+      "“At last, we're one.”"
+    ],
+    "3628:text": [
+      "That's what she said."
+    ],
+    "3630:text": [
+      "From the water-supply building, through that tap, and into Shita's mouth."
+    ],
+    "3631:text": [
+      "It was a heartfelt poet about finally reaching her destination after that long journey."
+    ],
+    "3633:text": [
+      "Tamai had admired Shita for her beauty and the air about her, things Tamai didn't have."
+    ],
+    "3634:text": [
+      "She'd poured herself into Shita, using her as a new vessel of flesh."
+    ],
+    "3645:text": [
+      "What happened after that?"
+    ],
+    "3646:text": [
+      "First, they traced the water back from the tap to the water-supply building. Finding Tamai's body threw the whole school into a panic."
+    ],
+    "3647:text": [
+      "But as the investigation went on, they found a down-to-earth explanation, and things settled down after a while."
+    ],
+    "3649:text": [
+      "After taking pictures of birds in town, Tamai had been attacked and killed by some stranger."
+    ],
+    "3650:text": [
+      "Her body had been sunk in the lake for a while. Then, two weeks later, for some reason the killer suddenly pulled it out and carried it to the school's water-supply building."
+    ],
+    "3652:text": [
+      "The marks in the corridor were left when the killer carried the body through... That was their explanation."
+    ],
+    "3654:text": [
+      "Apparently, some students insisted those marks in the corridor were definitely from something else. But they'd cleaned it all up so quickly, you know."
+    ],
+    "3655:text": [
+      "There wasn't any evidence."
+    ],
+    "3657:text": [
+      "And of course there was a filter between the water tank and the tap, but apparently it",
+      "was broken."
+    ],
+    "3658:text": [
+      "Are filters really like that, though?"
+    ],
+    "3660:text": [
+      "One happens to break, and rotten flesh from the water tank comes straight out of the tap? That's way too scary."
+    ],
+    "3661:text": [
+      "Then again, maybe it was a kind little lie the adults told to keep everything quiet."
+    ],
+    "3663:text": [
+      "Come to think of it, the first half of the police's theory about Tamai's murder",
+      "shows that Shita's little scheme was still working, doesn't it?"
+    ],
+    "3664:text": [
+      "That's why they still haven't caught the killer."
+    ],
+    "3665:text": [
+      "Well, of course they haven't. There's no such person."
+    ],
+    "3667:text": [
+      "Apparently the police suspected Shita too, but there was too much she couldn't have done alone, and eventually they seem to have cleared her."
+    ],
+    "3669:text": [
+      "As for what happened to Shita..."
+    ],
+    "3670:text": [
+      "Well, she'd escaped the law, and the worst of the danger was over."
+    ],
+    "3671:text": [
+      "If we're only talking about avoiding suspicion, you could say it was a good thing",
+      "something supernatural had happened."
+    ],
+    "3673:text": [
+      "But after that, something strange happened to Shita."
+    ],
+    "3675:text": [
+      "What was it? Her looks started changing."
+    ],
+    "3677:text": [
+      "First, her skin got bad. Her once pearl-smooth cheeks broke out in bumps."
+    ],
+    "3678:text": [
+      "Then she kept putting on weight. That slim, graceful figure became, well...",
+      "more like a sumo wrestler's! ‘Dosukoi!’"
+    ],
+    "3680:text": [
+      "Her eyesight got worse, too. Contacts wouldn't work for her, so she started wearing glasses",
+      "as thick as bottle bottoms..."
+    ],
+    "3682:text": [
+      "Hmm? Oh, yeah, you're right."
+    ],
+    "3683:text": [
+      "Those are all Tamai's features."
+    ],
+    "3684:text": [
+      "That's less like becoming one and more like...",
+      "taking over... Yeah..."
+    ],
+    "3686:text": [
+      "It might've been better if they'd at least averaged out."
+    ],
+    "3688:text": [
+      "Of course, Shita had to give up on her show-business career."
+    ],
+    "3689:text": [
+      "Apparently she kept clinging to it for a while. But nobody was interested in poets that let her nasty personality show through, or photos where the raw material was deteriorating so badly."
+    ],
+    "3691:text": [
+      "Then, one day, she suddenly deleted her account."
+    ],
+    "3693:text": [
+      "I really, truly don't know what happened to her after that."
+    ],
+    "3694:text": [
+      "Shita's got such a lovely personality. Maybe she's still out there, tough as ever."
+    ],
+    "3695:text": [
+      "Or maybe losing her beauty drove her to despair, and she killed herself or something."
+    ],
+    "3696:text": [
+      "I guess either one sounds possible."
+    ],
+    "3698:text": [
+      "If it's the first one, then by becoming one with Shita, Tamai gained the force of will she'd never had before."
+    ],
+    "3699:text": [
+      "If it's the second one, then Tamai got the ultimate revenge on Shita."
+    ],
+    "3701:text": [
+      "Which one do you think Tamai really wanted?"
+    ],
+    "3702:text": [
+      "Well, there's no point guessing about it all."
+    ],
+    "3757:text": [
+      "Who's going to tell us a story next?”"
+    ],
+    "3767:text": [
+      "Hmm, the seventh person still hasn't come."
+    ],
+    "3768:text": [
+      "What are you going to do, ",
+      "...?”"
+    ],
+    "3778:text": [
+      "Hmm, so there's only one more person"
+    ],
+    "3779:text": [
+      "left to speak."
+    ],
+    "3780:text": [
+      "That guy's next, huh?"
+    ],
+    "3781:text": [
+      "Kazama, was it?"
+    ],
+    "3782:text": [
+      "He seems kind of flaky, but I wonder what sort of scary story"
+    ],
+    "3783:text": [
+      "he'll tell us. I can't wait!”"
+    ],
+    "3794:text": [
+      "Oh, we're down to the last storyteller already."
+    ],
+    "3795:text": [
+      "Shindo's next, right?"
+    ],
+    "3796:text": [
+      "He looks a little scary, but that kind of"
+    ],
+    "3797:text": [
+      "makes him cool!"
+    ],
+    "3798:text": [
+      "I can't wait to hear what sort of scary story he'll tell.”"
+    ],
+    "3809:text": [
+      "Oh, it's all over after the next person!"
+    ],
+    "3810:text": [
+      "The last one's... Arai, I think his name was,"
+    ],
+    "3811:text": [
+      "right?"
+    ],
+    "3812:text": [
+      "He seems kind of gloomy, but I bet someone like him"
+    ],
+    "3813:text": [
+      "would tell really good scary stories.”"
+    ],
+    "3824:text": [
+      "Well, there's only one more person left... Hosoda,"
+    ],
+    "3825:text": [
+      "was it?"
+    ],
+    "3826:text": [
+      "Maybe I'm imagining it, but ever since we met,"
+    ],
+    "3827:text": [
+      "I feel like he's been staring"
+    ],
+    "3828:text": [
+      "this way the whole time...”"
+    ],
+    "3839:text": [
+      "Whoops, we're already down"
+    ],
+    "3840:text": [
+      "to the last person!"
+    ],
+    "3841:text": [
+      "The last one's... Iwashita, right?"
+    ],
+    "3842:text": [
+      "She seems like a mysterious beauty!"
+    ],
+    "3843:text": [
+      "You can't help looking up to someone like that.”"
+    ]
+  }
+}

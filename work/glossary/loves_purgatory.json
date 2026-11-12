@@ -1,0 +1,9 @@
+{
+  "language": "en",
+  "scope": "Akemi Iwashita's dating-game story in game.ks.",
+  "entries": [
+    {"id": "loves_purgatory", "ja": "恋獄ゲーム", "en": "Love's Purgatory", "kind": "route and ending title", "note": "Project title. The Japanese coinage echoes the word for purgatory and substitutes the character for romantic love.", "sources": ["Steam scenario game.ks and ED113", "https://booth.pm/ja/items/1334042", "https://w.atwiki.jp/allmiccore/pages/65.html"]},
+    {"id": "catch_heart_sensation", "ja": "Catch! ～気持ちセンセーション～", "en": "Catch! Heart Sensation", "kind": "in-story game title", "note": "Preserve Catch! from the original logo and use Heart Sensation for the subtitle.", "sources": ["Steam scenario game.ks and Catch! title animation", "https://w.atwiki.jp/allmiccore/pages/65.html"]},
+    {"id": "drama_club", "ja": "演劇部", "en": "Drama Club", "kind": "organization", "sources": ["Steam scenario game.ks", "https://w.atwiki.jp/allmiccore/pages/65.html"]}
+  ]
+}

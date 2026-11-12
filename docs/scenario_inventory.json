@@ -1,0 +1,249 @@
+{
+  "steam_build": "10331351",
+  "files": {
+    "data/scenario/arai.ks": {
+      "source_sha256": "71873d2b0e9a1b3b95d1e1153c6afe02a23cbabbf1d26592ba20ee8a84c8b567",
+      "fields": 1639,
+      "english": 1639,
+      "other_japanese_outside_comments": 168
+    },
+    "data/scenario/cg.ks": {
+      "source_sha256": "f3695304249fb62a27a0b3968010d3fc56df863a5ce4ec7728057975b451f65b",
+      "fields": 0,
+      "english": 0,
+      "embedded_code_or_comment": 1
+    },
+    "data/scenario/close.ks": {
+      "source_sha256": "0def4faaa5bf679382ea6d3022849dbe1e1dfa8ae3d00c1bb0f5ad15adf1ba1a",
+      "fields": 0,
+      "english": 0
+    },
+    "data/scenario/first.ks": {
+      "source_sha256": "9f5024597cc834d870fdb1bea13ffee70c117ecfc997d029c7d1dfa521d5b005",
+      "fields": 0,
+      "english": 0,
+      "other_japanese_outside_comments": 467
+    },
+    "data/scenario/config.ks": {
+      "source_sha256": "b3f6fa506e011ae8781168a6ce0fe3407b8f068d23ee037a111256bc21c31400",
+      "fields": 1,
+      "english": 1,
+      "other_japanese_outside_comments": 1,
+      "embedded_code_or_comment": 1
+    },
+    "data/scenario/fukuzawa.ks": {
+      "source_sha256": "b4f18161215136fe2307f12231519e7a99497773ce8e5524f6a19c10369033e0",
+      "fields": 1933,
+      "english": 1933,
+      "other_japanese_outside_comments": 169
+    },
+    "data/scenario/game.ks": {
+      "source_sha256": "5c3782760166a2de28b80448755a36309eaf7b05447e37bd7f55440cfb5940d0",
+      "fields": 1815,
+      "english": 1815,
+      "other_japanese_outside_comments": 287
+    },
+    "data/scenario/hosoda.ks": {
+      "source_sha256": "d2b4254da429970f16d03773cd9bb843fbfa6b73d2ba398311e0ceeca3e9988b",
+      "fields": 3472,
+      "english": 0,
+      "other_japanese_outside_comments": 356
+    },
+    "data/scenario/jiko.ks": {
+      "source_sha256": "99392731baa95ccf6ffe352fe38daae02256309030fbc7cab39c7846b05730b0",
+      "fields": 414,
+      "english": 414,
+      "other_japanese_outside_comments": 46
+    },
+    "data/scenario/iwashita.ks": {
+      "source_sha256": "5b6f4a8e4d164cc12f764164be10800330e3788aa9f4b7c205eb7b7f7e98f1b6",
+      "fields": 1902,
+      "english": 1902,
+      "other_japanese_outside_comments": 208
+    },
+    "data/scenario/inoti.ks": {
+      "source_sha256": "566022ce315632f2a45d90c5b9e5ea786929a6bb289ebf4bd443e193761c9a55",
+      "fields": 3264,
+      "english": 0,
+      "other_japanese_outside_comments": 430
+    },
+    "data/scenario/kataribe.ks": {
+      "source_sha256": "9bb046ec5b26eab02e20688ec9975f2e2cb83e45117cfedeae6af6db922eca9f",
+      "fields": 0,
+      "english": 0,
+      "other_japanese_outside_comments": 52
+    },
+    "data/scenario/jinniku.ks": {
+      "source_sha256": "936f01070c9c2f110ca070c63b4fd041f26ac866e35d040c6d467f953d565311",
+      "fields": 2702,
+      "english": 2702,
+      "other_japanese_outside_comments": 187
+    },
+    "data/scenario/make.ks": {
+      "source_sha256": "b659681e0a2267ca526aa0c05195c8626f0296791e55aab96036ee808f680542",
+      "fields": 0,
+      "english": 0
+    },
+    "data/scenario/maisou.ks": {
+      "source_sha256": "5f62557e714b476874f96bb0a70728a8d31e7327aa30a7dbcccf4fdecad18e9e",
+      "fields": 526,
+      "english": 526,
+      "other_japanese_outside_comments": 36
+    },
+    "data/scenario/operation.ks": {
+      "source_sha256": "abaad094f9396a1401cae1b46d2359fb22abe8b20a27d86877447cd9e66b4810",
+      "fields": 0,
+      "english": 0
+    },
+    "data/scenario/op.ks": {
+      "source_sha256": "640771f014dc9cd5366fd0f31116f4fcb65b9787a70679a25aaf97db76c416d6",
+      "fields": 602,
+      "english": 602,
+      "other_japanese_outside_comments": 28
+    },
+    "data/scenario/kazama.ks": {
+      "source_sha256": "b61c20363f570f1d1597c84f190104735411fc6672a6fc9a01d48aaf1b5fe960",
+      "fields": 1654,
+      "english": 1654,
+      "other_japanese_outside_comments": 556
+    },
+    "data/scenario/replay.ks": {
+      "source_sha256": "5f17d7a737f61986afd304cae4ee333d008fc672dfd5c128b545131703b90db0",
+      "fields": 0,
+      "english": 0,
+      "embedded_code_or_comment": 1
+    },
+    "data/scenario/jyuku.ks": {
+      "source_sha256": "3bdd87178c25156dca599da8cbe5aa110939b7fd961b96b3741ace3fb259e637",
+      "fields": 5779,
+      "english": 0,
+      "other_japanese_outside_comments": 508
+    },
+    "data/scenario/title.ks": {
+      "source_sha256": "dfdc978d074f1393e159768281e1984ae6c0daadb888ffdf35c813eed35fe975",
+      "fields": 0,
+      "english": 0,
+      "other_japanese_outside_comments": 6
+    },
+    "data/scenario/site.ks": {
+      "source_sha256": "cee111c93c8ddb367523b68aa00b452ea3eadd02d43d8861195c3c33d366bec0",
+      "fields": 1453,
+      "english": 0,
+      "other_japanese_outside_comments": 64
+    },
+    "data/scenario/tyrano.ks": {
+      "source_sha256": "ee6c13f1198f624e81142719062799fb6aa0f91c2207a2cf24f6fe4eeaaf4800",
+      "fields": 0,
+      "english": 0
+    },
+    "data/scenario/sindo.ks": {
+      "source_sha256": "3c862279d36b3333e322d9baf549008b3c8b39c216536e2155f12f847583fa6e",
+      "fields": 1785,
+      "english": 1785,
+      "other_japanese_outside_comments": 158
+    },
+    "data/scenario/syorei.ks": {
+      "source_sha256": "6f68e177818aec3a7490971117f7a6636b80e1a62f26c84681d1567fa947fce1",
+      "fields": 3358,
+      "english": 0,
+      "other_japanese_outside_comments": 293
+    },
+    "data/scenario/rpg/comment.ks": {
+      "source_sha256": "dfed440abe2fb8088e34fe5c6f5dd14f9c32a1a1f8a2e88342efd926caa51b53",
+      "fields": 31,
+      "english": 31,
+      "other_japanese_outside_comments": 16
+    },
+    "data/scenario/rpg/map.ks": {
+      "source_sha256": "a06a16b60402b2b0295d4011174dd2e277e6d8f482d9b1f4ecf916e1d0deec47",
+      "fields": 137,
+      "english": 137,
+      "other_japanese_outside_comments": 382
+    },
+    "data/scenario/rpg/batoru.ks": {
+      "source_sha256": "09bc828ddfb29eefecdcf1a879599cef87b1fb444c1148ec060a2816e6ed2e91",
+      "fields": 1091,
+      "english": 1091,
+      "other_japanese_outside_comments": 803
+    },
+    "data/scenario/rpg/ibento.ks": {
+      "source_sha256": "1a1880f8139aacb68c40bb13388a32b2bfe10b8258a5bd140bc63c1b7a51ee11",
+      "fields": 173,
+      "english": 173,
+      "other_japanese_outside_comments": 141
+    },
+    "data/scenario/rpg/rpg00.ks": {
+      "source_sha256": "679411d0757b3fdb461f831942c60f643829ad20f2d93bd9f028eb5efc485693",
+      "fields": 163,
+      "english": 163,
+      "other_japanese_outside_comments": 120
+    },
+    "data/scenario/rpg/rpg_flg.ks": {
+      "source_sha256": "de73fc135a7d6d5224243b647c9a7c314a93f216aac6a22373f004a931e13028",
+      "fields": 0,
+      "english": 0
+    },
+    "data/scenario/rpg/rpg_edflg.ks": {
+      "source_sha256": "7a9b5748a4b1ce36c3547af23d0d78b9a6e5c7b50e6f70063e1faeaba7982dff",
+      "fields": 1,
+      "english": 0,
+      "other_japanese_outside_comments": 9
+    },
+    "data/scenario/rpg/rpg_op.ks": {
+      "source_sha256": "93db2aa56c2db30d59836359c69fa3878391a47b0ca15fd1c2b32ace662165a5",
+      "fields": 40,
+      "english": 40,
+      "other_japanese_outside_comments": 3
+    },
+    "data/scenario/rpg/rpg_settei.ks": {
+      "source_sha256": "5d6a6c0052ed396555a1b6f8eda1445b3fd380eb1af4835b712414339b2f879b",
+      "fields": 0,
+      "english": 0,
+      "other_japanese_outside_comments": 101
+    },
+    "data/scenario/rpg/rpg_hukuzawa.ks": {
+      "source_sha256": "613a897ae726f271b6d220cac395e30c869f8c2ef3cd8d1297dc377ca0e9bebe",
+      "fields": 378,
+      "english": 378,
+      "other_japanese_outside_comments": 228
+    },
+    "data/scenario/settei/EDflg.ks": {
+      "source_sha256": "9fcb3c577f7b08bb5245d3293b271188b7820b64915160cb82594e913ace0d9f",
+      "fields": 2,
+      "english": 0,
+      "other_japanese_outside_comments": 20
+    },
+    "data/scenario/settei/teisu.ks": {
+      "source_sha256": "14628031ce7727ab5fbeb88021a57d69a466292db01d7d4c06c3bbffba2a4187",
+      "fields": 147,
+      "english": 84,
+      "embedded_code_or_comment": 362,
+      "other_japanese_outside_comments": 2
+    },
+    "data/scenario/settei/macro.ks": {
+      "source_sha256": "34c8def442badd24cc0cb6642399236aec3138700d3a3c9d57b10770f1e5230e",
+      "fields": 5,
+      "english": 5,
+      "other_japanese_outside_comments": 30,
+      "embedded_code_or_comment": 9
+    },
+    "data/scenario/rpg/stage.ks": {
+      "source_sha256": "6b3667dc04da6fc5c60cfc22b577f67b81b896416f826d232884751be5f4f86f",
+      "fields": 1445,
+      "english": 1445,
+      "other_japanese_outside_comments": 1293
+    },
+    "data/scenario/ED.ks": {
+      "source_sha256": "da520371f0da43a726720d43fb8973c2150022a6425e02b1a4992d661babdf91",
+      "fields": 434,
+      "english": 84,
+      "other_japanese_outside_comments": 11
+    },
+    "data/scenario/settei/staff.ks": {
+      "source_sha256": "2c48f133f0b9d31f0843d294b5a14efcea2e901cc33ff1da8bd37c27fa2c50d6",
+      "fields": 0,
+      "english": 0,
+      "other_japanese_outside_comments": 4
+    }
+  }
+}

@@ -1,0 +1,5374 @@
+{
+  "scenario": "data/scenario/sindo.ks",
+  "source_sha256": "3c862279d36b3333e322d9baf549008b3c8b39c216536e2155f12f847583fa6e",
+  "rows": {
+    "91:text": [
+      "Makoto Shindo"
+    ],
+    "92:text": [
+      "“So I'm going first...”"
+    ],
+    "94:text": [
+      "Makoto Shindo"
+    ],
+    "95:text": [
+      "“My turn at last..."
+    ],
+    "96:text": [
+      "All right. Leave the last story to me.”"
+    ],
+    "98:text": [
+      "Makoto Shindo"
+    ],
+    "99:text": [
+      "“I guess I'm up next.”"
+    ],
+    "108:text": [
+      "Makoto Shindo"
+    ],
+    "109:text": [
+      "“All right, let me introduce myself again."
+    ],
+    "110:text": [
+      "I'm Makoto Shindo, a third-year. Good to meet you all."
+    ],
+    "111:text": [
+      "I've got a scary story for you"
+    ],
+    "112:text": [
+      "about playing cards."
+    ],
+    "113:text": [
+      "Cards. You've all played with them before, right?"
+    ],
+    "114:text": [
+      "So, ",
+      ", do you like playing cards?”"
+    ],
+    "127:glink.text.1": [
+      "1. I like them"
+    ],
+    "129:glink.text.1": [
+      "1. I like them"
+    ],
+    "133:glink.text.1": [
+      "2. I don't like them"
+    ],
+    "135:glink.text.1": [
+      "2. I don't like them"
+    ],
+    "139:glink.text.1": [
+      "3. No strong feelings"
+    ],
+    "141:glink.text.1": [
+      "3. No strong feelings"
+    ],
+    "152:text": [
+      "Makoto Shindo"
+    ],
+    "153:text": [
+      "“Yeah. I like playing cards too.”"
+    ],
+    "162:text": [
+      "Makoto Shindo"
+    ],
+    "163:text": [
+      "“You know, a deck of cards is a pretty clever design."
+    ],
+    "164:text": [
+      "You've only got fifty-two cards,"
+    ],
+    "165:text": [
+      "and look how many games you can play with them."
+    ],
+    "167:text": [
+      "You can play alone, or you can get"
+    ],
+    "168:text": [
+      "a whole crowd in on it."
+    ],
+    "169:text": [
+      "They hardly take up any space, and all you need"
+    ],
+    "170:text": [
+      "is the deck."
+    ],
+    "171:text": [
+      "That's a lot of fun for one little deck."
+    ],
+    "173:text": [
+      "Games have come a long way lately, but"
+    ],
+    "174:text": [
+      "if you ask me, nothing beats a deck of cards."
+    ],
+    "175:text": [
+      "Whoever came up with the idea was"
+    ],
+    "176:text": [
+      "a genius, don't you think?"
+    ],
+    "177:text": [
+      "Seriously. I've got a lot of respect for them."
+    ],
+    "179:text": [
+      "And then there's the fifty-third card."
+    ],
+    "180:text": [
+      "That's the one that makes all the difference. The Joker."
+    ],
+    "181:text": [
+      "That card makes the whole deck"
+    ],
+    "182:text": [
+      "a lot more interesting."
+    ],
+    "183:text": [
+      "Add a Joker and suddenly you've got"
+    ],
+    "184:text": [
+      "a whole lot more ways to play."
+    ],
+    "185:text": [
+      "It's practically magic, that card."
+    ],
+    "187:text": [
+      "Apparently, in the West people think"
+    ],
+    "188:text": [
+      "the Joker's a bad omen. I can kind of"
+    ],
+    "189:text": [
+      "see where they're coming from."
+    ],
+    "191:text": [
+      "Sometimes the Joker's the card you count on,"
+    ],
+    "192:text": [
+      "and sometimes it's the last card you want."
+    ],
+    "193:text": [
+      "Basically, it's a wild card. You can use it"
+    ],
+    "194:text": [
+      "any way you like."
+    ],
+    "195:text": [
+      "People have an instinctive distrust"
+    ],
+    "196:text": [
+      "of things they can't get a read on."
+    ],
+    "198:text": [
+      "...What? You're wondering what playing cards"
+    ],
+    "199:text": [
+      "have to do with a story about the school?"
+    ],
+    "200:text": [
+      "Easy. I'm just about to"
+    ],
+    "201:text": [
+      "tell you.”"
+    ],
+    "211:text": [
+      "Makoto Shindo"
+    ],
+    "212:text": [
+      "“Come on, that's no way to answer."
+    ],
+    "213:text": [
+      "I'm taking the time to tell you a story here."
+    ],
+    "214:text": [
+      "Can't you at least say ‘I like them’,"
+    ],
+    "215:text": [
+      "just to be polite?"
+    ],
+    "216:text": [
+      "I'll ask you one more time."
+    ],
+    "217:text": [
+      "So, ",
+      ", do you like playing cards?”"
+    ],
+    "227:glink.text.1": [
+      "1. I like them"
+    ],
+    "229:glink.text.1": [
+      "1. I like them"
+    ],
+    "233:glink.text.1": [
+      "2. I don't like them"
+    ],
+    "235:glink.text.1": [
+      "2. I don't like them"
+    ],
+    "246:text": [
+      "Makoto Shindo"
+    ],
+    "247:text": [
+      "“You're a boring guy, you know that?"
+    ],
+    "248:text": [
+      "I was going to tell you a story about playing cards,"
+    ],
+    "249:text": [
+      "but forget it.”"
+    ],
+    "251:text": [
+      "I panicked."
+    ],
+    "254:text": [
+      "“I'm sorry, Shindo. Please"
+    ],
+    "255:text": [
+      "go on with your story.”"
+    ],
+    "257:text": [
+      "Shindo shot me a hard look."
+    ],
+    "259:text": [
+      "Makoto Shindo"
+    ],
+    "260:text": [
+      "“...I might be willing to change my mind."
+    ],
+    "261:text": [
+      "Just telling the story straight would be pretty dull, though."
+    ],
+    "262:text": [
+      "How about we use this"
+    ],
+    "263:text": [
+      "to decide what story I tell?”"
+    ],
+    "272:text": [
+      "As he spoke, he pulled a deck of playing cards from his pocket."
+    ],
+    "273:text": [
+      "Did he like cards that much, to carry a deck around with him?"
+    ],
+    "274:text": [
+      "Shindo pulled three cards from the deck."
+    ],
+    "276:text": [
+      "Makoto Shindo"
+    ],
+    "277:text": [
+      "“I've got three cards here."
+    ],
+    "278:text": [
+      "An Ace, a King, and a Joker.”"
+    ],
+    "280:text": [
+      "As he spoke, Shindo laid the three cards out face down."
+    ],
+    "282:text": [
+      "Makoto Shindo"
+    ],
+    "283:text": [
+      "“",
+      ", pick one of these cards."
+    ],
+    "284:text": [
+      "Draw the Ace and I'll tell you the story about playing cards"
+    ],
+    "285:text": [
+      "like I planned."
+    ],
+    "286:text": [
+      "Draw the King and I'll tell you a different story."
+    ],
+    "287:text": [
+      "And if you draw the Joker...”"
+    ],
+    "289:text": [
+      "For a second, I thought I saw Shindo's eyes gleam."
+    ],
+    "291:text": [
+      "Makoto Shindo"
+    ],
+    "292:text": [
+      "“I'll tell you a seriously messed-up story"
+    ],
+    "293:text": [
+      "that's been passed down at your school."
+    ],
+    "294:text": [
+      "So, which one do you want?”"
+    ],
+    "297:text": [
+      "“Huh? How do you know a story from"
+    ],
+    "298:text": [
+      "my school?”"
+    ],
+    "300:text": [
+      "Makoto Shindo"
+    ],
+    "301:text": [
+      "“If you draw the Joker,"
+    ],
+    "302:text": [
+      "you get to find out."
+    ],
+    "303:text": [
+      "Go on, pick a card.”"
+    ],
+    "366:text": [
+      "Makoto Shindo"
+    ],
+    "367:text": [
+      "“Huh, the Ace."
+    ],
+    "368:text": [
+      "You've got some luck, I'll give you that."
+    ],
+    "369:text": [
+      "All right, then. I'll tell you the story"
+    ],
+    "370:text": [
+      "about the playing cards.”"
+    ],
+    "391:text": [
+      "Makoto Shindo"
+    ],
+    "392:text": [
+      "“Oh, the King."
+    ],
+    "393:text": [
+      "All right, a different story it is."
+    ],
+    "394:text": [
+      "...Do you like pushing back on what people say,"
+    ],
+    "395:text": [
+      "like you did a minute ago?”"
+    ],
+    "410:glink.text.1": [
+      "2. I do"
+    ],
+    "412:glink.text.1": [
+      "2. I do"
+    ],
+    "416:glink.text.1": [
+      "2. Not really"
+    ],
+    "418:glink.text.1": [
+      "2. Not really"
+    ],
+    "431:text": [
+      "Makoto Shindo"
+    ],
+    "432:text": [
+      "“Hmm, I see. You're better off that way."
+    ],
+    "441:text": [
+      "Makoto Shindo"
+    ],
+    "442:text": [
+      "“I see. You're kind of a jerk, aren't you?"
+    ],
+    "450:text": [
+      "You'd better watch yourself, though."
+    ],
+    "451:text": [
+      "If you're gonna defy someone, you've gotta"
+    ],
+    "452:text": [
+      "be ready for what comes next."
+    ],
+    "453:text": [
+      "Someday you might pay for it,"
+    ],
+    "454:text": [
+      "one way or another."
+    ],
+    "456:text": [
+      "Does it sound funny coming from me?"
+    ],
+    "457:text": [
+      "...Yeah, I guess it does."
+    ],
+    "458:text": [
+      "I've got my reasons, though."
+    ],
+    "470:text": [
+      "There was this guy in my class, Ishikawa."
+    ],
+    "471:text": [
+      "He was a contrarian, too."
+    ],
+    "472:text": [
+      "It didn't matter if it was a friend, a parent, or a teacher. He never"
+    ],
+    "473:text": [
+      "took what anyone said without pushing back."
+    ],
+    "474:text": [
+      "Normally, a guy like that would get"
+    ],
+    "475:text": [
+      "shut out, right?"
+    ],
+    "479:text": [
+      "Ishikawa got away with it, though."
+    ],
+    "480:text": [
+      "That's because he had"
+    ],
+    "481:text": [
+      "a secret."
+    ],
+    "482:text": [
+      "What do you think it was?”"
+    ],
+    "492:glink.text.1": [
+      "1. A secret he couldn't tell anyone?"
+    ],
+    "494:glink.text.1": [
+      "1. A secret he couldn't tell anyone?"
+    ],
+    "498:glink.text.1": [
+      "2. I can't even guess"
+    ],
+    "500:glink.text.1": [
+      "2. I can't even guess"
+    ],
+    "511:text": [
+      "Makoto Shindo"
+    ],
+    "512:text": [
+      "“You... Let me ask you this. What kind of secret can you tell people...?"
+    ],
+    "513:text": [
+      "Whatever.”"
+    ],
+    "515:text": [
+      "“Truth is, Ishikawa knew when people were going to die."
+    ],
+    "516:text": [
+      "Nobody wants to die, right?"
+    ],
+    "517:text": [
+      "People figured if they got on his good side, he'd warn them"
+    ],
+    "518:text": [
+      "when they were in danger."
+    ],
+    "519:text": [
+      "If you know in advance, you can stay"
+    ],
+    "520:text": [
+      "out of danger."
+    ],
+    "522:text": [
+      "I don't think you can blame them"
+    ],
+    "523:text": [
+      "for thinking that way."
+    ],
+    "524:text": [
+      "Ishikawa's the one who deserves"
+    ],
+    "525:text": [
+      "the blame."
+    ],
+    "526:text": [
+      "If he tells you he won't warn you, or that he'll lie to you,"
+    ],
+    "527:text": [
+      "you're gonna be scared, right?"
+    ],
+    "529:text": [
+      "He took advantage of their fears, threatening them like that so he could"
+    ],
+    "530:text": [
+      "do whatever he wanted."
+    ],
+    "532:text": [
+      "Still, there was one teacher who wouldn't believe"
+    ],
+    "533:text": [
+      "a word Ishikawa said."
+    ],
+    "534:text": [
+      "So, what do you think that guy said"
+    ],
+    "535:text": [
+      "to the teacher?”"
+    ],
+    "540:text": [
+      "Ishikawa"
+    ],
+    "541:text": [
+      "“You die in Grandma's place!”"
+    ],
+    "543:text": [
+      "Makoto Shindo"
+    ],
+    "544:text": [
+      "“...That's what he said."
+    ],
+    "548:text": [
+      "Of course, the teacher laughed it off."
+    ],
+    "549:text": [
+      "But the very next day, that teacher dropped dead."
+    ],
+    "550:text": [
+      "I heard it was sudden cardiac arrest or something."
+    ],
+    "551:text": [
+      "Meanwhile, Ishikawa's grandma, who'd been sick in bed,"
+    ],
+    "552:text": [
+      "got better, or so I heard."
+    ],
+    "554:text": [
+      "Can you believe that?"
+    ],
+    "555:text": [
+      "If that's true, it means Ishikawa could even"
+    ],
+    "556:text": [
+      "swap people's lifespans."
+    ],
+    "558:text": [
+      "A guy like that having a power like that?"
+    ],
+    "559:text": [
+      "That's a crime, plain and simple."
+    ],
+    "561:text": [
+      "Everyone thought the same thing, but nobody"
+    ],
+    "562:text": [
+      "could say it out loud."
+    ],
+    "564:text": [
+      "Then one day, things changed."
+    ],
+    "565:text": [
+      "Ishikawa looked pale, which was unusual for him."
+    ],
+    "566:text": [
+      "This kid who always followed him around went over"
+    ],
+    "567:text": [
+      "to ask what was wrong."
+    ],
+    "568:text": [
+      "They came back white as a sheet.”"
+    ],
+    "571:text": [
+      "Ishikawa's Lackey"
+    ],
+    "572:text": [
+      "“I-Ishikawa says he found out"
+    ],
+    "573:text": [
+      "when he's going to die..."
+    ],
+    "574:text": [
+      "He says it's tonight.”"
+    ],
+    "576:text": [
+      "Makoto Shindo"
+    ],
+    "577:text": [
+      "“That must've been a hell of a shock."
+    ],
+    "578:text": [
+      "Think about it. The guy could control"
+    ],
+    "579:text": [
+      "how long people lived!"
+    ],
+    "580:text": [
+      "Once he found out he was about to die, who knew"
+    ],
+    "581:text": [
+      "who he'd pick to die in his place?"
+    ],
+    "583:text": [
+      "This time, everyone backed away from Ishikawa"
+    ],
+    "584:text": [
+      "in a rush, like the tide going out."
+    ],
+    "585:text": [
+      "Nobody wanted to get dragged into it."
+    ],
+    "586:text": [
+      "That worked until school let out."
+    ],
+    "588:text": [
+      "Then the final bell rang, and everyone was about"
+    ],
+    "589:text": [
+      "to leave the classroom."
+    ],
+    "590:text": [
+      "A ripple of murmurs broke out at the front."
+    ],
+    "593:text": [
+      "I looked over and saw Ishikawa out in the hallway."
+    ],
+    "594:text": [
+      "He was glaring daggers."
+    ],
+    "596:text": [
+      "He was looking for someone to die in his place!"
+    ],
+    "597:text": [
+      "We all knew right away."
+    ],
+    "598:text": [
+      "So nobody could leave the classroom."
+    ],
+    "599:text": [
+      "If you caught Ishikawa's eye, you were done for."
+    ],
+    "600:text": [
+      "I sure as hell wasn't sticking around for that."
+    ],
+    "601:text": [
+      "So I slipped out the window."
+    ],
+    "602:text": [
+      "Our classroom was only on the second floor."
+    ],
+    "604:text": [
+      "But Ishikawa spotted me on my way out.”"
+    ],
+    "608:text": [
+      "Ishikawa"
+    ],
+    "609:text": [
+      "“Shindo!!”"
+    ],
+    "611:text": [
+      "Makoto Shindo"
+    ],
+    "612:text": [
+      "“He yelled that and came after me."
+    ],
+    "613:text": [
+      "It's embarrassing to admit, but I was scared stiff."
+    ],
+    "614:text": [
+      "I was so scared I tore across the schoolyard without thinking."
+    ],
+    "615:text": [
+      "Ishikawa kept coming, his face twisted."
+    ],
+    "617:text": [
+      "As I ran out the school gates, I nearly crashed"
+    ],
+    "618:text": [
+      "into someone walking toward me."
+    ],
+    "619:text": [
+      "I just managed to dodge past them when"
+    ],
+    "620:text": [
+      "Ishikawa came barreling out."
+    ],
+    "621:text": [
+      "I guess he saw that person's outline"
+    ],
+    "622:text": [
+      "and thought it was me.”"
+    ],
+    "624:text": [
+      "Ishikawa"
+    ],
+    "625:text": [
+      "“Die in my place!!”"
+    ],
+    "627:text": [
+      "Makoto Shindo"
+    ],
+    "628:text": [
+      "“He just shouted it out of nowhere."
+    ],
+    "629:text": [
+      "The stranger went wide-eyed as Ishikawa grabbed their shoulder."
+    ],
+    "630:text": [
+      "It was a man in work clothes."
+    ],
+    "632:text": [
+      "Then the guy suddenly started"
+    ],
+    "633:text": [
+      "punching Ishikawa."
+    ],
+    "634:text": [
+      "I guess being told something that weird set him off."
+    ],
+    "635:text": [
+      "Ishikawa begged for mercy through his tears."
+    ],
+    "636:text": [
+      "But the guy showed him no mercy."
+    ],
+    "637:text": [
+      "He punched him over and over. When Ishikawa fell,"
+    ],
+    "638:text": [
+      "he straddled him and kept punching."
+    ],
+    "640:text": [
+      "I was so stunned by what had just happened,"
+    ],
+    "641:text": [
+      "I could only stare at the whole thing in a daze."
+    ],
+    "643:text": [
+      "It wasn't until the police rushed over"
+    ],
+    "644:text": [
+      "that I snapped out of it."
+    ],
+    "645:text": [
+      "When I looked at Ishikawa again,"
+    ],
+    "646:text": [
+      "there was a pool of blood around him."
+    ],
+    "648:text": [
+      "Ishikawa was taken straight to the hospital."
+    ],
+    "649:text": [
+      "As for the guy in work clothes... That night, in his holding cell,"
+    ],
+    "650:text": [
+      "he hanged himself."
+    ],
+    "661:text": [
+      "Apparently, the guy was a murderer"
+    ],
+    "662:text": [
+      "the police had been looking for."
+    ],
+    "663:text": [
+      "So Ishikawa had pulled off that trick of his"
+    ],
+    "664:text": [
+      "and swapped lifespans, all right. He'd just picked"
+    ],
+    "665:text": [
+      "the wrong guy."
+    ],
+    "667:text": [
+      "Ishikawa's still alive."
+    ],
+    "668:text": [
+      "He's still lying unconscious in a hospital bed,"
+    ],
+    "669:text": [
+      "and he can't even move."
+    ],
+    "670:text": [
+      "That's how it's gonna stay, too."
+    ],
+    "671:text": [
+      "Until he's lived out the time he got from that guy."
+    ],
+    "673:text": [
+      "Having a power like that doesn't mean"
+    ],
+    "674:text": [
+      "you're guaranteed a happy life."
+    ],
+    "675:text": [
+      "You watch yourself, too."
+    ],
+    "676:text": [
+      "You never know when or where"
+    ],
+    "677:text": [
+      "you'll die. Heh."
+    ],
+    "678:text": [
+      "That's the end of my story.”"
+    ],
+    "698:text": [
+      "Makoto Shindo"
+    ],
+    "699:text": [
+      "“I don't blame you."
+    ],
+    "700:text": [
+      "The guy could pull anything"
+    ],
+    "701:text": [
+      "out of thin air."
+    ],
+    "702:text": [
+      "I guess it was a kind of psychic power."
+    ],
+    "703:text": [
+      "That's why he always had"
+    ],
+    "704:text": [
+      "a crowd around him."
+    ],
+    "705:text": [
+      "Manga, CDs, you name it. They wanted him"
+    ],
+    "706:text": [
+      "to conjure up whatever they were after."
+    ],
+    "708:text": [
+      "I had no interest in sucking up to him,"
+    ],
+    "709:text": [
+      "so I just watched from a distance."
+    ],
+    "710:text": [
+      "I'd be lying if I said I wasn't"
+    ],
+    "711:text": [
+      "even a little jealous."
+    ],
+    "712:text": [
+      "There were quite a few other people"
+    ],
+    "713:text": [
+      "who kept their distance too."
+    ],
+    "717:text": [
+      "There was one girl among them."
+    ],
+    "718:text": [
+      "Uchida, I think her name was."
+    ],
+    "719:text": [
+      "She was fair-skinned and seemed quiet. In gym class,"
+    ],
+    "720:text": [
+      "she'd mostly just sit and watch."
+    ],
+    "721:text": [
+      "Apparently, she really did have a weak heart."
+    ],
+    "722:text": [
+      "She was pretty cute, enough to catch your eye."
+    ],
+    "727:text": [
+      "How come I know so much about her?"
+    ],
+    "728:text": [
+      "Well, Ishikawa had gone and"
+    ],
+    "729:text": [
+      "fallen for her."
+    ],
+    "730:text": [
+      "For Uchida, I mean."
+    ],
+    "731:text": [
+      "He'd go out of his way to use his power"
+    ],
+    "732:text": [
+      "right in front of her. It was so obvious."
+    ],
+    "734:text": [
+      "She never showed the slightest interest."
+    ],
+    "735:text": [
+      "Ishikawa started getting impatient."
+    ],
+    "737:text": [
+      "He finally decided to tell her"
+    ],
+    "738:text": [
+      "how he felt."
+    ],
+    "739:text": [
+      "Thing is, Ishikawa had never really"
+    ],
+    "740:text": [
+      "dated a girl before."
+    ],
+    "741:text": [
+      "He opened his mouth, and out came this...”"
+    ],
+    "746:text": [
+      "Ishikawa"
+    ],
+    "747:text": [
+      "“Go out with me. If you do, I'll conjure up"
+    ],
+    "748:text": [
+      "anything you want.”"
+    ],
+    "750:text": [
+      "Makoto Shindo"
+    ],
+    "751:text": [
+      "“That's what he led with."
+    ],
+    "752:text": [
+      "Uchida must've been taken aback.”"
+    ],
+    "755:text": [
+      "Uchida"
+    ],
+    "756:text": [
+      "“No, thank you.”"
+    ],
+    "758:text": [
+      "Ishikawa"
+    ],
+    "759:text": [
+      "“Come on, there's gotta be something you want, right?”"
+    ],
+    "761:text": [
+      "Makoto Shindo"
+    ],
+    "762:text": [
+      "“Ishikawa kept pestering her."
+    ],
+    "763:text": [
+      "Uchida kept saying no."
+    ],
+    "764:text": [
+      "That's when the guy lost his temper.”"
+    ],
+    "766:text": [
+      "Ishikawa"
+    ],
+    "767:text": [
+      "“You think I'm lying."
+    ],
+    "768:text": [
+      "You think there's no way I could"
+    ],
+    "769:text": [
+      "do something like that!"
+    ],
+    "770:text": [
+      "If you don't believe me, I'll conjure up"
+    ],
+    "771:text": [
+      "the thing you value most, Uchida!"
+    ],
+    "772:text": [
+      "Then you'll believe me, won't you?!”"
+    ],
+    "776:text": [
+      "Makoto Shindo"
+    ],
+    "777:text": [
+      "“Uchida frowned at that."
+    ],
+    "778:text": [
+      "To her, he was just being a nuisance."
+    ],
+    "779:text": [
+      "That's all it was."
+    ],
+    "780:text": [
+      "But Ishikawa saw the look on her face"
+    ],
+    "781:text": [
+      "and thought she doubted his powers."
+    ],
+    "782:text": [
+      "He grabbed his right wrist with his left hand and started"
+    ],
+    "783:text": [
+      "to concentrate."
+    ],
+    "785:text": [
+      "Beads of sweat broke out on his face."
+    ],
+    "786:text": [
+      "He was giving it everything he had."
+    ],
+    "787:text": [
+      "You wanna look good in front of a girl"
+    ],
+    "788:text": [
+      "you like, after all."
+    ],
+    "789:text": [
+      "You would too, right?"
+    ],
+    "791:text": [
+      "...While all that was going on, Uchida started"
+    ],
+    "792:text": [
+      "to look strange."
+    ],
+    "795:text": [
+      "She was usually pale to begin with. Now all the color"
+    ],
+    "796:text": [
+      "drained out of her face till she was white as paper."
+    ],
+    "797:text": [
+      "Her breathing came in ragged gasps, and she broke out in a clammy sweat."
+    ],
+    "798:text": [
+      "Ishikawa didn't notice, though."
+    ],
+    "799:text": [
+      "He focused every nerve in his body on his right hand."
+    ],
+    "801:text": [
+      "And just when he couldn't concentrate any harder..."
+    ],
+    "803:text": [
+      "A high-pitched scream rang out."
+    ],
+    "804:text": [
+      "At the same time, he felt something strange in his right hand."
+    ],
+    "805:text": [
+      "Out of the corner of his eye, he saw Uchida fall,"
+    ],
+    "806:text": [
+      "but Ishikawa couldn't take his eyes"
+    ],
+    "807:text": [
+      "off what was in his right hand."
+    ],
+    "810:text": [
+      "It was just big enough to fit in his palm,"
+    ],
+    "811:text": [
+      "something slick and gleaming red."
+    ],
+    "812:text": [
+      "What dripped through his fingers"
+    ],
+    "813:text": [
+      "was fresh blood."
+    ],
+    "815:text": [
+      "Every time the thing twitched, a warm red liquid"
+    ],
+    "816:text": [
+      "welled up from what looked like torn-off tubes"
+    ],
+    "817:text": [
+      "sticking out of it."
+    ],
+    "819:text": [
+      "Someone screamed again."
+    ],
+    "820:text": [
+      "Footsteps came pounding toward them."
+    ],
+    "821:text": [
+      "Ishikawa looked down at Uchida on the floor."
+    ],
+    "822:text": [
+      "She was clutching the left side of her chest, her face twisted in pain,"
+    ],
+    "823:text": [
+      "but she wasn't breathing anymore."
+    ],
+    "824:text": [
+      "Of course she wasn't."
+    ],
+    "826:text": [
+      "Even Ishikawa realized what had happened"
+    ],
+    "827:text": [
+      "by then."
+    ],
+    "838:text": [
+      "Can you figure it out, ",
+      "?"
+    ],
+    "839:text": [
+      "Ishikawa had used his powers to pull out"
+    ],
+    "840:text": [
+      "Uchida's heart."
+    ],
+    "841:text": [
+      "For someone as frail as Uchida, the thing she valued most"
+    ],
+    "842:text": [
+      "was her own heart."
+    ],
+    "844:text": [
+      "Some power, huh?"
+    ],
+    "845:text": [
+      "Then again, it brought out exactly what he'd asked for."
+    ],
+    "846:text": [
+      "Maybe you could call that an amazing power."
+    ],
+    "848:text": [
+      "...You wanna know what happened to Ishikawa after that?"
+    ],
+    "849:text": [
+      "He moved away right after that. I don't know."
+    ],
+    "850:text": [
+      "I did see him right before the teachers"
+    ],
+    "851:text": [
+      "took him away, though."
+    ],
+    "852:text": [
+      "His eyes were empty and unfocused. It was like he'd fallen"
+    ],
+    "853:text": [
+      "apart inside."
+    ],
+    "855:text": [
+      "He'd stolen the heart of the girl he liked."
+    ],
+    "856:text": [
+      "It must've been a hell of a shock."
+    ],
+    "857:text": [
+      "I bet he'll remember it for the rest of his life."
+    ],
+    "858:text": [
+      "I was just standing off to the side watching,"
+    ],
+    "859:text": [
+      "and even I'll remember what I saw till the day I die.”"
+    ],
+    "861:text": [
+      "Shindo finished the story in one go. He frowned and his face grew grim, as if the scene had come back to him."
+    ],
+    "862:text": [
+      "He looked a little pale."
+    ],
+    "863:text": [
+      "Seeing that, I started to feel a little sick myself."
+    ],
+    "896:text": [
+      "Makoto Shindo"
+    ],
+    "897:text": [
+      "“Well, look at that. The Joker."
+    ],
+    "898:text": [
+      "I'll tell you the one I've been saving, then."
+    ],
+    "899:text": [
+      "It's scary, it's creepy, and it's a hell of a story."
+    ],
+    "900:text": [
+      "You ready for it?”"
+    ],
+    "910:glink.text.1": [
+      "1. I'm not ready"
+    ],
+    "912:glink.text.1": [
+      "1. I'm not ready"
+    ],
+    "916:glink.text.1": [
+      "2. I'm ready"
+    ],
+    "918:glink.text.1": [
+      "2. I'm ready"
+    ],
+    "928:text": [
+      "Makoto Shindo"
+    ],
+    "929:text": [
+      "“All right, I'll tell you."
+    ],
+    "930:text": [
+      "Have you guys noticed what's in this room"
+    ],
+    "931:text": [
+      "with us right now?"
+    ],
+    "932:text": [
+      "I'm not talking about the people sitting here"
+    ],
+    "933:text": [
+      "quietly listening to ghost stories."
+    ],
+    "934:text": [
+      "I mean the ones who slipped in here"
+    ],
+    "935:text": [
+      "while we've been talking."
+    ],
+    "937:text": [
+      "Hey, don't give me that look."
+    ],
+    "938:text": [
+      "You're saying nobody came into the room?"
+    ],
+    "939:text": [
+      "Yeah, nobody you could see."
+    ],
+    "941:text": [
+      "They're here, though."
+    ],
+    "942:text": [
+      "I bet you've got a knack for sensing spirits, ",
+      "."
+    ],
+    "943:text": [
+      "You can tell they're here, can't you?"
+    ],
+    "944:text": [
+      "If we tell stories like this at this school, of course"
+    ],
+    "945:text": [
+      "they'll come flocking."
+    ],
+    "947:text": [
+      "Most of them just drift around. They can't"
+    ],
+    "948:text": [
+      "do anything to people."
+    ],
+    "950:text": [
+      "Some of them are pretty strong, though."
+    ],
+    "951:text": [
+      "If I told you one of them was watching you..."
+    ],
+    "952:text": [
+      "would you believe me?"
+    ],
+    "954:text": [
+      "Ha ha ha! Look how tense you are."
+    ],
+    "955:text": [
+      "You are scared, huh? I figured."
+    ],
+    "956:text": [
+      "Ah, sorry about that.”"
+    ],
+    "958:text": [
+      "Shindo was grinning."
+    ],
+    "959:text": [
+      "Had he just been messing with me?"
+    ],
+    "969:glink.text.1": [
+      "1. Tell him that was mean"
+    ],
+    "971:glink.text.1": [
+      "1. Tell him that was mean"
+    ],
+    "975:glink.text.1": [
+      "2. Hold your tongue"
+    ],
+    "977:glink.text.1": [
+      "2. Hold your tongue"
+    ],
+    "987:text": [
+      "Makoto Shindo"
+    ],
+    "988:text": [
+      "“Tch, you got no guts."
+    ],
+    "989:text": [
+      "Though I guess a story like that might be"
+    ],
+    "990:text": [
+      "a bit much for a little kid."
+    ],
+    "991:text": [
+      "All right, change of plans. Guess I'll tell you"
+    ],
+    "992:text": [
+      "the story about the playing cards I mentioned"
+    ],
+    "993:text": [
+      "earlier.”"
+    ],
+    "1004:text": [
+      "“You were trying to scare me. That was mean.”"
+    ],
+    "1006:text": [
+      "I protested."
+    ],
+    "1007:text": [
+      "That was in terrible taste."
+    ],
+    "1008:text": [
+      "But then Shindo's expression changed."
+    ],
+    "1009:text": [
+      "His smile vanished like it'd been wiped away. He looked at me, dead serious."
+    ],
+    "1012:text": [
+      "Makoto Shindo"
+    ],
+    "1013:text": [
+      "“Scare you? You think I was joking?”"
+    ],
+    "1016:text": [
+      "His voice was barely above a whisper."
+    ],
+    "1017:text": [
+      "I had a bad feeling about this."
+    ],
+    "1018:text": [
+      "It had nothing to do with Shindo being angry."
+    ],
+    "1019:text": [
+      "I'd have felt better if he'd gotten angry."
+    ],
+    "1020:text": [
+      "There was no anger in his face."
+    ],
+    "1022:text": [
+      "He was scared."
+    ],
+    "1023:text": [
+      "Cold sweat ran down my back."
+    ],
+    "1024:text": [
+      "I went quiet. Shindo spoke to me in a low voice."
+    ],
+    "1026:text": [
+      "Makoto Shindo"
+    ],
+    "1027:text": [
+      "“If that's what you think, I'll show you proof"
+    ],
+    "1028:text": [
+      "that this is for real."
+    ],
+    "1029:text": [
+      "Lend me a hand.”"
+    ],
+    "1032:text": [
+      "“Huh?”"
+    ],
+    "1034:text": [
+      "I stared blankly at the hand Shindo was holding out."
+    ],
+    "1035:text": [
+      "He clicked his tongue impatiently."
+    ],
+    "1037:text": [
+      "Makoto Shindo"
+    ],
+    "1038:text": [
+      "“Give me your hand already."
+    ],
+    "1039:text": [
+      "If you go on without knowing it's there,"
+    ],
+    "1040:text": [
+      "you're the one in danger."
+    ],
+    "1041:text": [
+      "I'll lend you my power.”"
+    ],
+    "1043:text": [
+      "I timidly held out my hand."
+    ],
+    "1045:text": [
+      "Makoto Shindo"
+    ],
+    "1046:text": [
+      "“Good, that's it."
+    ],
+    "1047:text": [
+      "Listen, ",
+      "."
+    ],
+    "1048:text": [
+      "Whatever you see, don't freak out.”"
+    ],
+    "1050:text": [
+      "With that, Shindo took my hand."
+    ],
+    "1052:text": [
+      "In that instant, I felt dizzy and my vision seemed to warp."
+    ],
+    "1054:text": [
+      "That was all that happened."
+    ],
+    "1055:text": [
+      "I couldn't see anything dangerous like Shindo had described..."
+    ],
+    "1057:text": [
+      "I glanced at Shindo and saw him staring silently at something."
+    ],
+    "1058:text": [
+      "Was he looking at my knees?"
+    ],
+    "1059:text": [
+      "I lowered my eyes to see what he was looking at."
+    ],
+    "1072:text": [
+      "What is that?!"
+    ],
+    "1073:text": [
+      "I almost screamed. Shindo covered my mouth at once."
+    ],
+    "1074:text": [
+      "The next instant, it had vanished."
+    ],
+    "1075:text": [
+      "Was it because I'd let go of Shindo's hand?"
+    ],
+    "1087:text": [
+      "Makoto Shindo"
+    ],
+    "1088:text": [
+      "“I told you not to freak out."
+    ],
+    "1089:text": [
+      "Who knows what it'd do to you if you set it off?”"
+    ],
+    "1091:text": [
+      "Shindo stepped away as he said it."
+    ],
+    "1094:text": [
+      "“W-What was that?!”"
+    ],
+    "1096:text": [
+      "Makoto Shindo"
+    ],
+    "1097:text": [
+      "“That thing I told you about. Looks like it's taken"
+    ],
+    "1098:text": [
+      "a liking to you.”"
+    ],
+    "1101:text": [
+      "“N... No way!”"
+    ],
+    "1103:text": [
+      "Shindo gave me a cold look as I panicked."
+    ],
+    "1105:text": [
+      "Makoto Shindo"
+    ],
+    "1106:text": [
+      "“Looks like some nasty things caught wind of our scary stories"
+    ],
+    "1107:text": [
+      "and started gathering."
+    ],
+    "1108:text": [
+      "And it looks like that one"
+    ],
+    "1109:text": [
+      "has taken a liking to you."
+    ],
+    "1110:text": [
+      "It's gonna haunt you from now on.”"
+    ],
+    "1113:text": [
+      "“Oh, no! Isn't there some way"
+    ],
+    "1114:text": [
+      "to drive it away?!”"
+    ],
+    "1116:text": [
+      "Makoto Shindo"
+    ],
+    "1117:text": [
+      "“Sorry, I don't know. I'm just a little better"
+    ],
+    "1118:text": [
+      "than most people at sensing spirits.”"
+    ],
+    "1120:text": [
+      "Shindo grinned."
+    ],
+    "1122:text": [
+      "Makoto Shindo"
+    ],
+    "1123:text": [
+      "“That's what you get for doing a feature on scary stories."
+    ],
+    "1124:text": [
+      "You brought it on yourself."
+    ],
+    "1125:text": [
+      "Well, you'd better watch yourself"
+    ],
+    "1126:text": [
+      "if you don't want anything bad to happen.”"
+    ],
+    "1147:text": [
+      "That got under my skin, but I kept quiet."
+    ],
+    "1148:text": [
+      "He was older than me, after all."
+    ],
+    "1149:text": [
+      "Shindo saw my reaction and gave me a wry smile."
+    ],
+    "1151:text": [
+      "Makoto Shindo"
+    ],
+    "1152:text": [
+      "“You seem like a decent guy... but I don't think you're cut"
+    ],
+    "1153:text": [
+      "out for the Newspaper Club.”"
+    ],
+    "1156:text": [
+      "“What do you mean?”"
+    ],
+    "1158:text": [
+      "Makoto Shindo"
+    ],
+    "1159:text": [
+      "“You listen closely to people, and if something doesn't add up,"
+    ],
+    "1160:text": [
+      "you press them on it."
+    ],
+    "1161:text": [
+      "That's basic reporting, isn't it?"
+    ],
+    "1162:text": [
+      "You haven't been doing that.”"
+    ],
+    "1164:text": [
+      "Now I was really mad."
+    ],
+    "1167:text": [
+      "“I don't think you have any right"
+    ],
+    "1168:text": [
+      "to say something like that.”"
+    ],
+    "1170:text": [
+      "I couldn't keep the edge out of my voice."
+    ],
+    "1173:text": [
+      "“That's rude, don't you think?"
+    ],
+    "1174:text": [
+      "Earlier you tried to scare me, saying a spirit"
+    ],
+    "1175:text": [
+      "or something was watching me...”"
+    ],
+    "1177:text": [
+      "Shindo chuckled."
+    ],
+    "1179:text": [
+      "Makoto Shindo"
+    ],
+    "1180:text": [
+      "“You thought I was bluffing? Your knack for sensing spirits"
+    ],
+    "1181:text": [
+      "isn't much use, is it?”"
+    ],
+    "1185:text": [
+      "Just as he said it, I heard a sound like something popping."
+    ],
+    "1186:text": [
+      "It happened again and again, from all over the room."
+    ],
+    "1188:text": [
+      "Makoto Shindo"
+    ],
+    "1189:text": [
+      "“See... You say something dumb, and now"
+    ],
+    "1190:text": [
+      "they're laughing at you.”"
+    ],
+    "1192:text": [
+      "Laughing? Did he mean the spirits?"
+    ],
+    "1193:text": [
+      "Were those ghostly knocks?!"
+    ],
+    "1195:text": [
+      "Makoto Shindo"
+    ],
+    "1196:text": [
+      "“I thought you had a bit more potential."
+    ],
+    "1197:text": [
+      "I guess I was wrong."
+    ],
+    "1198:text": [
+      "I'm not really feeling it anymore."
+    ],
+    "1199:text": [
+      "I'm ending my story here.”"
+    ],
+    "1201:text": [
+      "For a split second, something stirred beneath Shindo's expression."
+    ],
+    "1202:text": [
+      "I couldn't tell what it was. Something evil, for sure."
+    ],
+    "1226:text": [
+      "Makoto Shindo"
+    ],
+    "1227:text": [
+      "“What kind of answer is that?"
+    ],
+    "1228:text": [
+      "Be a man and make up your mind."
+    ],
+    "1229:text": [
+      "Either you like them or you don't."
+    ],
+    "1230:text": [
+      "Me, I like them well enough.”"
+    ],
+    "1249:text": [
+      "Makoto Shindo"
+    ],
+    "1250:text": [
+      "“There's a guy in my class named Kazuo Okura."
+    ],
+    "1251:text": [
+      "He really knows how to get ahead."
+    ],
+    "1252:text": [
+      "Or maybe he's just good at looking out"
+    ],
+    "1253:text": [
+      "for himself. Let me put it plainly."
+    ],
+    "1254:text": [
+      "He's real particular about money."
+    ],
+    "1257:text": [
+      "I'm pretty careless about that kind of thing,"
+    ],
+    "1258:text": [
+      "so I don't even count how much money"
+    ],
+    "1259:text": [
+      "I've got in my wallet."
+    ],
+    "1270:text": [
+      "Why worry about money? You're just gonna"
+    ],
+    "1271:text": [
+      "spend it right away, right?"
+    ],
+    "1272:text": [
+      "So, ",
+      ", what about you?"
+    ],
+    "1273:text": [
+      "Are you careful with your money?”"
+    ],
+    "1283:glink.text.1": [
+      "1. I'm careful"
+    ],
+    "1285:glink.text.1": [
+      "1. I'm careful"
+    ],
+    "1289:glink.text.1": [
+      "2. Not really"
+    ],
+    "1291:glink.text.1": [
+      "2. Not really"
+    ],
+    "1302:text": [
+      "Makoto Shindo"
+    ],
+    "1303:text": [
+      "“That's a good thing."
+    ],
+    "1304:text": [
+      "When you're as careless as I am,"
+    ],
+    "1305:text": [
+      "nothing good comes of it."
+    ],
+    "1306:text": [
+      "If I'd just never met Okura,"
+    ],
+    "1307:text": [
+      "things wouldn't have turned out..."
+    ],
+    "1308:text": [
+      "Oops, I'm getting off track.”"
+    ],
+    "1318:text": [
+      "Makoto Shindo"
+    ],
+    "1319:text": [
+      "“You'd better watch it, then."
+    ],
+    "1320:text": [
+      "You'll end up needing Okura's help.”"
+    ],
+    "1339:text": [
+      "Makoto Shindo"
+    ],
+    "1340:text": [
+      "“See, Okura runs a loan-sharking business"
+    ],
+    "1341:text": [
+      "at school."
+    ],
+    "1342:text": [
+      "He makes a hell of a profit off it, too."
+    ],
+    "1343:text": [
+      "It's a crime, of course."
+    ],
+    "1344:text": [
+      "No way that's okay."
+    ],
+    "1346:text": [
+      "Plenty of people use his services anyway."
+    ],
+    "1347:text": [
+      "Lending money and charging interest"
+    ],
+    "1348:text": [
+      "is only part of what he does."
+    ],
+    "1350:text": [
+      "He's got all kinds of crooked businesses going at school."
+    ],
+    "1351:text": [
+      "From buying and selling stuff to doing homework for hire"
+    ],
+    "1352:text": [
+      "and running the bets."
+    ],
+    "1353:text": [
+      "When it comes to merchandise, we're talking computers,"
+    ],
+    "1354:text": [
+      "skis, anything. Ask Okura and he can get it for you"
+    ],
+    "1355:text": [
+      "cheap."
+    ],
+    "1357:text": [
+      "Of course, rumor has it that everything he sells"
+    ],
+    "1358:text": [
+      "was shoplifted."
+    ],
+    "1360:text": [
+      "The really wild part is his gambling operation."
+    ],
+    "1361:text": [
+      "You know how that works?"
+    ],
+    "1363:text": [
+      "Say a fight breaks out somewhere."
+    ],
+    "1364:text": [
+      "He sets the payouts for each fighter and gets"
+    ],
+    "1365:text": [
+      "everybody betting on who'll win."
+    ],
+    "1366:text": [
+      "Then he pockets the profits."
+    ],
+    "1368:text": [
+      "Does he ever lose money?"
+    ],
+    "1369:text": [
+      "Okura? Never."
+    ],
+    "1370:text": [
+      "Apparently those fights are rigged"
+    ],
+    "1371:text": [
+      "from the start."
+    ],
+    "1372:text": [
+      "The two guys in the fight are in on it. They already"
+    ],
+    "1373:text": [
+      "have a script for who wins in the end."
+    ],
+    "1375:text": [
+      "So Okura can switch up the ending"
+    ],
+    "1376:text": [
+      "to whatever makes him the most money."
+    ],
+    "1378:text": [
+      "They call it a fight, but it's just a show."
+    ],
+    "1379:text": [
+      "Well, everybody has a good time watching it,"
+    ],
+    "1380:text": [
+      "so I guess you could call it the price of admission."
+    ],
+    "1382:text": [
+      "That's why he's got money to throw around."
+    ],
+    "1383:text": [
+      "You'd think the tough guys would shake him down,"
+    ],
+    "1384:text": [
+      "but they don't."
+    ],
+    "1385:text": [
+      "He's even used his profits to hire"
+    ],
+    "1386:text": [
+      "bodyguards."
+    ],
+    "1388:text": [
+      "It's scary to think what he'll be like"
+    ],
+    "1389:text": [
+      "when he grows up."
+    ],
+    "1390:text": [
+      "He'll probably end up"
+    ],
+    "1391:text": [
+      "one hell of a businessman, though."
+    ],
+    "1395:text": [
+      "Anyway, back to his main job as a loan shark."
+    ],
+    "1396:text": [
+      "Oops, I guess schoolwork is his main job..."
+    ],
+    "1397:text": [
+      "He is a student, technically."
+    ],
+    "1399:text": [
+      "Whatever. Let's not get hung up on that."
+    ],
+    "1400:text": [
+      "You know what loan sharking is, right?"
+    ],
+    "1401:text": [
+      "You lend people money and make them pay it back"
+    ],
+    "1402:text": [
+      "with a ton of interest tacked on."
+    ],
+    "1404:text": [
+      "Ever heard of toichi?"
+    ],
+    "1405:text": [
+      "With toichi, you charge ten percent interest"
+    ],
+    "1406:text": [
+      "every ten days."
+    ],
+    "1407:text": [
+      "If you can't pay the interest, it gets added"
+    ],
+    "1408:text": [
+      "to the amount you originally borrowed, and the debt"
+    ],
+    "1409:text": [
+      "just keeps growing."
+    ],
+    "1411:text": [
+      "Okura's ruthless."
+    ],
+    "1412:text": [
+      "He makes his loans on toichi terms."
+    ],
+    "1413:text": [
+      "He even makes you sign an IOU."
+    ],
+    "1415:text": [
+      "And here's the really nasty part."
+    ],
+    "1416:text": [
+      "He won't take the interest. On purpose."
+    ],
+    "1417:text": [
+      "First he comes up to you with a smile and lends you the money, right?"
+    ],
+    "1418:text": [
+      "Then you go to pay him back"
+    ],
+    "1419:text": [
+      "on the day you agreed."
+    ],
+    "1420:text": [
+      "And for some reason, Okura's nowhere"
+    ],
+    "1421:text": [
+      "to be found."
+    ],
+    "1423:text": [
+      "So you can't pay him back."
+    ],
+    "1424:text": [
+      "He waits till the debt's grown past what you can afford,"
+    ],
+    "1425:text": [
+      "and that's when he goes"
+    ],
+    "1426:text": [
+      "to collect."
+    ],
+    "1427:text": [
+      "And he brings his bodyguards."
+    ],
+    "1429:text": [
+      "Even in the grown-up world, you don't hear about"
+    ],
+    "1430:text": [
+      "many things that vicious, do you?"
+    ],
+    "1431:text": [
+      "That's why even the punks from nearby schools"
+    ],
+    "1432:text": [
+      "treated Okura with respect."
+    ],
+    "1433:text": [
+      "Word was, he'd become something of a boss"
+    ],
+    "1434:text": [
+      "behind the scenes."
+    ],
+    "1436:text": [
+      "You'd better watch yourself around guys"
+    ],
+    "1437:text": [
+      "like Okura."
+    ],
+    "1438:text": [
+      "Guys like that have a nose for easy targets."
+    ],
+    "1439:text": [
+      "When they catch the scent of someone who's broke,"
+    ],
+    "1440:text": [
+      "they pop up out of nowhere and sidle over."
+    ],
+    "1442:text": [
+      "Then they try to sweet-talk you."
+    ],
+    "1443:text": [
+      "‘Hey, you short on cash? I can lend you some"
+    ],
+    "1444:text": [
+      "at a real low rate.’ That kind of thing."
+    ],
+    "1448:text": [
+      "Anyway, about those playing cards."
+    ],
+    "1449:text": [
+      "Okura was a huge gambling nut."
+    ],
+    "1450:text": [
+      "He even put on shows with those rigged fights"
+    ],
+    "1451:text": [
+      "he set up himself."
+    ],
+    "1452:text": [
+      "When you get right down to it, life itself"
+    ],
+    "1453:text": [
+      "is pretty much a gamble."
+    ],
+    "1455:text": [
+      "Funny thing is, when you look at Okura,"
+    ],
+    "1456:text": [
+      "you start to see how true that is."
+    ],
+    "1457:text": [
+      "He had a real weakness for playing cards."
+    ],
+    "1458:text": [
+      "If you so much as said poker or blackjack,"
+    ],
+    "1459:text": [
+      "he'd come running."
+    ],
+    "1460:text": [
+      "I once heard him say it himself.”"
+    ],
+    "1462:text": [
+      "Kazuo Okura"
+    ],
+    "1463:text": [
+      "“The whole reason I make money is"
+    ],
+    "1464:text": [
+      "so I can gamble.”"
+    ],
+    "1466:text": [
+      "Makoto Shindo"
+    ],
+    "1467:text": [
+      "“Thing is, he was lousy at it."
+    ],
+    "1468:text": [
+      "I mean, Okura was absolutely hopeless."
+    ],
+    "1469:text": [
+      "Maybe that's why people never ended up"
+    ],
+    "1470:text": [
+      "hating him."
+    ],
+    "1472:text": [
+      "He'd rake in interest as a loan shark,"
+    ],
+    "1473:text": [
+      "then lose like crazy whenever he gambled."
+    ],
+    "1474:text": [
+      "He had rotten luck."
+    ],
+    "1476:text": [
+      "So all that money he worked to make?"
+    ],
+    "1477:text": [
+      "He'd cough up every last cent."
+    ],
+    "1478:text": [
+      "I guess people figured they could live with"
+    ],
+    "1479:text": [
+      "the high rates since they could win the money"
+    ],
+    "1480:text": [
+      "right back."
+    ],
+    "1491:text": [
+      "Funny how the world works out sometimes."
+    ],
+    "1492:text": [
+      "Whoever said money goes around had a point."
+    ],
+    "1493:text": [
+      "So tell me, ",
+      ", do you like gambling?”"
+    ],
+    "1510:glink.text.1": [
+      "1. I like it"
+    ],
+    "1512:glink.text.1": [
+      "1. I like it"
+    ],
+    "1516:glink.text.1": [
+      "2. I don't like it"
+    ],
+    "1518:glink.text.1": [
+      "2. I don't like it"
+    ],
+    "1527:text": [
+      "Makoto Shindo"
+    ],
+    "1528:text": [
+      "“Yeah, I figured. All guys do."
+    ],
+    "1529:text": [
+      "Pretty much everybody likes to place a bet"
+    ],
+    "1530:text": [
+      "now and then."
+    ],
+    "1531:text": [
+      "Let me ask you one more thing."
+    ],
+    "1532:text": [
+      "Are you any good at gambling?”"
+    ],
+    "1542:text": [
+      "Makoto Shindo"
+    ],
+    "1543:text": [
+      "“Come on, don't lie to me."
+    ],
+    "1544:text": [
+      "Real men like to gamble."
+    ],
+    "1545:text": [
+      "I like it, too. Just be honest with me."
+    ],
+    "1546:text": [
+      "Are you really telling me you've never"
+    ],
+    "1547:text": [
+      "placed a bet in your life?”"
+    ],
+    "1559:glink.text.1": [
+      "1. I've never placed a bet"
+    ],
+    "1561:glink.text.1": [
+      "1. I've never placed a bet"
+    ],
+    "1565:glink.text.1": [
+      "2. Actually, I have"
+    ],
+    "1567:glink.text.1": [
+      "2. Actually, I have"
+    ],
+    "1579:text": [
+      "Makoto Shindo"
+    ],
+    "1580:text": [
+      "“Huh! You're a rare one."
+    ],
+    "1581:text": [
+      "What are you, an endangered species?"
+    ],
+    "1582:text": [
+      "I wonder how long that'll last."
+    ],
+    "1583:text": [
+      "...Ah, whatever."
+    ],
+    "1584:text": [
+      "Anyway, back to Okura. He used to be"
+    ],
+    "1585:text": [
+      "an easy mark."
+    ],
+    "1586:text": [
+      "Then one day that changed."
+    ],
+    "1587:text": [
+      "It was like he'd become a whole different guy.”"
+    ],
+    "1597:text": [
+      "Makoto Shindo"
+    ],
+    "1598:text": [
+      "“See? All that acting too cool for it,"
+    ],
+    "1599:text": [
+      "and look at you now."
+    ],
+    "1600:text": [
+      "Pretty much everybody likes to place a bet"
+    ],
+    "1601:text": [
+      "now and then."
+    ],
+    "1602:text": [
+      "So let me ask you again."
+    ],
+    "1603:text": [
+      "Are you any good at gambling?”"
+    ],
+    "1620:glink.text.1": [
+      "1. I'm good at it"
+    ],
+    "1622:glink.text.1": [
+      "1. I'm good at it"
+    ],
+    "1626:glink.text.1": [
+      "2. I'm bad at it"
+    ],
+    "1628:glink.text.1": [
+      "2. I'm bad at it"
+    ],
+    "1638:text": [
+      "Makoto Shindo"
+    ],
+    "1639:text": [
+      "“Look at you."
+    ],
+    "1640:text": [
+      "Calling yourself good, huh? Either you're really that good..."
+    ],
+    "1641:text": [
+      "or you're just full of yourself."
+    ],
+    "1643:text": [
+      "Don't get that gleam in your eye."
+    ],
+    "1644:text": [
+      "Easy, ",
+      "."
+    ],
+    "1645:text": [
+      "You didn't hear that about Okura and figure"
+    ],
+    "1646:text": [
+      "he'd be an easy mark, did you?"
+    ],
+    "1648:text": [
+      "My school's in Shimane, you know."
+    ],
+    "1649:text": [
+      "You'd come all the way out to Shimane?"
+    ],
+    "1650:text": [
+      "The days when Okura was an easy mark are long gone."
+    ],
+    "1651:text": [
+      "These days, you'd be the mark."
+    ],
+    "1652:text": [
+      "You can't beat him."
+    ],
+    "1653:text": [
+      "No matter what you do."
+    ],
+    "1655:text": [
+      "He was kinda cute back when he sucked"
+    ],
+    "1656:text": [
+      "at gambling."
+    ],
+    "1657:text": [
+      "Then one day, out of nowhere,"
+    ],
+    "1658:text": [
+      "he got good."
+    ],
+    "1659:text": [
+      "It was like he'd become a whole different guy.”"
+    ],
+    "1669:text": [
+      "Makoto Shindo"
+    ],
+    "1670:text": [
+      "“Ha ha! You just came right out and said it. You're cute,"
+    ],
+    "1671:text": [
+      "you know that?"
+    ],
+    "1672:text": [
+      "The key to gambling is knowing how to play"
+    ],
+    "1673:text": [
+      "the other person."
+    ],
+    "1674:text": [
+      "If you're that honest, you're probably not cut out for it."
+    ],
+    "1676:text": [
+      "Unless that was a bluff, too?"
+    ],
+    "1677:text": [
+      "If it was, you're one hell of a gambler."
+    ],
+    "1678:text": [
+      "Even so, I doubt you could beat Okura."
+    ],
+    "1680:text": [
+      "...Huh? You think I'm contradicting myself?"
+    ],
+    "1681:text": [
+      "You're saying Okura's supposed to be"
+    ],
+    "1682:text": [
+      "hopeless at gambling?"
+    ],
+    "1683:text": [
+      "Yeah, he was lousy..."
+    ],
+    "1684:text": [
+      "until one day."
+    ],
+    "1685:text": [
+      "These days? Forget it."
+    ],
+    "1686:text": [
+      "You can't beat him. No matter what"
+    ],
+    "1687:text": [
+      "you do."
+    ],
+    "1689:text": [
+      "He was kinda cute back when he sucked"
+    ],
+    "1690:text": [
+      "at gambling."
+    ],
+    "1691:text": [
+      "Then one day, out of nowhere,"
+    ],
+    "1692:text": [
+      "he got good."
+    ],
+    "1693:text": [
+      "It was like he'd become a whole different guy.”"
+    ],
+    "1711:text": [
+      "Makoto Shindo"
+    ],
+    "1712:text": [
+      "“After that, money was all Okura cared about."
+    ],
+    "1713:text": [
+      "He got tougher than ever about collecting debts,"
+    ],
+    "1714:text": [
+      "and the sums he dealt with got bigger and bigger."
+    ],
+    "1716:text": [
+      "He'd get a group together almost every day"
+    ],
+    "1717:text": [
+      "to play poker in a corner of the classroom."
+    ],
+    "1718:text": [
+      "The people who showed up"
+    ],
+    "1719:text": [
+      "were always the same bunch, though."
+    ],
+    "1721:text": [
+      "I only ever peeked in"
+    ],
+    "1722:text": [
+      "on one of their poker games."
+    ],
+    "1723:text": [
+      "Apparently, under the official rules of poker,"
+    ],
+    "1724:text": [
+      "you don't use Jokers."
+    ],
+    "1725:text": [
+      "Then again, there are all sorts of poker rules,"
+    ],
+    "1726:text": [
+      "and I don't know them that well."
+    ],
+    "1728:text": [
+      "The version they were playing"
+    ],
+    "1729:text": [
+      "did use the Joker."
+    ],
+    "1731:text": [
+      "I wasn't paying much attention. Then I took a closer look"
+    ],
+    "1732:text": [
+      "and realized it was a strange deck."
+    ],
+    "1733:text": [
+      "You know how card backs usually have"
+    ],
+    "1734:text": [
+      "some pattern or picture on them?"
+    ],
+    "1735:text": [
+      "This one had a creepy design."
+    ],
+    "1738:text": [
+      "It showed a woman's face, half of it a skull."
+    ],
+    "1739:text": [
+      "The face was split straight down the middle,"
+    ],
+    "1740:text": [
+      "with a bare skull for the left half."
+    ],
+    "1741:text": [
+      "The right half was a woman's face,"
+    ],
+    "1742:text": [
+      "cold-looking and blue."
+    ],
+    "1743:text": [
+      "It was a creepy picture, all right."
+    ],
+    "1744:text": [
+      "Where the hell do you even buy"
+    ],
+    "1745:text": [
+      "a deck like that?"
+    ],
+    "1747:text": [
+      "I was curious, so I asked him."
+    ],
+    "1748:text": [
+      "‘Hey, Okura. Where'd you"
+    ],
+    "1749:text": [
+      "buy that deck?’"
+    ],
+    "1750:text": [
+      "And what do you think he said?”"
+    ],
+    "1764:glink.text.1": [
+      "1. An antique shop"
+    ],
+    "1766:glink.text.1": [
+      "1. An antique shop"
+    ],
+    "1770:glink.text.1": [
+      "2. A souvenir from his dad's trip abroad"
+    ],
+    "1772:glink.text.1": [
+      "2. A souvenir from his dad's trip abroad"
+    ],
+    "1776:glink.text.1": [
+      "3. A festival stall"
+    ],
+    "1778:glink.text.1": [
+      "3. A festival stall"
+    ],
+    "1782:glink.text.1": [
+      "4. He found it somewhere"
+    ],
+    "1784:glink.text.1": [
+      "4. He found it somewhere"
+    ],
+    "1797:text": [
+      "Kazuo Okura"
+    ],
+    "1798:text": [
+      "“This? I bought it at an antique shop nearby."
+    ],
+    "1799:text": [
+      "It was a real find.”"
+    ],
+    "1802:text": [
+      "Makoto Shindo"
+    ],
+    "1803:text": [
+      "That's all Okura said. Then he went right back"
+    ],
+    "1804:text": [
+      "to his game."
+    ],
+    "1805:text": [
+      "I'd gotten the answer I needed, so I had"
+    ],
+    "1806:text": [
+      "no reason to stick around."
+    ],
+    "1807:text": [
+      "I headed to the antique shop then and there."
+    ],
+    "1809:text": [
+      "Those cards had to be the reason he'd gotten"
+    ],
+    "1810:text": [
+      "so good all of a sudden."
+    ],
+    "1811:text": [
+      "If I got my hands on the same cards, maybe I'd"
+    ],
+    "1812:text": [
+      "get better at gambling, too."
+    ],
+    "1816:text": [
+      "There was only one antique shop"
+    ],
+    "1817:text": [
+      "in the area."
+    ],
+    "1818:text": [
+      "It was one street behind the main road"
+    ],
+    "1819:text": [
+      "in front of the station."
+    ],
+    "1821:text": [
+      "It was a cramped, gloomy little shop."
+    ],
+    "1822:text": [
+      "Dusty jars and Buddhist statues lined the place."
+    ],
+    "1823:text": [
+      "They looked like they'd been there for centuries."
+    ],
+    "1825:text": [
+      "And right in among all that, there they were."
+    ],
+    "1826:text": [
+      "Those playing cards with the skull."
+    ],
+    "1827:text": [
+      "They were the same size and made just like his."
+    ],
+    "1838:text": [
+      "The one difference was the skull."
+    ],
+    "1839:text": [
+      "This one was a man's."
+    ],
+    "1840:text": [
+      "Okura's card had the skull on the left"
+    ],
+    "1841:text": [
+      "and a pale woman on the right."
+    ],
+    "1843:text": [
+      "Mine was the other way around. Skull on the right,"
+    ],
+    "1844:text": [
+      "man's face on the left."
+    ],
+    "1856:text": [
+      "Anyway, I was happy to buy it."
+    ],
+    "1857:text": [
+      "The guy who ran the shop said something weird, though.”"
+    ],
+    "1859:text": [
+      "Shopkeeper"
+    ],
+    "1860:text": [
+      "“If you ever come across that one's lover,"
+    ],
+    "1861:text": [
+      "you must never put the two together.”"
+    ],
+    "1863:text": [
+      "Makoto Shindo"
+    ],
+    "1864:text": [
+      "“That's what he said."
+    ],
+    "1865:text": [
+      "I didn't think much of it at the time."
+    ],
+    "1866:text": [
+      "So, you think I got better"
+    ],
+    "1867:text": [
+      "at gambling after that?”"
+    ],
+    "1877:glink.text.1": [
+      "1. You got better"
+    ],
+    "1879:glink.text.1": [
+      "1. You got better"
+    ],
+    "1883:glink.text.1": [
+      "2. Nothing changed"
+    ],
+    "1885:glink.text.1": [
+      "2. Nothing changed"
+    ],
+    "1897:text": [
+      "Makoto Shindo"
+    ],
+    "1898:text": [
+      "“Yeah, I got better, all right."
+    ],
+    "1899:text": [
+      "Once I started using that deck, I won every game."
+    ],
+    "1900:text": [
+      "It was like the cards knew who their owner was"
+    ],
+    "1901:text": [
+      "and were trying to make me win."
+    ],
+    "1903:text": [
+      "Word must've gotten around before long."
+    ],
+    "1904:text": [
+      "Okura came to see me."
+    ],
+    "1906:text": [
+      "His whole expression changed the moment he saw my deck."
+    ],
+    "1907:text": [
+      "I bet he'd never imagined there was"
+    ],
+    "1908:text": [
+      "another one like his."
+    ],
+    "1909:text": [
+      "Then he said this to me.”"
+    ],
+    "1911:text": [
+      "Kazuo Okura"
+    ],
+    "1912:text": [
+      "“Let's play a game. We'll both put our decks on the line.”"
+    ],
+    "1914:text": [
+      "Makoto Shindo"
+    ],
+    "1915:text": [
+      "“I took him up on it."
+    ],
+    "1916:text": [
+      "One slip and I'd lose my deck."
+    ],
+    "1917:text": [
+      "You think that was stupid?"
+    ],
+    "1918:text": [
+      "But if I won, I'd take Okura down a peg."
+    ],
+    "1919:text": [
+      "If that's where my mind goes, maybe"
+    ],
+    "1920:text": [
+      "I'm a gambler through and through."
+    ],
+    "1922:text": [
+      "Here were the rules."
+    ],
+    "1923:text": [
+      "We were playing poker."
+    ],
+    "1924:text": [
+      "We'd swap decks. One of us would shuffle"
+    ],
+    "1925:text": [
+      "and deal the cards."
+    ],
+    "1926:text": [
+      "Then the other would pick cards"
+    ],
+    "1927:text": [
+      "without turning them over."
+    ],
+    "1929:text": [
+      "Pretty fair, right?"
+    ],
+    "1931:text": [
+      "Even so, we figured we'd split the wins evenly."
+    ],
+    "1932:text": [
+      "So we agreed that once the tie broke,"
+    ],
+    "1933:text": [
+      "whoever was ahead in wins would take"
+    ],
+    "1934:text": [
+      "both decks."
+    ],
+    "1936:text": [
+      "Okura dealt from my deck first."
+    ],
+    "1937:text": [
+      "Of course I won."
+    ],
+    "1938:text": [
+      "The deck knew who its owner was,"
+    ],
+    "1939:text": [
+      "just like I thought."
+    ],
+    "1941:text": [
+      "Then I dealt from Okura's deck, and he"
+    ],
+    "1942:text": [
+      "won that hand."
+    ],
+    "1943:text": [
+      "It went back and forth like that for a while."
+    ],
+    "1944:text": [
+      "Then during one of the hands, Okura"
+    ],
+    "1945:text": [
+      "cracked a grin."
+    ],
+    "1947:text": [
+      "We were using my deck that time. There was no way"
+    ],
+    "1948:text": [
+      "he could win."
+    ],
+    "1949:text": [
+      "I'd actually been dealt four of a kind,"
+    ],
+    "1950:text": [
+      "all kings."
+    ],
+    "1951:text": [
+      "I laid them down, sure I'd won."
+    ],
+    "1953:text": [
+      "Then he showed me his hand,"
+    ],
+    "1954:text": [
+      "looking pretty pleased with himself."
+    ],
+    "1955:text": [
+      "And that hand of his... What do you think he had?"
+    ],
+    "1956:text": [
+      "Four aces and the Joker."
+    ],
+    "1957:text": [
+      "Five of a kind. Five aces!"
+    ],
+    "1959:text": [
+      "The skull on the Joker looked like it was"
+    ],
+    "1960:text": [
+      "laughing at me."
+    ],
+    "1961:text": [
+      "Okura grinned as he scooped up both"
+    ],
+    "1962:text": [
+      "decks.”"
+    ],
+    "1964:text": [
+      "Kazuo Okura"
+    ],
+    "1965:text": [
+      "“Guess I was the one they chose.”"
+    ],
+    "1967:text": [
+      "Makoto Shindo"
+    ],
+    "1968:text": [
+      "“That's what he said. He went home"
+    ],
+    "1969:text": [
+      "all excited."
+    ],
+    "1970:text": [
+      "He never came to school again after that."
+    ],
+    "1972:text": [
+      "He couldn't come back, of course. He was already"
+    ],
+    "1973:text": [
+      "dead."
+    ],
+    "1977:text": [
+      "...When Okura didn't get up that morning, someone at home"
+    ],
+    "1978:text": [
+      "went to check on him."
+    ],
+    "1979:text": [
+      "That's when they found him, dead"
+    ],
+    "1980:text": [
+      "in his bed."
+    ],
+    "1981:text": [
+      "It was a gruesome sight."
+    ],
+    "1983:text": [
+      "His body was untouched, but the skin had peeled off the back of his head,"
+    ],
+    "1984:text": [
+      "and the flesh underneath was gone, like it had melted"
+    ],
+    "1985:text": [
+      "clean away, from what I heard."
+    ],
+    "1986:text": [
+      "From the neck up, there was nothing left"
+    ],
+    "1987:text": [
+      "but a skull."
+    ],
+    "1988:text": [
+      "Just like the skull on that Joker."
+    ],
+    "1990:text": [
+      "Oh, and both decks were still"
+    ],
+    "1991:text": [
+      "in Okura's room."
+    ],
+    "1992:text": [
+      "The art on the backs was supposed to be half skull,"
+    ],
+    "1993:text": [
+      "but it'd changed without anybody noticing."
+    ],
+    "1995:text": [
+      "On one deck, there was half a woman's face on the left"
+    ],
+    "1996:text": [
+      "and half a man's face on the right."
+    ],
+    "1997:text": [
+      "So that's what the antique shop owner"
+    ],
+    "1998:text": [
+      "had been worried about."
+    ],
+    "1999:text": [
+      "I guess the two decks were lovers who wanted"
+    ],
+    "2000:text": [
+      "to be together."
+    ],
+    "2011:text": [
+      "So... can you guess where Okura's face"
+    ],
+    "2012:text": [
+      "went?"
+    ],
+    "2013:text": [
+      "Even the biggest idiot can figure it out by now."
+    ],
+    "2014:text": [
+      "The woman's skull, the man's skull, and Okura."
+    ],
+    "2015:text": [
+      "That's three faces. Take away two and you've got"
+    ],
+    "2016:text": [
+      "one left."
+    ],
+    "2018:text": [
+      "That's right. The other deck."
+    ],
+    "2019:text": [
+      "There was an unfamiliar man's face"
+    ],
+    "2020:text": [
+      "on the back."
+    ],
+    "2021:text": [
+      "I thought it looked just like Okura.”"
+    ],
+    "2044:text": [
+      "Makoto Shindo"
+    ],
+    "2045:text": [
+      "“Right. I didn't get any better at all."
+    ],
+    "2046:text": [
+      "Thing is, I'd just assumed the cards would make me"
+    ],
+    "2047:text": [
+      "better at gambling."
+    ],
+    "2048:text": [
+      "Couldn't exactly go complain to the shop, could I?"
+    ],
+    "2049:text": [
+      "I still wasn't satisfied, but I stopped using"
+    ],
+    "2050:text": [
+      "the deck."
+    ],
+    "2052:text": [
+      "Then one day Okura came up to me."
+    ],
+    "2053:text": [
+      "He told me to show him my deck."
+    ],
+    "2054:text": [
+      "I guess somebody had told him it looked like"
+    ],
+    "2055:text": [
+      "his."
+    ],
+    "2057:text": [
+      "The look on his face changed as soon as I showed him."
+    ],
+    "2058:text": [
+      "Then he asked me to sell it to him."
+    ],
+    "2059:text": [
+      "He must've gotten the wrong idea and figured it had the same power"
+    ],
+    "2060:text": [
+      "as his own deck."
+    ],
+    "2062:text": [
+      "Of course I sold it to him."
+    ],
+    "2063:text": [
+      "I never told him the cards would make him"
+    ],
+    "2064:text": [
+      "any better at gambling."
+    ],
+    "2065:text": [
+      "Okura just assumed it."
+    ],
+    "2066:text": [
+      "I was just doing what"
+    ],
+    "2067:text": [
+      "the antique shop owner had done."
+    ],
+    "2069:text": [
+      "But when I handed over the deck for the money,"
+    ],
+    "2070:text": [
+      "the man in the picture grinned."
+    ],
+    "2071:text": [
+      "And that tiny mouth muttered something.”"
+    ],
+    "2073:text": [
+      "???"
+    ],
+    "2074:text": [
+      "“Repayment begins.”"
+    ],
+    "2076:text": [
+      "Makoto Shindo"
+    ],
+    "2077:text": [
+      "“That's exactly what he said."
+    ],
+    "2078:text": [
+      "The next day, Okura started losing"
+    ],
+    "2079:text": [
+      "at gambling all over again."
+    ],
+    "2081:text": [
+      "Actually, I think he was even worse than before."
+    ],
+    "2082:text": [
+      "He got so worked up trying to win it back"
+    ],
+    "2083:text": [
+      "that he just dug himself in deeper."
+    ],
+    "2084:text": [
+      "He could cough up every bit he'd raked in"
+    ],
+    "2085:text": [
+      "and it still wouldn't be enough."
+    ],
+    "2087:text": [
+      "Even Okura finally"
+    ],
+    "2088:text": [
+      "gave up gambling."
+    ],
+    "2090:text": [
+      "And that still wasn't the end of it."
+    ],
+    "2091:text": [
+      "A little while later, Okura's dad's company"
+    ],
+    "2092:text": [
+      "went bankrupt."
+    ],
+    "2093:text": [
+      "Apparently, there was a loan guarantee involved, too,"
+    ],
+    "2094:text": [
+      "and they got stuck paying someone else's debt."
+    ],
+    "2096:text": [
+      "Okura ended up dropping out of school."
+    ],
+    "2097:text": [
+      "I guess he's working somewhere by now."
+    ],
+    "2108:text": [
+      "So, what did the man on the card mean"
+    ],
+    "2109:text": [
+      "when he said ‘repayment’?"
+    ],
+    "2110:text": [
+      "Maybe he meant taking back the money"
+    ],
+    "2111:text": [
+      "Okura had won"
+    ],
+    "2112:text": [
+      "with the woman's deck?"
+    ],
+    "2114:text": [
+      "Plus a whole lot of interest, of course."
+    ],
+    "2115:text": [
+      "I think that's why nothing happened"
+    ],
+    "2116:text": [
+      "when I used it."
+    ],
+    "2118:text": [
+      "Look at it the other way and you realize"
+    ],
+    "2119:text": [
+      "just how much Okura had made."
+    ],
+    "2120:text": [
+      "It's harder to feel sorry for him"
+    ],
+    "2121:text": [
+      "when you think of it that way."
+    ],
+    "2123:text": [
+      "Anyway, next time you play cards,"
+    ],
+    "2124:text": [
+      "take a good look at the picture on the back."
+    ],
+    "2125:text": [
+      "And that's the end of my story.”"
+    ],
+    "2147:text": [
+      "Kazuo Okura"
+    ],
+    "2148:text": [
+      "“This? It's a souvenir from my dad."
+    ],
+    "2149:text": [
+      "He picked it up somewhere overseas.”"
+    ],
+    "2151:text": [
+      "Makoto Shindo"
+    ],
+    "2152:text": [
+      "“That was about as curt as you can get.”"
+    ],
+    "2161:text": [
+      "Makoto Shindo"
+    ],
+    "2162:text": [
+      "“Maybe he was just focused on the game,"
+    ],
+    "2163:text": [
+      "but it was like I didn't even exist."
+    ],
+    "2164:text": [
+      "I watched them play for a while."
+    ],
+    "2165:text": [
+      "That's when I noticed something strange."
+    ],
+    "2167:text": [
+      "That deck's Joker had a skull"
+    ],
+    "2168:text": [
+      "on it."
+    ],
+    "2169:text": [
+      "And there was a black snake"
+    ],
+    "2170:text": [
+      "winding through the eye sockets."
+    ],
+    "2171:text": [
+      "It was one creepy Joker."
+    ],
+    "2173:text": [
+      "The really weird part was that the Joker"
+    ],
+    "2174:text": [
+      "always ended up in Okura's hand."
+    ],
+    "2175:text": [
+      "When you play poker with a Joker,"
+    ],
+    "2176:text": [
+      "it's a wild card. It can stand in for any other card."
+    ],
+    "2178:text": [
+      "Having even one in your hand"
+    ],
+    "2179:text": [
+      "gives you a huge advantage."
+    ],
+    "2180:text": [
+      "So Okura cleaned up."
+    ],
+    "2182:text": [
+      "Still, doesn't that sound strange?"
+    ],
+    "2183:text": [
+      "No matter how you work out the odds, there's no way"
+    ],
+    "2184:text": [
+      "he'd get the Joker every single time."
+    ],
+    "2185:text": [
+      "Unless he was cheating, that is."
+    ],
+    "2187:text": [
+      "With Okura winning every game,"
+    ],
+    "2188:text": [
+      "nobody else was having any fun."
+    ],
+    "2189:text": [
+      "A few people took him on, hoping to beat him,"
+    ],
+    "2190:text": [
+      "but nobody managed it."
+    ],
+    "2191:text": [
+      "He took every bit of money they had,"
+    ],
+    "2192:text": [
+      "and that was the end of it."
+    ],
+    "2194:text": [
+      "Word started going around"
+    ],
+    "2195:text": [
+      "that he might be cheating."
+    ],
+    "2196:text": [
+      "The people who hung around him already knew"
+    ],
+    "2197:text": [
+      "about his rigged fights, so of course"
+    ],
+    "2198:text": [
+      "they'd be suspicious."
+    ],
+    "2200:text": [
+      "Thing is, you have to catch a cheat in the act."
+    ],
+    "2201:text": [
+      "Whenever they played poker, they knew"
+    ],
+    "2202:text": [
+      "the Joker would always end up in his hand, but nobody"
+    ],
+    "2203:text": [
+      "could figure out how it happened."
+    ],
+    "2205:text": [
+      "Besides, ever since Okura got his hands on that deck,"
+    ],
+    "2206:text": [
+      "he wouldn't use any other cards."
+    ],
+    "2207:text": [
+      "He wouldn't even take the Joker out."
+    ],
+    "2209:text": [
+      "Naturally, people stopped playing poker"
+    ],
+    "2210:text": [
+      "with Okura."
+    ],
+    "2211:text": [
+      "So, what do you think he did next?”"
+    ],
+    "2236:glink.text.1": [
+      "1. He scrambled to find a poker opponent"
+    ],
+    "2238:glink.text.1": [
+      "1. He scrambled to find a poker opponent"
+    ],
+    "2242:glink.text.1": [
+      "2. He focused on loan sharking"
+    ],
+    "2244:glink.text.1": [
+      "2. He focused on loan sharking"
+    ],
+    "2248:glink.text.1": [
+      "3. He stopped coming to school"
+    ],
+    "2250:glink.text.1": [
+      "3. He stopped coming to school"
+    ],
+    "2261:glink.text.1": [
+      "1. He scrambled to find a poker opponent"
+    ],
+    "2263:glink.text.1": [
+      "1. He scrambled to find a poker opponent"
+    ],
+    "2267:glink.text.1": [
+      "2. He focused on loan sharking"
+    ],
+    "2269:glink.text.1": [
+      "2. He focused on loan sharking"
+    ],
+    "2273:glink.text.1": [
+      "3. He stopped coming to school"
+    ],
+    "2275:glink.text.1": [
+      "3. He stopped coming to school"
+    ],
+    "2279:glink.text.1": [
+      "4. He went to the festival in the next town"
+    ],
+    "2281:glink.text.1": [
+      "4. He went to the festival in the next town"
+    ],
+    "2293:text": [
+      "Makoto Shindo"
+    ],
+    "2294:text": [
+      "“He started frantically looking for someone to play with."
+    ],
+    "2295:text": [
+      "You'd think he'd die if he went without"
+    ],
+    "2296:text": [
+      "a game of poker."
+    ],
+    "2297:text": [
+      "But everyone knew how good he was."
+    ],
+    "2298:text": [
+      "Nobody would play him."
+    ],
+    "2302:text": [
+      "So get this. The guy started throwing"
+    ],
+    "2303:text": [
+      "money around."
+    ],
+    "2304:text": [
+      "Beat Okura, and you'd win a cash prize."
+    ],
+    "2305:text": [
+      "And he said even if you lost,"
+    ],
+    "2306:text": [
+      "you didn't have to pay him a thing."
+    ],
+    "2307:text": [
+      "That's insane, right?"
+    ],
+    "2309:text": [
+      "But it did get people to come forward"
+    ],
+    "2310:text": [
+      "and play him."
+    ],
+    "2312:text": [
+      "Of course, Okura was too good. He never had"
+    ],
+    "2313:text": [
+      "to pay anyone."
+    ],
+    "2314:text": [
+      "Naturally, some people got carried away trying to win."
+    ],
+    "2316:text": [
+      "There was this guy who'd go straight to Okura"
+    ],
+    "2317:text": [
+      "as soon as he got to school in the morning."
+    ],
+    "2318:text": [
+      "Kobayashi, I think his name was."
+    ],
+    "2319:text": [
+      "Any time they weren't in class, morning to night,"
+    ],
+    "2320:text": [
+      "they played poker."
+    ],
+    "2321:text": [
+      "I got tired just watching them."
+    ],
+    "2323:text": [
+      "Okura looked happy, though."
+    ],
+    "2324:text": [
+      "He played hundreds, thousands of hands"
+    ],
+    "2325:text": [
+      "and never got bored."
+    ],
+    "2327:text": [
+      "That went on until one Monday."
+    ],
+    "2328:text": [
+      "Kobayashi didn't come to school."
+    ],
+    "2329:text": [
+      "That surprised me."
+    ],
+    "2331:text": [
+      "By then, the only thing Kobayashi cared about"
+    ],
+    "2332:text": [
+      "was poker."
+    ],
+    "2333:text": [
+      "It was hard to imagine him staying home"
+    ],
+    "2334:text": [
+      "unless something serious had happened."
+    ],
+    "2336:text": [
+      "When I asked Okura, he said they'd played poker"
+    ],
+    "2337:text": [
+      "at his place all weekend."
+    ],
+    "2338:text": [
+      "He was full of energy the day before."
+    ],
+    "2339:text": [
+      "Why would he miss school?"
+    ],
+    "2341:text": [
+      "Someone who went to see him said Kobayashi"
+    ],
+    "2342:text": [
+      "had gotten awfully weak."
+    ],
+    "2344:text": [
+      "A little cold, a minor injury... This was way worse"
+    ],
+    "2345:text": [
+      "than any of that."
+    ],
+    "2346:text": [
+      "Dry, flaky skin. Sunken eyes."
+    ],
+    "2347:text": [
+      "At least half his hair had turned white, and"
+    ],
+    "2348:text": [
+      "it was falling out in clumps, from what I heard."
+    ],
+    "2350:text": [
+      "So he ended up getting admitted"
+    ],
+    "2351:text": [
+      "to a hospital far away."
+    ],
+    "2353:text": [
+      "That put Okura in a bind."
+    ],
+    "2354:text": [
+      "Now he had to find somebody else"
+    ],
+    "2355:text": [
+      "to play poker with."
+    ],
+    "2357:text": [
+      "Once we'd heard about Kobayashi,"
+    ],
+    "2358:text": [
+      "none of us felt like playing."
+    ],
+    "2359:text": [
+      "We thought Okura might've done"
+    ],
+    "2360:text": [
+      "something to Kobayashi."
+    ],
+    "2362:text": [
+      "Okura was getting desperate."
+    ],
+    "2363:text": [
+      "Eventually he was offering a thousand yen"
+    ],
+    "2364:text": [
+      "a game just for playing poker with him."
+    ],
+    "2365:text": [
+      "How's that for a shady deal?"
+    ],
+    "2366:text": [
+      "People were so creeped out, they didn't even want"
+    ],
+    "2367:text": [
+      "to go near him anymore."
+    ],
+    "2372:text": [
+      "Then one day, Okura cornered me."
+    ],
+    "2373:text": [
+      "He kept begging me to play poker with him,"
+    ],
+    "2374:text": [
+      "bowing his head and everything."
+    ],
+    "2375:text": [
+      "He looked about ready to drop to his knees and put"
+    ],
+    "2376:text": [
+      "his forehead to the floor if I let him go on."
+    ],
+    "2377:text": [
+      "I turned him down."
+    ],
+    "2379:text": [
+      "Then he suddenly screamed.”"
+    ],
+    "2381:text": [
+      "Kazuo Okura"
+    ],
+    "2382:text": [
+      "“It's over! I'm out of time!”"
+    ],
+    "2384:text": [
+      "Makoto Shindo"
+    ],
+    "2385:text": [
+      "“Then he collapsed."
+    ],
+    "2386:text": [
+      "I hurried to look at him. His eyes had rolled back,"
+    ],
+    "2387:text": [
+      "and his body was twitching and jerking."
+    ],
+    "2388:text": [
+      "I knew right away something was seriously wrong."
+    ],
+    "2390:text": [
+      "Just then, the life went out of him."
+    ],
+    "2391:text": [
+      "It was like there'd been a light inside him"
+    ],
+    "2392:text": [
+      "and somebody snapped it off."
+    ],
+    "2393:text": [
+      "I guess that was the moment he died."
+    ],
+    "2394:text": [
+      "So that's how easily someone can die,"
+    ],
+    "2395:text": [
+      "like flicking a switch."
+    ],
+    "2397:text": [
+      "Then, as he lay facedown, something slipped out"
+    ],
+    "2398:text": [
+      "of his back."
+    ],
+    "2399:text": [
+      "It was a formless haze at first, but once it was all the way"
+    ],
+    "2400:text": [
+      "out of Okura, it took shape."
+    ],
+    "2402:text": [
+      "At first I figured it was his soul."
+    ],
+    "2403:text": [
+      "It turned out to be something else."
+    ],
+    "2404:text": [
+      "What do you think it was?"
+    ],
+    "2405:text": [
+      "One huge face, half woman and half skull."
+    ],
+    "2406:text": [
+      "Yeah. It looked just like the picture on Okura's cards."
+    ],
+    "2408:text": [
+      "It looked at me and gave me a wide grin."
+    ],
+    "2409:text": [
+      "Then it slowly faded,"
+    ],
+    "2410:text": [
+      "like it was melting into thin air."
+    ],
+    "2412:text": [
+      "...Okura was already dead."
+    ],
+    "2413:text": [
+      "When I propped him up, the cards scattered"
+    ],
+    "2414:text": [
+      "out of his breast pocket."
+    ],
+    "2416:text": [
+      "And can you believe it? The backs were pure"
+    ],
+    "2417:text": [
+      "white."
+    ],
+    "2418:text": [
+      "The woman with the half-skull face was gone"
+    ],
+    "2419:text": [
+      "from every last card."
+    ],
+    "2430:text": [
+      "Maybe that skull-faced woman was"
+    ],
+    "2431:text": [
+      "the goddess of gambling."
+    ],
+    "2432:text": [
+      "Or maybe a demon."
+    ],
+    "2433:text": [
+      "Maybe Okura had made a deal with the devil."
+    ],
+    "2434:text": [
+      "If he did, I think I can see why things turned out"
+    ],
+    "2435:text": [
+      "the way they did for Kobayashi."
+    ],
+    "2437:text": [
+      "...That's the end of my story."
+    ],
+    "2438:text": [
+      "Don't look at me like that."
+    ],
+    "2439:text": [
+      "I get why you'd have trouble believing it. I saw it for myself,"
+    ],
+    "2440:text": [
+      "and even I felt like I was seeing things."
+    ],
+    "2441:text": [
+      "Anyway, that's all there is to it.”"
+    ],
+    "2463:text": [
+      "Makoto Shindo"
+    ],
+    "2464:text": [
+      "“He threw himself back into his main job as a loan shark."
+    ],
+    "2465:text": [
+      "Can you guess why?"
+    ],
+    "2466:text": [
+      "He wanted to strong-arm people who couldn't even pay their interest"
+    ],
+    "2467:text": [
+      "into playing poker with him."
+    ],
+    "2469:text": [
+      "The deal he offered them was something else."
+    ],
+    "2470:text": [
+      "He said if you beat him at poker,"
+    ],
+    "2471:text": [
+      "he'd wipe out your entire debt."
+    ],
+    "2472:text": [
+      "But a deal that sweet always comes with a catch."
+    ],
+    "2473:text": [
+      "What do you think happened if you lost?"
+    ],
+    "2474:text": [
+      "He'd demand your soul when you died."
+    ],
+    "2476:text": [
+      "Everyone laughed."
+    ],
+    "2477:text": [
+      "Even if they lost, all they had to do was put it in writing"
+    ],
+    "2478:text": [
+      "that he'd get their soul when they died."
+    ],
+    "2480:text": [
+      "On top of that, if you signed, he'd let you"
+    ],
+    "2481:text": [
+      "pay back the loan whenever you wanted. That was the bonus"
+    ],
+    "2482:text": [
+      "you got."
+    ],
+    "2483:text": [
+      "So for anyone borrowing money, it meant they could"
+    ],
+    "2484:text": [
+      "put off paying him back pretty much"
+    ],
+    "2485:text": [
+      "forever."
+    ],
+    "2487:text": [
+      "Plenty of people took him up on it."
+    ],
+    "2488:text": [
+      "The sensible ones wouldn't go"
+    ],
+    "2489:text": [
+      "near it, though."
+    ],
+    "2491:text": [
+      "Naturally, I wouldn't touch it either."
+    ],
+    "2492:text": [
+      "Come on, would you?"
+    ],
+    "2493:text": [
+      "Even as a joke, would you put it in writing"
+    ],
+    "2494:text": [
+      "that you're giving someone your soul?"
+    ],
+    "2495:text": [
+      "I mean, what is this, a contract with the devil?"
+    ],
+    "2497:text": [
+      "People borrowed as much as they could, then went straight"
+    ],
+    "2498:text": [
+      "to challenge him to poker."
+    ],
+    "2499:text": [
+      "Losing wouldn't cost them anything, right?"
+    ],
+    "2500:text": [
+      "All they had to do was take the money"
+    ],
+    "2501:text": [
+      "and play a little poker with him."
+    ],
+    "2502:text": [
+      "They were all pretty casual about it."
+    ],
+    "2504:text": [
+      "Okura never lost."
+    ],
+    "2505:text": [
+      "Well, none of the people playing him took it seriously,"
+    ],
+    "2506:text": [
+      "so it was hardly a contest to begin with."
+    ],
+    "2508:text": [
+      "Everybody thought it was funny to sign a contract"
+    ],
+    "2509:text": [
+      "with the devil."
+    ],
+    "2510:text": [
+      "Okura looked pretty pleased with that pile"
+    ],
+    "2511:text": [
+      "of contracts he'd collected."
+    ],
+    "2517:text": [
+      "A few days passed."
+    ],
+    "2518:text": [
+      "I had something to take care of, so I'd stayed"
+    ],
+    "2519:text": [
+      "late at school."
+    ],
+    "2520:text": [
+      "Look, don't ask why. I've got my reasons,"
+    ],
+    "2521:text": [
+      "all right?"
+    ],
+    "2523:text": [
+      "That's when I spotted someone huddled"
+    ],
+    "2524:text": [
+      "in a corner of the classroom, like they were hiding."
+    ],
+    "2525:text": [
+      "I went closer to see who it was. Turns out"
+    ],
+    "2526:text": [
+      "it was Okura.”"
+    ],
+    "2528:text": [
+      "Makoto Shindo"
+    ],
+    "2529:text": [
+      "“Okura.”"
+    ],
+    "2531:text": [
+      "Makoto Shindo"
+    ],
+    "2532:text": [
+      "“Okura looked startled when he heard my voice."
+    ],
+    "2533:text": [
+      "But I got the bigger shock. The guy had"
+    ],
+    "2534:text": [
+      "a knife in his hand."
+    ],
+    "2536:text": [
+      "He turned and tried like hell to hide"
+    ],
+    "2537:text": [
+      "something from me."
+    ],
+    "2538:text": [
+      "He was too late."
+    ],
+    "2539:text": [
+      "I'd already seen it."
+    ],
+    "2540:text": [
+      "What do you think I saw?”"
+    ],
+    "2552:glink.text.1": [
+      "1. The playing cards"
+    ],
+    "2554:glink.text.1": [
+      "1. The playing cards"
+    ],
+    "2558:glink.text.1": [
+      "2. The contracts"
+    ],
+    "2560:glink.text.1": [
+      "2. The contracts"
+    ],
+    "2564:glink.text.1": [
+      "3. I don't know"
+    ],
+    "2566:glink.text.1": [
+      "3. I don't know"
+    ],
+    "2578:text": [
+      "Makoto Shindo"
+    ],
+    "2579:text": [
+      "“That deck."
+    ],
+    "2580:text": [
+      "Let me be more precise."
+    ],
+    "2581:text": [
+      "It was the woman drawn on the cards, the one"
+    ],
+    "2582:text": [
+      "whose face was half skull."
+    ],
+    "2585:text": [
+      "I couldn't believe my eyes."
+    ],
+    "2586:text": [
+      "How could that even happen?"
+    ],
+    "2587:text": [
+      "That woman had actually come"
+    ],
+    "2588:text": [
+      "right out of the cards."
+    ],
+    "2589:text": [
+      "It was absolutely revolting."
+    ],
+    "2591:text": [
+      "When I say ‘woman,’ I mean just a head."
+    ],
+    "2592:text": [
+      "It was the size of a ping-pong ball and looked"
+    ],
+    "2593:text": [
+      "like a shrunken head."
+    ],
+    "2594:text": [
+      "There was nothing below the neck."
+    ],
+    "2596:text": [
+      "Well, underneath the neck, there was a mass"
+    ],
+    "2597:text": [
+      "of these tentacle-like things packed together,"
+    ],
+    "2598:text": [
+      "all wriggling."
+    ],
+    "2599:text": [
+      "It used those tentacles to walk."
+    ],
+    "2601:text": [
+      "They seemed to have come out of every card"
+    ],
+    "2602:text": [
+      "in the deck. There must've been fifty of them."
+    ],
+    "2603:text": [
+      "They all looked at me at once."
+    ],
+    "2604:text": [
+      "Then they started making these shrill,"
+    ],
+    "2605:text": [
+      "squealing cries.”"
+    ],
+    "2607:text": [
+      "Kazuo Okura"
+    ],
+    "2608:text": [
+      "“Shindo! Don't look!”"
+    ],
+    "2610:text": [
+      "Makoto Shindo"
+    ],
+    "2611:text": [
+      "“Okura tried to cover them up."
+    ],
+    "2612:text": [
+      "He couldn't hide them all."
+    ],
+    "2613:text": [
+      "And I was frozen stiff. I couldn't even"
+    ],
+    "2614:text": [
+      "move my eyes."
+    ],
+    "2616:text": [
+      "What do you think Okura was doing?"
+    ],
+    "2617:text": [
+      "He'd sliced the pad of his finger with the knife"
+    ],
+    "2618:text": [
+      "and was letting them drink his blood."
+    ],
+    "2619:text": [
+      "The tiny women, nothing but heads, were sucking"
+    ],
+    "2620:text": [
+      "on Okura's finger."
+    ],
+    "2622:text": [
+      "It was unnerving as hell."
+    ],
+    "2623:text": [
+      "Half of each face was a pure white skull."
+    ],
+    "2624:text": [
+      "The other half had this blissful"
+    ],
+    "2625:text": [
+      "little smile."
+    ],
+    "2626:text": [
+      "Their eyes were narrowed, half rolled back.”"
+    ],
+    "2628:text": [
+      "Kazuo Okura"
+    ],
+    "2629:text": [
+      "“These things have to eat people"
+    ],
+    "2630:text": [
+      "just to stay alive."
+    ],
+    "2631:text": [
+      "Time's running out."
+    ],
+    "2632:text": [
+      "I need the souls"
+    ],
+    "2633:text": [
+      "of fifty-three people, no matter what!”"
+    ],
+    "2635:text": [
+      "Makoto Shindo"
+    ],
+    "2636:text": [
+      "“That's what Okura was yelling."
+    ],
+    "2637:text": [
+      "Maybe the women had caught me in their spell."
+    ],
+    "2638:text": [
+      "I couldn't take a single step.”"
+    ],
+    "2640:text": [
+      "Kazuo Okura"
+    ],
+    "2641:text": [
+      "“Shindo! Please, I'm begging you."
+    ],
+    "2642:text": [
+      "Die for me!”"
+    ],
+    "2644:text": [
+      "Makoto Shindo"
+    ],
+    "2645:text": [
+      "“The women's heads were still sucking"
+    ],
+    "2646:text": [
+      "on the fingers of Okura's left hand, remember?"
+    ],
+    "2647:text": [
+      "He raised his right hand to strike at me,"
+    ],
+    "2648:text": [
+      "the knife clutched in it."
+    ],
+    "2649:text": [
+      "That's when I came to my senses."
+    ],
+    "2650:text": [
+      "It felt like the women's spell had broken.”"
+    ],
+    "2652:text": [
+      "Makoto Shindo"
+    ],
+    "2653:text": [
+      "“Stop it!”"
+    ],
+    "2655:text": [
+      "Makoto Shindo"
+    ],
+    "2656:text": [
+      "“I shoved Okura as hard as I could.”"
+    ],
+    "2658:text": [
+      "Kazuo Okura"
+    ],
+    "2659:text": [
+      "“Gah!”"
+    ],
+    "2661:text": [
+      "Makoto Shindo"
+    ],
+    "2662:text": [
+      "“Maybe it was the way he fell, but the knife"
+    ],
+    "2663:text": [
+      "plunged into Okura's belly."
+    ],
+    "2664:text": [
+      "At that exact moment...”"
+    ],
+    "2666:text": [
+      "Woman from the Deck"
+    ],
+    "2667:text": [
+      "“Kee-kee-kee-kee-kee!”"
+    ],
+    "2669:text": [
+      "Makoto Shindo"
+    ],
+    "2670:text": [
+      "“The room rang with the women's shrieks of delight."
+    ],
+    "2671:text": [
+      "Then they all sank their teeth"
+    ],
+    "2672:text": [
+      "into Okura's belly at once.”"
+    ],
+    "2674:text": [
+      "Kazuo Okura"
+    ],
+    "2675:text": [
+      "“Stop! I'll feed you like I promised!"
+    ],
+    "2676:text": [
+      "As long as you've got this contract, you'll always"
+    ],
+    "2677:text": [
+      "have something to eat! I'm not your fo...”"
+    ],
+    "2679:text": [
+      "Makoto Shindo"
+    ],
+    "2680:text": [
+      "“Okura had no way out by then."
+    ],
+    "2681:text": [
+      "Blood gushed from his belly with a gurgle."
+    ],
+    "2682:text": [
+      "The women swam happily in the pool it made."
+    ],
+    "2683:text": [
+      "They were soaked in blood, cackling"
+    ],
+    "2684:text": [
+      "like they were having the time of their lives."
+    ],
+    "2686:text": [
+      "A few of the heads burrowed into his belly"
+    ],
+    "2687:text": [
+      "and danced inside him."
+    ],
+    "2688:text": [
+      "It looked like a swarm of ants all over a dead insect."
+    ],
+    "2690:text": [
+      "They devoured every bit of Okura in no time."
+    ],
+    "2691:text": [
+      "Then they all turned to face me."
+    ],
+    "2692:text": [
+      "Their mouths, stained red with Okura's blood,"
+    ],
+    "2693:text": [
+      "twisted into grins as they crept"
+    ],
+    "2694:text": [
+      "toward me."
+    ],
+    "2696:text": [
+      "Maybe I'd fallen under their spell again."
+    ],
+    "2697:text": [
+      "I couldn't move."
+    ],
+    "2698:text": [
+      "The women drew closer, slowly."
+    ],
+    "2699:text": [
+      "One of them was just about"
+    ],
+    "2700:text": [
+      "to brush against my feet when...”"
+    ],
+    "2702:text": [
+      "???"
+    ],
+    "2703:text": [
+      "“Stop right there!”"
+    ],
+    "2705:text": [
+      "Makoto Shindo"
+    ],
+    "2706:text": [
+      "“I heard a young woman's voice from somewhere."
+    ],
+    "2707:text": [
+      "At the sound of her voice, the women all kicked up a racket."
+    ],
+    "2708:text": [
+      "They looked scared. They forgot about me"
+    ],
+    "2709:text": [
+      "and scurried to the corner of the classroom,"
+    ],
+    "2710:text": [
+      "where they just kept shaking."
+    ],
+    "2711:text": [
+      "I could move again, so I turned"
+    ],
+    "2712:text": [
+      "toward the voice."
+    ],
+    "2714:text": [
+      "There was a girl standing there who looked"
+    ],
+    "2715:text": [
+      "about my age, maybe a little younger."
+    ],
+    "2716:text": [
+      "She was dressed like a witch."
+    ],
+    "2717:text": [
+      "She glared at the women from the deck"
+    ],
+    "2718:text": [
+      "as she came into the classroom.”"
+    ],
+    "2720:text": [
+      "???"
+    ],
+    "2721:text": [
+      "“What have you done?! Get back where you belong,"
+    ],
+    "2722:text": [
+      "right now!”"
+    ],
+    "2724:text": [
+      "Makoto Shindo"
+    ],
+    "2725:text": [
+      "“The girl looked sadly at what was left"
+    ],
+    "2726:text": [
+      "of Okura's body. Then she fixed the women from the deck"
+    ],
+    "2727:text": [
+      "with another glare."
+    ],
+    "2728:text": [
+      "The women made straight for the scattered"
+    ],
+    "2729:text": [
+      "blank cards and hurried back inside."
+    ],
+    "2730:text": [
+      "Once the woman saw they'd gone back, she picked up"
+    ],
+    "2731:text": [
+      "one of the cards on the floor and spoke to me.”"
+    ],
+    "2733:text": [
+      "???"
+    ],
+    "2734:text": [
+      "“These cards should never be"
+    ],
+    "2735:text": [
+      "in human hands."
+    ],
+    "2736:text": [
+      "You know what can happen to someone"
+    ],
+    "2737:text": [
+      "who holds on to them..."
+    ],
+    "2738:text": [
+      "don't you?”"
+    ],
+    "2740:text": [
+      "Makoto Shindo"
+    ],
+    "2741:text": [
+      "“The woman looked again at Okura's body."
+    ],
+    "2742:text": [
+      "The women had devoured him. All they'd left"
+    ],
+    "2743:text": [
+      "was a grisly white skeleton."
+    ],
+    "2744:text": [
+      "Fresh blood still dripped from the bones. It looked"
+    ],
+    "2745:text": [
+      "like they were weeping."
+    ],
+    "2746:text": [
+      "I looked into her eyes, unable to say a word."
+    ],
+    "2747:text": [
+      "Her eyes were as clear as glass marbles."
+    ],
+    "2748:text": [
+      "She looked me straight in the eye and gave me"
+    ],
+    "2749:text": [
+      "a sad smile.”"
+    ],
+    "2751:text": [
+      "???"
+    ],
+    "2752:text": [
+      "“You had nothing to do with this. It must have been awful"
+    ],
+    "2753:text": [
+      "to get caught up in it."
+    ],
+    "2754:text": [
+      "I'll take the body and the cards with me."
+    ],
+    "2755:text": [
+      "You'd be better off forgetting all this as soon as you can.”"
+    ],
+    "2757:text": [
+      "Makoto Shindo"
+    ],
+    "2758:text": [
+      "“Then she snapped"
+    ],
+    "2759:text": [
+      "her fingers."
+    ],
+    "2760:text": [
+      "The cards all over the floor and Okura's body"
+    ],
+    "2761:text": [
+      "vanished without a trace."
+    ],
+    "2762:text": [
+      "Before I knew it, the woman"
+    ],
+    "2763:text": [
+      "was gone too."
+    ],
+    "2767:text": [
+      "As far as everyone else was concerned, Okura had gone missing."
+    ],
+    "2768:text": [
+      "He wasn't at home either."
+    ],
+    "2769:text": [
+      "Just like that, he'd disappeared"
+    ],
+    "2770:text": [
+      "from everybody's lives."
+    ],
+    "2781:text": [
+      "I was the only one who knew"
+    ],
+    "2782:text": [
+      "what really happened."
+    ],
+    "2783:text": [
+      "Nobody would've believed me"
+    ],
+    "2784:text": [
+      "if I'd told them."
+    ],
+    "2785:text": [
+      "And I sure as hell didn't want to say the wrong thing"
+    ],
+    "2786:text": [
+      "and have that happen to me next."
+    ],
+    "2787:text": [
+      "So I kept my mouth shut."
+    ],
+    "2789:text": [
+      "What the hell did I see that night?"
+    ],
+    "2790:text": [
+      "The whole story sounds insane,"
+    ],
+    "2791:text": [
+      "any way you look at it."
+    ],
+    "2793:text": [
+      "You doubt it too, don't you?"
+    ],
+    "2794:text": [
+      "But it really happened."
+    ],
+    "2795:text": [
+      "I saw it clearly."
+    ],
+    "2796:text": [
+      "Those creepy women, what was left of Okura's body,"
+    ],
+    "2797:text": [
+      "and that woman who showed up."
+    ],
+    "2798:text": [
+      "She told me to forget it,"
+    ],
+    "2799:text": [
+      "but there's no way I can."
+    ],
+    "2800:text": [
+      "The body of Okura, the guy I'd killed. And that woman's"
+    ],
+    "2801:text": [
+      "eyes, clear as glass marbles..."
+    ],
+    "2803:text": [
+      "Come to think of it, what's going to happen"
+    ],
+    "2804:text": [
+      "to the people who signed those contracts?"
+    ],
+    "2805:text": [
+      "How do you even eat a soul?"
+    ],
+    "2807:text": [
+      "Still, I think the woman I met that night"
+    ],
+    "2808:text": [
+      "might do something about it."
+    ],
+    "2809:text": [
+      "Maybe that's just wishful thinking."
+    ],
+    "2811:text": [
+      "Even now, whenever I play cards, I make a point"
+    ],
+    "2812:text": [
+      "of taking a good look at the picture"
+    ],
+    "2813:text": [
+      "on the backs."
+    ],
+    "2814:text": [
+      "If the picture creeps me out..."
+    ],
+    "2815:text": [
+      "I'll tear the whole deck up"
+    ],
+    "2816:text": [
+      "and throw it out."
+    ],
+    "2817:text": [
+      "And that's the end of my story.”"
+    ],
+    "2839:text": [
+      "Makoto Shindo"
+    ],
+    "2840:text": [
+      "“It was that stack of contracts Okura made everybody"
+    ],
+    "2841:text": [
+      "sign."
+    ],
+    "2842:text": [
+      "Where he'd gotten them, I couldn't tell, but each page had"
+    ],
+    "2843:text": [
+      "a photo of the person who signed it."
+    ],
+    "2844:text": [
+      "He was holding a thick, battered old book, too."
+    ],
+    "2845:text": [
+      "It looked like a spellbook out of a fantasy story..."
+    ],
+    "2846:text": [
+      "He must've seen the look on my face"
+    ],
+    "2847:text": [
+      "when I noticed the book."
+    ],
+    "2848:text": [
+      "Okura turned to face me."
+    ],
+    "2849:text": [
+      "There was a wild gleam in his eyes.”"
+    ],
+    "2853:text": [
+      "Kazuo Okura"
+    ],
+    "2854:text": [
+      "“Well, now that you've seen it, there's no point hiding it."
+    ],
+    "2855:text": [
+      "I'm going to make a deal with the devil. I'll trade these contracts"
+    ],
+    "2856:text": [
+      "to get even better at gambling."
+    ],
+    "2857:text": [
+      "I'm gonna play for much bigger stakes"
+    ],
+    "2858:text": [
+      "than anything at school!”"
+    ],
+    "2860:text": [
+      "Makoto Shindo"
+    ],
+    "2861:text": [
+      "“I couldn't move."
+    ],
+    "2862:text": [
+      "It was like something had me pinned in place."
+    ],
+    "2863:text": [
+      "Okura suddenly pulled some white powder from inside his jacket"
+    ],
+    "2864:text": [
+      "and scattered it across the floor as he began"
+    ],
+    "2865:text": [
+      "to chant a spell."
+    ],
+    "2867:text": [
+      "Then a white haze started filling"
+    ],
+    "2868:text": [
+      "the dark classroom."
+    ],
+    "2869:text": [
+      "There were three eyes at the center of it,"
+    ],
+    "2870:text": [
+      "glowing with this sinister light."
+    ],
+    "2871:text": [
+      "Okura held up the contracts to those eyes.”"
+    ],
+    "2873:text": [
+      "Kazuo Okura"
+    ],
+    "2874:text": [
+      "“Here are the contracts"
+    ],
+    "2875:text": [
+      "pledging these souls as an offering.”"
+    ],
+    "2877:text": [
+      "Makoto Shindo"
+    ],
+    "2878:text": [
+      "“This was bad! I panicked."
+    ],
+    "2879:text": [
+      "Okura was dead serious."
+    ],
+    "2880:text": [
+      "Once the deal went through, I'd probably be sacrificed."
+    ],
+    "2881:text": [
+      "If this kept up, I was dead."
+    ],
+    "2882:text": [
+      "I tensed every muscle in my body"
+    ],
+    "2883:text": [
+      "trying to move.”"
+    ],
+    "2885:text": [
+      "Kazuo Okura"
+    ],
+    "2886:text": [
+      "“In exchange for these contracts, make me"
+    ],
+    "2887:text": [
+      "the best gambler in the world...”"
+    ],
+    "2889:text": [
+      "Makoto Shindo"
+    ],
+    "2890:text": [
+      "“My fingertips twitched."
+    ],
+    "2891:text": [
+      "That was all it took. I could move"
+    ],
+    "2892:text": [
+      "again!"
+    ],
+    "2893:text": [
+      "It was now or never!"
+    ],
+    "2895:text": [
+      "I stretched out my leg and swept away"
+    ],
+    "2896:text": [
+      "the powder he'd scattered on the floor."
+    ],
+    "2897:text": [
+      "The instant the powder flew up...”"
+    ],
+    "2899:text": [
+      "Kazuo Okura"
+    ],
+    "2900:text": [
+      "“Aaaaaaagh!!”"
+    ],
+    "2902:text": [
+      "Makoto Shindo"
+    ],
+    "2903:text": [
+      "“A massive arm reached out of the haze and grabbed"
+    ],
+    "2904:text": [
+      "Okura. Then it dragged him straight"
+    ],
+    "2905:text": [
+      "into the haze."
+    ],
+    "2906:text": [
+      "I thought my heart was gonna stop."
+    ],
+    "2907:text": [
+      "Right after that, I heard a voice from the haze.”"
+    ],
+    "2909:text": [
+      "???"
+    ],
+    "2910:text": [
+      "“State your wish.”"
+    ],
+    "2912:text": [
+      "Makoto Shindo"
+    ],
+    "2913:text": [
+      "“It was a deep, solemn voice."
+    ],
+    "2914:text": [
+      "I only had one wish.”"
+    ],
+    "2916:text": [
+      "Makoto Shindo"
+    ],
+    "2917:text": [
+      "“Go back! Right now!!”"
+    ],
+    "2919:text": [
+      "Makoto Shindo"
+    ],
+    "2920:text": [
+      "“With that, the haze disappeared."
+    ],
+    "2921:text": [
+      "I was so relieved my legs gave out."
+    ],
+    "2922:text": [
+      "I couldn't move for a while."
+    ],
+    "2933:text": [
+      "As far as anyone knew, Okura had gone missing."
+    ],
+    "2934:text": [
+      "I couldn't tell them what really happened."
+    ],
+    "2935:text": [
+      "Who'd believe a story like this, anyway?"
+    ],
+    "2936:text": [
+      "Well, the guy was an idiot."
+    ],
+    "2937:text": [
+      "Guess he had it coming.”"
+    ],
+    "2959:text": [
+      "Makoto Shindo"
+    ],
+    "2960:text": [
+      "“‘I don't know’... Were you even paying"
+    ],
+    "2961:text": [
+      "attention?"
+    ],
+    "2962:text": [
+      "Eh, whatever. What I saw was...”"
+    ],
+    "2973:text": [
+      "Makoto Shindo"
+    ],
+    "2974:text": [
+      "“Yeah, Okura stopped coming to school."
+    ],
+    "2975:text": [
+      "From what I heard, he even stopped"
+    ],
+    "2976:text": [
+      "coming out of his room."
+    ],
+    "2980:text": [
+      "His family got worried and peeked in. He'd spread"
+    ],
+    "2981:text": [
+      "the cards all over his bed and was lying"
+    ],
+    "2982:text": [
+      "right on top of them."
+    ],
+    "2983:text": [
+      "He looked completely blissed out."
+    ],
+    "2985:text": [
+      "Apparently he didn't look sick, so they decided"
+    ],
+    "2986:text": [
+      "to leave him alone."
+    ],
+    "2987:text": [
+      "They'd leave food outside his room,"
+    ],
+    "2988:text": [
+      "and he seemed to be eating it."
+    ],
+    "2990:text": [
+      "Then one day, something happened."
+    ],
+    "2991:text": [
+      "Apparently a relative had died,"
+    ],
+    "2992:text": [
+      "so everyone else in Okura's family had to go away."
+    ],
+    "2993:text": [
+      "His mother called to him from outside his door.”"
+    ],
+    "2995:text": [
+      "Okura's Mother"
+    ],
+    "2996:text": [
+      "“I'm leaving you ten thousand yen. Order in"
+    ],
+    "2997:text": [
+      "and get something to eat, all right?”"
+    ],
+    "2999:text": [
+      "Makoto Shindo"
+    ],
+    "3000:text": [
+      "“...Well, it was probably something like that."
+    ],
+    "3001:text": [
+      "That's the kind of thing moms say"
+    ],
+    "3002:text": [
+      "in every family."
+    ],
+    "3003:text": [
+      "So off they went."
+    ],
+    "3004:text": [
+      "I heard they stayed two nights before coming home."
+    ],
+    "3006:text": [
+      "The money was right where she'd left it."
+    ],
+    "3007:text": [
+      "It had a ragged tear along the edge, apparently,"
+    ],
+    "3008:text": [
+      "but it was still in the same spot."
+    ],
+    "3010:text": [
+      "They got worried and went to Okura's room."
+    ],
+    "3011:text": [
+      "Rustle, rustle",
+      ". They could hear it coming"
+    ],
+    "3012:text": [
+      "from inside the room."
+    ],
+    "3013:text": [
+      "Wondering what it was, they",
+      " opened the door."
+    ],
+    "3030:text": [
+      "A skeleton lay on the bed."
+    ],
+    "3031:text": [
+      "And scurrying between the bones"
+    ],
+    "3032:text": [
+      "were the women from the backs of those cards,"
+    ],
+    "3033:text": [
+      "with half of each face a skull."
+    ],
+    "3035:text": [
+      "They were about the size of ping-pong balls,"
+    ],
+    "3036:text": [
+      "with tiny tentacles packed under their heads."
+    ],
+    "3037:text": [
+      "They were pretty nimble on those tentacles."
+    ],
+    "3038:text": [
+      "They gnawed at the bits of flesh still stuck to the bones"
+    ],
+    "3039:text": [
+      "with their tiny teeth as they went."
+    ],
+    "3041:text": [
+      "When the family saw that, they",
+      " screamed."
+    ],
+    "3042:text": [
+      "All the women turned at the sound."
+    ],
+    "3043:text": [
+      "Then they shot out"
+    ],
+    "3044:text": [
+      "the window at incredible speed."
+    ],
+    "3045:text": [
+      "Whoosh. Like the tide rushing out."
+    ],
+    "3055:text": [
+      "All that was left was Okura's skeleton"
+    ],
+    "3056:text": [
+      "and the white, blank cards the women had crawled out of,"
+    ],
+    "3057:text": [
+      "from what I heard."
+    ],
+    "3059:text": [
+      "I bet the women were the ones eating all the meals"
+    ],
+    "3060:text": [
+      "the family thought Okura was eating."
+    ],
+    "3061:text": [
+      "With his family away, there was no one to put food out."
+    ],
+    "3062:text": [
+      "My guess is those women got hungry"
+    ],
+    "3063:text": [
+      "and ate Okura."
+    ],
+    "3065:text": [
+      "Why didn't Okura try to get away?"
+    ],
+    "3066:text": [
+      "I don't know."
+    ],
+    "3067:text": [
+      "Maybe he was under their spell."
+    ],
+    "3069:text": [
+      "But those things got out of the cards,"
+    ],
+    "3070:text": [
+      "so where are they now?"
+    ],
+    "3071:text": [
+      "Just thinking they could be hiding out there"
+    ],
+    "3072:text": [
+      "makes me scared of the dark."
+    ],
+    "3073:text": [
+      "Whenever I hear dead leaves or paper rustle,"
+    ],
+    "3074:text": [
+      "I can't help looking around for them."
+    ],
+    "3076:text": [
+      "You think that's weird? ...Go ahead,"
+    ],
+    "3077:text": [
+      "laugh if you want.”"
+    ],
+    "3100:text": [
+      "Makoto Shindo"
+    ],
+    "3101:text": [
+      "“He skipped school and went to the next town."
+    ],
+    "3102:text": [
+      "The festival was going on then."
+    ],
+    "3103:text": [
+      "Other students were cutting school, too,"
+    ],
+    "3104:text": [
+      "heading out to have some fun."
+    ],
+    "3106:text": [
+      "I was one of them, as it happens."
+    ],
+    "3107:text": [
+      "The festival went on at night, too, but what's the fun"
+    ],
+    "3108:text": [
+      "if you don't break a rule or two?"
+    ],
+    "3110:text": [
+      "I'll let you guess who I went with."
+    ],
+    "3111:text": [
+      "Anyway, I was surprised when I saw Okura."
+    ],
+    "3112:text": [
+      "I thought about saying hello, but he looked"
+    ],
+    "3113:text": [
+      "way too serious."
+    ],
+    "3114:text": [
+      "I wound up tailing him."
+    ],
+    "3120:text": [
+      "He stopped at one of the stalls."
+    ],
+    "3121:text": [
+      "It was a little stall selling garish plastic toys"
+    ],
+    "3122:text": [
+      "for kids to play house with and that kind of thing."
+    ],
+    "3124:text": [
+      "He seemed to be bargaining with the stallkeeper."
+    ],
+    "3125:text": [
+      "Then the stallkeeper pulled out a deck of cards."
+    ],
+    "3126:text": [
+      "They were bigger than regular playing cards, with flashy"
+    ],
+    "3127:text": [
+      "pictures on them. They were tarot cards."
+    ],
+    "3129:text": [
+      "Okura reached for them the second he saw them."
+    ],
+    "3130:text": [
+      "The stallkeeper was faster. He pulled"
+    ],
+    "3131:text": [
+      "his hand back."
+    ],
+    "3132:text": [
+      "Okura looked like a dog that'd been told"
+    ],
+    "3133:text": [
+      "to wait for its food."
+    ],
+    "3134:text": [
+      "The stallkeeper said something, and Okura trudged off"
+    ],
+    "3135:text": [
+      "like he'd given up."
+    ],
+    "3137:text": [
+      "I went after him."
+    ],
+    "3138:text": [
+      "I caught up with him on the deserted grounds and called out."
+    ],
+    "3139:text": [
+      "Okura turned, looking startled... Then he saw me"
+    ],
+    "3140:text": [
+      "and gave me a bright smile."
+    ],
+    "3141:text": [
+      "There was something strange about that smile."
+    ],
+    "3143:text": [
+      "Then he said he'd treat me if I came"
+    ],
+    "3144:text": [
+      "and hung out with him."
+    ],
+    "3145:text": [
+      "I had nothing else to do, so I figured I might as well."
+    ],
+    "3146:text": [
+      "Still, that smile bothered me. I took another"
+    ],
+    "3147:text": [
+      "look at Okura."
+    ],
+    "3150:text": [
+      "He had a knife raised in his hand."
+    ],
+    "3151:text": [
+      "He glared at me with bloodshot eyes."
+    ],
+    "3152:text": [
+      "It happened so fast I couldn't move. All I could do"
+    ],
+    "3153:text": [
+      "was stare at the point of the knife."
+    ],
+    "3154:text": [
+      "He's gonna kill me! Right as I thought that...”"
+    ],
+    "3156:text": [
+      "???"
+    ],
+    "3157:text": [
+      "“Stop right there!”"
+    ],
+    "3159:text": [
+      "Makoto Shindo"
+    ],
+    "3160:text": [
+      "“A woman's voice came from somewhere."
+    ],
+    "3161:text": [
+      "Okura stopped dead with the knife still raised,"
+    ],
+    "3162:text": [
+      "like time had frozen."
+    ],
+    "3163:text": [
+      "Then the knife slipped out of his hand on its own"
+    ],
+    "3164:text": [
+      "and flew right at him."
+    ],
+    "3165:text": [
+      "I thought it'd stab Okura, but it barely"
+    ],
+    "3166:text": [
+      "grazed his cheek. Then it ",
+      "sank into"
+    ],
+    "3167:text": [
+      "the tree behind him."
+    ],
+    "3169:text": [
+      "It left a thin red line on his cheek, and Okura"
+    ],
+    "3170:text": [
+      "crumpled right where he stood."
+    ],
+    "3172:text": [
+      "Pathetic. He'd pissed himself.”"
+    ],
+    "3174:text": [
+      "???"
+    ],
+    "3175:text": [
+      "“Are you all right?”"
+    ],
+    "3177:text": [
+      "Makoto Shindo"
+    ],
+    "3178:text": [
+      "“I turned around. There was a girl who looked about my age,"
+    ],
+    "3179:text": [
+      "maybe a little younger."
+    ],
+    "3180:text": [
+      "She was dressed like a witch, and she looked"
+    ],
+    "3181:text": [
+      "worried about me."
+    ],
+    "3183:text": [
+      "All I could manage was"
+    ],
+    "3184:text": [
+      "‘Y-yeah...’"
+    ],
+    "3185:text": [
+      "Was she the one who'd done that?"
+    ],
+    "3186:text": [
+      "My head was spinning. What I'd just seen"
+    ],
+    "3187:text": [
+      "didn't make any damn sense.”"
+    ],
+    "3189:text": [
+      "Stallkeeper"
+    ],
+    "3190:text": [
+      "“Well, well. You've gone to quite a bit of trouble"
+    ],
+    "3191:text": [
+      "to meddle where you shouldn't.”"
+    ],
+    "3193:text": [
+      "Makoto Shindo"
+    ],
+    "3194:text": [
+      "“I suddenly noticed the stallkeeper from earlier"
+    ],
+    "3195:text": [
+      "standing right beside me."
+    ],
+    "3196:text": [
+      "When had he gotten there? While I was still wondering,"
+    ],
+    "3197:text": [
+      "the girl shot the stallkeeper"
+    ],
+    "3198:text": [
+      "a sharp glare.”"
+    ],
+    "3200:text": [
+      "???"
+    ],
+    "3201:text": [
+      "“Uncle! Please, it's time you stopped"
+    ],
+    "3202:text": [
+      "meddling with humans!”"
+    ],
+    "3204:text": [
+      "Man She Called “Uncle”"
+    ],
+    "3205:text": [
+      "“Meddling? All I'm doing is running"
+    ],
+    "3206:text": [
+      "a stall.”"
+    ],
+    "3208:text": [
+      "???"
+    ],
+    "3209:text": [
+      "“That's exactly what I mean"
+    ],
+    "3210:text": [
+      "by meddling!"
+    ],
+    "3211:text": [
+      "Peddling goods from the Demon Realm to humans?"
+    ],
+    "3212:text": [
+      "You must be out of your mind!”"
+    ],
+    "3214:text": [
+      "Man She Called “Uncle”"
+    ],
+    "3215:text": [
+      "“They may come from the Demon Realm. They're still"
+    ],
+    "3216:text": [
+      "just tools."
+    ],
+    "3217:text": [
+      "Things go wrong when greedy humans use them"
+    ],
+    "3218:text": [
+      "for their own gain.”"
+    ],
+    "3220:text": [
+      "???"
+    ],
+    "3221:text": [
+      "“But I still think you're going about this"
+    ],
+    "3222:text": [
+      "all wrong, Uncle."
+    ],
+    "3223:text": [
+      "Our rule was to have as little contact with humans"
+    ],
+    "3224:text": [
+      "as possible, wasn't it?”"
+    ],
+    "3226:text": [
+      "Man She Called “Uncle”"
+    ],
+    "3227:text": [
+      "“Ha! That's rich coming from you, Kirara."
+    ],
+    "3228:text": [
+      "The same goes for Urara and Kurara."
+    ],
+    "3229:text": [
+      "I'd say you three sisters have a lot more contact"
+    ],
+    "3230:text": [
+      "with humans than I do.”"
+    ],
+    "3232:text": [
+      "Girl He Called Kirara"
+    ],
+    "3233:text": [
+      "“W-we only do it to help people!”"
+    ],
+    "3235:text": [
+      "Makoto Shindo"
+    ],
+    "3236:text": [
+      "“I had no idea what was going on. Was this some kind"
+    ],
+    "3237:text": [
+      "of family argument?"
+    ],
+    "3238:text": [
+      "The human world, the Demon Realm... It sounded"
+    ],
+    "3239:text": [
+      "like a conversation out of a manga."
+    ],
+    "3240:text": [
+      "I couldn't make heads or tails of it. All I could do"
+    ],
+    "3241:text": [
+      "was stand there and watch.”"
+    ],
+    "3243:text": [
+      "Man She Called “Uncle”"
+    ],
+    "3244:text": [
+      "“Oh, well."
+    ],
+    "3245:text": [
+      "I was this close to getting a soul,"
+    ],
+    "3246:text": [
+      "and Kirara had to ruin everything."
+    ],
+    "3247:text": [
+      "I'm afraid I can't sell you"
+    ],
+    "3248:text": [
+      "this tarot deck, Okura.”"
+    ],
+    "3250:text": [
+      "Makoto Shindo"
+    ],
+    "3251:text": [
+      "“The stallkeeper waved the cards like he was showing them off."
+    ],
+    "3252:text": [
+      "All Okura did was stare blankly"
+    ],
+    "3253:text": [
+      "at the deck."
+    ],
+    "3254:text": [
+      "Maybe what happened had been too much of a shock."
+    ],
+    "3255:text": [
+      "He looked completely out of it.”"
+    ],
+    "3257:text": [
+      "Man She Called “Uncle”"
+    ],
+    "3258:text": [
+      "“This is most unpleasant."
+    ],
+    "3259:text": [
+      "I suppose I'll close up shop for today.”"
+    ],
+    "3261:text": [
+      "Girl He Called Kirara"
+    ],
+    "3262:text": [
+      "“Of course you should!”"
+    ],
+    "3264:text": [
+      "Makoto Shindo"
+    ],
+    "3265:text": [
+      "“Then the stallkeeper waved his hand."
+    ],
+    "3266:text": [
+      "The instant he did, he vanished."
+    ],
+    "3268:text": [
+      "The girl vanished right in front of me, too,"
+    ],
+    "3269:text": [
+      "like she was following him."
+    ],
+    "3270:text": [
+      "That left just me and a dazed Okura.”"
+    ],
+    "3272:text": [
+      "Makoto Shindo"
+    ],
+    "3273:text": [
+      "“‘...Hey, Okura.’ I spoke in a low, menacing"
+    ],
+    "3274:text": [
+      "voice.”"
+    ],
+    "3276:text": [
+      "Kazuo Okura"
+    ],
+    "3277:text": [
+      "“Y-Yes!”"
+    ],
+    "3279:text": [
+      "Makoto Shindo"
+    ],
+    "3280:text": [
+      "“Maybe that snapped him out of it. He let out"
+    ],
+    "3281:text": [
+      "a high-pitched squawk."
+    ],
+    "3282:text": [
+      "I spat back, ‘You've got three seconds to get"
+    ],
+    "3283:text": [
+      "out of my sight.’”"
+    ],
+    "3285:text": [
+      "Kazuo Okura"
+    ],
+    "3286:text": [
+      "“Y-Yeeeeees!!”"
+    ],
+    "3288:text": [
+      "Makoto Shindo"
+    ],
+    "3289:text": [
+      "“His legs had given out, but he still managed"
+    ],
+    "3290:text": [
+      "to scramble off on all fours."
+    ],
+    "3291:text": [
+      "He switched schools not long"
+    ],
+    "3292:text": [
+      "after that."
+    ],
+    "3293:text": [
+      "Makes sense. He'd almost killed me, and after"
+    ],
+    "3294:text": [
+      "making that much of a fool of himself, who'd stay?"
+    ],
+    "3305:text": [
+      "I thought about going to the cops, but how"
+    ],
+    "3306:text": [
+      "was I supposed to explain what happened?"
+    ],
+    "3307:text": [
+      "Those two weirdos, I mean."
+    ],
+    "3309:text": [
+      "What were they?"
+    ],
+    "3310:text": [
+      "I figured the old guy was probably"
+    ],
+    "3311:text": [
+      "some kind of demon."
+    ],
+    "3312:text": [
+      "And the girl was... a witch?"
+    ],
+    "3313:text": [
+      "Sound crazy?"
+    ],
+    "3314:text": [
+      "Anyway, common sense won't explain what happened."
+    ],
+    "3315:text": [
+      "That's it for my story.”"
+    ],
+    "3336:text": [
+      "Kazuo Okura"
+    ],
+    "3337:text": [
+      "“This...? I bought it at a festival stall.”"
+    ],
+    "3339:text": [
+      "Makoto Shindo"
+    ],
+    "3340:text": [
+      "“Okura sounded like I was bothering him."
+    ],
+    "3341:text": [
+      "That was about as curt as you can get.”"
+    ],
+    "3351:text": [
+      "Kazuo Okura"
+    ],
+    "3352:text": [
+      "“This...? I found it somewhere.”"
+    ],
+    "3354:text": [
+      "Makoto Shindo"
+    ],
+    "3355:text": [
+      "“That's what Okura said."
+    ],
+    "3356:text": [
+      "But he faltered for a second before he answered,"
+    ],
+    "3357:text": [
+      "and I caught that."
+    ],
+    "3358:text": [
+      "Okura was lying."
+    ],
+    "3359:text": [
+      "Come on, how likely is it you'd find a whole deck"
+    ],
+    "3360:text": [
+      "just lying there with every card still in it?"
+    ],
+    "3361:text": [
+      "It wasn't even dirty."
+    ],
+    "3363:text": [
+      "But why'd he have to lie?"
+    ],
+    "3364:text": [
+      "He must've been hiding something"
+    ],
+    "3365:text": [
+      "he didn't want me to find out."
+    ],
+    "3366:text": [
+      "Something was definitely fishy."
+    ],
+    "3367:text": [
+      "So I decided I'd keep an eye on him"
+    ],
+    "3368:text": [
+      "for a while.”"
+    ],
+    "3416:text": [
+      "Makoto Shindo"
+    ],
+    "3417:text": [
+      "“So, who's next?”"
+    ],
+    "3427:text": [
+      "Makoto Shindo"
+    ],
+    "3428:text": [
+      "“Hey, the seventh person still hasn't shown up."
+    ],
+    "3429:text": [
+      "Is that okay?”"
+    ],
+    "3439:text": [
+      "Makoto Shindo"
+    ],
+    "3440:text": [
+      "“Well, we've only got one person left."
+    ],
+    "3441:text": [
+      "Next up... that guy, huh."
+    ],
+    "3442:text": [
+      "Kazama, was it? He seems like the flashy,"
+    ],
+    "3443:text": [
+      "shallow type."
+    ],
+    "3444:text": [
+      "Well, let's hear what he has to say.”"
+    ],
+    "3454:text": [
+      "Makoto Shindo"
+    ],
+    "3455:text": [
+      "“We're down to the last one."
+    ],
+    "3456:text": [
+      "It's Fukuzawa next, right?"
+    ],
+    "3457:text": [
+      "Women tend to know more about this kind of stuff"
+    ],
+    "3458:text": [
+      "than men do."
+    ],
+    "3459:text": [
+      "I'm looking forward to hearing her story.”"
+    ],
+    "3469:text": [
+      "Makoto Shindo"
+    ],
+    "3470:text": [
+      "“Huh. Only one left."
+    ],
+    "3471:text": [
+      "Next up is that gloomy-looking guy."
+    ],
+    "3472:text": [
+      "Arai, if I remember right."
+    ],
+    "3473:text": [
+      "I wonder what kind of story he'll tell.”"
+    ],
+    "3484:text": [
+      "Makoto Shindo"
+    ],
+    "3485:text": [
+      "“One more and we'll have heard from everyone here."
+    ],
+    "3486:text": [
+      "Hosoda, was it? What do you have to eat"
+    ],
+    "3487:text": [
+      "to end up looking like that?"
+    ],
+    "3488:text": [
+      "What kind of story could he have to tell...?”"
+    ],
+    "3498:text": [
+      "Makoto Shindo"
+    ],
+    "3499:text": [
+      "“Just one more to go."
+    ],
+    "3500:text": [
+      "Next up is that Iwashita woman, huh?"
+    ],
+    "3501:text": [
+      "Her type's scary when she snaps."
+    ],
+    "3502:text": [
+      "Let's hear what kind of story she's got.”"
+    ]
+  }
+}

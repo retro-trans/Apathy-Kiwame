@@ -1,0 +1,633 @@
+{
+  "scenario": "data/scenario/syorei.ks",
+  "source_sha256": "6f68e177818aec3a7490971117f7a6636b80e1a62f26c84681d1567fa947fce1",
+  "status": "Static complete source map; horizontal y values planned for root integration/native fit validation.",
+  "choices": {
+    "1639": 414,
+    "1641": 414,
+    "1645": 480,
+    "1647": 480,
+    "2513": 414,
+    "2515": 414,
+    "2519": 480,
+    "2521": 480,
+    "3694": 414,
+    "3696": 414,
+    "3700": 480,
+    "3702": 480
+  },
+  "menus": [
+    {
+      "scene": "*シーン001",
+      "source_range": [
+        1637,
+        1651
+      ],
+      "stop": 1651,
+      "prewait": {
+        "line": 1637,
+        "milliseconds": 500
+      },
+      "deadline": null,
+      "delayed_choice_creation": false,
+      "removed_options": false,
+      "read_state": "Each original if/else selects one fresh/visited variant for the same logical option; neither option is removed.",
+      "options": [
+        {
+          "line": 1639,
+          "variant": "unvisited",
+          "logical_option": 1,
+          "horizontal_y": 414,
+          "native_attributes": {
+            "target": "*シーン002",
+            "name": "vertical",
+            "font_color": "0xFFFFFF",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_荒岩=false,sf.召霊騒動001_1=true",
+            "height": "480",
+            "size": "24",
+            "x": "500",
+            "y": "50"
+          },
+          "original_guard_line": 1638,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動001_1==false\"]"
+        },
+        {
+          "line": 1641,
+          "variant": "visited",
+          "logical_option": 1,
+          "horizontal_y": 414,
+          "native_attributes": {
+            "target": "*シーン002",
+            "name": "vertical",
+            "font_color": "0x666666",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_荒岩=false",
+            "height": "480",
+            "size": "24",
+            "x": "500",
+            "y": "50"
+          },
+          "original_guard_line": 1638,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動001_1==false\"]"
+        },
+        {
+          "line": 1645,
+          "variant": "unvisited",
+          "logical_option": 2,
+          "horizontal_y": 480,
+          "native_attributes": {
+            "target": "*シーン003",
+            "name": "vertical",
+            "font_color": "0xFFFFFF",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_荒岩=true,sf.召霊騒動001_2=true",
+            "height": "480",
+            "size": "24",
+            "x": "420",
+            "y": "50"
+          },
+          "original_guard_line": 1644,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動001_2==false\"]"
+        },
+        {
+          "line": 1647,
+          "variant": "visited",
+          "logical_option": 2,
+          "horizontal_y": 480,
+          "native_attributes": {
+            "target": "*シーン003",
+            "name": "vertical",
+            "font_color": "0x666666",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_荒岩=true",
+            "height": "480",
+            "size": "24",
+            "x": "420",
+            "y": "50"
+          },
+          "original_guard_line": 1644,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動001_2==false\"]"
+        }
+      ]
+    },
+    {
+      "scene": "*シーン010",
+      "source_range": [
+        2511,
+        2525
+      ],
+      "stop": 2525,
+      "prewait": {
+        "line": 2511,
+        "milliseconds": 500
+      },
+      "deadline": null,
+      "delayed_choice_creation": false,
+      "removed_options": false,
+      "read_state": "Each original if/else selects one fresh/visited variant for the same logical option; neither option is removed.",
+      "options": [
+        {
+          "line": 2513,
+          "variant": "unvisited",
+          "logical_option": 1,
+          "horizontal_y": 414,
+          "native_attributes": {
+            "target": "*シーン011",
+            "name": "vertical",
+            "font_color": "0xFFFFFF",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_新福=false,sf.召霊騒動010_1=true",
+            "height": "450",
+            "size": "27",
+            "x": "500",
+            "y": "50"
+          },
+          "original_guard_line": 2512,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動010_1==false\"]"
+        },
+        {
+          "line": 2515,
+          "variant": "visited",
+          "logical_option": 1,
+          "horizontal_y": 414,
+          "native_attributes": {
+            "target": "*シーン011",
+            "name": "vertical",
+            "font_color": "0x666666",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_新福=false",
+            "height": "450",
+            "size": "27",
+            "x": "500",
+            "y": "50"
+          },
+          "original_guard_line": 2512,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動010_1==false\"]"
+        },
+        {
+          "line": 2519,
+          "variant": "unvisited",
+          "logical_option": 2,
+          "horizontal_y": 480,
+          "native_attributes": {
+            "target": "*シーン016",
+            "name": "vertical",
+            "font_color": "0xFFFFFF",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_新福=true,sf.召霊騒動010_2=true",
+            "height": "450",
+            "size": "27",
+            "x": "420",
+            "y": "50"
+          },
+          "original_guard_line": 2518,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動010_2==false\"]"
+        },
+        {
+          "line": 2521,
+          "variant": "visited",
+          "logical_option": 2,
+          "horizontal_y": 480,
+          "native_attributes": {
+            "target": "*シーン016",
+            "name": "vertical",
+            "font_color": "0x666666",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_新福=true",
+            "height": "450",
+            "size": "27",
+            "x": "420",
+            "y": "50"
+          },
+          "original_guard_line": 2518,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動010_2==false\"]"
+        }
+      ]
+    },
+    {
+      "scene": "*シーン021",
+      "source_range": [
+        3692,
+        3706
+      ],
+      "stop": 3706,
+      "prewait": {
+        "line": 3692,
+        "milliseconds": 500
+      },
+      "deadline": null,
+      "delayed_choice_creation": false,
+      "removed_options": false,
+      "read_state": "Each original if/else selects one fresh/visited variant for the same logical option; neither option is removed.",
+      "options": [
+        {
+          "line": 3694,
+          "variant": "unvisited",
+          "logical_option": 1,
+          "horizontal_y": 414,
+          "native_attributes": {
+            "target": "*シーン022",
+            "name": "vertical",
+            "font_color": "0xFFFFFF",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_細風=false,sf.召霊騒動021_1=true",
+            "height": "450",
+            "size": "24",
+            "x": "500",
+            "y": "50"
+          },
+          "original_guard_line": 3693,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動021_1==false\"]"
+        },
+        {
+          "line": 3696,
+          "variant": "visited",
+          "logical_option": 1,
+          "horizontal_y": 414,
+          "native_attributes": {
+            "target": "*シーン022",
+            "name": "vertical",
+            "font_color": "0x666666",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_細風=false",
+            "height": "450",
+            "size": "24",
+            "x": "500",
+            "y": "50"
+          },
+          "original_guard_line": 3693,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動021_1==false\"]"
+        },
+        {
+          "line": 3700,
+          "variant": "unvisited",
+          "logical_option": 2,
+          "horizontal_y": 480,
+          "native_attributes": {
+            "target": "*シーン025",
+            "name": "vertical",
+            "font_color": "0xFFFFFF",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_細風=true,sf.召霊騒動021_2=true",
+            "height": "450",
+            "size": "24",
+            "x": "420",
+            "y": "50"
+          },
+          "original_guard_line": 3699,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動021_2==false\"]"
+        },
+        {
+          "line": 3702,
+          "variant": "visited",
+          "logical_option": 2,
+          "horizontal_y": 480,
+          "native_attributes": {
+            "target": "*シーン025",
+            "name": "vertical",
+            "font_color": "0x666666",
+            "graphic": "c_btn.png",
+            "enterimg": "button.png",
+            "exp": "f.召霊_細風=true",
+            "height": "450",
+            "size": "24",
+            "x": "420",
+            "y": "50"
+          },
+          "original_guard_line": 3699,
+          "original_guard_expression": "[if eval exp=\"sf.召霊騒動021_2==false\"]"
+        }
+      ]
+    }
+  ],
+  "positions": [
+    {
+      "line": 28,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "zen.png",
+        "height": "690",
+        "width": "960",
+        "top": "0",
+        "left": "0",
+        "opacity": "150"
+      },
+      "kind": "full frame"
+    },
+    {
+      "line": 29,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "30",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 1809,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "cg.png",
+        "height": "690",
+        "width": "362",
+        "top": "0",
+        "left": "-50",
+        "opacity": "150"
+      },
+      "kind": "CG frame"
+    },
+    {
+      "line": 1810,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "10",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 1942,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "zen.png",
+        "height": "690",
+        "width": "960",
+        "top": "0",
+        "left": "0",
+        "opacity": "150"
+      },
+      "kind": "full frame"
+    },
+    {
+      "line": 1943,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "30",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 2112,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "cg.png",
+        "height": "690",
+        "width": "362",
+        "top": "0",
+        "left": "-50",
+        "opacity": "150"
+      },
+      "kind": "CG frame"
+    },
+    {
+      "line": 2113,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "10",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 2156,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "zen.png",
+        "height": "690",
+        "width": "960",
+        "top": "0",
+        "left": "0",
+        "opacity": "150"
+      },
+      "kind": "full frame"
+    },
+    {
+      "line": 2157,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "30",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 2191,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "cg.png",
+        "height": "690",
+        "width": "362",
+        "top": "0",
+        "left": "-50",
+        "opacity": "150"
+      },
+      "kind": "CG frame"
+    },
+    {
+      "line": 2192,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "10",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 2232,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "zen.png",
+        "height": "690",
+        "width": "960",
+        "top": "0",
+        "left": "0",
+        "opacity": "150"
+      },
+      "kind": "full frame"
+    },
+    {
+      "line": 2233,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "30",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 3272,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "cg.png",
+        "height": "690",
+        "width": "362",
+        "top": "0",
+        "left": "-50",
+        "opacity": "150"
+      },
+      "kind": "CG frame"
+    },
+    {
+      "line": 3273,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "10",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 3304,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "zen.png",
+        "height": "690",
+        "width": "960",
+        "top": "0",
+        "left": "0",
+        "opacity": "150"
+      },
+      "kind": "full frame"
+    },
+    {
+      "line": 3305,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "30",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 5060,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "cg.png",
+        "height": "690",
+        "width": "362",
+        "top": "0",
+        "left": "-50",
+        "opacity": "150"
+      },
+      "kind": "CG frame"
+    },
+    {
+      "line": 5061,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "10",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 5084,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "zen.png",
+        "height": "690",
+        "width": "960",
+        "top": "0",
+        "left": "0",
+        "opacity": "150"
+      },
+      "kind": "full frame"
+    },
+    {
+      "line": 5085,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "30",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 5388,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "cg.png",
+        "height": "690",
+        "width": "362",
+        "top": "0",
+        "left": "-50",
+        "opacity": "150"
+      },
+      "kind": "CG frame"
+    },
+    {
+      "line": 5389,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "10",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    },
+    {
+      "line": 5851,
+      "native_attributes": {
+        "layer": "message0",
+        "frame": "cg.png",
+        "height": "690",
+        "width": "362",
+        "top": "0",
+        "left": "-50",
+        "opacity": "150"
+      },
+      "kind": "CG frame"
+    },
+    {
+      "line": 5852,
+      "native_attributes": {
+        "margint": "37",
+        "marginb": "53",
+        "marginl": "10",
+        "marginr": "55"
+      },
+      "kind": "margins"
+    }
+  ],
+  "CG_position_lines": [
+    1809,
+    2112,
+    2191,
+    3272,
+    5060,
+    5388,
+    5851
+  ],
+  "scope": "All3 menus/12physical fresh+visited tags and every original position command. No timed decision, delayed choice or read-state removal found in these source menus.",
+  "native_preservation": "Mapping changes only presentation; source conditionals, exp assignments, targets and500ms prewaits remain intact.",
+  "change_log": [
+    {
+      "date": "2026-11-11",
+      "change": "Mapped every Syorei menu variant and exact CG/full/margin position command from source."
+    }
+  ]
+}

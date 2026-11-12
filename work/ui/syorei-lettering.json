@@ -1,0 +1,3759 @@
+{
+  "version": 1,
+  "status": "Reviewed copy; deterministic vector lettering over exact guarded source images. The final 13 native phone/title image fixtures passed copy and fit; actual route/controller QA is owned by root.",
+  "scenario": "data/scenario/syorei.ks",
+  "source_sha256": "6f68e177818aec3a7490971117f7a6636b80e1a62f26c84681d1567fa947fce1",
+  "plan_source": "work/source/syorei-media-english-plan.json",
+  "plan_sha256": "b94849dd4f1b720155f3a54d4d52c7560bc7677bd9d1d50f027d082f1b9d95e4",
+  "native_dimensions": [
+    960,
+    690
+  ],
+  "font": {
+    "path": "tools/fonts/genei-latin/GenEiLateGoP_v2.ttf",
+    "sha256": "39926aadea7b19df8dfc1d529d87a7304d6515f0767de8687c9ca58415d89afb",
+    "policy": "Outline actual glyphs in each SVG so phone text uses the project proportional Latin face without external-font loading."
+  },
+  "source_assets": [
+    {
+      "path": "bgimage/syorei/招待.jpg",
+      "sha256": "2528dfad914b22007e19ddbea9803d4bec5eed90501549e4369d0c2274154781",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1203
+      ]
+    },
+    {
+      "path": "bgimage/syorei/岩下着信.jpg",
+      "sha256": "f62aca82feeb33b9473b7bfe4acb4ab547a84de44c6e62517da7d45ab4caee99",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1406
+      ]
+    },
+    {
+      "path": "bgimage/syorei/岩下通話.jpg",
+      "sha256": "9e813b4f67875d557fa6762c6ababe8e8693225b9eb0e19da98d5a14479a941d",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1427,
+        1659
+      ]
+    },
+    {
+      "path": "bgimage/syorei/新堂発信.jpg",
+      "sha256": "7e4a132c199261c67666d5e6b421e8a53013ebf2762cb1538ce8ec83b4c4fbb5",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2536
+      ]
+    },
+    {
+      "path": "bgimage/syorei/福沢発信.jpg",
+      "sha256": "31aa81d0e03c5ff1e0c1ab2b37122948b5fe5f21c8d262f5b4cbb2e5425ab9f1",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2695
+      ]
+    },
+    {
+      "path": "bgimage/syorei/風間着信.jpg",
+      "sha256": "23fd5cb27d688bdbf50a8aeb9bc88265af6addcb1a5b5fd100fa11dafbea91fe",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        3461
+      ]
+    },
+    {
+      "path": "bgimage/syorei/トーク画面1.jpg",
+      "sha256": "2dbba01b49a7d389cc94081794c76a5bf8e722f0843774a320b519070858c7d9",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1812
+      ]
+    },
+    {
+      "path": "bgimage/syorei/トーク画面2.jpg",
+      "sha256": "65a9acb62f86ef20b8cf994af0d305fdbef90b63485a46429c7494f9db351caa",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2115
+      ]
+    },
+    {
+      "path": "bgimage/syorei/トーク画面3.jpg",
+      "sha256": "e6716949d8afffc881995063e89e467d2bdd68226097ffacf8617af40417dd23",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2197
+      ]
+    },
+    {
+      "path": "bgimage/syorei/トーク画面4.jpg",
+      "sha256": "55948663b81e0e720d16f59e373947492be870d732faccf0360593055493f387",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2213
+      ]
+    },
+    {
+      "path": "bgimage/syorei/トーク画面5.jpg",
+      "sha256": "a45d9d9e4a7b5eb7c079492cc1885af8416b2fd28e50212343eb228e1953bcb6",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2218
+      ]
+    },
+    {
+      "path": "bgimage/title/title_召霊騒動.png",
+      "sha256": "574bc2cc108692ae5736f85b78c0fa5422fa864375b29126b393cfcdf1d25808",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        112
+      ]
+    },
+    {
+      "path": "bgimage/title/title_召霊騒動2.png",
+      "sha256": "33b3d1e13e8fa89d92778a310d5253bebfe33189f21e6f6e08deb685a98ce0b6",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        113
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/鳥居.jpg",
+      "sha256": "8efd3b9adaa17c02de35c4746915ecb6f88d03c96fb87e9e889eac394eaa0299",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        555,
+        583,
+        597,
+        892,
+        1123,
+        1583,
+        1618,
+        1764,
+        1945,
+        2047,
+        2418,
+        2429,
+        2479,
+        2848,
+        3132,
+        3367,
+        4011,
+        4277,
+        4774,
+        4915,
+        4938,
+        4955
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/はい.jpg",
+      "sha256": "666efe6dc07e2a4f4e9598204bd5569969ccfefef924c22039a88d7ac90e4c24",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        584
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/し.jpg",
+      "sha256": "4d290779c258a31b5987cc300a3b02e89edf9d321012492a8225b52844ffb3e2",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1584,
+        2434
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/け.jpg",
+      "sha256": "3abf794109a7baf1e8f223309bf373f77bd770273de7264535b9141376e49382",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1585
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/き.jpg",
+      "sha256": "baca639fa4251daf391d50891114ecf8429b858bdde4a4aff5510b43fd9b0fc9",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1586,
+        2430
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/た.jpg",
+      "sha256": "db577cf308dc6d1784a6465e4805420d91cc2473b1a68ad2cf4b28fa7df1f7d6",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1587
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/め.jpg",
+      "sha256": "04435ca5a6c3612bdfa360bff329cc8cd2ad18812443c22855d961e1e4aaed06",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1588
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/ひ.jpg",
+      "sha256": "cdbbae306888b628dc43d363c54858917abaa57200a8e30f20de529c4ece3152",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1619
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/か.jpg",
+      "sha256": "a29d57ea9513c9ba3617ba48ab11a765c6c70a5fb1f887f76aa29239e57b4612",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1620
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/り.jpg",
+      "sha256": "0b1ac667433ab582faf8d58272130d98034023f45469c13b5b9199e9061a95d3",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        1621
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/を.jpg",
+      "sha256": "c074d900c39a657d9be72eeb63e5ce34a8f1bda49289be61170caef810073c04",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2431
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/そ.jpg",
+      "sha256": "8248683fc5c9664768aedee8204542220d35480ea0c985f3d2ceadcf37ffa626",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2432
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/ら.jpg",
+      "sha256": "70058e46f5e55a32ecb0118ad0d8226e0d8a6b8d407a97de5b96bb86f4e9463f",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2433
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/て.jpg",
+      "sha256": "427a415587952041f88591060e91b76c23525902104d802d5650c4780db73d04",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2435
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/ね.jpg",
+      "sha256": "4c2eea96279c5cbf4f099d232792507c0bd2ac2a918654b38479eff6059685ae",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2480
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/こ.jpg",
+      "sha256": "da3504614e07bbe39db2f7937821d9d7afb208d2217788addaaf14110c57e362",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        2481
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/く.jpg",
+      "sha256": "ed310568848a554b6e0bb5f5d732f0fdf5fd1991f42ab19501696b7e6e8e9aa9",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        4939
+      ]
+    },
+    {
+      "path": "bgimage/syorei/こっくり/る.jpg",
+      "sha256": "3f52deb1c5d02105903b68b343cbfcb6f1e9483838ae6ee9b6cbd45c2d5b4b15",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        4940
+      ]
+    },
+    {
+      "path": "bgimage/kazama/鳥居.jpg",
+      "sha256": "3ee8462222ff0eb72ec0ec12347c7d4c7e9c0c77c3c2fadd1a6dd08ebf7b4878",
+      "dimensions": [
+        960,
+        690
+      ],
+      "source_lines": [
+        6156,
+        6259
+      ]
+    }
+  ],
+  "notification": {
+    "asset_path": "data/bgimage/syorei/招待.jpg",
+    "source_lines": [
+      1203
+    ],
+    "source_sha256": "2528dfad914b22007e19ddbea9803d4bec5eed90501549e4369d0c2274154781",
+    "native_dimensions": [
+      960,
+      690
+    ],
+    "coordinate_system": {
+      "rectified_canvas": [
+        400,
+        650
+      ],
+      "native_screen_quad_estimate": [
+        [
+          575,
+          0
+        ],
+        [
+          875,
+          233
+        ],
+        [
+          404,
+          690
+        ],
+        [
+          87,
+          475
+        ]
+      ]
+    },
+    "labels": [
+      {
+        "source": "圏外",
+        "english": "No Service",
+        "rectified_box": [
+          12,
+          8,
+          95,
+          20
+        ],
+        "font_size": 11
+      },
+      {
+        "source": "21:34",
+        "english": "21:34",
+        "rectified_box": [
+          25,
+          77,
+          350,
+          100
+        ],
+        "font_size": 80,
+        "preserve": "Original thin Latin digits may be retained."
+      },
+      {
+        "source": "LIME",
+        "english": "LIME",
+        "rectified_box": [
+          59,
+          220,
+          80,
+          23
+        ],
+        "font_size": 15
+      },
+      {
+        "source": "1分前",
+        "english": "1m ago",
+        "rectified_box": [
+          295,
+          220,
+          72,
+          23
+        ],
+        "font_size": 11
+      },
+      {
+        "source": "グループに招待されました",
+        "english": "You've been invited to a group.",
+        "rectified_box": [
+          60,
+          248,
+          307,
+          38
+        ],
+        "font_size": 17
+      }
+    ],
+    "preserve": [
+      "LIME app spelling/icon, not LINE",
+      "Cat lock-screen wallpaper and21:34clock",
+      "Notification timing and age",
+      "Original device/camera perspective"
+    ],
+    "player_name_policy": "No printed player name is present here; do not insert a default or personalized name.",
+    "clean": "work/ui/art/syorei/notification-clean.png",
+    "clean_sha256": "d25e8d6a025e7e4bf3249140a507cb7cc8f998bb5080be78b3a4f859afeb6f8f",
+    "patch_polygons": [
+      [
+        [
+          573,
+          5
+        ],
+        [
+          604,
+          27
+        ],
+        [
+          590,
+          44
+        ],
+        [
+          565,
+          22
+        ]
+      ]
+    ],
+    "native_panel_path": "M455 170 L696 362 Q710 372 700 384 L664 423 Q656 432 644 422 L401 225 Q390 216 401 204 L437 170 Q445 160 455 170 Z",
+    "brand_preserve_polygon": [
+      [
+        446,
+        167
+      ],
+      [
+        504,
+        213
+      ],
+      [
+        486,
+        236
+      ],
+      [
+        428,
+        191
+      ]
+    ],
+    "materialized_copy": {
+      "No Service": {
+        "x": 12,
+        "baseline": 16,
+        "font": 10
+      },
+      "1m ago": {
+        "center_x": 348,
+        "baseline": 225,
+        "font": 10
+      },
+      "invitation": {
+        "text": "You've been invited to a group.",
+        "x": 78,
+        "baseline": 262,
+        "font": 17
+      }
+    },
+    "correction": "Whole original rounded notification surface repaired from clean plate; original LIME/app icon restored. Nativepanel/status masks, no opaque letter rectangle."
+  },
+  "calls": [
+    {
+      "asset_path": "data/bgimage/syorei/岩下着信.jpg",
+      "source_lines": [
+        1406
+      ],
+      "source_sha256": "f62aca82feeb33b9473b7bfe4acb4ab547a84de44c6e62517da7d45ab4caee99",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "kind": "incoming",
+      "coordinate_system": {
+        "rectified_canvas": [
+          400,
+          650
+        ],
+        "native_screen_quad_estimate": [
+          [
+            575,
+            0
+          ],
+          [
+            875,
+            233
+          ],
+          [
+            404,
+            690
+          ],
+          [
+            87,
+            475
+          ]
+        ],
+        "projection": "Perspective-project onto original phone plane; refine mask against source corners before rendering."
+      },
+      "labels": [
+        {
+          "id": "caller",
+          "english": "Akemi Iwashita",
+          "rectified_box": [
+            24,
+            80,
+            352,
+            60
+          ],
+          "font_size": 34,
+          "anchor": "middle"
+        },
+        {
+          "id": "decline",
+          "source": "拒否",
+          "english": "Decline",
+          "rectified_box": [
+            45,
+            560,
+            120,
+            28
+          ],
+          "font_size": 13
+        },
+        {
+          "id": "answer",
+          "source": "応答",
+          "english": "Answer",
+          "rectified_box": [
+            250,
+            560,
+            120,
+            28
+          ],
+          "font_size": 13
+        },
+        {
+          "id": "message_reply",
+          "source": "メッセージで返信",
+          "english": "Reply with message",
+          "rectified_box": [
+            232,
+            426,
+            150,
+            38
+          ],
+          "font_size": 13,
+          "lines": [
+            "Reply with",
+            "message"
+          ]
+        }
+      ],
+      "preserve": [
+        "Red/green call icons and their source states",
+        "In-call duration00:03",
+        "Source blur, perspective and phone hardware"
+      ],
+      "note": "Fukuzawa outgoing screenshot shows dots beneath name, not a fully readable Calling label; kept dots rather than inventing additional visible wording."
+    },
+    {
+      "asset_path": "data/bgimage/syorei/岩下通話.jpg",
+      "source_lines": [
+        1427,
+        1659
+      ],
+      "source_sha256": "9e813b4f67875d557fa6762c6ababe8e8693225b9eb0e19da98d5a14479a941d",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "kind": "in_call",
+      "coordinate_system": {
+        "rectified_canvas": [
+          400,
+          650
+        ],
+        "native_screen_quad_estimate": [
+          [
+            575,
+            0
+          ],
+          [
+            875,
+            233
+          ],
+          [
+            404,
+            690
+          ],
+          [
+            87,
+            475
+          ]
+        ],
+        "projection": "Perspective-project onto original phone plane; refine mask against source corners before rendering."
+      },
+      "labels": [
+        {
+          "id": "caller",
+          "english": "Akemi Iwashita",
+          "rectified_box": [
+            24,
+            80,
+            352,
+            60
+          ],
+          "font_size": 34,
+          "anchor": "middle"
+        },
+        {
+          "id": "status",
+          "english": "00:03",
+          "rectified_box": [
+            24,
+            151,
+            352,
+            30
+          ],
+          "font_size": 15,
+          "anchor": "middle"
+        }
+      ],
+      "preserve": [
+        "Red/green call icons and their source states",
+        "In-call duration00:03",
+        "Source blur, perspective and phone hardware"
+      ],
+      "note": "Fukuzawa outgoing screenshot shows dots beneath name, not a fully readable Calling label; kept dots rather than inventing additional visible wording."
+    },
+    {
+      "asset_path": "data/bgimage/syorei/新堂発信.jpg",
+      "source_lines": [
+        2536
+      ],
+      "source_sha256": "7e4a132c199261c67666d5e6b421e8a53013ebf2762cb1538ce8ec83b4c4fbb5",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "kind": "outgoing",
+      "coordinate_system": {
+        "rectified_canvas": [
+          400,
+          650
+        ],
+        "native_screen_quad_estimate": [
+          [
+            575,
+            0
+          ],
+          [
+            875,
+            233
+          ],
+          [
+            404,
+            690
+          ],
+          [
+            87,
+            475
+          ]
+        ],
+        "projection": "Perspective-project onto original phone plane; refine mask against source corners before rendering."
+      },
+      "labels": [
+        {
+          "id": "caller",
+          "english": "Makoto Shindo",
+          "rectified_box": [
+            24,
+            80,
+            352,
+            60
+          ],
+          "font_size": 34,
+          "anchor": "middle"
+        },
+        {
+          "id": "status",
+          "english": "Calling...",
+          "rectified_box": [
+            24,
+            151,
+            352,
+            30
+          ],
+          "font_size": 15,
+          "anchor": "middle"
+        }
+      ],
+      "preserve": [
+        "Red/green call icons and their source states",
+        "In-call duration00:03",
+        "Source blur, perspective and phone hardware"
+      ],
+      "note": "Fukuzawa outgoing screenshot shows dots beneath name, not a fully readable Calling label; kept dots rather than inventing additional visible wording."
+    },
+    {
+      "asset_path": "data/bgimage/syorei/福沢発信.jpg",
+      "source_lines": [
+        2695
+      ],
+      "source_sha256": "31aa81d0e03c5ff1e0c1ab2b37122948b5fe5f21c8d262f5b4cbb2e5425ab9f1",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "kind": "outgoing",
+      "coordinate_system": {
+        "rectified_canvas": [
+          400,
+          650
+        ],
+        "native_screen_quad_estimate": [
+          [
+            575,
+            0
+          ],
+          [
+            875,
+            233
+          ],
+          [
+            404,
+            690
+          ],
+          [
+            87,
+            475
+          ]
+        ],
+        "projection": "Perspective-project onto original phone plane; refine mask against source corners before rendering."
+      },
+      "labels": [
+        {
+          "id": "caller",
+          "english": "Reiko Fukuzawa",
+          "rectified_box": [
+            24,
+            80,
+            352,
+            60
+          ],
+          "font_size": 34,
+          "anchor": "middle"
+        },
+        {
+          "id": "status",
+          "english": "Calling...",
+          "rectified_box": [
+            24,
+            151,
+            352,
+            30
+          ],
+          "font_size": 15,
+          "anchor": "middle"
+        }
+      ],
+      "preserve": [
+        "Red/green call icons and their source states",
+        "In-call duration00:03",
+        "Source blur, perspective and phone hardware"
+      ],
+      "note": "Magnified/rotated original status crop confirms full source Calling status; translated as Calling... like Shindo, not dots-only."
+    },
+    {
+      "asset_path": "data/bgimage/syorei/風間着信.jpg",
+      "source_lines": [
+        3461
+      ],
+      "source_sha256": "23fd5cb27d688bdbf50a8aeb9bc88265af6addcb1a5b5fd100fa11dafbea91fe",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "kind": "incoming",
+      "coordinate_system": {
+        "rectified_canvas": [
+          400,
+          650
+        ],
+        "native_screen_quad_estimate": [
+          [
+            575,
+            0
+          ],
+          [
+            875,
+            233
+          ],
+          [
+            404,
+            690
+          ],
+          [
+            87,
+            475
+          ]
+        ],
+        "projection": "Perspective-project onto original phone plane; refine mask against source corners before rendering."
+      },
+      "labels": [
+        {
+          "id": "caller",
+          "english": "Nozomu Kazama",
+          "rectified_box": [
+            24,
+            80,
+            352,
+            60
+          ],
+          "font_size": 34,
+          "anchor": "middle"
+        },
+        {
+          "id": "decline",
+          "source": "拒否",
+          "english": "Decline",
+          "rectified_box": [
+            45,
+            560,
+            120,
+            28
+          ],
+          "font_size": 13
+        },
+        {
+          "id": "answer",
+          "source": "応答",
+          "english": "Answer",
+          "rectified_box": [
+            250,
+            560,
+            120,
+            28
+          ],
+          "font_size": 13
+        },
+        {
+          "id": "message_reply",
+          "source": "メッセージで返信",
+          "english": "Reply with message",
+          "rectified_box": [
+            232,
+            426,
+            150,
+            38
+          ],
+          "font_size": 13,
+          "lines": [
+            "Reply with",
+            "message"
+          ]
+        }
+      ],
+      "preserve": [
+        "Red/green call icons and their source states",
+        "In-call duration00:03",
+        "Source blur, perspective and phone hardware"
+      ],
+      "note": "Fukuzawa outgoing screenshot shows dots beneath name, not a fully readable Calling label; kept dots rather than inventing additional visible wording."
+    }
+  ],
+  "chats": [
+    {
+      "asset_path": "data/bgimage/syorei/トーク画面1.jpg",
+      "source_lines": [
+        1812
+      ],
+      "source_sha256": "2dbba01b49a7d389cc94081794c76a5bf8e722f0843774a320b519070858c7d9",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "message_ids": [
+        "death_shindo",
+        "death_kazama",
+        "death_hosoda",
+        "death_reiko"
+      ],
+      "header": null,
+      "layout": {
+        "coordinate_system": "Rectified inspection canvas after45degree counterclockwise rotation with expand=True; inverse-project onto original960x690. Source header is cropped: do not add it.",
+        "source_screen_quad_native_estimate": [
+          [
+            871,
+            -235
+          ],
+          [
+            1195,
+            60
+          ],
+          [
+            648,
+            727
+          ],
+          [
+            321,
+            414
+          ]
+        ],
+        "rectified_copy_region": [
+          567,
+          157,
+          360,
+          555
+        ],
+        "font_size": 16,
+        "line_height": 20,
+        "message_order": [
+          "death_shindo",
+          "death_kazama",
+          "death_hosoda",
+          "death_reiko"
+        ],
+        "placement_policy": "Preserve original phone/screen/camera angle and crop. Reflow4complete messages within existing visible screen area, preserving avatars and name associations. Original timestamps are too blurred to transcribe reliably: preserve their existing raster unchanged. Coordinates are draft anchors; root must inspect projected crop."
+      },
+      "visibility": "Original camera/phone edges/avatars/green own-message side/white incoming sides and all original timestamps/readcounts retained; no extra speaker or brand labels."
+    },
+    {
+      "asset_path": "data/bgimage/syorei/トーク画面2.jpg",
+      "source_lines": [
+        2115
+      ],
+      "source_sha256": "65a9acb62f86ef20b8cf994af0d305fdbef90b63485a46429c7494f9db351caa",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "message_ids": [
+        "amulet_reiko",
+        "amulet_kazama",
+        "amulet_player",
+        "amulet_shindo",
+        "amulet_hosoda"
+      ],
+      "header": {
+        "source": "緊急会議（7）",
+        "english": "Emergency Meeting (7)",
+        "box": [
+          483,
+          0,
+          300,
+          29
+        ],
+        "font_size": 20,
+        "membership_count": 7,
+        "policy": "7is fixed group membership, not read count or survivor count. Preserve original back/menu icons."
+      },
+      "layout": {
+        "font": "tools/fonts/genei-latin/GenEiLateGoP_v2.ttf",
+        "font_size": 16,
+        "bottom": 559,
+        "native_safe_screen_box": [
+          440,
+          0,
+          392,
+          608
+        ],
+        "nodes": [
+          {
+            "message_id": "amulet_reiko",
+            "bubble_box": [
+              487,
+              37,
+              310,
+              58
+            ],
+            "body_origin": [
+              498,
+              46
+            ],
+            "font_size": 16,
+            "line_height": 20,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "I see. So she fell while trying to get",
+              "the amulet off the kitty's neck."
+            ],
+            "sender_label": null,
+            "timestamp": {
+              "english": "0:03",
+              "box": [
+                802,
+                80,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "amulet_kazama",
+            "bubble_box": [
+              487,
+              119,
+              310,
+              78
+            ],
+            "body_origin": [
+              498,
+              128
+            ],
+            "font_size": 16,
+            "line_height": 20,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Poor thing. I wish I could share some",
+              "of my extraordinary athletic ability",
+              "with her."
+            ],
+            "sender_label": {
+              "english": "Nozomu Kazama",
+              "box": [
+                487,
+                105,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:05",
+              "box": [
+                802,
+                182,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "amulet_player",
+            "bubble_box": [
+              535,
+              207,
+              290,
+              98
+            ],
+            "body_origin": [
+              546,
+              216
+            ],
+            "font_size": 16,
+            "line_height": 20,
+            "wrap_width": 268,
+            "suggested_lines": [
+              "It's a tragic way to die, but I don't",
+              "understand why she became an",
+              "evil spirit. It was an accident,",
+              "when you get down to it."
+            ],
+            "sender_label": null,
+            "timestamp": {
+              "english": "0:06",
+              "box": [
+                483,
+                287,
+                47,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": {
+              "english": "Read 4",
+              "box": [
+                483,
+                274,
+                47,
+                13
+              ],
+              "font_size": 10
+            },
+            "emoji": null
+          },
+          {
+            "message_id": "amulet_shindo",
+            "bubble_box": [
+              487,
+              329,
+              310,
+              98
+            ],
+            "body_origin": [
+              498,
+              338
+            ],
+            "font_size": 16,
+            "line_height": 20,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "First off, I want to know why the cat",
+              "had an amulet around its neck. Did it",
+              "accidentally snag one lying around,",
+              "or did someone put it there?"
+            ],
+            "sender_label": {
+              "english": "Makoto Shindo",
+              "box": [
+                487,
+                315,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:06",
+              "box": [
+                802,
+                412,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "amulet_hosoda",
+            "bubble_box": [
+              487,
+              451,
+              310,
+              98
+            ],
+            "body_origin": [
+              498,
+              460
+            ],
+            "font_size": 16,
+            "line_height": 20,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "If someone put it there, she might",
+              "resent them. But she could also have",
+              "become an evil spirit for some other",
+              "reason."
+            ],
+            "sender_label": {
+              "english": "Tomoharu Hosoda",
+              "box": [
+                487,
+                437,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:08",
+              "box": [
+                802,
+                534,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          }
+        ],
+        "measurement": "Whole-word wrap measured with PIL using project GeneiLatin font. Proposed draft coordinates only; no asset rendered or native pixel fit certified."
+      },
+      "visibility": "Original camera/phone edges/avatars/green own-message side/white incoming sides and all original timestamps/readcounts retained; no extra speaker or brand labels."
+    },
+    {
+      "asset_path": "data/bgimage/syorei/トーク画面3.jpg",
+      "source_lines": [
+        2197
+      ],
+      "source_sha256": "e6716949d8afffc881995063e89e467d2bdd68226097ffacf8617af40417dd23",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "message_ids": [
+        "search_offer",
+        "search_plan",
+        "search_bait",
+        "search_warning",
+        "search_typo"
+      ],
+      "header": {
+        "source": "緊急会議（7）",
+        "english": "Emergency Meeting (7)",
+        "box": [
+          483,
+          0,
+          300,
+          29
+        ],
+        "font_size": 20,
+        "membership_count": 7,
+        "policy": "7is fixed group membership, not read count or survivor count. Preserve original back/menu icons."
+      },
+      "layout": {
+        "font": "tools/fonts/genei-latin/GenEiLateGoP_v2.ttf",
+        "font_size": 17,
+        "bottom": 541,
+        "native_safe_screen_box": [
+          440,
+          0,
+          392,
+          608
+        ],
+        "nodes": [
+          {
+            "message_id": "search_offer",
+            "bubble_box": [
+              487,
+              51,
+              310,
+              39
+            ],
+            "body_origin": [
+              498,
+              60
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Should I go look for it?"
+            ],
+            "sender_label": {
+              "english": "Reiko Fukuzawa",
+              "box": [
+                487,
+                37,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:13",
+              "box": [
+                802,
+                75,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "search_plan",
+            "bubble_box": [
+              487,
+              114,
+              310,
+              102
+            ],
+            "body_origin": [
+              498,
+              123
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "I'll find the cat and get the amulet",
+              "off its neck. If she's still attached",
+              "to it, maybe giving it back will",
+              "satisfy the evil spirit."
+            ],
+            "sender_label": {
+              "english": "Reiko Fukuzawa",
+              "box": [
+                487,
+                100,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:14",
+              "box": [
+                802,
+                201,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "search_bait",
+            "bubble_box": [
+              487,
+              240,
+              310,
+              81
+            ],
+            "body_origin": [
+              498,
+              249
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "I happen to have some dried",
+              "sardines with me, too. I hope I can",
+              "lure it out with those."
+            ],
+            "sender_label": {
+              "english": "Reiko Fukuzawa",
+              "box": [
+                487,
+                226,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:14",
+              "box": [
+                802,
+                306,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "search_warning",
+            "bubble_box": [
+              487,
+              345,
+              310,
+              123
+            ],
+            "body_origin": [
+              498,
+              354
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "But it's dangerous to go around",
+              "the school building looking for a",
+              "cat. If that's what happened, the",
+              "evil spirit is probably looking for",
+              "it, too."
+            ],
+            "sender_label": {
+              "english": "Tomoharu Hosoda",
+              "box": [
+                487,
+                331,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:16",
+              "box": [
+                802,
+                453,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "search_typo",
+            "bubble_box": [
+              487,
+              492,
+              310,
+              39
+            ],
+            "body_origin": [
+              498,
+              501
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Right, I'm dying now"
+            ],
+            "sender_label": {
+              "english": "Reiko Fukuzawa",
+              "box": [
+                487,
+                478,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:16",
+              "box": [
+                802,
+                516,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": {
+              "policy": "Reuse original smiling/blushing-face raster, do not rely on font emoji glyph. Keep at end of same message.",
+              "reserve_pixels": [
+                20,
+                20
+              ],
+              "original_raster_box_xyxy": [
+                640,
+                508,
+                667,
+                535
+              ],
+              "original_asset_path": "data/bgimage/syorei/トーク画面3.jpg",
+              "draft_target_box": [
+                678,
+                501,
+                20,
+                20
+              ]
+            }
+          }
+        ],
+        "measurement": "Whole-word wrap measured with PIL using project GeneiLatin font. Proposed draft coordinates only; no asset rendered or native pixel fit certified."
+      },
+      "visibility": "Original camera/phone edges/avatars/green own-message side/white incoming sides and all original timestamps/readcounts retained; no extra speaker or brand labels."
+    },
+    {
+      "asset_path": "data/bgimage/syorei/トーク画面4.jpg",
+      "source_lines": [
+        2213
+      ],
+      "source_sha256": "55948663b81e0e720d16f59e373947492be870d732faccf0360593055493f387",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "message_ids": [
+        "search_typo",
+        "search_shindo_reacts",
+        "search_kazama_reacts",
+        "search_player"
+      ],
+      "header": {
+        "source": "緊急会議（7）",
+        "english": "Emergency Meeting (7)",
+        "box": [
+          483,
+          0,
+          300,
+          29
+        ],
+        "font_size": 20,
+        "membership_count": 7,
+        "policy": "7is fixed group membership, not read count or survivor count. Preserve original back/menu icons."
+      },
+      "layout": {
+        "font": "tools/fonts/genei-latin/GenEiLateGoP_v2.ttf",
+        "font_size": 17,
+        "bottom": 338,
+        "native_safe_screen_box": [
+          440,
+          0,
+          392,
+          608
+        ],
+        "nodes": [
+          {
+            "message_id": "search_typo",
+            "bubble_box": [
+              487,
+              51,
+              310,
+              39
+            ],
+            "body_origin": [
+              498,
+              60
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Right, I'm dying now"
+            ],
+            "sender_label": {
+              "english": "Reiko Fukuzawa",
+              "box": [
+                487,
+                37,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:16",
+              "box": [
+                802,
+                75,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": {
+              "policy": "Reuse original smiling/blushing-face raster, do not rely on font emoji glyph. Keep at end of same message.",
+              "reserve_pixels": [
+                20,
+                20
+              ],
+              "original_raster_box_xyxy": [
+                641,
+                51,
+                668,
+                78
+              ],
+              "original_asset_path": "data/bgimage/syorei/トーク画面4.jpg",
+              "draft_target_box": [
+                678,
+                60,
+                20,
+                20
+              ]
+            }
+          },
+          {
+            "message_id": "search_shindo_reacts",
+            "bubble_box": [
+              487,
+              114,
+              310,
+              60
+            ],
+            "body_origin": [
+              498,
+              123
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Huh, she's gone already? That",
+              "was fast."
+            ],
+            "sender_label": {
+              "english": "Makoto Shindo",
+              "box": [
+                487,
+                100,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:17",
+              "box": [
+                802,
+                159,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "search_kazama_reacts",
+            "bubble_box": [
+              487,
+              198,
+              310,
+              81
+            ],
+            "body_origin": [
+              498,
+              207
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Of all the things to leave us with,",
+              "she had to make such an ominous",
+              "autocorrect mistake."
+            ],
+            "sender_label": {
+              "english": "Nozomu Kazama",
+              "box": [
+                487,
+                184,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:18",
+              "box": [
+                802,
+                264,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "search_player",
+            "bubble_box": [
+              535,
+              289,
+              290,
+              39
+            ],
+            "body_origin": [
+              546,
+              298
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 268,
+            "suggested_lines": [
+              "I-is she going to be all right?"
+            ],
+            "sender_label": null,
+            "timestamp": {
+              "english": "0:19",
+              "box": [
+                483,
+                310,
+                47,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": {
+              "english": "Read 3",
+              "box": [
+                483,
+                297,
+                47,
+                13
+              ],
+              "font_size": 10
+            },
+            "emoji": null
+          }
+        ],
+        "measurement": "Whole-word wrap measured with PIL using project GeneiLatin font. Proposed draft coordinates only; no asset rendered or native pixel fit certified."
+      },
+      "visibility": "Original camera/phone edges/avatars/green own-message side/white incoming sides and all original timestamps/readcounts retained; no extra speaker or brand labels."
+    },
+    {
+      "asset_path": "data/bgimage/syorei/トーク画面5.jpg",
+      "source_lines": [
+        2218
+      ],
+      "source_sha256": "a45d9d9e4a7b5eb7c079492cc1885af8416b2fd28e50212343eb228e1953bcb6",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "message_ids": [
+        "search_typo",
+        "search_shindo_reacts",
+        "search_kazama_reacts",
+        "search_player",
+        "search_shindo_follows"
+      ],
+      "header": {
+        "source": "緊急会議（7）",
+        "english": "Emergency Meeting (7)",
+        "box": [
+          483,
+          0,
+          300,
+          29
+        ],
+        "font_size": 20,
+        "membership_count": 7,
+        "policy": "7is fixed group membership, not read count or survivor count. Preserve original back/menu icons."
+      },
+      "layout": {
+        "font": "tools/fonts/genei-latin/GenEiLateGoP_v2.ttf",
+        "font_size": 17,
+        "bottom": 464,
+        "native_safe_screen_box": [
+          440,
+          0,
+          392,
+          608
+        ],
+        "nodes": [
+          {
+            "message_id": "search_typo",
+            "bubble_box": [
+              487,
+              51,
+              310,
+              39
+            ],
+            "body_origin": [
+              498,
+              60
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Right, I'm dying now"
+            ],
+            "sender_label": {
+              "english": "Reiko Fukuzawa",
+              "box": [
+                487,
+                37,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:16",
+              "box": [
+                802,
+                75,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": {
+              "policy": "Reuse original smiling/blushing-face raster, do not rely on font emoji glyph. Keep at end of same message.",
+              "reserve_pixels": [
+                20,
+                20
+              ],
+              "original_raster_box_xyxy": [
+                641,
+                51,
+                668,
+                78
+              ],
+              "original_asset_path": "data/bgimage/syorei/トーク画面5.jpg",
+              "draft_target_box": [
+                678,
+                60,
+                20,
+                20
+              ]
+            }
+          },
+          {
+            "message_id": "search_shindo_reacts",
+            "bubble_box": [
+              487,
+              114,
+              310,
+              60
+            ],
+            "body_origin": [
+              498,
+              123
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Huh, she's gone already? That",
+              "was fast."
+            ],
+            "sender_label": {
+              "english": "Makoto Shindo",
+              "box": [
+                487,
+                100,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:17",
+              "box": [
+                802,
+                159,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "search_kazama_reacts",
+            "bubble_box": [
+              487,
+              198,
+              310,
+              81
+            ],
+            "body_origin": [
+              498,
+              207
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "Of all the things to leave us with,",
+              "she had to make such an ominous",
+              "autocorrect mistake."
+            ],
+            "sender_label": {
+              "english": "Nozomu Kazama",
+              "box": [
+                487,
+                184,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:18",
+              "box": [
+                802,
+                264,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          },
+          {
+            "message_id": "search_player",
+            "bubble_box": [
+              535,
+              289,
+              290,
+              39
+            ],
+            "body_origin": [
+              546,
+              298
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 268,
+            "suggested_lines": [
+              "I-is she going to be all right?"
+            ],
+            "sender_label": null,
+            "timestamp": {
+              "english": "0:19",
+              "box": [
+                483,
+                310,
+                47,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": {
+              "english": "Read 3",
+              "box": [
+                483,
+                297,
+                47,
+                13
+              ],
+              "font_size": 10
+            },
+            "emoji": null
+          },
+          {
+            "message_id": "search_shindo_follows",
+            "bubble_box": [
+              487,
+              352,
+              310,
+              102
+            ],
+            "body_origin": [
+              498,
+              361
+            ],
+            "font_size": 17,
+            "line_height": 21,
+            "wrap_width": 288,
+            "suggested_lines": [
+              "All right, I'll go out, too. The",
+              "home economics room she was in",
+              "is close by. Maybe I can still catch",
+              "up with her."
+            ],
+            "sender_label": {
+              "english": "Makoto Shindo",
+              "box": [
+                487,
+                338,
+                305,
+                13
+              ],
+              "font_size": 11
+            },
+            "timestamp": {
+              "english": "0:19",
+              "box": [
+                802,
+                439,
+                29,
+                13
+              ],
+              "font_size": 9
+            },
+            "read_label": null,
+            "emoji": null
+          }
+        ],
+        "measurement": "Whole-word wrap measured with PIL using project GeneiLatin font. Proposed draft coordinates only; no asset rendered or native pixel fit certified."
+      },
+      "visibility": "Original camera/phone edges/avatars/green own-message side/white incoming sides and all original timestamps/readcounts retained; no extra speaker or brand labels."
+    }
+  ],
+  "messages": {
+    "death_shindo": {
+      "id": "death_shindo",
+      "sender": "Makoto Shindo",
+      "english": "I understand. I'll be careful.",
+      "timestamp": null,
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "death_kazama": {
+      "id": "death_kazama",
+      "sender": "Nozomu Kazama",
+      "english": "So it reacts to phone light, too. We should be careful even when we're messaging each other.",
+      "timestamp": null,
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "death_hosoda": {
+      "id": "death_hosoda",
+      "sender": "Tomoharu Hosoda",
+      "english": "Don't lose heart. There was nothing you could have done.",
+      "timestamp": null,
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "death_reiko": {
+      "id": "death_reiko",
+      "sender": "Reiko Fukuzawa",
+      "english": "It's good to know it attacks when there's light. We need to make proper use of that information.",
+      "timestamp": null,
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "amulet_reiko": {
+      "id": "amulet_reiko",
+      "sender": "Reiko Fukuzawa",
+      "english": "I see. So she fell while trying to get the amulet off the kitty's neck.",
+      "timestamp": "0:03",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "amulet_kazama": {
+      "id": "amulet_kazama",
+      "sender": "Nozomu Kazama",
+      "english": "Poor thing. I wish I could share some of my extraordinary athletic ability with her.",
+      "timestamp": "0:05",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "amulet_player": {
+      "id": "amulet_player",
+      "sender": "player (own green bubble; no printed name)",
+      "english": "It's a tragic way to die, but I don't understand why she became an evil spirit. It was an accident, when you get down to it.",
+      "timestamp": "0:06",
+      "read_count": 4,
+      "related_prose_fields": []
+    },
+    "amulet_shindo": {
+      "id": "amulet_shindo",
+      "sender": "Makoto Shindo",
+      "english": "First off, I want to know why the cat had an amulet around its neck. Did it accidentally snag one lying around, or did someone put it there?",
+      "timestamp": "0:06",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "amulet_hosoda": {
+      "id": "amulet_hosoda",
+      "sender": "Tomoharu Hosoda",
+      "english": "If someone put it there, she might resent them. But she could also have become an evil spirit for some other reason.",
+      "timestamp": "0:08",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "search_offer": {
+      "id": "search_offer",
+      "sender": "Reiko Fukuzawa",
+      "english": "Should I go look for it?",
+      "timestamp": "0:13",
+      "read_count": null,
+      "related_prose_fields": [
+        "2183:text"
+      ]
+    },
+    "search_plan": {
+      "id": "search_plan",
+      "sender": "Reiko Fukuzawa",
+      "english": "I'll find the cat and get the amulet off its neck. If she's still attached to it, maybe giving it back will satisfy the evil spirit.",
+      "timestamp": "0:14",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "search_bait": {
+      "id": "search_bait",
+      "sender": "Reiko Fukuzawa",
+      "english": "I happen to have some dried sardines with me, too. I hope I can lure it out with those.",
+      "timestamp": "0:14",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "search_warning": {
+      "id": "search_warning",
+      "sender": "Tomoharu Hosoda",
+      "english": "But it's dangerous to go around the school building looking for a cat. If that's what happened, the evil spirit is probably looking for it, too.",
+      "timestamp": "0:16",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "search_typo": {
+      "id": "search_typo",
+      "sender": "Reiko Fukuzawa",
+      "english": "Right, I'm dying now 😊",
+      "timestamp": "0:16",
+      "read_count": null,
+      "related_prose_fields": [
+        "2208:text",
+        "2210:text",
+        "2211:text"
+      ]
+    },
+    "search_shindo_reacts": {
+      "id": "search_shindo_reacts",
+      "sender": "Makoto Shindo",
+      "english": "Huh, she's gone already? That was fast.",
+      "timestamp": "0:17",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "search_kazama_reacts": {
+      "id": "search_kazama_reacts",
+      "sender": "Nozomu Kazama",
+      "english": "Of all the things to leave us with, she had to make such an ominous autocorrect mistake.",
+      "timestamp": "0:18",
+      "read_count": null,
+      "related_prose_fields": []
+    },
+    "search_player": {
+      "id": "search_player",
+      "sender": "player (own green bubble; no printed name)",
+      "english": "I-is she going to be all right?",
+      "timestamp": "0:19",
+      "read_count": 3,
+      "related_prose_fields": [
+        "2216:text"
+      ]
+    },
+    "search_shindo_follows": {
+      "id": "search_shindo_follows",
+      "sender": "Makoto Shindo",
+      "english": "All right, I'll go out, too. The home economics room she was in is close by. Maybe I can still catch up with her.",
+      "timestamp": "0:19",
+      "read_count": null,
+      "related_prose_fields": [
+        "2221:text",
+        "2222:text",
+        "2252:text",
+        "2253:text"
+      ]
+    }
+  },
+  "phone_matrix": [
+    0.75,
+    0.583333333333,
+    -0.75,
+    0.75,
+    575,
+    0
+  ],
+  "chat1_matrix": [
+    0.81,
+    0.7375,
+    -0.846153846154,
+    0.998461538462,
+    871,
+    -235
+  ],
+  "chat1_rectified_inverse": [
+    0.707106781187,
+    0.707106781187,
+    -0.707106781187,
+    0.707106781187,
+    480,
+    -480.900720426
+  ],
+  "chat1_UI_plane": [
+    1,
+    -0.07,
+    -0.012,
+    1,
+    575,
+    184
+  ],
+  "chat1_nodes": [
+    {
+      "bubble": [
+        8,
+        0,
+        270,
+        50
+      ],
+      "sender": [
+        12,
+        -29,
+        265,
+        23
+      ],
+      "font": 16,
+      "line_height": 20
+    },
+    {
+      "bubble": [
+        8,
+        88,
+        335,
+        132
+      ],
+      "sender": [
+        12,
+        60,
+        275,
+        23
+      ],
+      "font": 16,
+      "line_height": 20
+    },
+    {
+      "bubble": [
+        8,
+        260,
+        343,
+        112
+      ],
+      "sender": [
+        12,
+        236,
+        275,
+        22
+      ],
+      "font": 16,
+      "line_height": 20
+    },
+    {
+      "bubble": [
+        8,
+        410,
+        346,
+        124
+      ],
+      "sender": [
+        12,
+        388,
+        275,
+        22
+      ],
+      "font": 16,
+      "line_height": 20
+    }
+  ],
+  "call_materialized_geometry": {
+    "caller_baseline": 128,
+    "caller_center_x": 200,
+    "caller_font": 34,
+    "caller_mask_in_call": [
+      24,
+      73,
+      352,
+      76
+    ],
+    "caller_mask_other": [
+      24,
+      65,
+      352,
+      155
+    ],
+    "outgoing_status": {
+      "text": "Calling...",
+      "center_x": 200,
+      "baseline": 185,
+      "font": 15
+    },
+    "Decline": {
+      "mask": [
+        55,
+        562,
+        100,
+        45
+      ],
+      "center_x": 95,
+      "baseline": 585,
+      "font": 13
+    },
+    "Answer": {
+      "mask": [
+        265,
+        570,
+        95,
+        45
+      ],
+      "center_x": 310,
+      "baseline": 598,
+      "font": 13
+    },
+    "Reply with message": {
+      "mask": [
+        230,
+        430,
+        158,
+        54
+      ],
+      "center_x": 309,
+      "baselines": [
+        449,
+        468
+      ],
+      "font": 13
+    }
+  },
+  "upright_chat_body": [
+    440,
+    29,
+    392,
+    580
+  ],
+  "avatar_source_boxes": {
+    "2": [
+      [
+        443,
+        28,
+        37,
+        36
+      ],
+      [
+        443,
+        125,
+        37,
+        37
+      ],
+      null,
+      [
+        443,
+        331,
+        37,
+        37
+      ],
+      [
+        443,
+        474,
+        37,
+        37
+      ]
+    ],
+    "3": [
+      [
+        443,
+        32,
+        37,
+        37
+      ],
+      [
+        443,
+        96,
+        37,
+        37
+      ],
+      [
+        443,
+        242,
+        37,
+        37
+      ],
+      [
+        443,
+        346,
+        37,
+        37
+      ],
+      [
+        443,
+        487,
+        37,
+        37
+      ]
+    ],
+    "4": [
+      [
+        443,
+        29,
+        37,
+        37
+      ],
+      [
+        443,
+        91,
+        37,
+        37
+      ],
+      [
+        443,
+        175,
+        37,
+        37
+      ],
+      null
+    ],
+    "5": [
+      [
+        443,
+        29,
+        37,
+        37
+      ],
+      [
+        443,
+        91,
+        37,
+        37
+      ],
+      [
+        443,
+        175,
+        37,
+        37
+      ],
+      null,
+      [
+        443,
+        301,
+        37,
+        37
+      ]
+    ]
+  },
+  "titles": [
+    {
+      "asset_path": "data/bgimage/title/title_召霊騒動.png",
+      "source_lines": [
+        112
+      ],
+      "source_sha256": "574bc2cc108692ae5736f85b78c0fa5422fa864375b29126b393cfcdf1d25808",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "english": "The Summoning Incident",
+      "lines": [
+        "The Summoning",
+        "Incident"
+      ],
+      "draft_box": [
+        215,
+        267,
+        370,
+        136
+      ],
+      "font_size": 44,
+      "line_height": 52,
+      "preserve": "Original white hand silhouette/splatter, red then cyan coloration, background texture and transition timing; redraw only title lettering, recompose hand on top if overlapping.",
+      "variant": "red",
+      "clean": "work/ui/art/syorei/title-clean-red.png",
+      "clean_sha256": "0f6b8dd68be0fac19cc42f9a760ae286ee002ca14ca21dbfb5a1bf7f5733e532",
+      "clean_dimensions": [
+        1479,
+        1063
+      ],
+      "patch_box": [
+        225,
+        260,
+        400,
+        155
+      ],
+      "baselines": [
+        314,
+        370
+      ],
+      "center_x": 400
+    },
+    {
+      "asset_path": "data/bgimage/title/title_召霊騒動2.png",
+      "source_lines": [
+        113
+      ],
+      "source_sha256": "33b3d1e13e8fa89d92778a310d5253bebfe33189f21e6f6e08deb685a98ce0b6",
+      "native_dimensions": [
+        960,
+        690
+      ],
+      "english": "The Summoning Incident",
+      "lines": [
+        "The Summoning",
+        "Incident"
+      ],
+      "draft_box": [
+        215,
+        267,
+        370,
+        136
+      ],
+      "font_size": 44,
+      "line_height": 52,
+      "preserve": "Original white hand silhouette/splatter, red then cyan coloration, background texture and transition timing; redraw only title lettering, recompose hand on top if overlapping.",
+      "variant": "cyan",
+      "clean": "work/ui/art/syorei/title-clean-cyan.png",
+      "clean_sha256": "6fa4c23e98e30e0ff09ec74ceef776f9d6eaf70183537d445fa355a0acfd9509",
+      "clean_dimensions": [
+        1479,
+        1063
+      ],
+      "patch_box": [
+        225,
+        260,
+        400,
+        155
+      ],
+      "baselines": [
+        314,
+        370
+      ],
+      "center_x": 400
+    }
+  ],
+  "board": {
+    "technique_reference": "tools/kazama_ui.py, work/ui/kazama-board.json (concept reused only)",
+    "native_canvas": [
+      960,
+      690
+    ],
+    "paper_box": [
+      80,
+      56,
+      832,
+      587
+    ],
+    "policy": "Preserve original hand-drawn board as clue artwork, cell positions, torii,500yen coin and all blank cells. Add Latin romanization below existing physical cells, YES/NO under headings, and timed English answer caption outside paper. Do not replace it with a26letter grid or move coin to English-letter positions.",
+    "cell_columns_right_to_left": [
+      {
+        "x": 815,
+        "centers_y": [
+          229,
+          298,
+          379,
+          466,
+          547
+        ],
+        "labels": [
+          "a",
+          "i",
+          "u",
+          "e",
+          "o"
+        ]
+      },
+      {
+        "x": 742,
+        "centers_y": [
+          222,
+          294,
+          373,
+          462,
+          549
+        ],
+        "labels": [
+          "ka",
+          "ki",
+          "ku",
+          "ke",
+          "ko"
+        ]
+      },
+      {
+        "x": 667,
+        "centers_y": [
+          222,
+          294,
+          369,
+          458,
+          547
+        ],
+        "labels": [
+          "sa",
+          "shi",
+          "su",
+          "se",
+          "so"
+        ]
+      },
+      {
+        "x": 599,
+        "centers_y": [
+          227,
+          294,
+          371,
+          451,
+          543
+        ],
+        "labels": [
+          "ta",
+          "chi",
+          "tsu",
+          "te",
+          "to"
+        ]
+      },
+      {
+        "x": 527,
+        "centers_y": [
+          228,
+          298,
+          366,
+          453,
+          545
+        ],
+        "labels": [
+          "na",
+          "ni",
+          "nu",
+          "ne",
+          "no"
+        ]
+      },
+      {
+        "x": 447,
+        "centers_y": [
+          230,
+          298,
+          362,
+          444,
+          540
+        ],
+        "labels": [
+          "ha",
+          "hi",
+          "fu",
+          "he",
+          "ho"
+        ]
+      },
+      {
+        "x": 368,
+        "centers_y": [
+          229,
+          301,
+          364,
+          442,
+          539
+        ],
+        "labels": [
+          "ma",
+          "mi",
+          "mu",
+          "me",
+          "mo"
+        ]
+      },
+      {
+        "x": 299,
+        "centers_y": [
+          226,
+          null,
+          361,
+          null,
+          537
+        ],
+        "labels": [
+          "ya",
+          null,
+          "yu",
+          null,
+          "yo"
+        ]
+      },
+      {
+        "x": 226,
+        "centers_y": [
+          224,
+          301,
+          360,
+          443,
+          536
+        ],
+        "labels": [
+          "ra",
+          "ri",
+          "ru",
+          "re",
+          "ro"
+        ]
+      },
+      {
+        "x": 149,
+        "centers_y": [
+          227,
+          null,
+          366,
+          null,
+          537
+        ],
+        "labels": [
+          "wa",
+          null,
+          "wo",
+          null,
+          "n"
+        ]
+      }
+    ],
+    "latin_annotation_style": {
+      "font_size": 17,
+      "baseline_offset_from_cell_center": 43,
+      "font_family": "Genei Latin / hand-letter style matching reviewed Kazama approach",
+      "ink": "#243635",
+      "outline": "#e3e1d9",
+      "outline_width": 1.7,
+      "anchor": "middle"
+    },
+    "responses": [
+      {
+        "english": "YES",
+        "center": [
+          265,
+          193
+        ]
+      },
+      {
+        "english": "NO",
+        "center": [
+          697,
+          193
+        ]
+      }
+    ],
+    "blank_cells": "ya/yu/yo and wa/wo/n columns retain native absent second/fourth rows. No yi/ye/wi/we, no voicing-mark cells added. No burned-letter variant is invoked by this route.",
+    "coin_layering": "Composite an untouched original coin/shadow ellipse above any new labels so labels never cover coin or fill its original hidden cell. Measured Syorei centers included, not blindly copied from similar Kazama assets.",
+    "frames": [
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/鳥居.jpg",
+        "source_lines": [
+          555,
+          583,
+          597,
+          892,
+          1123,
+          1583,
+          1618,
+          1764,
+          1945,
+          2047,
+          2418,
+          2429,
+          2479,
+          2848,
+          3132,
+          3367,
+          4011,
+          4277,
+          4774,
+          4915,
+          4938,
+          4955
+        ],
+        "source_sha256": "8efd3b9adaa17c02de35c4746915ecb6f88d03c96fb87e9e889eac394eaa0299",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            477,
+            107,
+            574,
+            202
+          ],
+          "coin_center": [
+            525.5,
+            154.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": null
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/はい.jpg",
+        "source_lines": [
+          584
+        ],
+        "source_sha256": "666efe6dc07e2a4f4e9598204bd5569969ccfefef924c22039a88d7ac90e4c24",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            216,
+            107,
+            314,
+            202
+          ],
+          "coin_center": [
+            265.0,
+            154.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "YES"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/し.jpg",
+        "source_lines": [
+          1584,
+          2434
+        ],
+        "source_sha256": "4d290779c258a31b5987cc300a3b02e89edf9d321012492a8225b52844ffb3e2",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            623,
+            245,
+            720,
+            340
+          ],
+          "coin_center": [
+            671.5,
+            292.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "shi"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/け.jpg",
+        "source_lines": [
+          1585
+        ],
+        "source_sha256": "3abf794109a7baf1e8f223309bf373f77bd770273de7264535b9141376e49382",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            692,
+            421,
+            789,
+            516
+          ],
+          "coin_center": [
+            740.5,
+            468.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ke"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/き.jpg",
+        "source_lines": [
+          1586,
+          2430
+        ],
+        "source_sha256": "baca639fa4251daf391d50891114ecf8429b858bdde4a4aff5510b43fd9b0fc9",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            691,
+            253,
+            788,
+            348
+          ],
+          "coin_center": [
+            739.5,
+            300.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ki"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/た.jpg",
+        "source_lines": [
+          1587
+        ],
+        "source_sha256": "db577cf308dc6d1784a6465e4805420d91cc2473b1a68ad2cf4b28fa7df1f7d6",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            549,
+            178,
+            646,
+            273
+          ],
+          "coin_center": [
+            597.5,
+            225.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ta"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/め.jpg",
+        "source_lines": [
+          1588
+        ],
+        "source_sha256": "04435ca5a6c3612bdfa360bff329cc8cd2ad18812443c22855d961e1e4aaed06",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            316,
+            395,
+            413,
+            490
+          ],
+          "coin_center": [
+            364.5,
+            442.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "me"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/ひ.jpg",
+        "source_lines": [
+          1619
+        ],
+        "source_sha256": "cdbbae306888b628dc43d363c54858917abaa57200a8e30f20de529c4ece3152",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            399,
+            253,
+            496,
+            349
+          ],
+          "coin_center": [
+            447.5,
+            301.0
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "hi"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/か.jpg",
+        "source_lines": [
+          1620
+        ],
+        "source_sha256": "a29d57ea9513c9ba3617ba48ab11a765c6c70a5fb1f887f76aa29239e57b4612",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            692,
+            176,
+            789,
+            271
+          ],
+          "coin_center": [
+            740.5,
+            223.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ka"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/り.jpg",
+        "source_lines": [
+          1621
+        ],
+        "source_sha256": "0b1ac667433ab582faf8d58272130d98034023f45469c13b5b9199e9061a95d3",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            178,
+            245,
+            275,
+            340
+          ],
+          "coin_center": [
+            226.5,
+            292.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ri"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/を.jpg",
+        "source_lines": [
+          2431
+        ],
+        "source_sha256": "c074d900c39a657d9be72eeb63e5ce34a8f1bda49289be61170caef810073c04",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            105,
+            317,
+            202,
+            412
+          ],
+          "coin_center": [
+            153.5,
+            364.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "wo"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/そ.jpg",
+        "source_lines": [
+          2432
+        ],
+        "source_sha256": "8248683fc5c9664768aedee8204542220d35480ea0c985f3d2ceadcf37ffa626",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            624,
+            505,
+            721,
+            600
+          ],
+          "coin_center": [
+            672.5,
+            552.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "so"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/ら.jpg",
+        "source_lines": [
+          2433
+        ],
+        "source_sha256": "70058e46f5e55a32ecb0118ad0d8226e0d8a6b8d407a97de5b96bb86f4e9463f",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            178,
+            175,
+            275,
+            270
+          ],
+          "coin_center": [
+            226.5,
+            222.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ra"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/て.jpg",
+        "source_lines": [
+          2435
+        ],
+        "source_sha256": "427a415587952041f88591060e91b76c23525902104d802d5650c4780db73d04",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            552,
+            416,
+            649,
+            511
+          ],
+          "coin_center": [
+            600.5,
+            463.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "te"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/ね.jpg",
+        "source_lines": [
+          2480
+        ],
+        "source_sha256": "4c2eea96279c5cbf4f099d232792507c0bd2ac2a918654b38479eff6059685ae",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            483,
+            408,
+            580,
+            503
+          ],
+          "coin_center": [
+            531.5,
+            455.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ne"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/こ.jpg",
+        "source_lines": [
+          2481
+        ],
+        "source_sha256": "da3504614e07bbe39db2f7937821d9d7afb208d2217788addaaf14110c57e362",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            693,
+            502,
+            790,
+            597
+          ],
+          "coin_center": [
+            741.5,
+            549.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ko"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/く.jpg",
+        "source_lines": [
+          4939
+        ],
+        "source_sha256": "ed310568848a554b6e0bb5f5d732f0fdf5fd1991f42ab19501696b7e6e8e9aa9",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            688,
+            328,
+            785,
+            423
+          ],
+          "coin_center": [
+            736.5,
+            375.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ku"
+      },
+      {
+        "asset_path": "data/bgimage/syorei/こっくり/る.jpg",
+        "source_lines": [
+          4940
+        ],
+        "source_sha256": "3f52deb1c5d02105903b68b343cbfcb6f1e9483838ae6ee9b6cbd45c2d5b4b15",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "detected_gold_bbox": [
+            176,
+            317,
+            273,
+            412
+          ],
+          "coin_center": [
+            224.5,
+            364.5
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Color mask largest connected component followed by visual contact-sheet verification;54px clip radius proposed includes coin edge."
+        },
+        "latin_cell_label": "ru"
+      },
+      {
+        "asset_path": "data/bgimage/kazama/鳥居.jpg",
+        "source_lines": [
+          6156,
+          6259
+        ],
+        "source_sha256": "3ee8462222ff0eb72ec0ec12347c7d4c7e9c0c77c3c2fadd1a6dd08ebf7b4878",
+        "native_dimensions": [
+          960,
+          690
+        ],
+        "coin": {
+          "coin_center": [
+            525,
+            155
+          ],
+          "clip_ellipse_radii": [
+            54,
+            54
+          ],
+          "measurement": "Shared Kazama torii existing board metadata; original sharedimage viewed withcontactsheet."
+        },
+        "latin_cell_label": null
+      }
+    ],
+    "caption_style": {
+      "box": [
+        120,
+        646,
+        720,
+        40
+      ],
+      "font_size": 26,
+      "anchor": "middle",
+      "baseline_y": 674,
+      "ink": "#ffffff",
+      "shadow": "#000000",
+      "policy": "One concise Latin caption below paper, not a second narrative/dialogue pane. Clear on original message layer restoration; key by scenario+source line, not global asset alone because same cell occurs in different answers."
+    },
+    "sequences": [
+      {
+        "id": "yes",
+        "base_frame": {
+          "line": 583,
+          "asset_path": "data/bgimage/syorei/こっくり/鳥居.jpg",
+          "transition_ms": 1500,
+          "caption": ""
+        },
+        "coin_frames": [
+          {
+            "line": 584,
+            "asset_path": "data/bgimage/syorei/こっくり/はい.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "YES",
+            "caption": "Yes"
+          }
+        ],
+        "final_caption": "Yes",
+        "caption_reveal_line": 584,
+        "explicit_hold": {
+          "line": 585,
+          "milliseconds": 2000
+        },
+        "caption_clear_before_line": 588,
+        "related_prose_field": null,
+        "current_prose_english": null,
+        "timing_policy": "Preserve every original bgtransition and wait. No extra Latin-letter steps or holds; reveal full English only at final source character, no future clue during prior cells.",
+        "special_note": null,
+        "native_show_event": {
+          "line": 585,
+          "tag": "wait",
+          "after_completed_source_line": 584
+        },
+        "native_clear_event": {
+          "line": 588,
+          "tag": "layopt"
+        }
+      },
+      {
+        "id": "warning",
+        "base_frame": {
+          "line": 1583,
+          "asset_path": "data/bgimage/syorei/こっくり/鳥居.jpg",
+          "transition_ms": 1500,
+          "caption": ""
+        },
+        "coin_frames": [
+          {
+            "line": 1584,
+            "asset_path": "data/bgimage/syorei/こっくり/し.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "shi",
+            "caption": ""
+          },
+          {
+            "line": 1585,
+            "asset_path": "data/bgimage/syorei/こっくり/け.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ke",
+            "caption": ""
+          },
+          {
+            "line": 1586,
+            "asset_path": "data/bgimage/syorei/こっくり/き.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ki",
+            "caption": ""
+          },
+          {
+            "line": 1587,
+            "asset_path": "data/bgimage/syorei/こっくり/た.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ta",
+            "caption": ""
+          },
+          {
+            "line": 1588,
+            "asset_path": "data/bgimage/syorei/こっくり/め.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "me",
+            "caption": "Don't provoke it"
+          }
+        ],
+        "final_caption": "Don't provoke it",
+        "caption_reveal_line": 1588,
+        "explicit_hold": {
+          "line": 1589,
+          "milliseconds": 2000
+        },
+        "caption_clear_before_line": 1592,
+        "related_prose_field": "1598:text",
+        "current_prose_english": [
+          "“Don't... provoke it?”"
+        ],
+        "timing_policy": "Preserve every original bgtransition and wait. No extra Latin-letter steps or holds; reveal full English only at final source character, no future clue during prior cells.",
+        "special_note": "Sourcecomment voices ke/ta as ge/da; physical unvoiced grid and filenames remain unchanged, no bad-path repair.",
+        "native_show_event": {
+          "line": 1589,
+          "tag": "wait",
+          "after_completed_source_line": 1588
+        },
+        "native_clear_event": {
+          "line": 1592,
+          "tag": "layopt"
+        }
+      },
+      {
+        "id": "light",
+        "base_frame": {
+          "line": 1618,
+          "asset_path": "data/bgimage/syorei/こっくり/鳥居.jpg",
+          "transition_ms": 1500,
+          "caption": ""
+        },
+        "coin_frames": [
+          {
+            "line": 1619,
+            "asset_path": "data/bgimage/syorei/こっくり/ひ.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "hi",
+            "caption": ""
+          },
+          {
+            "line": 1620,
+            "asset_path": "data/bgimage/syorei/こっくり/か.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ka",
+            "caption": ""
+          },
+          {
+            "line": 1621,
+            "asset_path": "data/bgimage/syorei/こっくり/り.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ri",
+            "caption": "Light"
+          }
+        ],
+        "final_caption": "Light",
+        "caption_reveal_line": 1621,
+        "explicit_hold": {
+          "line": 1622,
+          "milliseconds": 2000
+        },
+        "caption_clear_before_line": 1625,
+        "related_prose_field": null,
+        "current_prose_english": null,
+        "timing_policy": "Preserve every original bgtransition and wait. No extra Latin-letter steps or holds; reveal full English only at final source character, no future clue during prior cells.",
+        "special_note": null,
+        "native_show_event": {
+          "line": 1622,
+          "tag": "wait",
+          "after_completed_source_line": 1621
+        },
+        "native_clear_event": {
+          "line": 1625,
+          "tag": "layopt"
+        }
+      },
+      {
+        "id": "distract",
+        "base_frame": {
+          "line": 2429,
+          "asset_path": "data/bgimage/syorei/こっくり/鳥居.jpg",
+          "transition_ms": 1500,
+          "caption": ""
+        },
+        "coin_frames": [
+          {
+            "line": 2430,
+            "asset_path": "data/bgimage/syorei/こっくり/き.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ki",
+            "caption": ""
+          },
+          {
+            "line": 2431,
+            "asset_path": "data/bgimage/syorei/こっくり/を.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "wo",
+            "caption": ""
+          },
+          {
+            "line": 2432,
+            "asset_path": "data/bgimage/syorei/こっくり/そ.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "so",
+            "caption": ""
+          },
+          {
+            "line": 2433,
+            "asset_path": "data/bgimage/syorei/こっくり/ら.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ra",
+            "caption": ""
+          },
+          {
+            "line": 2434,
+            "asset_path": "data/bgimage/syorei/こっくり/し.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "shi",
+            "caption": ""
+          },
+          {
+            "line": 2435,
+            "asset_path": "data/bgimage/syorei/こっくり/て.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "te",
+            "caption": "Distract it"
+          }
+        ],
+        "final_caption": "Distract it",
+        "caption_reveal_line": 2435,
+        "explicit_hold": {
+          "line": 2436,
+          "milliseconds": 2000
+        },
+        "caption_clear_before_line": 2439,
+        "related_prose_field": "2445:text",
+        "current_prose_english": [
+          "“Distract it...?”"
+        ],
+        "timing_policy": "Preserve every original bgtransition and wait. No extra Latin-letter steps or holds; reveal full English only at final source character, no future clue during prior cells.",
+        "special_note": null,
+        "native_show_event": {
+          "line": 2436,
+          "tag": "wait",
+          "after_completed_source_line": 2435
+        },
+        "native_clear_event": {
+          "line": 2439,
+          "tag": "layopt"
+        }
+      },
+      {
+        "id": "cat",
+        "base_frame": {
+          "line": 2479,
+          "asset_path": "data/bgimage/syorei/こっくり/鳥居.jpg",
+          "transition_ms": 1500,
+          "caption": ""
+        },
+        "coin_frames": [
+          {
+            "line": 2480,
+            "asset_path": "data/bgimage/syorei/こっくり/ね.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ne",
+            "caption": ""
+          },
+          {
+            "line": 2481,
+            "asset_path": "data/bgimage/syorei/こっくり/こ.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ko",
+            "caption": "Cat"
+          }
+        ],
+        "final_caption": "Cat",
+        "caption_reveal_line": 2481,
+        "explicit_hold": null,
+        "caption_clear_before_line": 2485,
+        "related_prose_field": "2490:text",
+        "current_prose_english": [
+          "“A cat...?”"
+        ],
+        "timing_policy": "Preserve every original bgtransition and wait. No extra Latin-letter steps or holds; reveal full English only at final source character, no future clue during prior cells.",
+        "special_note": "Cat immediately transitions to black at2483(time1500); do not add2000ms hold.",
+        "native_show_event": {
+          "line": 2483,
+          "tag": "bg",
+          "after_completed_source_line": 2481
+        },
+        "native_clear_event": {
+          "line": 2485,
+          "tag": "layopt"
+        }
+      },
+      {
+        "id": "coming",
+        "base_frame": {
+          "line": 4938,
+          "asset_path": "data/bgimage/syorei/こっくり/鳥居.jpg",
+          "transition_ms": 500,
+          "caption": ""
+        },
+        "coin_frames": [
+          {
+            "line": 4939,
+            "asset_path": "data/bgimage/syorei/こっくり/く.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ku",
+            "caption": ""
+          },
+          {
+            "line": 4940,
+            "asset_path": "data/bgimage/syorei/こっくり/る.jpg",
+            "transition_ms": 500,
+            "latin_cell_label": "ru",
+            "caption": "It's coming"
+          }
+        ],
+        "final_caption": "It's coming",
+        "caption_reveal_line": 4940,
+        "explicit_hold": {
+          "line": 4941,
+          "milliseconds": 2000
+        },
+        "caption_clear_before_line": 4944,
+        "related_prose_field": "4949:text",
+        "current_prose_english": [
+          "“It's coming...?”"
+        ],
+        "timing_policy": "Preserve every original bgtransition and wait. No extra Latin-letter steps or holds; reveal full English only at final source character, no future clue during prior cells.",
+        "special_note": null,
+        "native_show_event": {
+          "line": 4941,
+          "tag": "wait",
+          "after_completed_source_line": 4940
+        },
+        "native_clear_event": {
+          "line": 4944,
+          "tag": "layopt"
+        }
+      }
+    ],
+    "other_board_appearances": "All other torii views retain annotations with no answer caption; final ritual uses shared Kazama torii at6156/6259 and keeps original positions. Text-only board responses remain script dialogue, no invented additional animation.",
+    "shared_asset_policy": "At6156/6259reuse existing reviewed English Kazama torii mapping if already installed. Do not double-annotate it or remap shared Kazama frames globally for Syorei captions."
+  },
+  "adjudications": [
+    {
+      "id": "chat5-following",
+      "decision": "Root approved she/her as Fukuzawa; retain catch up with her. Source2252-2253 explicitly reports her meeting Shindo. No cat substitution."
+    },
+    {
+      "id": "outgoing-status",
+      "decision": "Both outgoing screens say Calling..., as locked after original close reading."
+    },
+    {
+      "id": "autocorrect",
+      "decision": "Repeated actual message is Right, I'm dying now 😊; intended Right, I'm going now 😊 stays explanatory metadata, not extra visible art text."
+    },
+    {
+      "id": "panic-spelling",
+      "decision": "Source spoken-message fields retain sfae then safe. No new phone image or caption is invented for text-only messages."
+    },
+    {
+      "id": "names",
+      "decision": "Baked sender names are fixed cast labels. Player bubbles have no printed default name; never insert a static Sakagami or replace runtime personalized prose."
+    },
+    {
+      "id": "read-counts",
+      "decision": "Read4/Read3 remain read counts; Emergency Meeting(7) remains membership, not deaths or survivors."
+    },
+    {
+      "id": "board",
+      "decision": "Retain physical kana and original500yen coin, add Latin cell annotations and reveal English only at final original cell after its transition."
+    }
+  ],
+  "original_defects_not_repaired": [
+    {
+      "source_line": 1537,
+      "reference": "data/sound/ノイズ音.ogg",
+      "exists": false,
+      "status": "Pending native baseline; no path, media or timing repair."
+    }
+  ],
+  "shared_board": {
+    "source": "kazama/鳥居.jpg",
+    "policy": "Require and reuse existing reviewed background mapping; never overwrite it.",
+    "reviewed_target": "kiwame-en/kazama-board-37.svg"
+  },
+  "change_log": [
+    {
+      "date": "2026-11-11",
+      "change": "Prepared reviewed English phone/title/board lettering and source guards; root2252/2253 referent adjudication recorded."
+    },
+    {
+      "date": "2026-11-11",
+      "change": "Native v1/v2 reviews refined the tilted phone bubble repairs, full notification panel clipping and title edge blending. Original font outlines are inlined for independent SVG display. Persisted PNG and pixel checks established no actual missing glyphs; the earlier preview display diagnosis was unproven. Root approved keeping Cat visible through the existing 1500 ms fade to black; no source wait was added."
+    },
+    {
+      "date": "2026-11-11",
+      "change": "Native clock evidence showed nominal500ms captions could appear while the final bg tag was still active. Reveal after actual transition completion at the following native wait; Cat begins at the following black-bg command and clears at the subsequent layopt after its original1500ms fade. No source waits, lettering or image geometry change."
+    }
+  ]
+}

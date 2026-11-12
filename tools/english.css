@@ -1,0 +1,245 @@
+.kiwame_title_credit {
+    position: absolute;
+    right: 90px;
+    bottom: 18px;
+    z-index: 1500;
+    color: #e1e1e1;
+    font: 18px/22px KiwameLatin, sans-serif;
+    text-align: right;
+    text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, 0 0 3px #000;
+    pointer-events: none;
+}
+.kiwame_title_credit span { display: block; }
+
+@font-face {
+    font-family: KiwameLatin;
+    src: url('./fonts/GenEiLateGoP_v2.ttf') format('truetype');
+}
+
+.message_inner {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+.message_inner p > span,
+.log_body, .log_body span, .kiwame_en_choice {
+    font-family: KiwameLatin, sans-serif !important;
+}
+
+.log_body {
+    color: #f4f1e9 !important;
+    background: rgba(12, 12, 16, .85);
+    font-size: 22px;
+    line-height: 1.45;
+    letter-spacing: 0 !important;
+    box-sizing: border-box;
+}
+
+.message_inner.kiwame_en_compact {
+    line-height: 27px !important;
+}
+
+.message_inner.kiwame_en_compact p > span {
+    font-size: 22px !important;
+}
+
+.edlist_name {
+    line-height: 15px;
+    word-wrap: break-word;
+}
+
+.kiwame_en_board_caption {
+    position: absolute;
+    left: 120px;
+    top: 615px;
+    width: 720px;
+    padding: 4px 10px;
+    box-sizing: border-box;
+    color: #fff;
+    background: rgba(12, 9, 10, .88);
+    border-radius: 3px;
+    text-align: center;
+    font: 25px Georgia, serif;
+    z-index: 10000;
+    pointer-events: none;
+}
+
+.kiwame_en_madness_chant {
+    line-height: 32px;
+    white-space: nowrap;
+}
+
+video::cue {
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.86);
+    font-family: Georgia, serif;
+    font-size: 25px;
+}
+
+.kiwame_en_movie_captions {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    font-family: Arial, sans-serif;
+    white-space: pre-line;
+}
+
+.kiwame_en_news_headline,
+.kiwame_en_news_report,
+.kiwame_en_earth_intertitle {
+    position: absolute;
+    box-sizing: border-box;
+}
+
+.kiwame_en_news_headline {
+    top: 15px;
+    left: 555px;
+    width: 383px;
+    height: 119px;
+    padding: 21px 17px;
+    border-radius: 10px;
+    background: #edecea;
+    color: #181b30;
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 36px;
+}
+
+.kiwame_en_news_report {
+    top: 558px;
+    left: 23px;
+    width: 914px;
+    height: 93px;
+    padding: 12px 12px;
+    background: #181b30;
+    color: #fff;
+    text-align: center;
+    font-size: 24px;
+    line-height: 34px;
+}
+
+.kiwame_en_earth_intertitle {
+    top: 316px;
+    left: 120px;
+    width: 720px;
+    height: 76px;
+    padding: 6px 0;
+    /* Cover the baked text while leaving the surrounding fade visible. */
+    background: linear-gradient(transparent, #000 4px, #000 26px, transparent)
+        62px 24px / 570px 31px no-repeat;
+    color: #fff;
+    text-align: center;
+    font: 25px/32px Georgia, serif;
+}
+
+.kiwame_en_choice.glink_button {
+    box-sizing: content-box;
+    padding: 0 22px;
+    line-height: 46px;
+    text-align: left;
+    white-space: normal;
+    background: rgba(12, 15, 20, 0.94);
+    border: 1px solid #a99b81;
+    border-radius: 3px;
+}
+
+.kiwame_en_choice.glink_button:hover {
+    background: #333039;
+    color: #fff !important;
+}
+
+.kiwame_inoti_hint_panel .message_outer,
+.kiwame_inoti_confirm_panel .message_outer {
+    opacity: 0 !important;
+}
+.kiwame_inoti_hint_panel .message_inner {
+    left: 520px !important;
+    top: 46px !important;
+    width: 395px !important;
+    height: 490px !important;
+    background: rgba(235, 238, 237, .94);
+    border: 1px solid #718079;
+    border-radius: 2px;
+}
+.kiwame_inoti_confirm_panel .message_inner {
+    left: 30px !important;
+    top: 80px !important;
+    width: 170px !important;
+    height: auto !important;
+    max-height: 330px;
+    background: rgba(12, 15, 20, .94);
+    border: 1px solid #a99b81;
+    border-radius: 2px;
+}
+.kiwame_inoti_hint_panel .message_inner,
+.kiwame_inoti_confirm_panel .message_inner {
+    line-height: 20px !important;
+    padding: 10px !important;
+    box-sizing: border-box;
+}
+.kiwame_inoti_hint_panel .message_inner p,
+.kiwame_inoti_confirm_panel .message_inner p {
+    padding: 0 !important;
+}
+.kiwame_inoti_hint_panel .message_inner p > span,
+.kiwame_inoti_confirm_panel .message_inner p > span {
+    font-size: 17px !important;
+    color: #151815 !important;
+    text-shadow: none !important;
+}
+.kiwame_inoti_confirm_panel .message_inner p > span {
+    color: #f4f1e9 !important;
+}
+.kiwame_inoti_grid_overlay_hidden {
+    visibility: hidden !important;
+}
+.kiwame_inoti_grid_choice.glink_button {
+    padding: 8px 10px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+}
+
+.kiwame_en_menu_title {
+    position: absolute;
+    z-index: 1;
+    top: 17px;
+    left: 0;
+    width: 245px;
+    padding: 11px 0 8px 36px;
+    margin: 0;
+    box-sizing: border-box;
+    background: #17181b;
+    color: #f4f1e9;
+    font: normal 34px Georgia, serif;
+    pointer-events: none;
+}
+
+.base_fore[style*="名前1.jpg"]::after,
+.base_fore[style*="%E5%90%8D%E5%89%8D1.jpg"]::after {
+    position: absolute;
+    left: 148px;
+    top: 193px;
+    width: 375px;
+    height: 51px;
+    background: #000 url('./data/bgimage/kiwame-en/name-prompt.svg') no-repeat;
+    content: '';
+    pointer-events: none;
+}
+
+.base_fore[style*="game/iwashita/"]::after,
+.base_back[style*="game/iwashita/"]::after,
+.base_fore[style*="game/sindo/"]::after,
+.base_back[style*="game/sindo/"]::after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 960px;
+    height: 690px;
+    background-repeat: no-repeat;
+    content: '';
+    pointer-events: none;
+}

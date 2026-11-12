@@ -1,0 +1,445 @@
+{
+  "scenario": "data/scenario/rpg/map.ks",
+  "source_sha256": "a06a16b60402b2b0295d4011174dd2e277e6d8f482d9b1f4ecf916e1d0deec47",
+  "rows": {
+    "73:text": [
+      "Huh?"
+    ],
+    "74:text": [
+      "That classroom..."
+    ],
+    "75:text": [
+      "Room 1-C was the only one that looked unusually bright."
+    ],
+    "79:text": [
+      "“Hino, look.”"
+    ],
+    "83:text": [
+      "“Wh-what is it?",
+      " Oh, no..."
+    ],
+    "84:text": [
+      "Did something show up...?!”"
+    ],
+    "88:text": [
+      "“No."
+    ],
+    "89:text": [
+      "Just look. It's only that classroom...”"
+    ],
+    "94:text": [
+      "“Aaah!"
+    ],
+    "95:text": [
+      "Don't say it!",
+      " Please don't tell me, ",
+      "!”"
+    ],
+    "99:text": [
+      "Good grief."
+    ],
+    "100:text": [
+      "It'd be quicker to go look at Room 1-C than try to explain."
+    ],
+    "115:text": [
+      "“...Wait, ",
+      ".”"
+    ],
+    "117:text": [
+      "“Yoshino and Somei,",
+      " Yoshino, Somei...”"
+    ],
+    "119:text": [
+      "“Somei and Yoshino...",
+      " Somei, Yoshino..."
+    ],
+    "120:text": [
+      "Somei...",
+      " Yoshino...!"
+    ],
+    "121:text": [
+      "It's a cherry tree!",
+      " Hey, it's a cherry tree!”"
+    ],
+    "125:text": [
+      "Hino was muttering something to himself."
+    ],
+    "126:text": [
+      "He seemed to be enjoying himself. I left him to it."
+    ],
+    "135:text": [
+      "“Somei-yoshino...",
+      " Somei-yoshino...”"
+    ],
+    "137:text": [
+      "“Somei-yoshino..."
+    ],
+    "138:text": [
+      "Hey, ",
+      "..."
+    ],
+    "139:text": [
+      "Are you listening?”"
+    ],
+    "141:text": [
+      "“............”"
+    ],
+    "143:text": [
+      "“Somei-yoshino...”"
+    ],
+    "147:text": [
+      "Hino was desperately repeating the same pun."
+    ],
+    "148:text": [
+      "Here I was, searching high and low for the basement door,"
+    ],
+    "149:text": [
+      "and he didn't have a care in the world."
+    ],
+    "158:text": [
+      "“Somei...",
+      " Yoshino...”"
+    ],
+    "160:text": [
+      "“You can hear me, right, ",
+      "...?"
+    ],
+    "161:text": [
+      "Hey...”"
+    ],
+    "165:text": [
+      "The light of hope had gone out of Hino's eyes..."
+    ],
+    "167:text": [
+      "Maybe it was time to go to the courtyard."
+    ],
+    "176:text": [
+      "I had the chalk now,"
+    ],
+    "177:text": [
+      "but I couldn't just scatter it wherever and hope for the best..."
+    ],
+    "179:text": [
+      "...I needed a little more information."
+    ],
+    "189:text": [
+      "Hino said the locations in the five rumors should form a pentagram."
+    ],
+    "190:text": [
+      "So that would put the basement door..."
+    ],
+    "202:text": [
+      "These field notes..."
+    ],
+    "203:text": [
+      "I should probably give them a good look."
+    ],
+    "303:text": [
+      "Huh?"
+    ],
+    "304:text": [
+      "There's something tucked in on the next page..."
+    ],
+    "339:text": [
+      "There's a list of ingredients stuck to the page."
+    ],
+    "340:text": [
+      "And what a list it is."
+    ],
+    "341:text": [
+      "I've never bought bay leaves or sour cream before."
+    ],
+    "343:text": [
+      "Hino eats pretty fancy..."
+    ],
+    "353:text": [
+      "A packing list for the old school building..."
+    ],
+    "355:text": [
+      "The word ‘bribe’ jumps out at me here and there,"
+    ],
+    "356:text": [
+      "but I think I'll leave that alone..."
+    ],
+    "366:text": [
+      "Three kilos of salt.",
+      " Three kilos?!",
+      " That's way too much for ritual salt piles."
+    ],
+    "367:text": [
+      "Is that why it was so white around the old school building...?"
+    ],
+    "431:text": [
+      "What's this...?",
+      " A poem Hino wrote?"
+    ],
+    "433:text": [
+      "I didn't know Hino wrote things like this."
+    ],
+    "434:text": [
+      "............"
+    ],
+    "436:text": [
+      "Wow. This is really something."
+    ],
+    "437:text": [
+      "I feel embarrassed just reading it..."
+    ],
+    "439:text": [
+      "It'd be painful to read any further, for more reasons than one."
+    ],
+    "440:text": [
+      "Then again, I can't really afford to think like that..."
+    ],
+    "489:text": [
+      "It's just a blank page."
+    ],
+    "499:text": [
+      "Another blank page..."
+    ],
+    "501:text": [
+      "I know what Hino said,"
+    ],
+    "502:text": [
+      "but is this just an ordinary notebook...?"
+    ],
+    "560:text": [
+      "The five rumors about the old school building..."
+    ],
+    "561:text": [
+      "I didn't know Hino had looked into all this."
+    ],
+    "563:text": [
+      "Before this, I'd have written off curses and demons as lies,"
+    ],
+    "564:text": [
+      "and I'd have thought the whole thing was ridiculous."
+    ],
+    "565:text": [
+      "But I'd seen it with my own eyes."
+    ],
+    "569:text": [
+      "That monster was terrifying enough to turn everything I thought I knew upside down."
+    ],
+    "571:text": [
+      "Maybe if I look into these rumors, I'll find out how to defeat that monster..."
+    ],
+    "572:text": [
+      "Or is that just wishful thinking?"
+    ],
+    "576:text": [
+      "But it's the only lead I have."
+    ],
+    "577:text": [
+      "I have to find a way to make it out alive somehow..."
+    ],
+    "589:text": [
+      "The big full-length mirror in the first-floor hallway"
+    ],
+    "590:text": [
+      "leads to the underworld, where you can see the dead again."
+    ],
+    "591:text": [
+      "But if you're unlucky, a monster lurking there will attack you."
+    ],
+    "594:text": [
+      "See the dead again... Well,"
+    ],
+    "595:text": [
+      "Grandma and Grandpa are both still alive."
+    ],
+    "597:text": [
+      "Being attacked by a monster sounds pretty scary, too."
+    ],
+    "598:text": [
+      "I don't really want to...",
+      " but maybe I should check it out anyway."
+    ],
+    "602:text": [
+      "I can't believe a monster really showed up..."
+    ],
+    "603:text": [
+      "I should stay away from that spot from now on..."
+    ],
+    "606:text": [
+      "......"
+    ],
+    "608:text": [
+      "By now, Hino must be up on the roof..."
+    ],
+    "619:text": [
+      "A cursed cassette tape lies hidden among the old sheet music in the music room."
+    ],
+    "620:text": [
+      "Once the curse takes hold,"
+    ],
+    "621:text": [
+      "a demonic melody comes from the western sky. Anyone who hears it drops dead."
+    ],
+    "623:text": [
+      "I don't know if I really need to listen to the cursed tape..."
+    ],
+    "624:text": [
+      "But it's in the field notes, so it can't hurt to look into it."
+    ],
+    "627:text": [
+      "I wonder what this sticky note means by ‘Lives of the Musicians, Vol. 4’..."
+    ],
+    "630:text": [
+      "I've found the boombox and figured out who composed the cursed melody."
+    ],
+    "631:text": [
+      "I'm all set.",
+      " I'd better hurry to the music room."
+    ],
+    "642:text": [
+      "In one of the old school building's classrooms, there's a piece of magic chalk that can find lost things."
+    ],
+    "643:text": [
+      "Apparently, if you sprinkle the chalk dust on the floor, it'll show you where the missing item is."
+    ],
+    "645:text": [
+      "One of the classrooms in the old school building..."
+    ],
+    "646:text": [
+      "There are quite a few of them."
+    ],
+    "648:text": [
+      "If only I could narrow it down somehow..."
+    ],
+    "659:text": [
+      "In the science lab, there's a microscope sealed with red tape,"
+    ],
+    "660:text": [
+      "and looking through it is forbidden."
+    ],
+    "662:text": [
+      "Anyone who looks through that microscope vanishes from this world."
+    ],
+    "665:text": [
+      "Hino said I could use the microscope in the science lab"
+    ],
+    "666:text": [
+      "to escape to Narugami Academy's front gate."
+    ],
+    "668:text": [
+      "And the microscope can also take me to"
+    ],
+    "669:text": [
+      "the roof of the old school building...",
+      " That's where Arai is, right...?"
+    ],
+    "671:text": [
+      "But I'll need a way to fight back if I want to beat Arai."
+    ],
+    "672:text": [
+      "I have to find the basement door before Arai finishes his ritual..."
+    ],
+    "684:text": [
+      "The old school building has an entrance to a basement no one knows about."
+    ],
+    "685:text": [
+      "Supposedly there's a treasure down there that can guarantee your happiness."
+    ],
+    "900:text": [
+      "This stone looks like it'll do...",
+      " I might as well try making it."
+    ],
+    "902:text": [
+      "......"
+    ],
+    "903:text": [
+      "........."
+    ],
+    "904:text": [
+      "....................."
+    ],
+    "910:text": [
+      "“...yeh...",
+      " wah'nagl...",
+      " fhtagn...!”"
+    ],
+    "913:text": [
+      "I stumbled over the incantation eight times...",
+      " but I finally made it...!"
+    ],
+    "919:text": [
+      " obtained “Holy Water”!"
+    ],
+    "921:text": [
+      "...I'm not sure how well it works...",
+      " but at least I've got it if I need it."
+    ],
+    "924:text": [
+      "“............”"
+    ],
+    "935:text": [
+      "An ornate cross-shaped bookmark is tucked between the pages."
+    ],
+    "939:text": [
+      "“Hino.",
+      " There's a bookmark in here...”"
+    ],
+    "943:text": [
+      "“A bookmark...?"
+    ],
+    "944:text": [
+      "!!!!”"
+    ],
+    "948:text": [
+      "“I'd better give it back before I drop it.”"
+    ],
+    "952:text": [
+      "“No, it's fine..."
+    ],
+    "953:text": [
+      "You keep it, ",
+      ".”"
+    ],
+    "957:text": [
+      "“But...”"
+    ],
+    "961:text": [
+      "“Please.",
+      " Throw it away if you want.”"
+    ],
+    "965:text": [
+      "“Huh...?”"
+    ],
+    "969:text": [
+      "Hino wanted nothing to do with the bookmark. It was as if it gave him the creeps."
+    ],
+    "970:text": [
+      "I wonder what's wrong.",
+      " Maybe it brings back some bad memories for him?"
+    ],
+    "983:text": [
+      "Hino and Arai should be talking up on the roof."
+    ],
+    "984:text": [
+      "I'll leave them alone for now."
+    ],
+    "996:text": [
+      "It's too dangerous to go up to the roof with that monster there."
+    ],
+    "1001:text": [
+      "What do I do? The sun's about to set..."
+    ],
+    "1002:text": [
+      "I have to save Hino and Arai as fast as I can."
+    ],
+    "1006:text": [
+      "The sun's about to set..."
+    ],
+    "1007:text": [
+      "I have to stop Arai, whatever it takes..."
+    ],
+    "1009:text": [
+      "I'm almost out of time.",
+      " I have to hurry...!"
+    ],
+    "1022:text": [
+      "...I'd better stay away from that hallway from now on."
+    ]
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "language": "en",
+  "scope": "Life (inoti.ks), camp stories and the separate earlier-generation body-rental branch. Preserve this game's chronology and visiting-student continuity.",
+  "policy": "Given-name-first English; established names and source kana are locked. Two idol surname readings remain provisional. Preserve ambiguity, named bodies, apparent identities and speaker labels separately.",
+  "entries": [
+    {
+      "id": "onuma_fullname",
+      "ja": "大沼繁夫",
+      "en": "Shigeo Onuma",
+      "kind": "person",
+      "reading": "おおぬましげお",
+      "gender": "male",
+      "role": "Student and missing camper; skilled pendant maker",
+      "voice_and_context": "Student in the camp story more than twenty years earlier. Explicitly a boy at494 and parents call him their son1248–1250. His recorded speech is identified at559. Reiko calls him a self-proclaimed bullying victim; her hostile judgments are narration, not independent facts. Missing outcome differs by branch.",
+      "note": "Do not invent cause of disappearance. First camp branch suggests Reiko’s mother possesses the pendant; rental-body branch changes events.",
+      "sources": [
+        "Steam inoti.ks lines494,503,559,620,642,656,719,1248,1250,1337,1338,7253,7317",
+        "https://w.atwiki.jp/allmiccore/pages/197.html"
+      ],
+      "reading_status": "Verified game-specific wiki reading"
+    },
+    {
+      "id": "moriyama_shigeki",
+      "ja": "守山成樹",
+      "en": "Shigeki Moriyama",
+      "kind": "person",
+      "reading": "もりやましげき",
+      "gender": "male",
+      "role": "All-boys-school student; Reiko’s online friend",
+      "voice_and_context": "One of three boys from an all-boys school in Nakano, Tokyo. Says he has lived fifteen years without a girlfriend and is a virgin. Frightened of women and fixated on losing his virginity.",
+      "note": "His age15 is stated; do not automatically assign it to the other two.",
+      "sources": [
+        "Steam inoti.ks lines1541,1562,1563,1674,2315,3340"
+      ],
+      "reading_status": "Explicit native kana1541"
+    },
+    {
+      "id": "koreeda_masataka",
+      "ja": "是枝雅隆",
+      "en": "Masataka Koreeda",
+      "kind": "person",
+      "reading": "これえだまさたか",
+      "gender": "male",
+      "role": "All-boys-school student; musician; Reiko’s online friend",
+      "voice_and_context": "Member of the male trio. Outgoing flirt, plays in a rock band and invites Reiko to a school-festival performance. Often ends boasts with baby.",
+      "note": "",
+      "sources": [
+        "Steam inoti.ks lines1547,1616,1674,2315,2335,2340,2343"
+      ],
+      "reading_status": "Explicit native kana1547"
+    },
+    {
+      "id": "tsuzuki_yu",
+      "ja": "都築遊",
+      "en": "Yu Tsuzuki",
+      "kind": "person",
+      "reading": "つづきゆう",
+      "gender": "male",
+      "role": "All-boys-school student; comedian’s son; Reiko’s online friend",
+      "voice_and_context": "Member of male trio. His father is an unnamed famous comedian; celebrity acquaintances and paternal influence are discussed, not a named father.",
+      "note": "Do not identify the unnamed father with a real comedian.",
+      "sources": [
+        "Steam inoti.ks lines1553,1674,1956,1966,2315,2336"
+      ],
+      "reading_status": "Explicit native kana1553"
+    },
+    {
+      "id": "kaname",
+      "ja": "かなめ",
+      "en": "Kaname",
+      "kind": "person",
+      "reading": "かなめ",
+      "gender": "female",
+      "role": "Mysterious woman; claimed/apparent university student",
+      "voice_and_context": "One of three apparently female university students met for fireworks. Tells an uncertain story of alien experiments and teases that she may be the Slit-Mouthed Woman. Tsuzuki speculates their names are hostess working names; Koreeda speculates all three are slit-mouthed women.",
+      "note": "University status, hostess status, supernatural identity and assumed alias status are not all confirmed.",
+      "sources": [
+        "Steam inoti.ks lines1951,1955,2077,2171,2222,2244,2247,2276,2284"
+      ],
+      "reading_status": "Kana name supplied"
+    },
+    {
+      "id": "yurina",
+      "ja": "ゆりな",
+      "en": "Yurina",
+      "kind": "person",
+      "reading": "ゆりな",
+      "gender": "female",
+      "role": "Mysterious woman; claimed/apparent university student",
+      "voice_and_context": "Woman in Kaname’s trio. Enthusiastic about celebrity photographs and flirts with younger Tsuzuki.",
+      "note": "Same uncertain hostess/alias/supernatural claims as Kaname.",
+      "sources": [
+        "Steam inoti.ks lines1951,1972,1980,1990,2244,2247"
+      ],
+      "reading_status": "Kana name supplied"
+    },
+    {
+      "id": "kagari",
+      "ja": "かがり",
+      "en": "Kagari",
+      "kind": "person",
+      "reading": "かがり",
+      "gender": "female",
+      "role": "Mysterious woman; claimed/apparent university student",
+      "voice_and_context": "Woman in Kaname’s trio. Bluntly insults Moriyama and kicks him away from Kaname.",
+      "note": "Same uncertain hostess/alias/supernatural claims as Kaname.",
+      "sources": [
+        "Steam inoti.ks lines1951,2004,2030,2188,2204,2244,2247"
+      ],
+      "reading_status": "Kana name supplied"
+    },
+    {
+      "id": "miyamoto_takeshi",
+      "ja": "宮本健史",
+      "en": "Takeshi Miyamoto",
+      "kind": "person",
+      "reading": "みやもとたけし",
+      "gender": "male",
+      "role": "Student; delinquent; online acquaintance",
+      "voice_and_context": "Tokyo all-boys-school student, one of two violent delinquents Reiko knows through online gaming. Polite speech contrasts with prostitution brokering, diverted drugs, extortion and violence. Boats with Saito and later attacks him while seeing a girl’s ghost.",
+      "note": "",
+      "sources": [
+        "Steam inoti.ks lines2566,2568,2580,2592,2597,3026"
+      ],
+      "reading_status": "Explicit native kana2580"
+    },
+    {
+      "id": "saito_keisuke",
+      "ja": "斉藤圭輔",
+      "en": "Keisuke Saito",
+      "kind": "person",
+      "reading": "さいとうけいすけ",
+      "gender": "male",
+      "role": "Student; delinquent; online acquaintance",
+      "voice_and_context": "Other delinquent in boat story. His image is superimposed with an unnamed dead girl; source speaker label stays his name. Survives the beating but remains unconscious at ending.",
+      "note": "The ghost girl is not Saito’s ordinary identity.",
+      "sources": [
+        "Steam inoti.ks lines2566,2568,2586,2592,2597,2917,2981,3025"
+      ],
+      "reading_status": "Explicit native kana2586"
+    },
+    {
+      "id": "shiraki",
+      "ja": "白木",
+      "en": "Shiraki",
+      "kind": "person",
+      "reading": "しらき",
+      "gender": "male",
+      "role": "Swimming instructor; reportedly elementary-school PE teacher",
+      "voice_and_context": "Pool/swimming-area instructor, described as an elementary-school PE teacher in his ordinary job. All instructors explicitly male3940. Nicknamed シラミ, an insult meaning louse. Possible collusion in Nozawa’s drowning remains Reiko’s inference.",
+      "note": "Nicknameシラミ is distinct from the proper surname and must retain insulting wordplay. Do not make rumored collusion an omniscient confirmed motive.",
+      "sources": [
+        "Steam inoti.ks lines3932,3940,3955,3958,3968,3971,3979,3980,4609,4622",
+        "https://w.atwiki.jp/allmiccore/pages/165.html"
+      ],
+      "reading_status": "Verified game-specific wiki reading"
+    },
+    {
+      "id": "mitsuda_manami",
+      "ja": "蜜田真奈美",
+      "en": "Manami Mitsuda",
+      "kind": "person",
+      "reading": "みつだまなみ",
+      "gender": "female",
+      "role": "Camper; swimming-group companion",
+      "voice_and_context": "Girl who forms a three-girl swimming group with Reiko and Nozawa, then restrains Reiko during Nozawa’s apparent drowning and dictates the account that she went home. Reiko suspects a link with Shiraki but does not prove it.",
+      "note": "Unknown exact motive/organization affiliation; no definitive identification of underwater figure.",
+      "sources": [
+        "Steam inoti.ks lines4002,4006,4013,4015,4065,4524,4558,4618,4622"
+      ],
+      "reading_status": "Explicit native kana4013"
+    },
+    {
+      "id": "nozawa_fullname",
+      "ja": "野沢知美",
+      "en": "Tomomi Nozawa",
+      "kind": "person",
+      "reading": "のざわともみ",
+      "gender": "female",
+      "role": "Camper; middle-school girl in remembered incident",
+      "voice_and_context": "Girl in Reiko/Manami swimming group. Starts with surname-only address; later invites first-name friendship. Claims her father is instructor’s employer, then explicitly admits her family has no connection to camp operator.",
+      "note": "Do not label her a company president’s daughter or heiress as fact; that is a retracted bluff.",
+      "sources": [
+        "Steam inoti.ks lines4020,4026,4029,4112,4232,4245,4249,4385,4534",
+        "https://w.atwiki.jp/allmiccore/pages/147.html"
+      ],
+      "reading_status": "Verified game-specific wiki reading"
+    },
+    {
+      "id": "seto_yoko",
+      "ja": "瀬戸陽子",
+      "en": "Yoko Seto",
+      "kind": "person",
+      "reading": "せとようこ",
+      "gender": "female",
+      "role": "Camper; Adventure companion; eventual swimmer in one branch",
+      "voice_and_context": "Girl Reiko’s age at Adventure activity. Her older sister, an unnamed promising swimmer, died in an accident; mother pressures Yoko to follow her. In one ending Yoko becomes an outstanding female swimmer. Sister’s locker-room ghost is distinct from Yoko.",
+      "note": "Do not identify her dead older sister by Yoko’s given name.",
+      "sources": [
+        "Steam inoti.ks lines4675,4689,4699,4702,4708,5018,5029",
+        "https://w.atwiki.jp/allmiccore/pages/247.html"
+      ],
+      "reading_status": "Explicit native kana4699"
+    },
+    {
+      "id": "miwako",
+      "ja": "美和子",
+      "en": "Miwako",
+      "kind": "person",
+      "reading": "みわこ",
+      "gender": "unknown",
+      "role": "Fortune-teller / camp instructor / self-styled queen",
+      "voice_and_context": "Self-described proprietor of a fortune-telling hall who works as camp Adventure instructor in summer. Plays Queen Miwako of the subterranean kingdom; old-fashioned imperious speech is deliberate. A fortune-teller-clothed mummy is found in one ending but not explicitly named as Miwako.",
+      "note": "Queen title belongs to camp performance, not independently established actual state. Mummy identification remains implied, not explicit.",
+      "sources": [
+        "Steam inoti.ks lines4737,4742,4750,6486,6488,6635,6644"
+      ],
+      "reading_status": "Explicit native kana4750"
+    },
+    {
+      "id": "aoki_rola",
+      "ja": "蒼樹ローラ",
+      "en": "Rola Aoki",
+      "kind": "person",
+      "reading": "あおきろーら",
+      "gender": "female",
+      "role": "Camper; later actress; body occupied in rental story",
+      "voice_and_context": "Older-generation camper who demands Onuma’s pendant; later described as a popular actress. Closing bus conversation retains her speaker label, but Hanae calls her Haraguchi and the occupant says this is the body wanted from the start.",
+      "note": "Do not infer Laura versus Lola solely fromローラ. Keep physical/speaker identity distinct from claimed occupant Haraguchi. Rola is the project Latin spelling of the explicit kana; no Laura/Lola derivation is asserted.",
+      "sources": [
+        "Steam inoti.ks lines7141,7143,7162,7289,7357,7365,7383,7385,7415,7418",
+        "https://w.atwiki.jp/allmiccore/pages/237.html"
+      ],
+      "reading_status": "Explicit native kana7141; Rola is the chosen project Latin spelling"
+    },
+    {
+      "id": "motoki_hanae",
+      "ja": "元木葉苗",
+      "en": "Hanae Motoki",
+      "kind": "person",
+      "reading": "もときはなえ",
+      "gender": "female",
+      "role": "Camper with ancestral-spirit protection; apparent older-generation story source",
+      "voice_and_context": "Older-generation camper and companion of Aoki, nicknamed Hana. Detects unusual speech/occupant and says ancestral spirits warn of danger. Closing story source is Reiko’s friend Motoki Sanae’s mother, strongly suggesting but not literally naming Hanae as that mother.",
+      "note": "Do not conflate葉苗 and早苗. Hana nickname is not a separate character. Wiki explicitly identifies Sanae as her daughter. Preserve the script's order of disclosure rather than adding this fact early.",
+      "sources": [
+        "Steam inoti.ks lines7149,7155,7163,7358,7365,7389,7391,7422,7424",
+        "https://w.atwiki.jp/allmiccore/pages/157.html"
+      ],
+      "reading_status": "Explicit native kana7149"
+    },
+    {
+      "id": "haraguchi_mizuki",
+      "ja": "原口瑞希",
+      "en": "Mizuki Haraguchi",
+      "kind": "person",
+      "reading": "はらぐちみずき",
+      "gender": "unknown",
+      "role": "Transfer student presentation; mysterious body renter",
+      "voice_and_context": "Says newly transferred at end of first term; appears unusually small for high school. Claims body rental/takeover. Implied to occupy Onuma before Aoki, with closing dialogue explicit about occupying Aoki’s body. Reiko wonders whether Haraguchi is an alien.",
+      "note": "Alien identity is a question7420, not confirmed. Do not collapse speaker/body labels into one fixed person. Wiki treats the presented character as a girl, but the actual body-renting occupant's identity remains unresolved; do not import the other game's biography.",
+      "sources": [
+        "Steam inoti.ks lines7181,7184,7190,7198,7202,7365,7376,7385,7418,7420",
+        "https://w.atwiki.jp/allmiccore/pages/240.html"
+      ],
+      "reading_status": "Explicit native kana7190"
+    },
+    {
+      "id": "motoki_friend",
+      "ja": "元木早苗",
+      "en": "Sanae Motoki",
+      "kind": "person",
+      "reading": "もときさなえ",
+      "gender": "female",
+      "role": "Reiko’s close friend with spiritual sensitivity",
+      "voice_and_context": "Reiko’s close friend. Story source is this friend’s mother. Said to talk with ancestral spirits. Same surname as Hanae, but different given name.",
+      "note": "Mother is not explicitly named in7422–7424; relationship to Hanae is contextual.",
+      "sources": [
+        "Steam inoti.ks lines7422,7424,7426,7433",
+        "https://w.atwiki.jp/allmiccore/pages/157.html"
+      ],
+      "reading_status": "Verified game-specific wiki reading"
+    },
+    {
+      "id": "umei",
+      "ja": "梅井",
+      "en": "Umei",
+      "kind": "person",
+      "reading": null,
+      "gender": "unknown",
+      "role": "Idol / Oarashi member",
+      "voice_and_context": "Member of Oarashi appearing in Tsuzuki’s celebrity photograph; Tsuzuki says they ate together once.",
+      "note": "",
+      "sources": [
+        "Steam inoti.ks lines1980,1982"
+      ],
+      "reading_status": "Provisional working surname reading; no game-specific kana found. Do not substitute real-world idols."
+    },
+    {
+      "id": "onoda",
+      "ja": "大野田",
+      "en": "Onoda",
+      "kind": "person",
+      "reading": null,
+      "gender": "unknown",
+      "role": "Idol / Oarashi member",
+      "voice_and_context": "Another Oarashi member present at the same meal, according to Tsuzuki.",
+      "note": "",
+      "sources": [
+        "Steam inoti.ks lines1985,1987"
+      ],
+      "reading_status": "Provisional working surname reading; no game-specific kana found. Do not substitute real-world idols."
+    },
+    {
+      "id": "inoti_title",
+      "ja": "イノチ",
+      "en": "Life",
+      "kind": "route title",
+      "note": "Match the object/literal-life pun; do not replace with soul.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "life_pendant",
+      "ja": "イノチのペンダント",
+      "en": "Life pendant",
+      "kind": "object",
+      "note": "The wooden name pendant is called a Life. Use capital Life for this object and lowercase life for the ordinary noun; the source already explains the name. Do not add an extra Japanese-language lesson.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "pendant_rack",
+      "ja": "イノチ置き場",
+      "en": "pendant rack",
+      "kind": "object",
+      "note": "Shore-side rack; a remaining pendant indicates a swimmer may still be in the lake.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "life_exchange",
+      "ja": "イノチの交換",
+      "en": "exchange of Life pendants",
+      "kind": "custom",
+      "note": "Mutual exchange differs from a one-sided gift, refusal or taking a pendant.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "lake_n",
+      "ja": "Ｎ湖",
+      "en": "Lake N",
+      "kind": "location",
+      "note": "Explicitly anonymized in the story. Do not reveal a real lake name from geography or wiki commentary.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "gifu",
+      "ja": "岐阜県",
+      "en": "Gifu Prefecture",
+      "kind": "location",
+      "note": "Reiko's school location is explicit at148. Do not replace it with Narugami Academy's location from another continuity.",
+      "sources": [
+        "Steam inoti.ks line148"
+      ]
+    },
+    {
+      "id": "nagano",
+      "ja": "長野県",
+      "en": "Nagano Prefecture",
+      "kind": "location",
+      "note": "Keep separate from Reiko's visiting-student school location.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "nakano",
+      "ja": "中野",
+      "en": "Nakano",
+      "kind": "location",
+      "note": "Tokyo district of the trio's unnamed boys' school; do not assign the delinquent pair to it without source evidence.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "shibuya",
+      "ja": "渋谷",
+      "en": "Shibuya",
+      "kind": "location",
+      "note": "Club location in a speculative account.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "cabin_twelve",
+      "ja": "十二キャビン",
+      "en": "Cabin 12",
+      "kind": "location",
+      "note": "The trio's accommodation; distinct from haunted Cabin 13.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "haunted_cabin_thirteen",
+      "ja": "魔の十三キャビン",
+      "en": "the haunted Cabin 13",
+      "kind": "location",
+      "note": "Destroyed cabin and spectral reappearance; preserve tense and rumor qualification.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "camp_operator_unknown",
+      "ja": "ワールド・ナントカカントカ・カンパニー",
+      "en": "World Something-or-Other Company",
+      "kind": "organization",
+      "note": "Deliberate failure to remember a name. Do not silently equate it to the Happy & Peace company.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "world_happy_peace",
+      "ja": "ワールド・ハッピー＆ピース・カンパニー",
+      "en": "World Happy & Peace Company",
+      "spoken_en": "World Happy and Peace Company",
+      "kind": "organization",
+      "note": "Name recalled from Shindo's cram-school story; camp affiliation unconfirmed. Distinct from World Happy Mountain Association.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "fujimaru",
+      "ja": "ＦＵＪＩＭＡＲＵ",
+      "en": "FUJIMARU",
+      "kind": "establishment",
+      "note": "Ninja-themed hostess club; the women's affiliation remains speculation.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "sakaowa",
+      "ja": "サカオワ",
+      "en": "Sakaowa",
+      "kind": "music group",
+      "note": "Fictional/parody name; do not substitute a real band. Dune remains the existing locked musician name.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "oarashi",
+      "ja": "大嵐",
+      "en": "Oarashi",
+      "kind": "music group",
+      "note": "Existing self-help glossary lock; retain Sugi Jun, Umei and Onoda as source names, not real-world analogues.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "sentence_spring",
+      "ja": "センテンススプリング",
+      "en": "Sentence Spring",
+      "kind": "publication",
+      "note": "Preserve the parody publication name.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "sex_spots_book",
+      "ja": "日本全国絶対やれるスポット１００最新版",
+      "en": "100 Places in Japan Where You're Guaranteed to Get Laid: Latest Edition",
+      "kind": "book title",
+      "note": "Preserve the sexual claim and exact100; it is an in-story guide.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "adventure",
+      "ja": "アドベンチャー・カリキュラム",
+      "en": "Adventure program",
+      "kind": "activity",
+      "note": "Short form Adventure; this is a camp activity, not an ordinary school curriculum.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "lake_swimming_area",
+      "ja": "プール",
+      "en": "swimming area",
+      "kind": "location term",
+      "note": "Often the roped-off part of the lake. Check context instead of inventing a separate chlorinated pool.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "slit_mouthed_woman",
+      "ja": "口裂け女",
+      "en": "Slit-Mouthed Woman",
+      "kind": "urban legend",
+      "note": "Preserve teasing, suspicion and unconfirmed identities.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "human_faced_dog",
+      "ja": "人面犬",
+      "en": "human-faced dog",
+      "kind": "urban legend",
+      "note": "An alleged hybrid in Kaname's account; no factual scientific claim.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "human_faced_fish",
+      "ja": "人面魚",
+      "en": "human-faced fish",
+      "kind": "urban legend",
+      "note": "Preserve the distinction from human-faced dog.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "red_figure",
+      "ja": "赤い人",
+      "en": "red figure",
+      "kind": "description",
+      "note": "Gender unknown; the figure's nature is questioned. No imported identity from another route.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "virgin_prince",
+      "ja": "童貞王子",
+      "en": "Virgin Prince",
+      "kind": "nickname",
+      "note": "Koreeda's teasing name for Moriyama; retain sexual force.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "louse_nickname",
+      "ja": "シラミ",
+      "en": "Louse",
+      "kind": "nickname",
+      "note": "Insulting nickname for Shiraki. Record the lost phonetic Shiraki/Shirami link rather than renaming Shiraki or adding a new person.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "hana_nickname",
+      "ja": "ハナちゃん",
+      "en": "Hana",
+      "kind": "nickname",
+      "note": "Nickname of Hanae, not a separate person. Preserve the flower/hanamaru joke when the full line is reviewed.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "makkuro_kurosuke",
+      "ja": "マックロクロスケ",
+      "en": "soot sprite",
+      "kind": "reference",
+      "note": "Figurative comparison with an unreadable black marker smudge; not a new entity.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "body_rental",
+      "ja": "レンタル",
+      "en": "rental",
+      "kind": "supernatural term",
+      "note": "Bodies and occupants are distinct; renting is a claim, and theft/takeover wording must follow the source.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "test_of_courage",
+      "ja": "肝試し",
+      "en": "test of courage",
+      "kind": "activity",
+      "note": "Nighttime camp activity involving a forest candle. Keep distinct from sexual night visits.",
+      "sources": [
+        "Steam inoti.ks lines156,1113–1114 and camp branches"
+      ]
+    },
+    {
+      "id": "night_visits",
+      "ja": "夜這い",
+      "en": "night visits",
+      "kind": "activity",
+      "note": "Repeated name after the source's concrete sex/cabin explanation. Preserve the explicit assault question and claimed consensual distinction. Do not assert the boys' invitation-sign story as blanket consent.",
+      "sources": [
+        "Steam inoti.ks lines3116–3131 and later discussion"
+      ]
+    },
+    {
+      "id": "underground_kingdom",
+      "ja": "地底王国",
+      "en": "Underground Kingdom",
+      "kind": "roleplay setting",
+      "note": "Miwako's camp-attraction presentation; do not establish an actual country or species outside the performance.",
+      "sources": [
+        "Steam inoti.ks lines6486–6488 and Adventure epilogue"
+      ]
+    },
+    {
+      "id": "underground_people",
+      "ja": "地底人",
+      "en": "underground people",
+      "kind": "roleplay inhabitants",
+      "note": "Preserve camp-performance context and source uncertainty.",
+      "sources": [
+        "Steam inoti.ks line6486"
+      ]
+    },
+    {
+      "id": "summer_jumbo",
+      "ja": "サマージャンボ",
+      "en": "Summer Jumbo",
+      "kind": "lottery name",
+      "note": "Yoko's odds comparison; do not invent current prize amounts or actual odds.",
+      "sources": [
+        "Steam inoti.ks line6531"
+      ]
+    },
+    {
+      "id": "bound_spirit",
+      "ja": "地縛霊",
+      "en": "bound spirit",
+      "kind": "supernatural term",
+      "note": "Alleged lake haunting must not erase the alternative human-diver explanation.",
+      "sources": [
+        "Steam inoti.ks; local candidate report records precise lines"
+      ]
+    },
+    {
+      "id": "pendant_example_personal_name",
+      "ja": "古芝みちる",
+      "en": "Michiru Furushiba",
+      "kind": "unidentified name on illustrated Life pendant",
+      "gender": "unknown",
+      "reading_status": "Michiru verified from visible kana; Furushiba is a provisional dictionary reading, not game-specific confirmation.",
+      "alternate_surname_reading": "Koshiba",
+      "role": "Full personal-name inscription in the illustrated example; no named owner or relationship is established.",
+      "note": "Never substitute Life for this name or omit the surname. Preserve surrounding painted symbols. Exact-name/game searches found no canonical reading; surname references permit both Furushiba and Koshiba.",
+      "sources": [
+        "Steam inoti.ks344,349,394,451; hukuzawa/CG/イノチ.png",
+        "https://tangorin.com/names/5256295",
+        "https://myoji-yurai.net/searchResult.htm?myojiKanji=%E5%8F%A4%E8%8A%9D"
+      ]
+    }
+  ],
+  "pending": [
+    "Further wiki cross-checks of explicit-kana cast before final export",
+    "Umei/Onoda game-specific readings",
+    "Functional cipher localization and directional controls",
+    "Audible woman's phrase near7096 needs English captions; extracted prose alone is insufficient",
+    "Queen/persona and body/occupant distinctions must be checked in context"
+  ]
+}

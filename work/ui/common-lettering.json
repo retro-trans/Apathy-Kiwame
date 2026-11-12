@@ -1,0 +1,2735 @@
+{
+  "version": 1,
+  "status": "Implementation draft; independent and native approval pending",
+  "source_plan_sha256": "dc7db17f7a41ac02098bea45f8544a3570d0e81f050b0c4d7cd0f813114d1274",
+  "font": "tools/fonts/genei-latin/GenEiLateGoP_v2.ttf",
+  "atlas": "work/ui/art/common-ending-clean-generated.png",
+  "atlas_reference_size": [
+    1536,
+    750
+  ],
+  "clean_plates": [
+    {
+      "path": "work/ui/art/common-newspaper-clean-generated.png",
+      "sha256": "f2e7d9567c7a23a20eacc5d996a57ba5ba30315e4dd510929626d160bb3d6a25",
+      "dimensions": [
+        1491,
+        1055
+      ]
+    },
+    {
+      "path": "work/ui/art/common-ending-clean-generated.png",
+      "sha256": "8a087f5218600c7c46beeb7285ab586b69ed24a0881534c3576cef40b788ebd3",
+      "dimensions": [
+        1794,
+        877
+      ]
+    },
+    {
+      "path": "work/ui/art/common-dating-hover-clean-generated.png",
+      "sha256": "1e973c744e6aaa975d328b98d993373d032b256368fc75c86daed3d42dd010ce",
+      "dimensions": [
+        1479,
+        1063
+      ]
+    },
+    {
+      "path": "work/ui/art/common-newspaper-blended-plate2.png",
+      "sha256": "91271dce254c53deda395830cf61adcd9b9e9acb9cec62f799a2837093ee5a8b",
+      "dimensions": [
+        640,
+        453
+      ],
+      "kind": "derived_boundary_blend"
+    },
+    {
+      "path": "work/ui/art/common-newspaper-patch-mask2.png",
+      "sha256": "720f51d6f6f385ef7a8c81bd86ade79db7896cb2a9b11a8b260c05dec544e109",
+      "dimensions": [
+        640,
+        453
+      ],
+      "kind": "explicit_cleanup_mask"
+    },
+    {
+      "path": "work/ui/art/common-newspaper-patch-mask-feather.png",
+      "sha256": "5669ce8ff06c45ddf5ce42429e1b7cb99016a4b35d9674833646090ffd4029c1",
+      "dimensions": [
+        640,
+        453
+      ],
+      "kind": "inward-safe generated-paper blend feather mask"
+    },
+    {
+      "path": "work/ui/art/common-hyakuten-seal-protect.png",
+      "sha256": "858cfdb139b64105b9457fdbe4d043c4c79ab78b277fe600ba24347cbbae0031",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "original large connected red seal contours; excludes disconnected source kana lettering",
+      "accepted_components_xywha": [
+        [
+          615,
+          25,
+          131,
+          132,
+          3462
+        ]
+      ]
+    },
+    {
+      "path": "work/ui/art/common-two-emblems-clean-generated.png",
+      "sha256": "a0656bd1dd4aae7966c3b524fcaddccb013c576383fa0662fa98694af6562175",
+      "dimensions": [
+        1774,
+        887
+      ],
+      "kind": "built-in imagegen emblem cleanup plate"
+    },
+    {
+      "path": "work/ui/art/common-jikkyo-clean-generated.png",
+      "sha256": "3ee52d3b11bcbdbc5869fe2c813204071e21f7d42315af7ae59b10a9eff61163",
+      "dimensions": [
+        1479,
+        1063
+      ],
+      "kind": "built-in imagegen title-only clean plate"
+    }
+  ],
+  "items": [
+    {
+      "id": "common-newspaper",
+      "source": "bgimage/op/壁新聞.jpg",
+      "source_sha256": "9031fafaaaa2cfe85086cd4c46817114f0c395c970d76716c2eddb00a2fdafa2",
+      "dimensions": [
+        640,
+        453
+      ],
+      "kind": "newspaper",
+      "map_group": "backgrounds",
+      "map_key": "op/壁新聞.jpg",
+      "target": "common-newspaper.png",
+      "blocks": [
+        {
+          "id": "masthead",
+          "source": "鳴神学園新聞",
+          "english": "Narugami Academy Newspaper",
+          "rectified_edit_box": [
+            44,
+            330,
+            592,
+            99
+          ],
+          "font_size": 39,
+          "baseline": 401,
+          "reading_status": "Legible masthead; beginning partly clipped by original image edge.",
+          "decision": "Narugami Academy uses core lock; Newspaper is publication masthead, not Newspaper Club organization name."
+        },
+        {
+          "id": "feature_title",
+          "source": "学校であった怖い話",
+          "english": "Scary Stories from School",
+          "rectified_edit_box": [
+            274,
+            443,
+            431,
+            57
+          ],
+          "font_size": 27,
+          "baseline": 488,
+          "reading_status": "Legible headline, exact core glossary publication-title lock."
+        },
+        {
+          "id": "feature_marker",
+          "source_visible": "…集!!",
+          "english_proposal": "FEATURE!!",
+          "rectified_edit_box": [
+            133,
+            451,
+            107,
+            49
+          ],
+          "font_size": 18,
+          "baseline": 484,
+          "status": "Partial source. Likely feature label; leading source character is cropped, so do not claim complete 特集 transcription. Preserve matching initial clipping; root accuracy check before lettering."
+        },
+        {
+          "id": "first_person_fragment",
+          "source_visible": "一人目の方は…",
+          "english": "The first person...",
+          "rectified_edit_box": [
+            462,
+            524,
+            48,
+            190
+          ],
+          "font_size": 11,
+          "line_height": 18,
+          "lines": [
+            "The",
+            "first",
+            "person..."
+          ],
+          "status": "Readable trailing topic fragment in vertical body column; retain unfinished ellipsis, no completed article or speaker identity invented."
+        }
+      ],
+      "plate": "work/ui/art/common-newspaper-clean-generated.png",
+      "blended_plate": "work/ui/art/common-newspaper-blended-plate2.png",
+      "patch_mask": "work/ui/art/common-newspaper-patch-mask-feather.png",
+      "cleanup_notes": "Boundary-blended generated blank paper, dilated31px mask with9px Gaussian feather; paper edge, keyboard and illegible body outside nonzero mask protected. English text-only layer Gaussian .55px matches photographic print focus."
+    },
+    {
+      "id": "common-main-title",
+      "source": "bgimage/title.png",
+      "source_sha256": "5702fed96dd69ae81a7caeb8cfb3409a6735ad71a728283b913e55586878d795",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "main",
+      "map_group": "backgrounds",
+      "map_key": "title.png",
+      "target": "common-main-title.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-main-close",
+      "source": "fgimage/タイトル/close.png",
+      "source_sha256": "c252d6206c1deefe758375a94ad1c847d5eaf39c6f94b38df7d25246fd41d3cd",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "main",
+      "map_group": "images",
+      "map_key": "タイトル/close.png",
+      "target": "common-main-close.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-main-config",
+      "source": "fgimage/タイトル/config.png",
+      "source_sha256": "a6a8dca135cb4f64e53374e5d6f80508e16215e7ab93a86c34eae5f839714790",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "main",
+      "map_group": "images",
+      "map_key": "タイトル/config.png",
+      "target": "common-main-config.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-main-ed",
+      "source": "fgimage/タイトル/ed.png",
+      "source_sha256": "d1d4b2be8333b54337174ab6bc08c2b0d022e89851576368ad7bba27cec8e99f",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "main",
+      "map_group": "images",
+      "map_key": "タイトル/ed.png",
+      "target": "common-main-ed.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-main-kataribe",
+      "source": "fgimage/タイトル/kataribe.png",
+      "source_sha256": "f4a8dc3cf43b19eb343aed52f069eea9283694ee7e0de6b90022d3d6aa290962",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "main",
+      "map_group": "images",
+      "map_key": "タイトル/kataribe.png",
+      "target": "common-main-kataribe.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-main-load",
+      "source": "fgimage/タイトル/load.png",
+      "source_sha256": "a6db6552d8a5bddcebf26eb391c9575c9af882df0ee52670d6ff87949f0b9183",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "main",
+      "map_group": "images",
+      "map_key": "タイトル/load.png",
+      "target": "common-main-load.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-main-op",
+      "source": "fgimage/タイトル/op.png",
+      "source_sha256": "96cce6a77cab2b6fdc19f5dc8af5f1359d7a4869a3a855b0215805a63151898f",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "main",
+      "map_group": "images",
+      "map_key": "タイトル/op.png",
+      "target": "common-main-op.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-main-ope",
+      "source": "fgimage/タイトル/ope.png",
+      "source_sha256": "267b76eb354cb9c8d596da0785bbe4dc2e1c7d6daf315d6091a33a7720f26846",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "main",
+      "map_group": "images",
+      "map_key": "タイトル/ope.png",
+      "target": "common-main-ope.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-title-demo",
+      "source": "image/title/タイトル01.png",
+      "source_sha256": "25cebf72d0c0f7d6b517376355a42efdce486b1ed614d3ba49797338069a1055",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "trial",
+      "map_group": "buttons",
+      "map_key": "title/タイトル01.png",
+      "target": "common-title-demo.png",
+      "badge": {
+        "english": "Kiwame",
+        "x": 171,
+        "baseline": 168,
+        "font_size": 19,
+        "box": [
+          169,
+          148,
+          123,
+          23
+        ]
+      }
+    },
+    {
+      "id": "common-site-bana",
+      "source": "image/title/bana.png",
+      "source_sha256": "577d9449c881d5d11c6e79d606c3ce22c8187d1b42da559c6d9d3338a8ecb69b",
+      "dimensions": [
+        60,
+        45
+      ],
+      "kind": "site",
+      "map_group": "buttons",
+      "map_key": "title/bana.png",
+      "target": "common-site-bana.png"
+    },
+    {
+      "id": "common-site-bana2",
+      "source": "image/title/bana2.png",
+      "source_sha256": "15eb56dba8a170602473ea21f2f58a692f76ed0ce115d3d48c6427f84f73fad5",
+      "dimensions": [
+        60,
+        45
+      ],
+      "kind": "site",
+      "map_group": "buttons",
+      "map_key": "title/bana2.png",
+      "target": "common-site-bana2.png"
+    },
+    {
+      "id": "common-startup-rogo",
+      "source": "bgimage/rogo.png",
+      "source_sha256": "d9ad96cf36093071268f4e56d328d73d9a5878ee332b7664349dc8652d1ec0f7",
+      "dimensions": [
+        896,
+        640
+      ],
+      "kind": "publisher",
+      "map_group": "backgrounds",
+      "map_key": "rogo.png",
+      "target": "common-startup-rogo.png",
+      "blocks": []
+    },
+    {
+      "id": "common-startup-men",
+      "source": "bgimage/men.png",
+      "source_sha256": "17b5501227d6919b7988fd5107f6dd50c0fc8a3f608d8182e2cc910d31752acd",
+      "dimensions": [
+        896,
+        640
+      ],
+      "kind": "disclaimer",
+      "map_group": "backgrounds",
+      "map_key": "men.png",
+      "target": "common-startup-men.png",
+      "blocks": [
+        {
+          "id": "heading",
+          "source": "免責事項",
+          "english": "Disclaimer",
+          "box": [
+            330,
+            135,
+            240,
+            48
+          ],
+          "font_size": 32,
+          "baseline": 174,
+          "anchor": "middle"
+        },
+        {
+          "id": "fiction",
+          "english": "This work is fiction. It has no connection to any real people or organizations.",
+          "box": [
+            65,
+            208,
+            766,
+            64
+          ],
+          "font_size": 20,
+          "line_height": 28,
+          "suggested_lines": [
+            "This work is fiction. It has no connection to any real people or organizations."
+          ]
+        },
+        {
+          "id": "software",
+          "english": "We accept no responsibility for any problems or malfunctions arising from use of this software.",
+          "box": [
+            65,
+            284,
+            766,
+            76
+          ],
+          "font_size": 20,
+          "line_height": 28,
+          "suggested_lines": [
+            "We accept no responsibility for any problems or malfunctions arising",
+            "from use of this software."
+          ]
+        },
+        {
+          "id": "content",
+          "english": "This work also contains macabre and grotesque depictions. Please understand that we cannot accept responsibility if you find this content upsetting.",
+          "box": [
+            65,
+            370,
+            766,
+            106
+          ],
+          "font_size": 20,
+          "line_height": 28,
+          "suggested_lines": [
+            "This work also contains macabre and grotesque depictions. Please understand",
+            "that we cannot accept responsibility if you find this content upsetting."
+          ]
+        },
+        {
+          "id": "continue",
+          "english": "Click to continue",
+          "box": [
+            280,
+            440,
+            340,
+            32
+          ],
+          "font_size": 16,
+          "baseline": 466,
+          "anchor": "middle",
+          "purpose": "Explicit root-requested action prompt for English-only native click pause. Root owns first.ks11 change; no other startup timing altered."
+        }
+      ]
+    },
+    {
+      "id": "common-staff",
+      "source": "fgimage/edlist/staff.png",
+      "source_sha256": "96178137b3082731d7a5d7b20239cd198a1b6b65afb0afe6623f7c198b5bb60c",
+      "dimensions": [
+        690,
+        4000
+      ],
+      "kind": "staff",
+      "map_group": "images",
+      "map_key": "edlist/staff.png",
+      "target": "common-staff.png",
+      "rows": [
+        {
+          "row": 1,
+          "kind": "role",
+          "source_visible": "シナリオ",
+          "source_ink_bounds_xyxy": [
+            235,
+            791,
+            290,
+            806
+          ],
+          "attributed_role_group": "Scenario",
+          "english": "Scenario",
+          "edit_policy": "Replace role label only, preserve red ink character and same vertical anchor.",
+          "proposed_edit_box": [
+            233,
+            789,
+            230,
+            20
+          ],
+          "proposed_font_size": 16
+        },
+        {
+          "row": 2,
+          "kind": "name",
+          "source_visible": "飯島多紀哉",
+          "source_ink_bounds_xyxy": [
+            235,
+            823,
+            359,
+            846
+          ],
+          "attributed_role_group": "Scenario",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 3,
+          "kind": "name",
+          "source_visible": "海原望（井上阿希）",
+          "source_ink_bounds_xyxy": [
+            234,
+            879,
+            424,
+            902
+          ],
+          "attributed_role_group": "Scenario",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 4,
+          "kind": "name",
+          "source_visible": "千日手由",
+          "source_ink_bounds_xyxy": [
+            235,
+            932,
+            331,
+            954
+          ],
+          "attributed_role_group": "Scenario",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 5,
+          "kind": "name",
+          "source_visible": "九譚岬",
+          "source_ink_bounds_xyxy": [
+            235,
+            982,
+            308,
+            1005
+          ],
+          "attributed_role_group": "Scenario",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 6,
+          "kind": "role",
+          "source_visible": "グラフィック",
+          "source_ink_bounds_xyxy": [
+            235,
+            1057,
+            306,
+            1073
+          ],
+          "attributed_role_group": "Graphics",
+          "english": "Graphics",
+          "edit_policy": "Replace role label only, preserve red ink character and same vertical anchor.",
+          "proposed_edit_box": [
+            233,
+            1055,
+            230,
+            21
+          ],
+          "proposed_font_size": 16
+        },
+        {
+          "row": 7,
+          "kind": "name",
+          "source_visible": "芥生脱兎",
+          "source_ink_bounds_xyxy": [
+            235,
+            1090,
+            332,
+            1113
+          ],
+          "attributed_role_group": "Graphics",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 8,
+          "kind": "name",
+          "source_visible": "健康肉類",
+          "source_ink_bounds_xyxy": [
+            234,
+            1148,
+            333,
+            1171
+          ],
+          "attributed_role_group": "Graphics",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 9,
+          "kind": "name",
+          "source_visible": "御前伶咲",
+          "source_ink_bounds_xyxy": [
+            234,
+            1198,
+            333,
+            1221
+          ],
+          "attributed_role_group": "Graphics",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 10,
+          "kind": "role",
+          "source_visible": "スクリプト",
+          "source_ink_bounds_xyxy": [
+            235,
+            1274,
+            295,
+            1290
+          ],
+          "attributed_role_group": "Scripting",
+          "english": "Scripting",
+          "edit_policy": "Replace role label only, preserve red ink character and same vertical anchor.",
+          "proposed_edit_box": [
+            233,
+            1272,
+            230,
+            21
+          ],
+          "proposed_font_size": 16
+        },
+        {
+          "row": 11,
+          "kind": "name",
+          "source_visible": "海凪",
+          "source_ink_bounds_xyxy": [
+            235,
+            1306,
+            283,
+            1330
+          ],
+          "attributed_role_group": "Scripting",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 12,
+          "kind": "name",
+          "source_visible": "千日手由",
+          "source_ink_bounds_xyxy": [
+            235,
+            1366,
+            331,
+            1388
+          ],
+          "attributed_role_group": "Scripting",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 13,
+          "kind": "role",
+          "source_visible": "サウンド",
+          "source_ink_bounds_xyxy": [
+            235,
+            1440,
+            293,
+            1457
+          ],
+          "attributed_role_group": "Sound",
+          "english": "Sound",
+          "edit_policy": "Replace role label only, preserve red ink character and same vertical anchor.",
+          "proposed_edit_box": [
+            233,
+            1438,
+            230,
+            22
+          ],
+          "proposed_font_size": 16
+        },
+        {
+          "row": 14,
+          "kind": "name",
+          "source_visible": "DOVA-SYNDROME",
+          "source_ink_bounds_xyxy": [
+            236,
+            1475,
+            450,
+            1495
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 15,
+          "kind": "name",
+          "source_visible": "Free Music Archive",
+          "source_ink_bounds_xyxy": [
+            236,
+            1533,
+            446,
+            1553
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 16,
+          "kind": "name",
+          "source_visible": "Chris_Zabriskie",
+          "source_ink_bounds_xyxy": [
+            234,
+            1583,
+            409,
+            1605
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 17,
+          "kind": "name",
+          "source_visible": "Jahzzar",
+          "source_ink_bounds_xyxy": [
+            234,
+            1633,
+            322,
+            1653
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 18,
+          "kind": "name",
+          "source_visible": "Kevin_MacLeod",
+          "source_ink_bounds_xyxy": [
+            235,
+            1683,
+            406,
+            1705
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 19,
+          "kind": "name",
+          "source_visible": "myuu",
+          "source_ink_bounds_xyxy": [
+            236,
+            1738,
+            292,
+            1758
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 20,
+          "kind": "name",
+          "source_visible": "OtoLogic",
+          "source_ink_bounds_xyxy": [
+            234,
+            1783,
+            335,
+            1808
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 21,
+          "kind": "name",
+          "source_visible": "Presence of Music",
+          "source_ink_bounds_xyxy": [
+            235,
+            1833,
+            437,
+            1853
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 22,
+          "kind": "name",
+          "source_visible": "Wingless Seraph",
+          "source_ink_bounds_xyxy": [
+            235,
+            1883,
+            415,
+            1908
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 23,
+          "kind": "name",
+          "source_visible": "ポケットサウンド",
+          "source_ink_bounds_xyxy": [
+            235,
+            1932,
+            380,
+            1954
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 24,
+          "kind": "name",
+          "source_visible": "音楽の卵",
+          "source_ink_bounds_xyxy": [
+            235,
+            1981,
+            327,
+            2004
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 25,
+          "kind": "name",
+          "source_visible": "甘茶の音楽工房",
+          "source_ink_bounds_xyxy": [
+            235,
+            2031,
+            403,
+            2054
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 26,
+          "kind": "name",
+          "source_visible": "凍獄庭園",
+          "source_ink_bounds_xyxy": [
+            235,
+            2081,
+            332,
+            2105
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 27,
+          "kind": "name",
+          "source_visible": "魔王魂",
+          "source_ink_bounds_xyxy": [
+            235,
+            2131,
+            308,
+            2154
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 28,
+          "kind": "name",
+          "source_visible": "くらげ工匠",
+          "source_ink_bounds_xyxy": [
+            236,
+            2181,
+            331,
+            2205
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 29,
+          "kind": "name",
+          "source_visible": "びたちー素材館",
+          "source_ink_bounds_xyxy": [
+            235,
+            2231,
+            389,
+            2255
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 30,
+          "kind": "name",
+          "source_visible": "効果音ラボ",
+          "source_ink_bounds_xyxy": [
+            235,
+            2281,
+            343,
+            2304
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 31,
+          "kind": "name",
+          "source_visible": "効果音辞典",
+          "source_ink_bounds_xyxy": [
+            235,
+            2331,
+            358,
+            2354
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 32,
+          "kind": "name",
+          "source_visible": "無料効果音で遊ぼう！",
+          "source_ink_bounds_xyxy": [
+            235,
+            2381,
+            453,
+            2404
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 33,
+          "kind": "name",
+          "source_visible": "音門",
+          "source_ink_bounds_xyxy": [
+            235,
+            2431,
+            282,
+            2454
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 34,
+          "kind": "name",
+          "source_visible": "Jannoon028 - Freepik.com",
+          "source_ink_bounds_xyxy": [
+            234,
+            2483,
+            530,
+            2508
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 35,
+          "kind": "name",
+          "source_visible": "かぼちゃ",
+          "source_ink_bounds_xyxy": [
+            235,
+            2531,
+            312,
+            2553
+          ],
+          "attributed_role_group": "Sound",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 36,
+          "kind": "role",
+          "source_visible": "背景",
+          "source_ink_bounds_xyxy": [
+            235,
+            2606,
+            271,
+            2624
+          ],
+          "attributed_role_group": "Backgrounds",
+          "english": "Backgrounds",
+          "edit_policy": "Replace role label only, preserve red ink character and same vertical anchor.",
+          "proposed_edit_box": [
+            233,
+            2604,
+            230,
+            23
+          ],
+          "proposed_font_size": 16
+        },
+        {
+          "row": 37,
+          "kind": "name",
+          "source_visible": "Pixabay",
+          "source_ink_bounds_xyxy": [
+            235,
+            2642,
+            321,
+            2667
+          ],
+          "attributed_role_group": "Backgrounds",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 38,
+          "kind": "name",
+          "source_visible": "PhotoAC",
+          "source_ink_bounds_xyxy": [
+            235,
+            2700,
+            330,
+            2720
+          ],
+          "attributed_role_group": "Backgrounds",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 39,
+          "kind": "name",
+          "source_visible": "ぱくたそ",
+          "source_ink_bounds_xyxy": [
+            236,
+            2747,
+            306,
+            2771
+          ],
+          "attributed_role_group": "Backgrounds",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 40,
+          "kind": "name",
+          "source_visible": "Sothei",
+          "source_ink_bounds_xyxy": [
+            235,
+            2800,
+            304,
+            2820
+          ],
+          "attributed_role_group": "Backgrounds",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 41,
+          "kind": "role",
+          "source_visible": "製作ソフト",
+          "source_ink_bounds_xyxy": [
+            234,
+            2873,
+            307,
+            2891
+          ],
+          "attributed_role_group": "Development Tool",
+          "english": "Development Tool",
+          "edit_policy": "Replace role label only, preserve red ink character and same vertical anchor.",
+          "proposed_edit_box": [
+            232,
+            2871,
+            230,
+            23
+          ],
+          "proposed_font_size": 16
+        },
+        {
+          "row": 42,
+          "kind": "name",
+          "source_visible": "ティラノスクリプト",
+          "source_ink_bounds_xyxy": [
+            236,
+            2907,
+            382,
+            2929
+          ],
+          "attributed_role_group": "Development Tool",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        },
+        {
+          "row": 43,
+          "kind": "role",
+          "source_visible": "製作",
+          "source_ink_bounds_xyxy": [
+            234,
+            3189,
+            271,
+            3207
+          ],
+          "attributed_role_group": "Production",
+          "english": "Production",
+          "edit_policy": "Replace role label only, preserve red ink character and same vertical anchor.",
+          "proposed_edit_box": [
+            232,
+            3187,
+            230,
+            23
+          ],
+          "proposed_font_size": 16
+        },
+        {
+          "row": 44,
+          "kind": "name",
+          "source_visible": "七転び八転がり",
+          "source_ink_bounds_xyxy": [
+            235,
+            3215,
+            393,
+            3239
+          ],
+          "attributed_role_group": "Production",
+          "english": null,
+          "edit_policy": "Preserve original credited name raster exactly; do not rename people, translate proper resource brands or replace historical credited aliases.",
+          "proposed_edit_box": null,
+          "proposed_font_size": null
+        }
+      ]
+    },
+    {
+      "id": "common-ed-title1",
+      "source": "fgimage/edlist/title1.jpg",
+      "source_sha256": "ef3c060e0e5aa31c765308b5763e40892b5cdd25b30749a9cc089f372a43e572",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/title1.jpg",
+      "target": "common-ed-title1.png",
+      "title": {
+        "english": "Apathy Kiwame",
+        "policy": "Preserve official logo; append only Kiwame alongside existing Latin Apathy. No invented official English subtitle.",
+        "addition_box": [
+          582,
+          122,
+          130,
+          29
+        ],
+        "font_size": 21,
+        "baseline": 141
+      },
+      "embedded": null,
+      "plate_tile": {
+        "index": 0,
+        "asset_path": "data/fgimage/edlist/title1.jpg",
+        "tile_box": [
+          0,
+          22,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-gunzin",
+      "source": "fgimage/edlist/gunzin.jpg",
+      "source_sha256": "642e5eb430e9b246ff49e973f9f067b4761dee2cb9817fc563d6b669dd13b683",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/gunzin.jpg",
+      "target": "common-ed-gunzin.png",
+      "title": {
+        "english": "A Soldier's Last Letter",
+        "authority": "tools/hosoda_ui.py:title_artwork",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          640,
+          12,
+          120,
+          164
+        ],
+        "proposed_lines": [
+          "A Soldier's",
+          "Last",
+          "Letter"
+        ],
+        "font_size": 18,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": null,
+      "plate_tile": {
+        "index": 1,
+        "asset_path": "data/fgimage/edlist/gunzin.jpg",
+        "tile_box": [
+          512,
+          22,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          654,
+          8,
+          65,
+          105
+        ],
+        [
+          672,
+          122,
+          28,
+          55
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-hyakuten",
+      "source": "fgimage/edlist/hyakuten.jpg",
+      "source_sha256": "825e21a27ce9e090acfdf394fd532de5483510a5257e8db8b45343dd0f087521",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/hyakuten.jpg",
+      "target": "common-ed-hyakuten.png",
+      "title": {
+        "english": "Perfect Score Cram School",
+        "authority": "work/glossary/jyuku.json",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          619,
+          33,
+          112,
+          94
+        ],
+        "proposed_lines": [
+          "Perfect Score",
+          "Cram School"
+        ],
+        "font_size": 13,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": null,
+      "plate_tile": {
+        "index": 2,
+        "asset_path": "data/fgimage/edlist/hyakuten.jpg",
+        "tile_box": [
+          1024,
+          22,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          626,
+          61,
+          119,
+          67
+        ]
+      ]
+    },
+    {
+      "id": "inoti-ending-hover",
+      "source": "fgimage/edlist/inoti.jpg",
+      "source_sha256": "2cf50e076bed5d98528ad157bd392e4840ac054c8035cf92a02cb620d9690bd9",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "life_reuse",
+      "map_group": "images",
+      "map_key": "edlist/inoti.jpg",
+      "target": "inoti-ending-hover.svg",
+      "title": {
+        "english": "Life",
+        "authority": "tools/inoti_ui.py109 existing map",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering."
+      },
+      "embedded": null
+    },
+    {
+      "id": "common-ed-jikkyo",
+      "source": "fgimage/edlist/jikkyo.jpg",
+      "source_sha256": "94b4b714f14cfe882fc6df94aa8187fd90146300736c53db721217d3e930167c",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/jikkyo.jpg",
+      "target": "common-ed-jikkyo.png",
+      "title": {
+        "english": "The Game Streamer's Ghost Story",
+        "authority": "work/ui/game-streamers-ghost-story-title.svg",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          586,
+          19,
+          194,
+          140
+        ],
+        "proposed_lines": [
+          "The Game Streamer's",
+          "Ghost Story"
+        ],
+        "font_size": 16,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": {
+        "source_reference": {
+          "asset_path": "data/bgimage/sindo/game/マジル名刺.jpg",
+          "source_sha256": "c01627183a8afd876d2cd0f6408f9706a795cc148941f0f05c735367ca6f5799",
+          "source_dimensions": [
+            960,
+            690
+          ]
+        },
+        "match_evidence": "Same card image; grayscale correlation0.9971 in lower background region. ED version darkens original.",
+        "reuse": "work/ui/majiru-business-card.svg",
+        "blocks": [
+          {
+            "source": "呪いのゲーム実況者",
+            "english": "Cursed Game Streamer",
+            "source_scene_transform": {
+              "translate": [
+                463,
+                302
+              ],
+              "rotate_degrees": -14
+            },
+            "source_scene_baseline_offset": -6,
+            "font_size": 23
+          },
+          {
+            "source": "マジル",
+            "english": "Majiru",
+            "source_scene_baseline_offset": 39,
+            "font_size": 36
+          }
+        ],
+        "edit_region": [
+          288,
+          192,
+          359,
+          227
+        ],
+        "preserve": "Original card perspective, paper shade and all existing Latin account/URL fragments. Do not invent full cropped contact details.",
+        "integration": "Compose reviewed English card before applying matching ED darkness and blur, then original route emblem and common heading."
+      },
+      "plate_tile": {
+        "index": 3,
+        "asset_path": "data/fgimage/edlist/jikkyo.jpg",
+        "tile_box": [
+          0,
+          172,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          623,
+          31,
+          126,
+          88
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-kyukousya",
+      "source": "fgimage/edlist/kyukousya.jpg",
+      "source_sha256": "1f47ffd57347e06fe5208d450153f136c3e9b029d25e604b44e05d1682c02ab8",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/kyukousya.jpg",
+      "target": "common-ed-kyukousya.png",
+      "title": {
+        "english": "The Cursed Old School Building",
+        "authority": "work/ui/old-school-building-title.svg",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          530,
+          60,
+          370,
+          105
+        ],
+        "proposed_lines": [
+          "The Cursed",
+          "Old School Building"
+        ],
+        "font_size": 25,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": null,
+      "plate_tile": {
+        "index": 4,
+        "asset_path": "data/fgimage/edlist/kyukousya.jpg",
+        "tile_box": [
+          512,
+          172,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          500,
+          45,
+          410,
+          135
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-rengoku",
+      "source": "fgimage/edlist/rengoku.jpg",
+      "source_sha256": "a3863d676ad9060ebe141497193e4cb01f2f886290e6e5553aa2b33826d4c243",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/rengoku.jpg",
+      "target": "common-ed-rengoku.png",
+      "title": {
+        "english": "Love's Purgatory",
+        "authority": "work/ui/loves-purgatory-title.svg",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          619,
+          59,
+          124,
+          66
+        ],
+        "proposed_lines": [
+          "Love's",
+          "Purgatory"
+        ],
+        "font_size": 16,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": {
+        "source_reference": {
+          "asset_path": "data/bgimage/game/iwashita/タイトル.gif",
+          "source_sha256": "4425ba0d592d1ffedfbbb48c55629c5b8ba51d19077a7a6b761dbda470e3a951",
+          "source_dimensions": [
+            960,
+            690
+          ]
+        },
+        "reuse": [
+          "work/ui/game-dating-title.svg",
+          "work/ui/game-dating-screen.json"
+        ],
+        "visible_copy": [
+          {
+            "source": "Catch!",
+            "english": "Catch!",
+            "policy": "Already Latin; preserve graphic logo."
+          },
+          {
+            "source": "恋愛センセーション",
+            "english": "Heart Sensation",
+            "box": [
+              473,
+              359,
+              349,
+              33
+            ]
+          },
+          {
+            "source": "はじめる",
+            "english": "Start",
+            "anchor": [
+              692,
+              457
+            ]
+          },
+          {
+            "source": "つづきから",
+            "english": "Continue",
+            "anchor": [
+              735,
+              506
+            ]
+          },
+          {
+            "source": "おわり",
+            "english": "Quit",
+            "anchor": [
+              796,
+              553
+            ]
+          }
+        ],
+        "policy": "Reuse already reviewed English dating-title overlay geometry and preserve mascot heart/icons. Apply ED darkening after lettering. These are baked illustrative controls, not new clickable Ending List buttons."
+      },
+      "plate_tile": {
+        "index": 5,
+        "asset_path": "data/fgimage/edlist/rengoku.jpg",
+        "tile_box": [
+          1024,
+          172,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          620,
+          76,
+          121,
+          39
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-sanmyaku",
+      "source": "fgimage/edlist/sanmyaku.jpg",
+      "source_sha256": "9ab3459d2892805fc26b304a8ba798ce9aebbd190ad1620000553aaed56a925d",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/sanmyaku.jpg",
+      "target": "common-ed-sanmyaku.png",
+      "title": {
+        "english": "Mountains of Madness",
+        "authority": "work/ui/mountains-of-madness-title.svg",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          552,
+          83,
+          240,
+          78
+        ],
+        "proposed_lines": [
+          "Mountains",
+          "of Madness"
+        ],
+        "font_size": 25,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": null,
+      "plate_tile": {
+        "index": 6,
+        "asset_path": "data/fgimage/edlist/sanmyaku.jpg",
+        "tile_box": [
+          0,
+          322,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          548,
+          76,
+          246,
+          72
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-sns",
+      "source": "fgimage/edlist/sns.jpg",
+      "source_sha256": "8793394700fefdf724e45aedc16aa172439b74eeb67ff063c033664d155211d3",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/sns.jpg",
+      "target": "common-ed-sns.png",
+      "title": {
+        "english": "Social Media Ghost Story",
+        "authority": "work/ui/fukuzawa-lettering.json:title",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          579,
+          68,
+          196,
+          67
+        ],
+        "proposed_lines": [
+          "Social Media",
+          "Ghost Story"
+        ],
+        "font_size": 18,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": {
+        "source_reference": {
+          "asset_path": "data/bgimage/SNS/CG/1.png",
+          "source_sha256": "55b53d4d5907144e9c49df77b46566d5e4afca94b13062fdbf54734235a655ed",
+          "source_dimensions": [
+            960,
+            690
+          ]
+        },
+        "match_evidence": "Same phone/message scene; grayscale correlation0.93286, ED introduces stronger blur/darkness. All5candidate phone images compared; other correlations0.25–0.51.",
+        "reuse": "work/ui/fukuzawa-lettering.json images[source=SNS/CG/1.png]",
+        "visible_copy": [
+          {
+            "english": "I'm really looking forward to meeting you. Thank you so much, as always.",
+            "box_in_source_plane": [
+              607,
+              -46,
+              251,
+              144
+            ]
+          },
+          {
+            "english": "See you, then.",
+            "box_in_source_plane": [
+              558,
+              169,
+              246,
+              48
+            ]
+          },
+          {
+            "source": "許さない",
+            "english": "I won't forgive you.",
+            "box_in_source_plane": [
+              467,
+              430,
+              242,
+              45
+            ]
+          }
+        ],
+        "preserve": [
+          "@shadow-bardxxxx",
+          "@under-naoxxxx",
+          "Empty avatar",
+          "Actual original message cropping and blur"
+        ],
+        "policy": "Reuse approved source-plane transforms rather than interpreting the blurred final phrase as a different verb. Composite reviewed English before matching ED blur/darkness; do not add offscreen text.",
+        "exact_existing_source_scene_blocks": [
+          {
+            "id": "meeting",
+            "transform": [
+              0.978,
+              0.208,
+              -0.208,
+              0.978,
+              607,
+              -46
+            ],
+            "rect": [
+              3,
+              20,
+              251,
+              144
+            ],
+            "fill": "#11100f",
+            "font_size": 18,
+            "blur": 1.1,
+            "x": 18,
+            "y": 64,
+            "line_height": 31,
+            "lines": [
+              "I'm really looking",
+              "forward to meeting you.",
+              "Thank you so much,",
+              "as always."
+            ]
+          },
+          {
+            "id": "farewell",
+            "transform": [
+              0.978,
+              0.208,
+              -0.208,
+              0.978,
+              558,
+              169
+            ],
+            "rect": [
+              11,
+              14,
+              246,
+              48
+            ],
+            "sample_gradient": true,
+            "font_size": 21,
+            "blur": 1.1,
+            "x": 23,
+            "y": 48,
+            "line_height": 25,
+            "lines": [
+              "See you, then."
+            ]
+          },
+          {
+            "id": "forgiveness",
+            "transform": [
+              0.978,
+              0.208,
+              -0.208,
+              0.978,
+              467,
+              430
+            ],
+            "rect": [
+              0,
+              -12,
+              242,
+              45
+            ],
+            "sample_gradient": true,
+            "font_size": 20,
+            "blur": 0.35,
+            "x": 25,
+            "y": 26,
+            "line_height": 25,
+            "lines": [
+              "I won't forgive you."
+            ]
+          }
+        ]
+      },
+      "plate_tile": {
+        "index": 7,
+        "asset_path": "data/fgimage/edlist/sns.jpg",
+        "tile_box": [
+          512,
+          322,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          582,
+          73,
+          187,
+          59
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-syourei",
+      "source": "fgimage/edlist/syourei.jpg",
+      "source_sha256": "63ce828fa320d8324443d937cb4ed7a453c516d922f7b54e2bc17e1718a5e836",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/syourei.jpg",
+      "target": "common-ed-syourei.png",
+      "title": {
+        "english": "The Summoning Incident",
+        "authority": "work/glossary/syorei.json; parentlock",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          530,
+          49,
+          220,
+          95
+        ],
+        "proposed_lines": [
+          "The Summoning",
+          "Incident"
+        ],
+        "font_size": 23,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": {
+        "source_reference": {
+          "asset_path": "data/bgimage/syorei/こっくり/鳥居.jpg",
+          "source_sha256": "8efd3b9adaa17c02de35c4746915ecb6f88d03c96fb87e9e889eac394eaa0299",
+          "source_dimensions": [
+            960,
+            690
+          ]
+        },
+        "reuse": "work/source/syorei-media-english-plan.json board_plan",
+        "copy": "Reuse all Latin cell annotations and YES/NO headings, preserving native blank cells and coin above torii.",
+        "caption_policy": "No answer caption: Ending List artwork is a static illustration, not one of the six answer sequences.",
+        "geometry": "Original board is in the same960x690plane. Preserve its existing ED darkness, source hand/coin positions and the route handprint title; do not rebuild a26letter board."
+      },
+      "plate_tile": {
+        "index": 8,
+        "asset_path": "data/fgimage/edlist/syourei.jpg",
+        "tile_box": [
+          1024,
+          322,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          540,
+          55,
+          213,
+          85
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-uso",
+      "source": "fgimage/edlist/uso.jpg",
+      "source_sha256": "b60b03e4b6633ac9ca620243dfe4120210c3e64933398ddf318384d7a8a25cd5",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/uso.jpg",
+      "target": "common-ed-uso.png",
+      "title": {
+        "english": "Burying the Lie",
+        "authority": "work/ui/burying-the-lie-title.svg",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          563,
+          59,
+          143,
+          93
+        ],
+        "proposed_lines": [
+          "Burying",
+          "the Lie"
+        ],
+        "font_size": 23,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": null,
+      "plate_tile": {
+        "index": 9,
+        "asset_path": "data/fgimage/edlist/uso.jpg",
+        "tile_box": [
+          0,
+          472,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          558,
+          73,
+          155,
+          80
+        ],
+        [
+          714,
+          80,
+          54,
+          65
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-ziko",
+      "source": "fgimage/edlist/ziko.jpg",
+      "source_sha256": "43a4abb4da3bdad9f7c0777eaa472385b63df5ea0ac50e87a2f5117a97c408f9",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/ziko.jpg",
+      "target": "common-ed-ziko.png",
+      "title": {
+        "english": "The Wonderful World of Self-Help",
+        "authority": "work/ui/self-help-title.svg",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          619,
+          33,
+          135,
+          115
+        ],
+        "proposed_lines": [
+          "The Wonderful",
+          "World of",
+          "Self-Help"
+        ],
+        "font_size": 15,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": {
+        "finding": "Book title and surrounding books are heavily defocused. Full body lettering cannot be transcribed reliably at native resolution. Preserve existing blur and do not insert full book text merely because the narrative supplies a title."
+      },
+      "plate_tile": {
+        "index": 10,
+        "asset_path": "data/fgimage/edlist/ziko.jpg",
+        "tile_box": [
+          512,
+          472,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          619,
+          34,
+          127,
+          115
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-zinniku",
+      "source": "fgimage/edlist/zinniku.jpg",
+      "source_sha256": "963a2dd4fe0fa6dea0294cbf77e4efe135c1fb39eb20370ae5cc025fb08f128f",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/zinniku.jpg",
+      "target": "common-ed-zinniku.png",
+      "title": {
+        "english": "Human Flesh Cafeteria",
+        "authority": "work/ui/human-flesh-cafeteria-title.svg",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          642,
+          55,
+          94,
+          70
+        ],
+        "proposed_lines": [
+          "Human",
+          "Flesh",
+          "Cafeteria"
+        ],
+        "font_size": 12,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": null,
+      "plate_tile": {
+        "index": 11,
+        "asset_path": "data/fgimage/edlist/zinniku.jpg",
+        "tile_box": [
+          1024,
+          472,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          620,
+          58,
+          130,
+          70
+        ]
+      ]
+    },
+    {
+      "id": "common-ed-hukusyu",
+      "source": "fgimage/edlist/hukusyu.jpg",
+      "source_sha256": "7d7e102ea2a64081b791f3f6be45d609322dd298a1a47660ef79c63474255546",
+      "dimensions": [
+        960,
+        690
+      ],
+      "kind": "ending",
+      "map_group": "images",
+      "map_key": "edlist/hukusyu.jpg",
+      "target": "common-ed-hukusyu.png",
+      "title": {
+        "english": "Revenge Site",
+        "authority": "work/glossary/site.json",
+        "draft_region": [
+          530,
+          25,
+          380,
+          144
+        ],
+        "policy": "Reuse established route-title wording and associated object/emblem style. Clip cleanup to original title lettering; preserve uniform/envelope, stamp ring, monitor, controller symbols/splatter, school building, cross, head silhouettes, plate/utensils and hand silhouette. Root must refine per-image masks after rendering.",
+        "proposed_lettering_box": [
+          580,
+          70,
+          217,
+          87
+        ],
+        "proposed_lines": [
+          "Revenge",
+          "Site"
+        ],
+        "font_size": 27,
+        "clipped_edit_bounds": "Only original title glyphs inside this draft region. Preserve emblem/object pixels and restore them above new text; box is a placement limit, not an opaque rectangular cover."
+      },
+      "embedded": null,
+      "plate_tile": {
+        "index": 12,
+        "asset_path": "data/fgimage/edlist/hukusyu.jpg",
+        "tile_box": [
+          0,
+          622,
+          512,
+          107
+        ],
+        "source_crop": [
+          0,
+          0,
+          960,
+          200
+        ]
+      },
+      "cleanup_rects": [
+        [
+          29,
+          123,
+          196,
+          42
+        ],
+        [
+          576,
+          65,
+          233,
+          103
+        ]
+      ]
+    }
+  ],
+  "protected_policy": "Original outside explicitly allowed lettering rectangles/composite masks must match byte-for-byte after rasterization. Logos, copyrights and unresolved credit names retained.",
+  "timing_policy": "No script commands or original durations changed. Startup disclaimer has original1500ms hold; root must decide readability separately.",
+  "change_log": [
+    {
+      "date": "2026-11-11",
+      "change": "Created29-asset common artwork implementation specification from reviewed private plan; source SHA anchors and clean plate hashes included."
+    },
+    {
+      "date": "2026-11-11",
+      "change": "First visual review found clipped old strokes in two titles and source-plane mismatch in dating hover; enlarged exact cleanup regions, separated cross/hand lettering and generated a dedicated dating clean plate."
+    },
+    {
+      "date": "2026-11-11",
+      "change": "Second visual pass removed remaining old title stroke and changed paper blending to original-ink-shaped patches to preserve lighting between letters. Added exact font/reused-render SHA checks."
+    },
+    {
+      "date": "2026-11-11",
+      "change": "Replaced newspaper temporary ink cleanup with seamless generated-paper boundary blend, SHA-anchored mask and plate; deterministic English lettering preserves all unmasked photography."
+    },
+    {
+      "date": "2026-11-11",
+      "change": "Enlarged proof caught leftover Japanese in two title emblems; replaced all old lettering using dedicated built-in clean plate and original contour mask. Disclaimer localized self-reference naturally as We accept, preserving all scope."
+    },
+    {
+      "date": "2026-11-11",
+      "change": "Added Click to continue inside disclaimer protected text region, per root English-only first.ks11 click-pause integration decision. All original warning paragraphs retained."
+    },
+    {
+      "date": "2026-11-11",
+      "change": "Dedicated game-streamer title plate removes all ghosted source strokes while original red splatter and white controller illustrations are preserved."
+    }
+  ],
+  "board_columns": [
+    {
+      "x": 815,
+      "centers_y": [
+        229,
+        298,
+        379,
+        466,
+        547
+      ],
+      "labels": [
+        "a",
+        "i",
+        "u",
+        "e",
+        "o"
+      ]
+    },
+    {
+      "x": 742,
+      "centers_y": [
+        222,
+        294,
+        373,
+        462,
+        549
+      ],
+      "labels": [
+        "ka",
+        "ki",
+        "ku",
+        "ke",
+        "ko"
+      ]
+    },
+    {
+      "x": 667,
+      "centers_y": [
+        222,
+        294,
+        369,
+        458,
+        547
+      ],
+      "labels": [
+        "sa",
+        "shi",
+        "su",
+        "se",
+        "so"
+      ]
+    },
+    {
+      "x": 599,
+      "centers_y": [
+        227,
+        294,
+        371,
+        451,
+        543
+      ],
+      "labels": [
+        "ta",
+        "chi",
+        "tsu",
+        "te",
+        "to"
+      ]
+    },
+    {
+      "x": 527,
+      "centers_y": [
+        228,
+        298,
+        366,
+        453,
+        545
+      ],
+      "labels": [
+        "na",
+        "ni",
+        "nu",
+        "ne",
+        "no"
+      ]
+    },
+    {
+      "x": 447,
+      "centers_y": [
+        230,
+        298,
+        362,
+        444,
+        540
+      ],
+      "labels": [
+        "ha",
+        "hi",
+        "fu",
+        "he",
+        "ho"
+      ]
+    },
+    {
+      "x": 368,
+      "centers_y": [
+        229,
+        301,
+        364,
+        442,
+        539
+      ],
+      "labels": [
+        "ma",
+        "mi",
+        "mu",
+        "me",
+        "mo"
+      ]
+    },
+    {
+      "x": 299,
+      "centers_y": [
+        226,
+        null,
+        361,
+        null,
+        537
+      ],
+      "labels": [
+        "ya",
+        null,
+        "yu",
+        null,
+        "yo"
+      ]
+    },
+    {
+      "x": 226,
+      "centers_y": [
+        224,
+        301,
+        360,
+        443,
+        536
+      ],
+      "labels": [
+        "ra",
+        "ri",
+        "ru",
+        "re",
+        "ro"
+      ]
+    },
+    {
+      "x": 149,
+      "centers_y": [
+        227,
+        null,
+        366,
+        null,
+        537
+      ],
+      "labels": [
+        "wa",
+        null,
+        "wo",
+        null,
+        "n"
+      ]
+    }
+  ],
+  "sns_blocks": [
+    {
+      "id": "meeting",
+      "transform": [
+        0.978,
+        0.208,
+        -0.208,
+        0.978,
+        607,
+        -46
+      ],
+      "rect": [
+        3,
+        20,
+        251,
+        144
+      ],
+      "fill": "#11100f",
+      "font_size": 18,
+      "blur": 1.1,
+      "x": 18,
+      "y": 64,
+      "line_height": 31,
+      "lines": [
+        "I'm really looking",
+        "forward to meeting you.",
+        "Thank you so much,",
+        "as always."
+      ]
+    },
+    {
+      "id": "farewell",
+      "transform": [
+        0.978,
+        0.208,
+        -0.208,
+        0.978,
+        558,
+        169
+      ],
+      "rect": [
+        11,
+        14,
+        246,
+        48
+      ],
+      "sample_gradient": true,
+      "font_size": 21,
+      "blur": 1.1,
+      "x": 23,
+      "y": 48,
+      "line_height": 25,
+      "lines": [
+        "See you, then."
+      ]
+    },
+    {
+      "id": "forgiveness",
+      "transform": [
+        0.978,
+        0.208,
+        -0.208,
+        0.978,
+        467,
+        430
+      ],
+      "rect": [
+        0,
+        -12,
+        242,
+        45
+      ],
+      "sample_gradient": true,
+      "font_size": 20,
+      "blur": 0.35,
+      "x": 25,
+      "y": 26,
+      "line_height": 25,
+      "lines": [
+        "I won't forgive you."
+      ]
+    }
+  ],
+  "reused_source_renders": [
+    {
+      "path": "work/ui/art/common-reuse-dating.png",
+      "sha256": "85ead0b3fcaf05b2432cc5c268fafcafb1e2302ff0cc130efc23f3ca90864324",
+      "note": "Isolated Edge headless CLI rendered existing reviewed SVG, no CDP or game launch."
+    },
+    {
+      "path": "work/ui/art/common-reuse-majiru.png",
+      "sha256": "af711cfda19be4bd24ad7d856098d6889d8d791dc5ed1edc835ddec91634fa3a",
+      "note": "Isolated Edge headless CLI rendered existing reviewed SVG, no CDP or game launch."
+    },
+    {
+      "path": "work/ui/art/common-reuse-sns.png",
+      "sha256": "c4f93a1f0612aa48393efc86f13a756c68173a05aac824bc28008d18e3a86513",
+      "note": "Isolated Edge headless CLI rendered existing reviewed SVG, no CDP or game launch."
+    }
+  ],
+  "dating_plate": "work/ui/art/common-dating-hover-clean-generated.png",
+  "font_sha256": "39926aadea7b19df8dfc1d529d87a7304d6515f0767de8687c9ca58415d89afb",
+  "emblems_plate": "work/ui/art/common-two-emblems-clean-generated.png",
+  "jikkyo_plate": "work/ui/art/common-jikkyo-clean-generated.png"
+}

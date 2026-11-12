@@ -1,0 +1,519 @@
+{
+  "scenario": "data/scenario/rpg/rpg00.ks",
+  "source_sha256": "679411d0757b3fdb461f831942c60f643829ad20f2d93bd9f028eb5efc485693",
+  "rows": {
+    "13:text": [
+      "“..................”"
+    ],
+    "19:text": [
+      "“........................”"
+    ],
+    "24:text": [
+      "“........................”"
+    ],
+    "30:text": [
+      "“......",
+      " Uh, Hino?”"
+    ],
+    "34:text": [
+      "“........................”"
+    ],
+    "39:text": [
+      "“There's nobody around, Hino."
+    ],
+    "40:text": [
+      "Let's go in while we have the chance.”"
+    ],
+    "45:text": [
+      "“...Y-yeah...",
+      " You're right.”"
+    ],
+    "49:text": [
+      "Hino had been on edge ever since we got to the old school building."
+    ],
+    "50:text": [
+      "Good grief.",
+      " It just looked like an old building to me."
+    ],
+    "55:text": [
+      "“If we don't hurry, it's going to get dark.”"
+    ],
+    "60:text": [
+      "“Y-you're right...",
+      " We should hurry, ",
+      "...!”"
+    ],
+    "66:text": [
+      "With great deliberation, Hino pulled a ring of keys from inside his jacket."
+    ],
+    "67:text": [
+      "Bike keys, locker keys, car keys, odd antique-looking keys in all sorts of shapes..."
+    ],
+    "69:text": [
+      "The whole thing jingled loudly."
+    ],
+    "70:text": [
+      "Keys of every shape and size hung from it in a jumble."
+    ],
+    "75:text": [
+      "“What's that?”"
+    ],
+    "80:text": [
+      "“I've got a friend named Iwayama."
+    ],
+    "81:text": [
+      "He's really good with his hands and makes keys for fun."
+    ],
+    "82:text": [
+      "This is his secret weapon.”"
+    ],
+    "84:text": [
+      "“All the keys Iwayama's made are on this ring."
+    ],
+    "85:text": [
+      "Whatever you're trying to open on campus, one of these is bound to work.”"
+    ],
+    "90:text": [
+      "“....................................”"
+    ],
+    "94:text": [
+      "I'd thought we might get away without a reprimand"
+    ],
+    "95:text": [
+      "even if we got caught sneaking in..."
+    ],
+    "97:text": [
+      "But if a teacher found that ring of keys, I had a feeling there'd be hell to pay..."
+    ],
+    "102:text": [
+      "“Uh, let's see..."
+    ],
+    "103:text": [
+      "The key to the old school building's front door... I'm pretty sure it was...”"
+    ],
+    "110:text": [
+      "Hino tried key after key in the front door."
+    ],
+    "111:text": [
+      "He seemed to be having a hard time."
+    ],
+    "112:text": [
+      "At this rate, it really would be dark by the time we got in."
+    ],
+    "114:text": [
+      "While he was busy, I..."
+    ],
+    "116:rpg_choice.text.1": [
+      "1. Took a photo of the old school building"
+    ],
+    "117:rpg_choice.text.1": [
+      "2. Waited where I was"
+    ],
+    "118:rpg_choice.text.1": [
+      "3. Looked for another way in"
+    ],
+    "123:text": [
+      "I decided to take some photos of the outside of the old school building."
+    ],
+    "124:text": [
+      "Good writing mattered if you wanted people to believe your story,"
+    ],
+    "125:text": [
+      "but you also needed good photos that fit the article."
+    ],
+    "127:text": [
+      "Hino was the one who'd taught me that, but..."
+    ],
+    "134:text": [
+      "“That's odd..."
+    ],
+    "135:text": [
+      "I'm sure this one worked the other day...”"
+    ],
+    "143:text": [
+      "It looked like Hino had his hands full. I'd have to do this myself."
+    ],
+    "151:text": [
+      "I couldn't think of anything else to do,"
+    ],
+    "152:text": [
+      "so I decided to watch Hino try the keys."
+    ],
+    "154:text": [
+      "Hino was fully equipped for the job, work gloves, rubber boots and all."
+    ],
+    "155:text": [
+      "I'd never seen him put this much effort into anything."
+    ],
+    "156:text": [
+      "He must have been taking the old school building story pretty seriously."
+    ],
+    "158:text": [
+      "He examined the keys one by one,",
+      " carefully trying each one in the lock..."
+    ],
+    "160:text": [
+      "Maybe the work gloves made it hard to handle the keys. He was really fumbling with them..."
+    ],
+    "161:text": [
+      "I should probably help."
+    ],
+    "167:text": [
+      "“Uh, Hino...",
+      " Do you want a hand?”"
+    ],
+    "172:text": [
+      "“Leave this to me."
+    ],
+    "173:text": [
+      "You can...",
+      " Let's see, could you take some photos of the old school building?”"
+    ],
+    "177:text": [
+      "Come to think of it, I hadn't taken a single picture yet today."
+    ],
+    "178:text": [
+      "We might get away without photos in School Net News,"
+    ],
+    "179:text": [
+      "but a wall newspaper needed them to catch people's eye."
+    ],
+    "203:text": [
+      "I raised the digital camera I'd borrowed from the Photography Club and aimed it at the old school building."
+    ],
+    "204:text": [
+      "Looking at it through the camera didn't make it seem especially sinister,"
+    ],
+    "205:text": [
+      "and it didn't give off any strange aura, either."
+    ],
+    "207:text": [
+      "If anything, the lens made it look smaller and flatter than it was in person."
+    ],
+    "208:text": [
+      "Somehow, it didn't look quite as forbidding..."
+    ],
+    "209:text": [
+      "Getting a good shot was going to take some work."
+    ],
+    "211:text": [
+      "All right. One shot to start..."
+    ],
+    "231:text": [
+      "“......!”"
+    ],
+    "240:text": [
+      "“It's open! I got it open, ",
+      "!”"
+    ],
+    "245:text": [
+      "“What? You got it open, Hi...",
+      " Huh?”"
+    ],
+    "250:text": [
+      "Hino's voice distracted me for a moment,"
+    ],
+    "251:text": [
+      "and when I looked again, the figure on the camera screen was gone."
+    ],
+    "253:text": [
+      "A ghost...? No, it couldn't be."
+    ],
+    "254:text": [
+      "I'd probably just mistaken a crow or something for a person."
+    ],
+    "264:text": [
+      "“Oh, you took some pictures for me.",
+      " Good thinking!"
+    ],
+    "265:text": [
+      "Now we can go straight inside.”"
+    ],
+    "270:text": [
+      "“...I guess so.”"
+    ],
+    "281:text": [
+      "I thought about telling Hino what I'd seen... Then I decided to keep it to myself."
+    ],
+    "282:text": [
+      "If I scared him any more, he might ask me to go in alone."
+    ],
+    "283:text": [
+      "The roof, huh..."
+    ],
+    "284:text": [
+      "If I had time, I'd have to take a proper look up there."
+    ],
+    "297:text": [
+      "Hino was really struggling with the keys."
+    ],
+    "298:text": [
+      "At this rate, it might be dark by the time he got the door open."
+    ],
+    "300:text": [
+      "I left Hino to it"
+    ],
+    "301:text": [
+      "and decided to take a walk around the old school building."
+    ],
+    "302:text": [
+      "It was an old building.",
+      " It wouldn't be surprising if part of it had started to fall apart."
+    ],
+    "311:text": [
+      "“Oh.”"
+    ],
+    "315:text": [
+      "About halfway around the old school building, I found a window where part of the boarding had come loose."
+    ],
+    "316:text": [
+      "A girl might just be able to squeeze through the gap."
+    ],
+    "317:text": [
+      "If I made it a little bigger, I could get in here..."
+    ],
+    "321:text": [
+      "“I got it open!",
+      " Hey, ",
+      "!"
+    ],
+    "322:text": [
+      "I said I got it open!",
+      " Huh? Where'd you go?”"
+    ],
+    "326:text": [
+      "I could hear Hino calling for me."
+    ],
+    "327:text": [
+      "If he'd gotten the lock open, there was no need to go in through here."
+    ],
+    "331:text": [
+      "“Here!",
+      " I'm coming!”"
+    ],
+    "335:text": [
+      "I went back the way I'd come."
+    ],
+    "352:text": [
+      "The building reeked of damp wood and mold."
+    ],
+    "353:text": [
+      "I guess they wanted to keep trespassers out."
+    ],
+    "355:text": [
+      "The boards nailed across the windows cast such deep shadows,"
+    ],
+    "356:text": [
+      "I could've sworn it was nighttime."
+    ],
+    "362:text": [
+      "If you took even one step into that bare wooden hall,"
+    ],
+    "363:text": [
+      "the floor would creak like it was about to give way,"
+    ],
+    "364:text": [
+      "and your footsteps would echo, one on top of another."
+    ],
+    "366:text": [
+      "We could've picked up another companion without realizing it,"
+    ],
+    "367:text": [
+      "and I wouldn't have been surprised to see them loom out of the dark behind us."
+    ],
+    "368:text": [
+      "There was that kind of unease hanging over the old school building."
+    ],
+    "370:text": [
+      "...Yeah. I wouldn't want to come here alone, either."
+    ],
+    "371:text": [
+      "Even though I didn't believe in the curse,"
+    ],
+    "372:text": [
+      "a bad feeling like that was enough to make me hesitate."
+    ],
+    "377:text": [
+      "“Let's get started, then...”"
+    ],
+    "383:text": [
+      "“Um, Hino..."
+    ],
+    "384:text": [
+      "Could you tell me now?”"
+    ],
+    "390:text": [
+      "“You mean what's behind the old school building's curse?"
+    ],
+    "391:text": [
+      "I could tell you...",
+      " But there's something I need you to find first.”"
+    ],
+    "395:text": [
+      "Hino shone his flashlight on an old photograph."
+    ],
+    "402:text": [
+      "It showed a sturdy-looking iron door."
+    ],
+    "403:text": [
+      "The big pentagram drawn on it gave the whole thing an eerie feel..."
+    ],
+    "408:text": [
+      "“What on earth is this...?”"
+    ],
+    "413:text": [
+      "“You know the shelf in the library with all the old Newspaper Club records?"
+    ],
+    "414:text": [
+      "I found this while I was sorting through them."
+    ],
+    "415:text": [
+      "Looks like it's one of a set of pictures taken around the school...”"
+    ],
+    "417:text": [
+      "“There's nowhere like this in the new building,"
+    ],
+    "418:text": [
+      "and look how old the photo is. It has to be the old school building."
+    ],
+    "419:text": [
+      "I was curious, so I did some digging.",
+      " That's when...”"
+    ],
+    "424:text": [
+      "“...you found out what was behind the old school building's curse.”"
+    ],
+    "429:text": [
+      "“Yeah, that's right."
+    ],
+    "430:text": [
+      "So first I want you to find out where this door is."
+    ],
+    "431:text": [
+      "Then I'll tell you the rest.”"
+    ],
+    "434:rpg_choice.text.1": [
+      "1. You're really keeping me in suspense"
+    ],
+    "435:rpg_choice.text.1": [
+      "2. All right"
+    ],
+    "442:text": [
+      "“Even if I told you what was behind the curse right now,"
+    ],
+    "443:text": [
+      "you probably wouldn't believe me."
+    ],
+    "444:text": [
+      "It'll sound a lot more convincing with the real thing right in front of you.”"
+    ],
+    "446:text": [
+      "“Besides, this kind of magic"
+    ],
+    "447:text": [
+      "gets stronger the more people know about it."
+    ],
+    "448:text": [
+      "I'd feel a lot safer if you stayed in the dark.”"
+    ],
+    "452:text": [
+      "Hino nodded to himself, muttering under his breath."
+    ],
+    "453:text": [
+      "...Was he really just scared?"
+    ],
+    "454:text": [
+      "It felt like he was trying to dodge the question..."
+    ],
+    "463:text": [
+      "“Aaargh!! ",
+      "!"
+    ],
+    "464:text": [
+      "J-j-j-just now...",
+      " D-did a rat with a human face run by...?”"
+    ],
+    "469:text": [
+      "“...",
+      " I think it was just a normal rat...”"
+    ],
+    "473:text": [
+      "..."
+    ],
+    "474:text": [
+      "Maybe he really was just scared after all..."
+    ],
+    "489:text": [
+      "“...All right.",
+      " Let's take a look around the old school building.”"
+    ],
+    "491:text": [
+      "“Here, I'll lend you my notebook."
+    ],
+    "492:text": [
+      "There's a map of the old school building in it. Use that to find your way."
+    ],
+    "493:text": [
+      "I'll stick that photo in there, too.”"
+    ],
+    "500:text": [
+      " received the “Old School Building Field Notes” from Sadao Hino."
+    ],
+    "503:button.hint.1": [
+      "Open Old School Building Field Notes"
+    ],
+    "505:text": [
+      "▶Select the notebook icon to read it."
+    ],
+    "512:text": [
+      "“I'll let you decide where we go first, ",
+      "."
+    ],
+    "513:text": [
+      "If anything comes up, just ask.”"
+    ],
+    "517:text": [
+      "As he said that, Hino casually slipped behind me."
+    ],
+    "518:text": [
+      "He clearly had no intention of splitting up."
+    ],
+    "520:text": [
+      "Hmm... Let's see..."
+    ],
+    "521:text": [
+      "Where to start..."
+    ],
+    "526:text": [
+      "The first floor might be a good place to start."
+    ],
+    "527:text": [
+      "There was that hole outside that caught my eye, too..."
+    ],
+    "545:rpg_choice.text.1": [
+      "1. Let's check the entrance"
+    ],
+    "546:rpg_choice.text.1": [
+      "2. Let's go up to the roof"
+    ],
+    "551:rpg_choice.text.1": [
+      "1. Let's go up to the roof"
+    ],
+    "552:rpg_choice.text.1": [
+      "2. Let's go somewhere else"
+    ],
+    "558:text": [
+      "Maybe I'll check the entrance first, since it's close."
+    ],
+    "570:text": [
+      "I'm still curious about that figure...",
+      " Let's check the roof first."
+    ],
+    "586:text": [
+      "I'm curious about the roof, but..."
+    ],
+    "587:text": [
+      "Maybe I'll look somewhere else first."
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "canvas": {
+    "width": 960,
+    "height": 690,
+    "fps": 25,
+    "coordinates": "Pixels from the top left. Time intervals include their start and exclude their end."
+  },
+  "clue_layout": "work/ui/game-stream-clues.json",
+  "clips": [
+    {
+      "clip": 13,
+      "duration_seconds": 7.021,
+      "chat_cues": 0,
+      "lettering": "Seven clue labels and stream banner. The silhouette and interference obscure both. No additional lettering observed.",
+      "visual_events": [
+        {
+          "seconds": 0,
+          "description": "Seven clue rows, stream banner, and facecam visible."
+        },
+        {
+          "seconds": 0.8,
+          "description": "Dark figure with raised hands overlaps the clue rows and banner."
+        },
+        {
+          "seconds": 2.6,
+          "description": "Horizontal noise distorts the clues, banner, and facecam."
+        },
+        {
+          "seconds": 4.6,
+          "description": "The figure lunges into the foreground. Its larger silhouette blocks the lower center and much of the clue text."
+        }
+      ]
+    },
+    {
+      "clip": 14,
+      "duration_seconds": 4.014,
+      "chat_cues": 0,
+      "lettering": "Seven clue labels and stream banner continue behind the shadow. No additional lettering observed.",
+      "visual_events": [
+        {
+          "seconds": 0,
+          "description": "The enlarged silhouette almost fills the frame. Faint clue text remains visible through it."
+        },
+        {
+          "seconds": 1.2,
+          "description": "The silhouette lightens and the clue rows and banner become readable again."
+        },
+        {
+          "seconds": 2.8,
+          "description": "Horizontal noise briefly distorts the entire composition."
+        },
+        {
+          "seconds": 3.8,
+          "description": "The red clue screen and banner are visible. The facecam pane is black."
+        }
+      ]
+    },
+    {
+      "clip": 15,
+      "duration_seconds": 20.013,
+      "chat_cues": 19,
+      "lettering": "Seven clue labels and stream banner, plus moving chat. The browser close control is an X icon.",
+      "visual_events": [
+        {
+          "seconds": 17.88,
+          "description": "The final chat message begins to enter from the right."
+        },
+        {
+          "seconds": 18.28,
+          "description": "The simulated browser begins to close. The red video moves within black framing, with the pointer and X near the upper right."
+        },
+        {
+          "seconds": 19.2,
+          "description": "The closing mask partly clips the final chat. It is fully hidden on the next frame."
+        },
+        {
+          "seconds": 19.4,
+          "description": "The red video is fully gone. A white pointer remains briefly on black."
+        }
+      ]
+    },
+    {
+      "clip": 16,
+      "duration_seconds": 30.019,
+      "chat_cues": 42,
+      "visual_segments": [
+        {
+          "start": 0,
+          "end": 0.44,
+          "description": "Clean embedded VN shot. Dialogue and button labels are readable."
+        },
+        {
+          "start": 0.44,
+          "end": 0.96,
+          "description": "Horizontal interference over the VN shot. Lettering shifts or disappears with the distorted scanlines."
+        },
+        {
+          "start": 0.96,
+          "end": 1.32,
+          "description": "Horizontal interference over the red transition."
+        },
+        {
+          "start": 1.32,
+          "end": 29.36,
+          "description": "Red field with a small dark silhouette near the center. Chat passes right to left. The final chat is cut off by interference."
+        },
+        {
+          "start": 29.36,
+          "end": 29.48,
+          "description": "Red horizontal interference."
+        },
+        {
+          "start": 29.48,
+          "end": 29.64,
+          "description": "Horizontal interference over the returning VN shot."
+        },
+        {
+          "start": 29.64,
+          "end": 30,
+          "description": "Clean embedded VN shot returns with the same dialogue and buttons."
+        }
+      ],
+      "baked_dialogue": {
+        "source_script": "game.ks",
+        "speaker": "Makoto Shindo",
+        "bounds": {
+          "x": 779,
+          "y": 98,
+          "width": 115,
+          "height": 385
+        },
+        "direction": "Source columns read right to left. The last column ends mid-sentence before the scene returns to live dialogue at 2247:text.",
+        "columns": [
+          {
+            "field_id": "2222:text",
+            "label": "That's it for my story.",
+            "bounds": {
+              "x": 872,
+              "y": 98,
+              "width": 22,
+              "height": 272
+            }
+          },
+          {
+            "field_id": "2223:text",
+            "label": "…Man, I'm beat all of a sudden.",
+            "bounds": {
+              "x": 825,
+              "y": 100,
+              "width": 22,
+              "height": 383
+            }
+          },
+          {
+            "field_id": "2224:text",
+            "label": "It's been a",
+            "bounds": {
+              "x": 779,
+              "y": 99,
+              "width": 21,
+              "height": 74
+            }
+          }
+        ],
+        "source_control_bounds": "Glyph boxes measured on the first clean frame. English labels match the adjacent translated script and dialogue button labels in work/ui/english.json."
+      },
+      "baked_buttons": [
+        {
+          "id": "dialogue-save",
+          "label": "Save",
+          "bounds": {
+            "x": 562,
+            "y": 662,
+            "width": 33,
+            "height": 17
+          }
+        },
+        {
+          "id": "dialogue-load",
+          "label": "Load",
+          "bounds": {
+            "x": 632,
+            "y": 662,
+            "width": 34,
+            "height": 17
+          }
+        },
+        {
+          "id": "dialogue-log",
+          "label": "Log",
+          "bounds": {
+            "x": 701,
+            "y": 662,
+            "width": 34,
+            "height": 17
+          }
+        },
+        {
+          "id": "dialogue-auto",
+          "label": "Auto",
+          "bounds": {
+            "x": 772,
+            "y": 663,
+            "width": 33,
+            "height": 17
+          }
+        },
+        {
+          "id": "dialogue-skip",
+          "label": "Skip",
+          "bounds": {
+            "x": 843,
+            "y": 662,
+            "width": 32,
+            "height": 17
+          }
+        },
+        {
+          "id": "dialogue-menu",
+          "label": "Menu",
+          "bounds": {
+            "x": 910,
+            "y": 662,
+            "width": 34,
+            "height": 17
+          }
+        }
+      ]
+    }
+  ]
+}

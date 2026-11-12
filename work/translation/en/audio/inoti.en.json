@@ -1,0 +1,17 @@
+{
+  "language": "en",
+  "scenario": "inoti.ks",
+  "status": "Accuracy/editorial/proofreading complete; all three native cue timings, text bounds, natural ends and load cleanup passed in the isolated candidate",
+  "native_proofs": ["work/ui/inoti-audio-d.json", "work/ui/inoti-audio-load-c.json", "work/ui/inoti-audio-channel-c.json"],
+  "evidence": "Native source comments2927/2937 and7096; matching local ASR in work/source/inoti-audio-asr.json. The noisy first tape's ASR hallucination was rejected, not translated.",
+  "cues": [
+    {"line":2925,"storage":"助けて.ogg","start":0,"end":2.089796,"text":"Help me.","audio_sha256":"2e58767a4c5fc0a50c51f7b6b58c9256d7f6b10b5b341579455fe213fd232624"},
+    {"line":2935,"storage":"助けて.ogg","start":0,"end":2.089796,"text":"Help me.","audio_sha256":"2e58767a4c5fc0a50c51f7b6b58c9256d7f6b10b5b341579455fe213fd232624"},
+    {"line":7093,"storage":"呪いテープ2.ogg","start":0,"end":18.361771,"text":"[Overlapping voices repeat] I'm coming to see you now.","audio_sha256":"cabc08c0b093e54e4f8ad6f5abb321fa36806a68e8aeec499f2521b735502117"}
+  ],
+  "review": {
+    "accuracy":"The faint girl's request is Help me. The tape's woman promises to come and see the listener now; layering, repetition and variable speeds are explicit source staging. No speaker name or extra threat added.",
+    "editorial":"Short natural captions preserve the request and menacing promise. One persistent caption represents the deliberately overlapping repetitions without inventing exact individual voice timing.",
+    "proofreading":"Latin punctuation, exact asset identities, cue durations and all three source-line locators checked. Original audio, misspelled native buffer parameter and waits remain intact."
+  }
+}

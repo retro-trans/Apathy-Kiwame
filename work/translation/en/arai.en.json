@@ -1,0 +1,4924 @@
+{
+  "scenario": "data/scenario/arai.ks",
+  "source_sha256": "71873d2b0e9a1b3b95d1e1153c6afe02a23cbabbf1d26592ba20ee8a84c8b567",
+  "rows": {
+    "78:text": [
+      "Shoji Arai"
+    ],
+    "79:text": [
+      "“We're starting with my story?"
+    ],
+    "81:text": [
+      "Shoji Arai"
+    ],
+    "82:text": [
+      "“I suppose it's finally my turn."
+    ],
+    "84:text": [
+      "Shoji Arai"
+    ],
+    "85:text": [
+      "“Is it my turn?"
+    ],
+    "93:text": [
+      "Let me introduce myself again."
+    ],
+    "94:text": [
+      "My name is Shoji Arai."
+    ],
+    "95:text": [
+      "I'm in my second year at a high school in Toyama... Nice to meet you."
+    ],
+    "97:text": [
+      "Have any of you ever seen a suicide?"
+    ],
+    "98:text": [
+      "I have. The kind where someone jumps."
+    ],
+    "99:text": [
+      "Twice, actually."
+    ],
+    "101:text": [
+      "The first time, I didn't see the person"
+    ],
+    "102:text": [
+      "until after they'd already jumped."
+    ],
+    "103:text": [
+      "They'd apparently jumped from dozens of meters up,"
+    ],
+    "104:text": [
+      "and the body had lost any recognizable shape."
+    ],
+    "106:text": [
+      "You know how sometimes a dog or cat gets run over"
+    ],
+    "107:text": [
+      "by a car, and nobody comes to clear away"
+    ],
+    "108:text": [
+      "the body?"
+    ],
+    "109:text": [
+      "You've seen that, haven't you?"
+    ],
+    "110:text": [
+      "That's almost cute by comparison."
+    ],
+    "113:text": [
+      "You couldn't tell whether it was a person"
+    ],
+    "114:text": [
+      "or just a lump of meat."
+    ],
+    "115:text": [
+      "The blood and scraps of flesh had sprayed"
+    ],
+    "116:text": [
+      "over quite a wide area."
+    ],
+    "118:text": [
+      "People would turn away, saying they couldn't bear it,"
+    ],
+    "119:text": [
+      "then they'd all sneak a sideways glance as they passed."
+    ],
+    "120:text": [
+      "People are strange creatures, aren't they?"
+    ],
+    "122:text": [
+      "The second time, I saw it"
+    ],
+    "123:text": [
+      "right as it happened."
+    ],
+    "124:text": [
+      "It was from the third floor of a small building."
+    ],
+    "126:text": [
+      "From what I heard, a lovers' quarrel"
+    ],
+    "127:text": [
+      "had gotten out of hand."
+    ],
+    "128:text": [
+      "It was the woman who jumped."
+    ],
+    "129:text": [
+      "It's hard to tell if someone in that situation"
+    ],
+    "130:text": [
+      "really means to die."
+    ],
+    "132:text": [
+      "I think all she meant to do"
+    ],
+    "133:text": [
+      "was scare the man she was arguing with."
+    ],
+    "134:text": [
+      "She'd gone so far she couldn't back down..."
+    ],
+    "135:text": [
+      "That's what it looked like to me."
+    ],
+    "137:text": [
+      "As she jumped, the look on her face"
+    ],
+    "138:text": [
+      "was like a demon's."
+    ],
+    "139:text": [
+      "People really can make a face like that, can't they?"
+    ],
+    "140:text": [
+      "I'd never realized that until then."
+    ],
+    "142:text": [
+      "...Well, after she jumped,"
+    ],
+    "143:text": [
+      "she was still alive."
+    ],
+    "144:text": [
+      "When she hit the ground, she just lay there"
+    ],
+    "145:text": [
+      "without moving. I could hear her"
+    ],
+    "146:text": [
+      "groaning, though."
+    ],
+    "148:text": [
+      "I'll never forget that groan."
+    ],
+    "149:text": [
+      "I've never heard a sound that stuck with me"
+    ],
+    "150:text": [
+      "the way that one did."
+    ],
+    "151:text": [
+      "She really sounded like she was in pain."
+    ],
+    "153:text": [
+      "And then there was the bone sticking out of her leg."
+    ],
+    "154:text": [
+      "The blood wasn't as red as I'd expected."
+    ],
+    "155:text": [
+      "Looking back, I think it was cherry-blossom pink."
+    ],
+    "156:text": [
+      "That's how it looked to me."
+    ],
+    "158:text": [
+      "Maybe it was the blood staining the bone"
+    ],
+    "159:text": [
+      "that made it look that way."
+    ],
+    "161:text": [
+      "And apparently, a fall like that"
+    ],
+    "162:text": [
+      "can damage your internal organs."
+    ],
+    "163:text": [
+      "When you hit the ground, the impact and pressure"
+    ],
+    "164:text": [
+      "are more than your organs can take, or so I hear."
+    ],
+    "166:text": [
+      "So even when someone survives,"
+    ],
+    "167:text": [
+      "they often end up with problems with their organs,"
+    ],
+    "168:text": [
+      "from what I've heard."
+    ],
+    "169:text": [
+      "I'm no doctor, so I can't say"
+    ],
+    "170:text": [
+      "whether it's true."
+    ],
+    "172:text": [
+      "By the way... Do you know what it sounds like"
+    ],
+    "173:text": [
+      "when someone jumps to end their life?"
+    ],
+    "174:text": [
+      "The sound at the instant they hit the ground."
+    ],
+    "176:text": [
+      "You know those sheets of galvanized steel?"
+    ],
+    "177:text": [
+      "The thin ones with"
+    ],
+    "178:text": [
+      "the wavy ridges."
+    ],
+    "179:text": [
+      "You set one of those down"
+    ],
+    "180:text": [
+      "on soft ground."
+    ],
+    "181:text": [
+      "Then take a stone, about the size of a pickling weight,"
+    ],
+    "182:text": [
+      "one you can hold in both hands,"
+    ],
+    "183:text": [
+      "and drop it from about chest height."
+    ],
+    "185:text": [
+      "Apparently, it sounds just like a body"
+    ],
+    "186:text": [
+      "hitting the ground."
+    ],
+    "187:text": [
+      "Quite a heavy, dull sound, isn't it?"
+    ],
+    "189:text": [
+      "I hear the human body is fairly soft,"
+    ],
+    "190:text": [
+      "isn't it?"
+    ],
+    "191:text": [
+      "But when a body hits the ground, it's almost like the hard bones"
+    ],
+    "192:text": [
+      "are hitting it directly."
+    ],
+    "194:text": [
+      "When I actually saw it happen, the sound"
+    ],
+    "195:text": [
+      "wasn't all that dull."
+    ],
+    "196:text": [
+      "I remember it being a drier sound."
+    ],
+    "197:text": [
+      "Maybe someone has to fall from higher up"
+    ],
+    "198:text": [
+      "to make that dull sound."
+    ],
+    "200:text": [
+      "Say someone jumped from the school roof. What kind"
+    ],
+    "201:text": [
+      "of sound would that make?"
+    ],
+    "202:text": [
+      "The building has four stories."
+    ],
+    "203:text": [
+      "Do you think someone would survive a fall"
+    ],
+    "204:text": [
+      "from that height?"
+    ],
+    "205:text": [
+      "Or would they die instantly?"
+    ],
+    "206:text": [
+      "Which do you think it would be?”"
+    ],
+    "219:glink.text.1": [
+      "1. I don't think they'd die instantly"
+    ],
+    "221:glink.text.1": [
+      "1. I don't think they'd die instantly"
+    ],
+    "226:glink.text.1": [
+      "2. I think they'd die instantly"
+    ],
+    "229:glink.text.1": [
+      "2. I think they'd die instantly"
+    ],
+    "234:glink.text.1": [
+      "3. I wouldn't know"
+    ],
+    "236:glink.text.1": [
+      "3. I wouldn't know"
+    ],
+    "246:text": [
+      "“I see."
+    ],
+    "247:text": [
+      "I wonder what would actually happen."
+    ],
+    "248:text": [
+      "I've never tried it myself,"
+    ],
+    "249:text": [
+      "so I couldn't tell you."
+    ],
+    "259:text": [
+      "“...I see. So that's what you think."
+    ],
+    "269:text": [
+      "“I see."
+    ],
+    "270:text": [
+      "True, if there were trees or something else"
+    ],
+    "271:text": [
+      "to cushion the fall, they might survive"
+    ],
+    "272:text": [
+      "by some miracle."
+    ],
+    "282:text": [
+      "Someone actually did try it."
+    ],
+    "283:text": [
+      "It was a student from a school"
+    ],
+    "284:text": [
+      "I used to attend."
+    ],
+    "285:text": [
+      "He wasn't unhappy at school or in his personal life, and he didn't have"
+    ],
+    "286:text": [
+      "any particular worries."
+    ],
+    "287:text": [
+      "He got along with his friends, too."
+    ],
+    "289:text": [
+      "He just couldn't stop wondering what would happen"
+    ],
+    "290:text": [
+      "if he jumped from that height."
+    ],
+    "291:text": [
+      "The more he thought about it, the more it gnawed at him."
+    ],
+    "292:text": [
+      "He had to find out for himself."
+    ],
+    "294:text": [
+      "Do you find that strange?"
+    ],
+    "295:text": [
+      "Still, I can understand how he felt."
+    ],
+    "297:text": [
+      "Have you ever held a needle"
+    ],
+    "298:text": [
+      "and thought about how much it would hurt"
+    ],
+    "299:text": [
+      "to push it under your fingernail?"
+    ],
+    "301:text": [
+      "Or have you ever been frying something and wondered"
+    ],
+    "302:text": [
+      "what would happen if you put your hand"
+    ],
+    "303:text": [
+      "in the hot oil?"
+    ],
+    "305:text": [
+      "Don't you think people have"
+    ],
+    "306:text": [
+      "self-destructive moments sometimes?"
+    ],
+    "307:text": [
+      "Then we picture what it'd actually be like"
+    ],
+    "308:text": [
+      "and feel a shiver run through us."
+    ],
+    "309:text": [
+      "I have thoughts like that."
+    ],
+    "310:text": [
+      "Don't you?”"
+    ],
+    "320:glink.text.1": [
+      "1. I have"
+    ],
+    "323:glink.text.1": [
+      "1. I have"
+    ],
+    "327:glink.text.1": [
+      "2. I haven't"
+    ],
+    "329:glink.text.1": [
+      "2. I haven't"
+    ],
+    "339:text": [
+      "“Yes, exactly."
+    ],
+    "340:text": [
+      "I think it's human to have moments"
+    ],
+    "341:text": [
+      "when thoughts like that"
+    ],
+    "342:text": [
+      "cross your mind."
+    ],
+    "344:text": [
+      "You know perfectly well you could never do it,"
+    ],
+    "345:text": [
+      "yet you find yourself thinking about it anyway."
+    ],
+    "346:text": [
+      "Do you know how a feeling like that works?"
+    ],
+    "348:text": [
+      "Suppose you ask someone to name one thing"
+    ],
+    "349:text": [
+      "they believe they should never, ever do."
+    ],
+    "350:text": [
+      "They say what the person names is actually something"
+    ],
+    "351:text": [
+      "they want to do deep down."
+    ],
+    "352:text": [
+      "Apparently, thinking ‘I could never do that’"
+    ],
+    "353:text": [
+      "can be just what makes you want to try it."
+    ],
+    "355:text": [
+      "...Doesn't that frighten you?"
+    ],
+    "356:text": [
+      "What would happen if you jumped from the school roof?"
+    ],
+    "357:text": [
+      "That thought ate away at one boy's"
+    ],
+    "358:text": [
+      "mind."
+    ],
+    "370:text": [
+      "His name was Nobuhiko Aizawa."
+    ],
+    "371:text": [
+      "By all accounts, Aizawa had been completely ordinary"
+    ],
+    "372:text": [
+      "until then."
+    ],
+    "374:text": [
+      "But deep down... a dark temptation began"
+    ],
+    "375:text": [
+      "to take root."
+    ],
+    "384:text": [
+      "Suppose someone jumped off that high rooftop..."
+    ],
+    "385:text": [
+      "What would happen?"
+    ],
+    "386:text": [
+      "What exactly would happen to their body?"
+    ],
+    "388:text": [
+      "What would happen to their flesh?"
+    ],
+    "389:text": [
+      "What would happen to their bones?"
+    ],
+    "390:text": [
+      "What would their voice sound like?"
+    ],
+    "392:text": [
+      "What expressions would the people around them wear?"
+    ],
+    "393:text": [
+      "If you jumped and looked back up, what would it"
+    ],
+    "394:text": [
+      "feel like?"
+    ],
+    "395:text": [
+      "What kind of shiver would run through you if you"
+    ],
+    "396:text": [
+      "jumped headfirst?"
+    ],
+    "397:text": [
+      "If you hit the ground arm-first, what position"
+    ],
+    "398:text": [
+      "would you end up in?"
+    ],
+    "400:text": [
+      "At the instant you hit, would blood spatter"
+    ],
+    "401:text": [
+      "across your face?"
+    ],
+    "402:text": [
+      "Would it feel cold? Or would it"
+    ],
+    "403:text": [
+      "feel hot?"
+    ],
+    "404:text": [
+      "What would it feel like to be weightless?"
+    ],
+    "405:text": [
+      "Would it feel like flying freely through the air?"
+    ],
+    "406:text": [
+      "Or like falling to the bottom of an abyss?"
+    ],
+    "408:text": [
+      "What would happen while you were falling?"
+    ],
+    "409:text": [
+      "Would you regret it? Would you be afraid?"
+    ],
+    "410:text": [
+      "Or would it feel good?"
+    ],
+    "411:text": [
+      "Would someone come to mind?"
+    ],
+    "412:text": [
+      "Would no one come to mind at all?"
+    ],
+    "413:text": [
+      "Would your whole life really flash before"
+    ],
+    "414:text": [
+      "your eyes...?"
+    ],
+    "416:text": [
+      "The questions came one after another."
+    ],
+    "420:text": [
+      "So Aizawa started keeping a notebook."
+    ],
+    "421:text": [
+      "He wrote down each question, one by one,"
+    ],
+    "422:text": [
+      "taking care with every entry."
+    ],
+    "424:text": [
+      "From those questions, he picked out the ones"
+    ],
+    "425:text": [
+      "that seemed most important."
+    ],
+    "426:text": [
+      "Then he narrowed them down to the one question"
+    ],
+    "427:text": [
+      "he couldn't get out of his head."
+    ],
+    "429:text": [
+      "It was this one question."
+    ],
+    "430:text": [
+      "If someone jumped off the school roof, would"
+    ],
+    "431:text": [
+      "they really die?"
+    ],
+    "432:text": [
+      "To him, that seemed like the most"
+    ],
+    "433:text": [
+      "important thing to find out."
+    ],
+    "435:text": [
+      "He agonized over it."
+    ],
+    "436:text": [
+      "‘I have to see someone fall"
+    ],
+    "437:text": [
+      "from the roof."
+    ],
+    "438:text": [
+      "I want to know if they'd survive.’"
+    ],
+    "448:text": [
+      "“...I see. You haven't, then."
+    ],
+    "449:text": [
+      "Does that mean there really is something"
+    ],
+    "450:text": [
+      "wrong with me?"
+    ],
+    "451:text": [
+      "Even so, I believe everyone has a moment"
+    ],
+    "452:text": [
+      "when they think about things like that."
+    ],
+    "453:text": [
+      "I think that's a weakness we all share."
+    ],
+    "455:text": [
+      "Once he'd started wondering about the school roof,"
+    ],
+    "456:text": [
+      "isn't it possible he just happened to have"
+    ],
+    "457:text": [
+      "one of those self-destructive moments"
+    ],
+    "458:text": [
+      "after another?"
+    ],
+    "471:text": [
+      "His name was Nobuhiko Aizawa."
+    ],
+    "472:text": [
+      "From what I heard, he was about as ordinary"
+    ],
+    "473:text": [
+      "as a person could be."
+    ],
+    "474:text": [
+      "It makes me all the more inclined to think"
+    ],
+    "475:text": [
+      "that's what happened.”"
+    ],
+    "477:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "478:text": [
+      "“Hey, if someone jumped off this building's roof,"
+    ],
+    "479:text": [
+      "do you think they'd survive?”"
+    ],
+    "481:text": [
+      "Aizawa's Friend"
+    ],
+    "482:text": [
+      "“Nobuhiko, have you lost your mind or"
+    ],
+    "483:text": [
+      "something? Where'd that come from?”"
+    ],
+    "488:text": [
+      "Shoji Arai"
+    ],
+    "489:text": [
+      "“Apparently that's how his friends laughed it off"
+    ],
+    "490:text": [
+      "when he asked them about it."
+    ],
+    "491:text": [
+      "The more serious Aizawa looked when he asked,"
+    ],
+    "492:text": [
+      "the funnier they thought the joke was."
+    ],
+    "493:text": [
+      "That's what I heard."
+    ],
+    "494:text": [
+      "Aizawa was an ordinary person, after all."
+    ],
+    "495:text": [
+      "He didn't press the issue. Whenever his friends"
+    ],
+    "496:text": [
+      "started laughing, he'd laugh right along"
+    ],
+    "497:text": [
+      "with them."
+    ],
+    "499:text": [
+      "Even so, whenever he found himself alone,"
+    ],
+    "500:text": [
+      "he agonized over it."
+    ],
+    "501:text": [
+      "He couldn't see why it mattered so much to him."
+    ],
+    "502:text": [
+      "He even began to wonder whether he was"
+    ],
+    "503:text": [
+      "losing his mind."
+    ],
+    "505:text": [
+      "Even so, he could only settle it"
+    ],
+    "506:text": [
+      "by putting it to the test."
+    ],
+    "507:text": [
+      "He couldn't possibly answer the question"
+    ],
+    "508:text": [
+      "just by imagining it."
+    ],
+    "510:text": [
+      "‘Should I jump myself..."
+    ],
+    "511:text": [
+      "or push someone else off?’"
+    ],
+    "512:text": [
+      "Whenever the thought came to him,"
+    ],
+    "513:text": [
+      "he told himself he shouldn't entertain such foolish ideas."
+    ],
+    "515:text": [
+      "Even so, the harder he tried to hold himself back,"
+    ],
+    "516:text": [
+      "the harder it became to keep the urge in check."
+    ],
+    "517:text": [
+      "The stronger the urge,"
+    ],
+    "518:text": [
+      "the harder that became."
+    ],
+    "519:text": [
+      "Day by day, the urge kept growing,"
+    ],
+    "520:text": [
+      "and it was only a matter of time before it broke"
+    ],
+    "521:text": [
+      "through the shell of reason holding it in."
+    ],
+    "525:text": [
+      "He began making notes."
+    ],
+    "526:text": [
+      "The names of his classmates"
+    ],
+    "527:text": [
+      "and other people at the school"
+    ],
+    "528:text": [
+      "were scrawled all over the pages."
+    ],
+    "530:text": [
+      "Students in the years above and below him, and even teachers."
+    ],
+    "531:text": [
+      "He started picking candidates"
+    ],
+    "532:text": [
+      "to push off the school roof."
+    ],
+    "534:text": [
+      "And at the top of the list"
+    ],
+    "535:text": [
+      "was his own name."
+    ],
+    "536:text": [
+      "Perhaps that was the last little bit of reason"
+    ],
+    "537:text": [
+      "he had left."
+    ],
+    "539:text": [
+      "‘I can't take it anymore."
+    ],
+    "540:text": [
+      "I have to see someone fall"
+    ],
+    "541:text": [
+      "from the roof."
+    ],
+    "542:text": [
+      "I want to know if they'd survive!’"
+    ],
+    "553:text": [
+      "His urge had reached its full strength."
+    ],
+    "554:text": [
+      "And he'd made up his mind to step over"
+    ],
+    "555:text": [
+      "a line he should never cross."
+    ],
+    "557:text": [
+      "One question remained. Who would be the victim of the experiment?"
+    ],
+    "558:text": [
+      "The moment he asked himself that, perhaps he'd already fallen"
+    ],
+    "559:text": [
+      "under the devil's spell."
+    ],
+    "560:text": [
+      "By the way, if it were you, who would you choose"
+    ],
+    "561:text": [
+      "as the victim of the experiment?”"
+    ],
+    "586:glink.text.1": [
+      "1. Myself"
+    ],
+    "588:glink.text.1": [
+      "1. Myself"
+    ],
+    "592:glink.text.1": [
+      "2. A teacher I don't like"
+    ],
+    "594:glink.text.1": [
+      "2. A teacher I don't like"
+    ],
+    "598:glink.text.1": [
+      "3. A student I don't like"
+    ],
+    "600:glink.text.1": [
+      "3. A student I don't like"
+    ],
+    "609:glink.text.1": [
+      "1. Myself"
+    ],
+    "611:glink.text.1": [
+      "1. Myself"
+    ],
+    "615:glink.text.1": [
+      "2. A teacher I don't like"
+    ],
+    "617:glink.text.1": [
+      "2. A teacher I don't like"
+    ],
+    "621:glink.text.1": [
+      "3. A student I don't like"
+    ],
+    "623:glink.text.1": [
+      "3. A student I don't like"
+    ],
+    "639:text": [
+      "Shoji Arai"
+    ],
+    "640:text": [
+      "“He had considered pushing someone else"
+    ],
+    "641:text": [
+      "off the roof."
+    ],
+    "642:text": [
+      "In the end, he decided the quickest way"
+    ],
+    "643:text": [
+      "was to try it himself."
+    ],
+    "645:text": [
+      "Pushing someone else off would take"
+    ],
+    "646:text": [
+      "quite a bit of preparation."
+    ],
+    "647:text": [
+      "If the person fought back or somebody saw him,"
+    ],
+    "648:text": [
+      "he could fail."
+    ],
+    "650:text": [
+      "And if he failed..."
+    ],
+    "651:text": [
+      "it would only get harder"
+    ],
+    "652:text": [
+      "to try the experiment again."
+    ],
+    "654:text": [
+      "That's why he figured jumping himself"
+    ],
+    "655:text": [
+      "would be the quickest way."
+    ],
+    "656:text": [
+      "Besides, the thought of jumping off the roof himself"
+    ],
+    "657:text": [
+      "was all too tempting."
+    ],
+    "659:text": [
+      "‘I have to try it.’"
+    ],
+    "660:text": [
+      "That's what he thought."
+    ],
+    "662:text": [
+      "So one Sunday, he slipped into the school"
+    ],
+    "663:text": [
+      "without anyone seeing him and headed"
+    ],
+    "664:text": [
+      "for the roof."
+    ],
+    "671:text": [
+      "The stairwell leading to the roof was poorly ventilated,"
+    ],
+    "672:text": [
+      "so the air was thick with a musty smell."
+    ],
+    "674:text": [
+      "The smell got him thinking"
+    ],
+    "675:text": [
+      "about the stench of a human corpse."
+    ],
+    "676:text": [
+      "‘If I jumped and died, would the smell of death"
+    ],
+    "677:text": [
+      "seep into the ground?’"
+    ],
+    "678:text": [
+      "As he thought about it, he savored the idea"
+    ],
+    "679:text": [
+      "that he was about to carry out"
+    ],
+    "680:text": [
+      "a very valuable experiment."
+    ],
+    "682:text": [
+      "His footsteps echoed through the silence"
+    ],
+    "683:text": [
+      "with each step he took up the stairs."
+    ],
+    "684:text": [
+      "A feeling of solemnity came over him."
+    ],
+    "689:text": [
+      "He reached the top of the stairs and opened the roof door."
+    ],
+    "690:text": [
+      "The humid summer air greeted him."
+    ],
+    "691:text": [
+      "He put his hands on the rooftop railing and jumped"
+    ],
+    "692:text": [
+      "without hesitating..."
+    ],
+    "694:text": [
+      "He didn't survive."
+    ],
+    "695:text": [
+      "That was his answer."
+    ],
+    "706:text": [
+      "Bright blood spread"
+    ],
+    "707:text": [
+      "where he'd hit the ground.”"
+    ],
+    "726:text": [
+      "Shoji Arai"
+    ],
+    "727:text": [
+      "“...When people look down from somewhere high,"
+    ],
+    "728:text": [
+      "they say they feel as if they're being drawn down, don't they?"
+    ],
+    "729:text": [
+      "Did you know it's the dead lurking"
+    ],
+    "730:text": [
+      "deep in the ground who are calling you?"
+    ],
+    "732:text": [
+      "Oh, and if you ever go up onto the roof at my school,"
+    ],
+    "733:text": [
+      "you should be careful."
+    ],
+    "734:text": [
+      "They say Aizawa beckons to you up there."
+    ],
+    "735:text": [
+      "Apparently, a student really did jump"
+    ],
+    "736:text": [
+      "because of him."
+    ],
+    "738:text": [
+      "Maybe he wasn't satisfied"
+    ],
+    "739:text": [
+      "with the answer he'd found for himself."
+    ],
+    "740:text": [
+      "Could he be beckoning people over one by one"
+    ],
+    "741:text": [
+      "to see what happens when they jump?"
+    ],
+    "743:text": [
+      "I have a thought about that."
+    ],
+    "744:text": [
+      "Perhaps what he wanted to hear was that people"
+    ],
+    "745:text": [
+      "could fall off the roof and live."
+    ],
+    "747:text": [
+      "Looking down from a rooftop feels wonderful,"
+    ],
+    "748:text": [
+      "don't you think?"
+    ],
+    "750:text": [
+      "Don't you think it might feel good"
+    ],
+    "751:text": [
+      "to jump?"
+    ],
+    "752:text": [
+      "And yet you'd die if you fell. Doesn't that strike you"
+    ],
+    "753:text": [
+      "as a little strange?"
+    ],
+    "755:text": [
+      "But the reason it feels that way is that the dead"
+    ],
+    "756:text": [
+      "are beckoning to you."
+    ],
+    "757:text": [
+      "Aizawa didn't know, and he fell victim to it."
+    ],
+    "758:text": [
+      "I think he was terribly unlucky."
+    ],
+    "760:text": [
+      "You should be very careful, too."
+    ],
+    "761:text": [
+      "If the dead are only calling to you, that's one thing."
+    ],
+    "762:text": [
+      "But they say some of the dead are so determined, they'll"
+    ],
+    "763:text": [
+      "push you from behind if you're looking down"
+    ],
+    "764:text": [
+      "from somewhere high."
+    ],
+    "765:text": [
+      "...That's the end of my story."
+    ],
+    "793:text": [
+      "Shoji Arai"
+    ],
+    "794:text": [
+      "“Should he push a teacher he disliked off the roof? Or"
+    ],
+    "795:text": [
+      "maybe..."
+    ],
+    "796:text": [
+      "He couldn't decide."
+    ],
+    "797:text": [
+      "He decided to take his time and work out a plan"
+    ],
+    "798:text": [
+      "up on the roof."
+    ],
+    "805:text": [
+      "He was leaning against the rooftop railing"
+    ],
+    "806:text": [
+      "when a boy came up."
+    ],
+    "807:text": [
+      "At the time, Aizawa and that boy"
+    ],
+    "808:text": [
+      "were alone on the roof."
+    ],
+    "809:text": [
+      "If he pushed the boy off now, perhaps no one would ever"
+    ],
+    "810:text": [
+      "find out."
+    ],
+    "811:text": [
+      "That's what Aizawa thought."
+    ],
+    "813:text": [
+      "He needed to be careful, though."
+    ],
+    "814:text": [
+      "Aizawa waited for the other boy"
+    ],
+    "815:text": [
+      "to leave."
+    ],
+    "816:text": [
+      "He couldn't concentrate on his plans"
+    ],
+    "817:text": [
+      "with someone else around."
+    ],
+    "819:text": [
+      "The boy, however, showed no sign"
+    ],
+    "820:text": [
+      "of leaving."
+    ],
+    "821:text": [
+      "In fact, he said"
+    ],
+    "822:text": [
+      "something like this.”"
+    ],
+    "825:text": [
+      "Male Student"
+    ],
+    "826:text": [
+      "“I wonder what would happen"
+    ],
+    "827:text": [
+      "if someone jumped from here...”"
+    ],
+    "832:text": [
+      "Shoji Arai"
+    ],
+    "833:text": [
+      "“Aizawa was stunned."
+    ],
+    "834:text": [
+      "It had never occurred to him that someone else"
+    ],
+    "835:text": [
+      "might be thinking the very same thing."
+    ],
+    "836:text": [
+      "There might be room for a partner in his plan."
+    ],
+    "837:text": [
+      "Then again, he didn't need a partner."
+    ],
+    "838:text": [
+      "Couldn't he find a way"
+    ],
+    "839:text": [
+      "to use this boy?"
+    ],
+    "841:text": [
+      "So Aizawa struck up a conversation"
+    ],
+    "842:text": [
+      "with the boy."
+    ],
+    "843:text": [
+      "The boy said he liked the roof so much"
+    ],
+    "844:text": [
+      "that he came up there often."
+    ],
+    "846:text": [
+      "The boy seemed so timid that Aizawa felt he could"
+    ],
+    "847:text": [
+      "order him to do whatever he wanted."
+    ],
+    "848:text": [
+      "Aizawa decided to meet him on the roof"
+    ],
+    "849:text": [
+      "every day."
+    ],
+    "850:text": [
+      "Then he started planting his own ideas"
+    ],
+    "851:text": [
+      "in the boy's head.”"
+    ],
+    "857:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "858:text": [
+      "“Don't you want to know if someone would die"
+    ],
+    "859:text": [
+      "if they jumped off the roof?”"
+    ],
+    "861:text": [
+      "Shoji Arai"
+    ],
+    "862:text": [
+      "“The boy looked a little frightened,"
+    ],
+    "863:text": [
+      "but he nodded firmly."
+    ],
+    "864:text": [
+      "Seeing that, Aizawa went on.”"
+    ],
+    "867:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "868:text": [
+      "“Isn't there someone you feel is in your way?”"
+    ],
+    "870:text": [
+      "Shoji Arai"
+    ],
+    "871:text": [
+      "“The boy seemed to understand"
+    ],
+    "872:text": [
+      "what Aizawa was getting at."
+    ],
+    "873:text": [
+      "He lowered his eyes and gave this answer.”"
+    ],
+    "875:text": [
+      "Male Student"
+    ],
+    "876:text": [
+      "“I hate myself."
+    ],
+    "877:text": [
+      "Sometimes I wish"
+    ],
+    "878:text": [
+      "I just didn't exist.”"
+    ],
+    "880:text": [
+      "Shoji Arai"
+    ],
+    "881:text": [
+      "“As soon as Aizawa heard that,"
+    ],
+    "882:text": [
+      "he had his target."
+    ],
+    "883:text": [
+      "He decided to coax the boy into jumping"
+    ],
+    "884:text": [
+      "off the roof."
+    ],
+    "888:text": [
+      "The two of them talked about death."
+    ],
+    "889:text": [
+      "Day after day, they met on the roof and stared"
+    ],
+    "890:text": [
+      "at the ground through the railing while they talked"
+    ],
+    "891:text": [
+      "about the world after death."
+    ],
+    "893:text": [
+      "Aizawa said the afterlife had to be"
+    ],
+    "894:text": [
+      "something wonderful."
+    ],
+    "895:text": [
+      "He wanted the boy to throw himself off"
+    ],
+    "896:text": [
+      "as soon as possible."
+    ],
+    "898:text": [
+      "But the boy just wouldn't"
+    ],
+    "899:text": [
+      "go through with it."
+    ],
+    "901:text": [
+      "So one day Aizawa decided he would have"
+    ],
+    "902:text": [
+      "to take more drastic measures."
+    ],
+    "903:text": [
+      "He met the boy on the roof as usual"
+    ],
+    "904:text": [
+      "and held out a sheet of paper and a mechanical pencil.”"
+    ],
+    "907:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "908:text": [
+      "“Why don't you try writing a suicide note?”"
+    ],
+    "910:text": [
+      "Shoji Arai"
+    ],
+    "911:text": [
+      "“That's what Aizawa suggested.”"
+    ],
+    "913:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "914:text": [
+      "“Write a suicide note now, so you'll be ready"
+    ],
+    "915:text": [
+      "whenever you want to say goodbye to this world.”"
+    ],
+    "927:text": [
+      "Shoji Arai"
+    ],
+    "928:text": [
+      "“Aizawa showed the boy an example."
+    ],
+    "929:text": [
+      "He told the boy to use it as a model."
+    ],
+    "930:text": [
+      "It was a suicide note in Aizawa's own handwriting."
+    ],
+    "932:text": [
+      "The boy took the mechanical pencil"
+    ],
+    "933:text": [
+      "with a trembling hand..."
+    ],
+    "935:text": [
+      "then brought it down on Aizawa"
+    ],
+    "936:text": [
+      "without warning.”"
+    ],
+    "947:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "948:text": [
+      "“Wh... what are you...?!”"
+    ],
+    "950:text": [
+      "Shoji Arai"
+    ],
+    "951:text": [
+      "“How should I describe the sound"
+    ],
+    "952:text": [
+      "it made?"
+    ],
+    "953:text": [
+      "Well, how can I put it..."
+    ],
+    "954:text": [
+      "The sound of something cutting through the air is"
+    ],
+    "955:text": [
+      "a lot like the sound of it cutting through flesh."
+    ],
+    "956:text": [
+      "That's what I thought."
+    ],
+    "958:text": [
+      "Caught off guard, Aizawa hit his head on the floor"
+    ],
+    "959:text": [
+      "as he fell. He lost consciousness."
+    ],
+    "960:text": [
+      "And then Aizawa was... pushed"
+    ],
+    "961:text": [
+      "off the roof."
+    ],
+    "963:text": [
+      "Aizawa wasn't the only one who wanted"
+    ],
+    "964:text": [
+      "to see someone fall from the roof."
+    ],
+    "965:text": [
+      "Of course, I'd been waiting too..."
+    ],
+    "966:text": [
+      "I'd been waiting all that time for Aizawa"
+    ],
+    "967:text": [
+      "to jump..."
+    ],
+    "978:text": [
+      "Oh, what a look you're giving me."
+    ],
+    "979:text": [
+      "I'm sorry. I phrased that"
+    ],
+    "980:text": [
+      "in a way that could be misunderstood."
+    ],
+    "982:text": [
+      "I wasn't the one who pushed"
+    ],
+    "983:text": [
+      "Aizawa off the roof."
+    ],
+    "984:text": [
+      "That boy I mentioned was just"
+    ],
+    "985:text": [
+      "a student from some class or other."
+    ],
+    "987:text": [
+      "I watched everything that happened between them."
+    ],
+    "989:text": [
+      "I like going up to the roof myself, you see,"
+    ],
+    "990:text": [
+      "so I watched their exchanges"
+    ],
+    "991:text": [
+      "with great interest."
+    ],
+    "993:text": [
+      "What happened to Aizawa"
+    ],
+    "994:text": [
+      "after he was pushed?"
+    ],
+    "995:text": [
+      "I fled the rooftop as soon as he was pushed,"
+    ],
+    "996:text": [
+      "so I have no idea"
+    ],
+    "997:text": [
+      "what happened after that."
+    ],
+    "999:text": [
+      "It was a frightening incident."
+    ],
+    "1000:text": [
+      "That boy may have been thinking along the same lines"
+    ],
+    "1001:text": [
+      "as I was. Perhaps he'd been waiting all that time"
+    ],
+    "1002:text": [
+      "for Aizawa to jump."
+    ],
+    "1003:text": [
+      "Or he might have been waiting"
+    ],
+    "1004:text": [
+      "for a chance to push him..."
+    ],
+    "1006:text": [
+      "I stayed home from school for several days afterward."
+    ],
+    "1007:text": [
+      "What if the boy had known"
+    ],
+    "1008:text": [
+      "I'd been watching that day?"
+    ],
+    "1009:text": [
+      "The thought kept me from leaving the house."
+    ],
+    "1011:text": [
+      "When I went back to school, there were all sorts"
+    ],
+    "1012:text": [
+      "of rumors about what had happened to Aizawa."
+    ],
+    "1013:text": [
+      "I did what I could"
+    ],
+    "1014:text": [
+      "to avoid hearing them."
+    ],
+    "1015:text": [
+      "I didn't want to have anything more"
+    ],
+    "1016:text": [
+      "to do with that incident."
+    ],
+    "1018:text": [
+      "But there's one thing I still wonder about."
+    ],
+    "1019:text": [
+      "Later, when I went up to the roof in science class,"
+    ],
+    "1020:text": [
+      "I thought I heard Aizawa's voice."
+    ],
+    "1022:text": [
+      "Several other students heard it too."
+    ],
+    "1023:text": [
+      "Did he die after all?"
+    ],
+    "1024:text": [
+      "Somehow, it all feels"
+    ],
+    "1025:text": [
+      "like it happened a long time ago."
+    ],
+    "1027:text": [
+      "Yes, it was a long time ago."
+    ],
+    "1028:text": [
+      "A very, very long time ago..."
+    ],
+    "1029:text": [
+      "Was what I saw real?"
+    ],
+    "1030:text": [
+      "That's the end of my story."
+    ],
+    "1061:text": [
+      "Shoji Arai"
+    ],
+    "1062:text": [
+      "“There was no particular student"
+    ],
+    "1063:text": [
+      "Aizawa disliked."
+    ],
+    "1064:text": [
+      "He got along well enough with everyone."
+    ],
+    "1065:text": [
+      "It just wasn't in his nature"
+    ],
+    "1066:text": [
+      "to dislike people."
+    ],
+    "1068:text": [
+      "So he gave it some thought."
+    ],
+    "1069:text": [
+      "Every school has its share"
+    ],
+    "1070:text": [
+      "of delinquents."
+    ],
+    "1071:text": [
+      "At my school, there were plenty of students"
+    ],
+    "1072:text": [
+      "who'd suffered because of them."
+    ],
+    "1074:text": [
+      "‘If I pushed one of the delinquents off the roof,"
+    ],
+    "1075:text": [
+      "more people would be glad than upset"
+    ],
+    "1076:text": [
+      "if he died.’"
+    ],
+    "1077:text": [
+      "That's what Aizawa told himself."
+    ],
+    "1079:text": [
+      "He kept telling himself that"
+    ],
+    "1080:text": [
+      "to make what he was about to do seem"
+    ],
+    "1081:text": [
+      "even a little more justified."
+    ],
+    "1083:text": [
+      "He'd chosen his target."
+    ],
+    "1084:text": [
+      "Tatsuya Kuwabatake, one of a group of delinquents."
+    ],
+    "1086:text": [
+      "Aizawa quickly worked out a plan"
+    ],
+    "1087:text": [
+      "and put it into action right away."
+    ],
+    "1088:text": [
+      "He was desperate to do it"
+    ],
+    "1089:text": [
+      "as soon as he could."
+    ],
+    "1092:text": [
+      "Getting Kuwabatake to come was easy."
+    ],
+    "1093:text": [
+      "Aizawa said he had someone he wanted roughed up"
+    ],
+    "1094:text": [
+      "and would pay him to do it."
+    ],
+    "1096:text": [
+      "Kuwabatake took the bait right away."
+    ],
+    "1097:text": [
+      "He had no idea he was about to be"
+    ],
+    "1098:text": [
+      "pushed off the roof."
+    ],
+    "1104:text": [
+      "When Kuwabatake got to the roof, Aizawa caught him off guard"
+    ],
+    "1105:text": [
+      "and made him breathe in the chloroform"
+    ],
+    "1106:text": [
+      "he'd prepared beforehand."
+    ],
+    "1109:text": [
+      "Kuwabatake went limp before he even had"
+    ],
+    "1110:text": [
+      "a chance to fight back."
+    ],
+    "1111:text": [
+      "Aizawa's heart pounded at the thought that"
+    ],
+    "1112:text": [
+      "his wish was about to come true. He dragged Kuwabatake"
+    ],
+    "1113:text": [
+      "to the edge of the roof."
+    ],
+    "1115:text": [
+      "There was a railing around the roof, but it wasn't"
+    ],
+    "1116:text": [
+      "particularly high."
+    ],
+    "1118:text": [
+      "He hoisted Kuwabatake onto his shoulder and leaned out over the railing"
+    ],
+    "1119:text": [
+      "to look down."
+    ],
+    "1120:text": [
+      "Even a drop of a dozen meters or so"
+    ],
+    "1121:text": [
+      "was enough to make him dizzy."
+    ],
+    "1123:text": [
+      "Now that he was actually faced with it, Aizawa"
+    ],
+    "1124:text": [
+      "hesitated for a moment."
+    ],
+    "1125:text": [
+      "Was it really all right to go through"
+    ],
+    "1126:text": [
+      "with it?"
+    ],
+    "1127:text": [
+      "What would you do?”"
+    ],
+    "1139:glink.text.1": [
+      "1. Push Kuwabatake off"
+    ],
+    "1141:glink.text.1": [
+      "1. Push Kuwabatake off"
+    ],
+    "1145:glink.text.1": [
+      "2. Back out"
+    ],
+    "1147:glink.text.1": [
+      "2. Back out"
+    ],
+    "1151:glink.text.1": [
+      "3. Jump instead"
+    ],
+    "1153:glink.text.1": [
+      "3. Jump instead"
+    ],
+    "1164:text": [
+      "Shoji Arai"
+    ],
+    "1165:text": [
+      "“He'd come this far."
+    ],
+    "1166:text": [
+      "If he backed out now and Kuwabatake woke up later,"
+    ],
+    "1167:text": [
+      "there was no telling what Kuwabatake might"
+    ],
+    "1168:text": [
+      "do to him."
+    ],
+    "1169:text": [
+      "Besides, everybody hated"
+    ],
+    "1170:text": [
+      "Kuwabatake, didn't they?"
+    ],
+    "1172:text": [
+      "Aizawa told himself the world would be better off without him,"
+    ],
+    "1173:text": [
+      "and finally pushed Kuwabatake"
+    ],
+    "1174:text": [
+      "off the roof."
+    ],
+    "1176:text": [
+      "Maybe because he was unconscious, Kuwabatake fell"
+    ],
+    "1177:text": [
+      "like a mannequin. He hit the ground"
+    ],
+    "1178:text": [
+      "and lay still.”"
+    ],
+    "1180:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1181:text": [
+      "“...I can't really tell from here.”"
+    ],
+    "1183:text": [
+      "Shoji Arai"
+    ],
+    "1184:text": [
+      "“Aizawa ran down the stairs"
+    ],
+    "1185:text": [
+      "to see if Kuwabatake was alive or dead."
+    ],
+    "1187:text": [
+      "Luckily, it was after school and nobody was around."
+    ],
+    "1188:text": [
+      "There was no one to come running"
+    ],
+    "1189:text": [
+      "or raise the alarm."
+    ],
+    "1192:text": [
+      "By the time Aizawa got there, Kuwabatake was lying"
+    ],
+    "1193:text": [
+      "limp and motionless, with a large pool of blood"
+    ],
+    "1194:text": [
+      "already spread around him."
+    ],
+    "1196:text": [
+      "He watched closely for a while,"
+    ],
+    "1197:text": [
+      "but Kuwabatake showed no sign of moving."
+    ],
+    "1199:text": [
+      "Aizawa put a hand on him. His body was"
+    ],
+    "1200:text": [
+      "already cold.”"
+    ],
+    "1202:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1203:text": [
+      "“...He really is dead.”"
+    ],
+    "1205:text": [
+      "Shoji Arai"
+    ],
+    "1206:text": [
+      "“Aizawa smiled, looking satisfied."
+    ],
+    "1207:text": [
+      "Now that he had his answer, the knot in his chest was gone."
+    ],
+    "1208:text": [
+      "Relieved, Aizawa slept soundly that night"
+    ],
+    "1209:text": [
+      "for the first time in a long while."
+    ],
+    "1211:text": [
+      "Do you think Kuwabatake was"
+    ],
+    "1212:text": [
+      "really dead?”"
+    ],
+    "1227:glink.text.1": [
+      "1. I think he died"
+    ],
+    "1229:glink.text.1": [
+      "1. I think he died"
+    ],
+    "1233:glink.text.1": [
+      "2. He was actually alive"
+    ],
+    "1236:glink.text.1": [
+      "2. He was actually alive"
+    ],
+    "1252:text": [
+      "Shoji Arai"
+    ],
+    "1253:text": [
+      "“The next day at school, everyone"
+    ],
+    "1254:text": [
+      "was talking about Kuwabatake."
+    ],
+    "1255:text": [
+      "His death was written off as"
+    ],
+    "1256:text": [
+      "a suicide."
+    ],
+    "1257:text": [
+      "Kuwabatake had always been in trouble,"
+    ],
+    "1258:text": [
+      "so no one looked very hard into what had happened."
+    ],
+    "1260:text": [
+      "For a while after that, Aizawa"
+    ],
+    "1261:text": [
+      "could enjoy school without a care."
+    ],
+    "1262:text": [
+      "...It didn't last long."
+    ],
+    "1263:text": [
+      "As time went by, another problem"
+    ],
+    "1264:text": [
+      "came up."
+    ],
+    "1266:text": [
+      "‘What if Kuwabatake only died because"
+    ],
+    "1267:text": [
+      "he'd been unconscious?"
+    ],
+    "1269:text": [
+      "Maybe he'd have lived if I hadn't used"
+    ],
+    "1270:text": [
+      "the chloroform?’"
+    ],
+    "1271:text": [
+      "Once the thought was in his head, he couldn't"
+    ],
+    "1272:text": [
+      "help wanting to test it again."
+    ],
+    "1274:text": [
+      "‘Oh, there are plenty of delinquents left."
+    ],
+    "1275:text": [
+      "Nobody'll mind if I push two or three"
+    ],
+    "1276:text": [
+      "more off the roof.’"
+    ],
+    "1277:text": [
+      "Aizawa smirked as he thought it over."
+    ],
+    "1278:text": [
+      "He didn't feel the slightest"
+    ],
+    "1279:text": [
+      "trace of guilt anymore."
+    ],
+    "1284:text": [
+      "The next day, he ran the experiment on a second subject."
+    ],
+    "1285:text": [
+      "This time, he called another delinquent over and hit"
+    ],
+    "1286:text": [
+      "them from behind with a bat. Once they were dazed,"
+    ],
+    "1287:text": [
+      "he pushed them off.”"
+    ],
+    "1289:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1290:text": [
+      "“...Just as I thought. This one's dead, too.”"
+    ],
+    "1292:text": [
+      "Shoji Arai"
+    ],
+    "1293:text": [
+      "“This time, their head split open and its contents"
+    ],
+    "1294:text": [
+      "burst out. You could tell at a glance they were dead."
+    ],
+    "1295:text": [
+      "The school wrote this one off"
+    ],
+    "1296:text": [
+      "as a suicide, too."
+    ],
+    "1298:text": [
+      "Even then, his satisfaction lasted"
+    ],
+    "1299:text": [
+      "only a moment."
+    ],
+    "1300:text": [
+      "‘Maybe it was the bat that killed"
+    ],
+    "1301:text": [
+      "this one.’"
+    ],
+    "1302:text": [
+      "With that thought, he couldn't resist"
+    ],
+    "1303:text": [
+      "trying a different method."
+    ],
+    "1305:text": [
+      "So he did it again."
+    ],
+    "1306:text": [
+      "This time, he knocked them out with chloroform."
+    ],
+    "1307:text": [
+      "Then he tied their hands and feet and waited for them"
+    ],
+    "1308:text": [
+      "to wake up before pushing them off.”"
+    ],
+    "1310:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1311:text": [
+      "“...Dead again. So they really do die.”"
+    ],
+    "1316:text": [
+      "Shoji Arai"
+    ],
+    "1317:text": [
+      "“This time, Aizawa was sure"
+    ],
+    "1318:text": [
+      "he'd be satisfied."
+    ],
+    "1319:text": [
+      "And yet the satisfaction never came."
+    ],
+    "1321:text": [
+      "‘Maybe that was just chance."
+    ],
+    "1322:text": [
+      "Maybe a fall doesn't actually kill you."
+    ],
+    "1323:text": [
+      "People can't die that easily.’"
+    ],
+    "1324:text": [
+      "Thinking about it made him so restless"
+    ],
+    "1325:text": [
+      "that he had to run another experiment."
+    ],
+    "1327:text": [
+      "After three supposed suicides among delinquents,"
+    ],
+    "1328:text": [
+      "even the school couldn't keep quiet"
+    ],
+    "1329:text": [
+      "any longer."
+    ],
+    "1330:text": [
+      "Were the delinquents fighting each other,"
+    ],
+    "1331:text": [
+      "or was something else going on? The police"
+    ],
+    "1332:text": [
+      "stepped up their investigation."
+    ],
+    "1334:text": [
+      "The first measure the school took"
+    ],
+    "1335:text": [
+      "was to close off the roof."
+    ],
+    "1337:text": [
+      "That only made Aizawa's obsession"
+    ],
+    "1338:text": [
+      "grow stronger."
+    ],
+    "1339:text": [
+      "He was so desperate to try the experiment again"
+    ],
+    "1340:text": [
+      "he'd even sneak into the school at night to do it."
+    ],
+    "1342:text": [
+      "Maybe the delinquents were scared, too."
+    ],
+    "1343:text": [
+      "However cleverly Aizawa tried to talk them into it,"
+    ],
+    "1344:text": [
+      "none of them would take the bait."
+    ],
+    "1345:text": [
+      "With their fangs pulled, the wolves had grown"
+    ],
+    "1346:text": [
+      "as docile as puppies."
+    ],
+    "1348:text": [
+      "That only fanned the flames"
+    ],
+    "1349:text": [
+      "of his desire."
+    ],
+    "1350:text": [
+      "Finally, Aizawa decided to sink his fangs"
+    ],
+    "1351:text": [
+      "into a close friend.”"
+    ],
+    "1358:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1359:text": [
+      "“...I need to talk to you about something."
+    ],
+    "1360:text": [
+      "Sorry, but would you hear me out?”"
+    ],
+    "1362:text": [
+      "Shoji Arai"
+    ],
+    "1363:text": [
+      "“With that, he lured a friend out"
+    ],
+    "1364:text": [
+      "to the park late at night."
+    ],
+    "1365:text": [
+      "The question is what to do next."
+    ],
+    "1366:text": [
+      "What would you do?”"
+    ],
+    "1380:glink.text.1": [
+      "1. Use chloroform on them"
+    ],
+    "1382:glink.text.1": [
+      "1. Use chloroform on them"
+    ],
+    "1386:glink.text.1": [
+      "2. Hit them with a bat"
+    ],
+    "1389:glink.text.1": [
+      "2. Hit them with a bat"
+    ],
+    "1393:glink.text.1": [
+      "3. Strangle them to death on the spot"
+    ],
+    "1395:glink.text.1": [
+      "3. Strangle them to death on the spot"
+    ],
+    "1399:glink.text.1": [
+      "4. Use a stun gun"
+    ],
+    "1401:glink.text.1": [
+      "4. Use a stun gun"
+    ],
+    "1413:text": [
+      "Shoji Arai"
+    ],
+    "1414:text": [
+      "“Aizawa got his friend to meet him, then immediately"
+    ],
+    "1415:text": [
+      "ambushed them from behind and used chloroform."
+    ],
+    "1416:text": [
+      "It worked as easily"
+    ],
+    "1417:text": [
+      "as it had the first time."
+    ],
+    "1418:text": [
+      "Now he had to get his limp guinea pig"
+    ],
+    "1419:text": [
+      "up to the school roof."
+    ],
+    "1421:text": [
+      "Aizawa had a burlap sack ready."
+    ],
+    "1422:text": [
+      "He shoved his guinea pig inside and hauled the sack"
+    ],
+    "1423:text": [
+      "all the way to school."
+    ],
+    "1425:text": [
+      "He slipped into the school in the middle of the night"
+    ],
+    "1426:text": [
+      "and made his way to the roof in silence."
+    ],
+    "1428:text": [
+      "The door was locked, of course."
+    ],
+    "1429:text": [
+      "He broke the lock with pliers and a hammer,"
+    ],
+    "1430:text": [
+      "and a sudden gust rushed in and hit him full on."
+    ],
+    "1435:text": [
+      "‘I never knew being at school at night"
+    ],
+    "1436:text": [
+      "could feel this good.’"
+    ],
+    "1437:text": [
+      "With that thought, he took a deep breath"
+    ],
+    "1438:text": [
+      "and dragged the burlap sack"
+    ],
+    "1439:text": [
+      "out onto the roof.”"
+    ],
+    "1441:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1442:text": [
+      "“...I've never been at school at night before.”"
+    ],
+    "1444:text": [
+      "Shoji Arai"
+    ],
+    "1445:text": [
+      "“Aizawa tossed the sack into a corner of the roof"
+    ],
+    "1446:text": [
+      "and spent a little while taking in"
+    ],
+    "1447:text": [
+      "the nighttime view."
+    ],
+    "1448:text": [
+      "He felt as if he'd become"
+    ],
+    "1449:text": [
+      "the king of the world."
+    ],
+    "1451:text": [
+      "‘All those people I can see from up here..."
+    ],
+    "1452:text": [
+      "I could end their lives"
+    ],
+    "1453:text": [
+      "whenever I felt like it.’"
+    ],
+    "1454:text": [
+      "He found the thought so funny"
+    ],
+    "1455:text": [
+      "he could hardly stand it."
+    ],
+    "1456:text": [
+      "He entertained those thoughts for a while."
+    ],
+    "1457:text": [
+      "Then he finally got to work on the experiment."
+    ],
+    "1460:text": [
+      "But then..."
+    ],
+    "1461:text": [
+      "The sack had gone completely flat,"
+    ],
+    "1462:text": [
+      "like the air had been let out of it."
+    ],
+    "1463:text": [
+      "While he was taking in the view, his guinea pig"
+    ],
+    "1464:text": [
+      "had come to and escaped.”"
+    ],
+    "1466:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1467:text": [
+      "“Aaaaaaaah!!”"
+    ],
+    "1469:text": [
+      "Shoji Arai"
+    ],
+    "1470:text": [
+      "“Aizawa screamed in frustration and anguish."
+    ],
+    "1471:text": [
+      "He looked down and saw something"
+    ],
+    "1472:text": [
+      "like an ant running across the schoolyard."
+    ],
+    "1473:text": [
+      "It was the guinea pig who'd escaped the sack."
+    ],
+    "1474:text": [
+      "By then, there was little chance"
+    ],
+    "1475:text": [
+      "he could catch up if he went after them."
+    ],
+    "1478:text": [
+      "That's when Aizawa heard a voice"
+    ],
+    "1479:text": [
+      "calling out amid the wind."
+    ],
+    "1483:text": [
+      "He glanced down. The earth was beckoning to him."
+    ],
+    "1484:text": [
+      "It looked as though it lay in wait,"
+    ],
+    "1485:text": [
+      "its mouth wide open for its prey to fall in."
+    ],
+    "1487:text": [
+      "After all, the soil down there had drunk"
+    ],
+    "1488:text": [
+      "the blood of three people."
+    ],
+    "1489:text": [
+      "It would be no surprise"
+    ],
+    "1490:text": [
+      "if it had developed a taste for blood."
+    ],
+    "1492:text": [
+      "Aizawa took hold of the railing."
+    ],
+    "1493:text": [
+      "He leaned out even farther, staring down"
+    ],
+    "1494:text": [
+      "at the ground lying in wait below.”"
+    ],
+    "1504:glink.text.1": [
+      "1. Jump"
+    ],
+    "1506:glink.text.1": [
+      "1. Jump"
+    ],
+    "1510:glink.text.1": [
+      "2. Back out"
+    ],
+    "1513:glink.text.1": [
+      "2. Back out"
+    ],
+    "1523:text": [
+      "Shoji Arai"
+    ],
+    "1524:text": [
+      "“He couldn't escape anymore.”"
+    ],
+    "1526:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1527:text": [
+      "“I have to carry out the experiment, no matter what.”"
+    ],
+    "1529:text": [
+      "Shoji Arai"
+    ],
+    "1530:text": [
+      "“He muttered the words as if possessed. Then Aizawa"
+    ],
+    "1531:text": [
+      "threw himself off the roof, his eyes wide open.”"
+    ],
+    "1546:text": [
+      "Shoji Arai"
+    ],
+    "1547:text": [
+      "“The whole school was in an uproar the next day."
+    ],
+    "1548:text": [
+      "Aizawa's friend, the one who got away,"
+    ],
+    "1549:text": [
+      "came forward and told the whole story."
+    ],
+    "1551:text": [
+      "A search of Aizawa's home turned up"
+    ],
+    "1552:text": [
+      "a diary that described everything that had happened"
+    ],
+    "1553:text": [
+      "in meticulous detail."
+    ],
+    "1554:text": [
+      "Strangest of all, it included things"
+    ],
+    "1555:text": [
+      "he couldn't possibly have written down. Even the events"
+    ],
+    "1556:text": [
+      "of those last moments the previous day were in there,"
+    ],
+    "1557:text": [
+      "as if he'd known in advance what would happen."
+    ],
+    "1559:text": [
+      "Of course, neither the police nor the school"
+    ],
+    "1560:text": [
+      "believed that part."
+    ],
+    "1561:text": [
+      "Someone who threw themselves off a roof couldn't"
+    ],
+    "1562:text": [
+      "write about the very moment of their own death."
+    ],
+    "1563:text": [
+      "This is how the diary ended.”"
+    ],
+    "1565:text": [
+      "‘Dad, Mom, and everyone,"
+    ],
+    "1566:text": [
+      "I'll be eaten by the monster that lives on the roof."
+    ],
+    "1567:text": [
+      "If I don't offer myself as a sacrifice, the victims"
+    ],
+    "1568:text": [
+      "will keep piling up. I'm setting out now. Goodbye.’"
+    ],
+    "1579:text": [
+      "Shoji Arai"
+    ],
+    "1580:text": [
+      "“The police concluded that he'd run away from home."
+    ],
+    "1581:text": [
+      "They put together a search party."
+    ],
+    "1582:text": [
+      "But they couldn't find him."
+    ],
+    "1584:text": [
+      "Do you know why they treated it as a runaway case?"
+    ],
+    "1585:text": [
+      "Aizawa's body was never found,"
+    ],
+    "1586:text": [
+      "you see."
+    ],
+    "1587:text": [
+      "Aizawa had supposedly jumped from the roof,"
+    ],
+    "1588:text": [
+      "but they couldn't find his body or even"
+    ],
+    "1589:text": [
+      "a single trace of him."
+    ],
+    "1590:text": [
+      "If they'd found anything, the police might've"
+    ],
+    "1591:text": [
+      "come to a different conclusion."
+    ],
+    "1593:text": [
+      "And even now,"
+    ],
+    "1594:text": [
+      "Aizawa is still missing."
+    ],
+    "1596:text": [
+      "Did the monster that lives on the roof"
+    ],
+    "1597:text": [
+      "really eat Aizawa?"
+    ],
+    "1598:text": [
+      "Or did he set out for someplace else"
+    ],
+    "1599:text": [
+      "without ever jumping?"
+    ],
+    "1600:text": [
+      "At this point, the whole thing"
+    ],
+    "1601:text": [
+      "is still a mystery."
+    ],
+    "1602:text": [
+      "And that's the end of my story."
+    ],
+    "1626:text": [
+      "Shoji Arai"
+    ],
+    "1627:text": [
+      "“But Aizawa couldn't bring himself"
+    ],
+    "1628:text": [
+      "to jump after all."
+    ],
+    "1629:text": [
+      "‘I still have experiments to do.’"
+    ],
+    "1630:text": [
+      "That's what he thought."
+    ],
+    "1632:text": [
+      "But someone pushed him from behind."
+    ],
+    "1633:text": [
+      "And so, off the roof..."
+    ],
+    "1634:text": [
+      "he fell."
+    ],
+    "1635:text": [
+      "Toward the ground."
+    ],
+    "1636:text": [
+      "Or maybe into the depths of the earth."
+    ],
+    "1637:text": [
+      "Perhaps his soul would end up"
+    ],
+    "1638:text": [
+      "in hell.”"
+    ],
+    "1649:text": [
+      "Shoji Arai"
+    ],
+    "1650:text": [
+      "“Aizawa had already tried hitting someone with a bat"
+    ],
+    "1651:text": [
+      "and making them inhale chloroform."
+    ],
+    "1652:text": [
+      "So this time, he decided to try strangling"
+    ],
+    "1653:text": [
+      "his prey."
+    ],
+    "1671:text": [
+      "Aizawa seized the friend he'd called over"
+    ],
+    "1672:text": [
+      "by the throat and squeezed hard."
+    ],
+    "1673:text": [
+      "His friend's eyes went wide"
+    ],
+    "1674:text": [
+      "with disbelief."
+    ],
+    "1676:text": [
+      "Or maybe they were bulging"
+    ],
+    "1677:text": [
+      "from the pain.”"
+    ],
+    "1679:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1680:text": [
+      "“I'm not satisfied. Nothing"
+    ],
+    "1681:text": [
+      "will satisfy me.”"
+    ],
+    "1683:text": [
+      "Shoji Arai"
+    ],
+    "1684:text": [
+      "“Aizawa muttered it over and over,"
+    ],
+    "1685:text": [
+      "as if he were delirious."
+    ],
+    "1686:text": [
+      "And then... he killed his friend"
+    ],
+    "1687:text": [
+      "on the spot.”"
+    ],
+    "1698:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1699:text": [
+      "“This is no good. I can't run the experiment like this.”"
+    ],
+    "1702:text": [
+      "Shoji Arai"
+    ],
+    "1703:text": [
+      "“Aizawa staggered off in search of"
+    ],
+    "1704:text": [
+      "his next victim."
+    ],
+    "1705:text": [
+      "Then... he spotted some figures ahead."
+    ],
+    "1706:text": [
+      "There were three of them."
+    ],
+    "1707:text": [
+      "They looked like they were wearing school uniforms."
+    ],
+    "1709:text": [
+      "Aizawa smiled."
+    ],
+    "1710:text": [
+      "‘There are my next test subjects.’"
+    ],
+    "1711:text": [
+      "That's what he thought."
+    ],
+    "1713:text": [
+      "It seemed he'd already lost"
+    ],
+    "1714:text": [
+      "the ability to think straight."
+    ],
+    "1715:text": [
+      "Someone had thrown a juice bottle"
+    ],
+    "1716:text": [
+      "into a trash can in the park."
+    ],
+    "1717:text": [
+      "Aizawa grabbed it and ran"
+    ],
+    "1718:text": [
+      "toward the figures."
+    ],
+    "1720:text": [
+      "But just then, someone's hands closed"
+    ],
+    "1721:text": [
+      "around his throat.”"
+    ],
+    "1723:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1724:text": [
+      "“Wha...?!”"
+    ],
+    "1726:text": [
+      "Shoji Arai"
+    ],
+    "1727:text": [
+      "“Those hands were as cold as a corpse's"
+    ],
+    "1728:text": [
+      "and rigid, with the tendons standing out.”"
+    ],
+    "1730:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1731:text": [
+      "“Stop...!”"
+    ],
+    "1733:text": [
+      "Shoji Arai"
+    ],
+    "1734:text": [
+      "“Aizawa tried to wrench himself free"
+    ],
+    "1735:text": [
+      "of those hands."
+    ],
+    "1737:text": [
+      "Then, the instant he managed to turn around..."
+    ],
+    "1738:text": [
+      "he saw it."
+    ],
+    "1739:text": [
+      "The friend he thought he'd just killed was"
+    ],
+    "1740:text": [
+      "strangling him..."
+    ],
+    "1742:text": [
+      "Their face was drained of color. Their eyes bulged"
+    ],
+    "1743:text": [
+      "just as they had when he killed them."
+    ],
+    "1744:text": [
+      "Those eyes were open so wide, so terribly wide,"
+    ],
+    "1745:text": [
+      "they looked ready to fall right out."
+    ],
+    "1747:text": [
+      "Those hands squeezed Aizawa's throat"
+    ],
+    "1748:text": [
+      "with incredible force."
+    ],
+    "1749:text": [
+      "The juice bottle slipped from his fingers"
+    ],
+    "1750:text": [
+      "and fell to the ground."
+    ],
+    "1751:text": [
+      "He couldn't even cry out anymore. The only sound"
+    ],
+    "1752:text": [
+      "that came from his throat was like a belch."
+    ],
+    "1754:text": [
+      "The three figures ahead started walking toward him."
+    ],
+    "1755:text": [
+      "At the same time, he heard laughter."
+    ],
+    "1756:text": [
+      "It sounded like they were laughing"
+    ],
+    "1757:text": [
+      "at him."
+    ],
+    "1759:text": [
+      "The three of them came right up to him."
+    ],
+    "1760:text": [
+      "Their faces... belonged to the delinquents"
+    ],
+    "1761:text": [
+      "Aizawa had killed before."
+    ],
+    "1763:text": [
+      "Their faces were all horribly contorted."
+    ],
+    "1764:text": [
+      "They wore exactly the same expressions"
+    ],
+    "1765:text": [
+      "they'd had when they were killed."
+    ],
+    "1766:text": [
+      "And so Aizawa was killed,"
+    ],
+    "1767:text": [
+      "strangled by the dead."
+    ],
+    "1778:text": [
+      "Everything that happened was his own doing."
+    ],
+    "1780:text": [
+      "Still, I do feel sorry for Aizawa."
+    ],
+    "1781:text": [
+      "For all his obsession with the experiment,"
+    ],
+    "1782:text": [
+      "when it was his turn to die, he was strangled"
+    ],
+    "1783:text": [
+      "there on the ground."
+    ],
+    "1784:text": [
+      "I have no doubt"
+    ],
+    "1785:text": [
+      "he regrets it."
+    ],
+    "1787:text": [
+      "Oh, yes. Aizawa's ghost haunts"
+    ],
+    "1788:text": [
+      "my school, you know."
+    ],
+    "1789:text": [
+      "If you look down from the roof, Aizawa's face"
+    ],
+    "1790:text": [
+      "materializes on the ground below."
+    ],
+    "1791:text": [
+      "They say his eyes are wide open,"
+    ],
+    "1792:text": [
+      "just like when he was strangled."
+    ],
+    "1793:text": [
+      "...That's the end of my story."
+    ],
+    "1816:text": [
+      "Shoji Arai"
+    ],
+    "1817:text": [
+      "“No, Kuwabatake really was dead.”"
+    ],
+    "1827:text": [
+      "Shoji Arai"
+    ],
+    "1828:text": [
+      "“He thought better of it and stood there a while,"
+    ],
+    "1829:text": [
+      "looking around."
+    ],
+    "1830:text": [
+      "There was nobody nearby."
+    ],
+    "1831:text": [
+      "There shouldn't have been any witnesses."
+    ],
+    "1832:text": [
+      "‘But can I really just go home like this?’"
+    ],
+    "1833:text": [
+      "He was torn all over again."
+    ],
+    "1834:text": [
+      "Then he made up his mind."
+    ],
+    "1835:text": [
+      "...He'd stick to the plan after all.”"
+    ],
+    "1845:text": [
+      "Shoji Arai"
+    ],
+    "1846:text": [
+      "“He decided against pushing Kuwabatake off."
+    ],
+    "1847:text": [
+      "Then he put a hand on the rooftop railing"
+    ],
+    "1848:text": [
+      "and jumped from the roof himself."
+    ],
+    "1849:text": [
+      "He left Kuwabatake lying there"
+    ],
+    "1850:text": [
+      "on the cold concrete of the roof..."
+    ],
+    "1851:text": [
+      "Aizawa's scream echoed all around."
+    ],
+    "1852:text": [
+      "And there was his answer."
+    ],
+    "1853:text": [
+      "Aizawa did not survive.”"
+    ],
+    "1869:text": [
+      "Shoji Arai"
+    ],
+    "1870:text": [
+      "“Should he push a teacher he disliked off the roof? Or"
+    ],
+    "1871:text": [
+      "maybe..."
+    ],
+    "1872:text": [
+      "He couldn't decide."
+    ],
+    "1873:text": [
+      "He decided to take his time and work out a plan"
+    ],
+    "1874:text": [
+      "up on the roof."
+    ],
+    "1876:text": [
+      "He was leaning against the rooftop railing"
+    ],
+    "1877:text": [
+      "when a girl came up."
+    ],
+    "1878:text": [
+      "At the time, Aizawa and that girl"
+    ],
+    "1879:text": [
+      "were alone on the roof."
+    ],
+    "1881:text": [
+      "If he pushed the girl off now, perhaps no one would ever"
+    ],
+    "1882:text": [
+      "find out..."
+    ],
+    "1883:text": [
+      "That's what Aizawa thought."
+    ],
+    "1885:text": [
+      "He needed to be careful, though."
+    ],
+    "1886:text": [
+      "Aizawa waited for the girl"
+    ],
+    "1887:text": [
+      "to leave."
+    ],
+    "1888:text": [
+      "He couldn't concentrate on making a plan"
+    ],
+    "1889:text": [
+      "with someone else there."
+    ],
+    "1891:text": [
+      "The girl showed no sign"
+    ],
+    "1892:text": [
+      "of leaving, though."
+    ],
+    "1893:text": [
+      "Instead, she said"
+    ],
+    "1894:text": [
+      "something unexpected.”"
+    ],
+    "1897:text": [
+      "Hiromi Mashita"
+    ],
+    "1898:text": [
+      "“I wonder what would happen"
+    ],
+    "1899:text": [
+      "if someone jumped from up here...”"
+    ],
+    "1903:text": [
+      "Shoji Arai"
+    ],
+    "1904:text": [
+      "“Aizawa was stunned."
+    ],
+    "1905:text": [
+      "It had never crossed his mind that someone else"
+    ],
+    "1906:text": [
+      "might be thinking the same thing."
+    ],
+    "1907:text": [
+      "‘I wouldn't mind having a partner for this."
+    ],
+    "1908:text": [
+      "Then again, I don't have to make her my partner."
+    ],
+    "1909:text": [
+      "What if I could find a way"
+    ],
+    "1910:text": [
+      "to use her...?’"
+    ],
+    "1912:text": [
+      "So Aizawa struck up a conversation"
+    ],
+    "1913:text": [
+      "with the girl."
+    ],
+    "1914:text": [
+      "Her name was Hiromi Mashita. She said she liked the roof"
+    ],
+    "1915:text": [
+      "so much that she came up there often."
+    ],
+    "1917:text": [
+      "As they talked, she confided that she was curious"
+    ],
+    "1918:text": [
+      "whether someone would die if they jumped off the roof."
+    ],
+    "1919:text": [
+      "Her curiosity went further than that."
+    ],
+    "1920:text": [
+      "She was interested in suicide itself."
+    ],
+    "1922:text": [
+      "Aizawa wasn't sure what to do."
+    ],
+    "1923:text": [
+      "Could he really manipulate her"
+    ],
+    "1924:text": [
+      "into doing what he wanted?"
+    ],
+    "1925:text": [
+      "While he was considering that, he felt himself"
+    ],
+    "1926:text": [
+      "getting drawn into what she was saying.”"
+    ],
+    "1930:text": [
+      "Hiromi Mashita"
+    ],
+    "1931:text": [
+      "“Hanging yourself is no good."
+    ],
+    "1932:text": [
+      "A lot of people do it because they want to die quickly,"
+    ],
+    "1933:text": [
+      "but hanging yourself is a filthy way"
+    ],
+    "1934:text": [
+      "to die."
+    ],
+    "1936:text": [
+      "In TV dramas, they get away with showing"
+    ],
+    "1937:text": [
+      "dangling feet or just a silhouette. In real life,"
+    ],
+    "1938:text": [
+      "it doesn't look so pretty, does it?"
+    ],
+    "1939:text": [
+      "Before rigor mortis sets in, I think?"
+    ],
+    "1940:text": [
+      "The whole body goes completely limp."
+    ],
+    "1942:text": [
+      "It makes sense, doesn't it? The body stops"
+    ],
+    "1943:text": [
+      "functioning altogether."
+    ],
+    "1944:text": [
+      "Then there's gravity, right?"
+    ],
+    "1945:text": [
+      "All the body's secretions and waste pour out"
+    ],
+    "1946:text": [
+      "of every opening.”"
+    ],
+    "1951:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1952:text": [
+      "“What about taking drugs to kill yourself, then?”"
+    ],
+    "1954:text": [
+      "Hiromi Mashita"
+    ],
+    "1955:text": [
+      "“Hmm. With drugs, that might be the least painful"
+    ],
+    "1956:text": [
+      "way to die."
+    ],
+    "1957:text": [
+      "You can get chemicals on the internet these days."
+    ],
+    "1958:text": [
+      "You don't even have to buy them online. It's easy enough"
+    ],
+    "1959:text": [
+      "to find things that are toxic"
+    ],
+    "1960:text": [
+      "close at hand..."
+    ],
+    "1961:text": [
+      "But it's suicide by jumping"
+    ],
+    "1962:text": [
+      "that you're interested in, isn't it?”"
+    ],
+    "1964:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1965:text": [
+      "“That's not quite it."
+    ],
+    "1966:text": [
+      "What I want to know is whether someone would"
+    ],
+    "1967:text": [
+      "really die if they jumped off the roof.”"
+    ],
+    "1971:text": [
+      "Shoji Arai"
+    ],
+    "1972:text": [
+      "“They met on the roof more and more often"
+    ],
+    "1973:text": [
+      "and talked about all kinds of things."
+    ],
+    "1974:text": [
+      "The more they talked, the more they felt"
+    ],
+    "1975:text": [
+      "they understood each other,"
+    ],
+    "1976:text": [
+      "and the closer they became."
+    ],
+    "1977:text": [
+      "In the end, Aizawa decided"
+    ],
+    "1978:text": [
+      "to make her his partner.”"
+    ],
+    "1981:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "1982:text": [
+      "“Don't you want to know if someone would die"
+    ],
+    "1983:text": [
+      "if they jumped off the roof?”"
+    ],
+    "1987:text": [
+      "Shoji Arai"
+    ],
+    "1988:text": [
+      "“Mashita gave him a strange smile"
+    ],
+    "1989:text": [
+      "and nodded once.”"
+    ],
+    "1991:text": [
+      "Hiromi Mashita"
+    ],
+    "1992:text": [
+      "“So we're going to be accomplices.”"
+    ],
+    "2004:text": [
+      "Shoji Arai"
+    ],
+    "2005:text": [
+      "“She was sharp enough to understand"
+    ],
+    "2006:text": [
+      "exactly what Aizawa meant."
+    ],
+    "2007:text": [
+      "Why did she say she'd be Aizawa's accomplice..."
+    ],
+    "2008:text": [
+      "Can you tell me?”"
+    ],
+    "2018:glink.text.1": [
+      "1. I can"
+    ],
+    "2020:glink.text.1": [
+      "1. I can"
+    ],
+    "2024:glink.text.1": [
+      "2. I can't"
+    ],
+    "2027:glink.text.1": [
+      "2. I can't"
+    ],
+    "2037:text": [
+      "Shoji Arai"
+    ],
+    "2038:text": [
+      "“That's impressive."
+    ],
+    "2039:text": [
+      "Then why do you think she said she'd be"
+    ],
+    "2040:text": [
+      "Aizawa's accomplice?”"
+    ],
+    "2052:glink.text.1": [
+      "1. She felt the same way as Aizawa"
+    ],
+    "2054:glink.text.1": [
+      "1. She felt the same way as Aizawa"
+    ],
+    "2058:glink.text.1": [
+      "2. She'd fallen for Aizawa"
+    ],
+    "2061:glink.text.1": [
+      "2. She'd fallen for Aizawa"
+    ],
+    "2065:glink.text.1": [
+      "3. She wanted a quick way to see someone die"
+    ],
+    "2067:glink.text.1": [
+      "3. She wanted a quick way to see someone die"
+    ],
+    "2077:text": [
+      "Shoji Arai"
+    ],
+    "2078:text": [
+      "“I see... Well, if you hear the rest of the story,"
+    ],
+    "2079:text": [
+      "I think you'll understand why she decided"
+    ],
+    "2080:text": [
+      "to become his accomplice."
+    ],
+    "2081:text": [
+      "After she said she'd be his accomplice, Aizawa"
+    ],
+    "2082:text": [
+      "asked her this.”"
+    ],
+    "2101:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "2102:text": [
+      "“Isn't there someone you feel is in your way?”"
+    ],
+    "2104:text": [
+      "Shoji Arai"
+    ],
+    "2105:text": [
+      "“She looked like she was thinking it over,"
+    ],
+    "2106:text": [
+      "then quickly shook her head.”"
+    ],
+    "2110:text": [
+      "Hiromi Mashita"
+    ],
+    "2111:text": [
+      "“No, there isn't.”"
+    ],
+    "2113:text": [
+      "Shoji Arai"
+    ],
+    "2114:text": [
+      "“Aizawa was disappointed."
+    ],
+    "2115:text": [
+      "He'd expected a more definite answer"
+    ],
+    "2116:text": [
+      "from her."
+    ],
+    "2117:text": [
+      "But then she murmured something"
+    ],
+    "2118:text": [
+      "that sounded like advice.”"
+    ],
+    "2120:text": [
+      "Hiromi Mashita"
+    ],
+    "2121:text": [
+      "“There's nobody I feel is in my way, but"
+    ],
+    "2122:text": [
+      "there are troublemakers everywhere, you know...”"
+    ],
+    "2126:text": [
+      "Shoji Arai"
+    ],
+    "2127:text": [
+      "“Aizawa realized something."
+    ],
+    "2128:text": [
+      "Of course. The experiment didn't have"
+    ],
+    "2129:text": [
+      "to benefit anyone."
+    ],
+    "2130:text": [
+      "All he really wanted to know was whether"
+    ],
+    "2131:text": [
+      "someone who jumped off the roof would die."
+    ],
+    "2132:text": [
+      "So anybody could be the subject"
+    ],
+    "2133:text": [
+      "of the experiment."
+    ],
+    "2135:text": [
+      "They started working out a plan."
+    ],
+    "2136:text": [
+      "The subject had to be an outcast. That was all."
+    ],
+    "2138:text": [
+      "They settled on a subject right away."
+    ],
+    "2139:text": [
+      "It was Tatsuya Kuwabatake, one of a group of delinquents."
+    ],
+    "2141:text": [
+      "Here was their plan."
+    ],
+    "2142:text": [
+      "First, they had to get the subject to meet them."
+    ],
+    "2143:text": [
+      "Getting Kuwabatake to come was easy."
+    ],
+    "2144:text": [
+      "Mashita offered to pay him to rough someone"
+    ],
+    "2145:text": [
+      "up for her."
+    ],
+    "2147:text": [
+      "Kuwabatake took the bait right away."
+    ],
+    "2148:text": [
+      "...He had no idea he was about to be pushed"
+    ],
+    "2149:text": [
+      "off the roof."
+    ],
+    "2151:text": [
+      "Once Kuwabatake got to the roof, Mashita would"
+    ],
+    "2152:text": [
+      "distract him. The moment he let his guard down, Aizawa"
+    ],
+    "2153:text": [
+      "would use the chloroform he'd prepared."
+    ],
+    "2154:text": [
+      "That was it. It couldn't have been simpler."
+    ],
+    "2156:text": [
+      "It went according to plan. Before Kuwabatake could"
+    ],
+    "2157:text": [
+      "fight back, he went limp."
+    ],
+    "2158:text": [
+      "Aizawa and Mashita were trembling with excitement"
+    ],
+    "2159:text": [
+      "at the thought that they'd soon get what they wanted."
+    ],
+    "2160:text": [
+      "Together, they dragged Kuwabatake's body"
+    ],
+    "2161:text": [
+      "to the edge of the roof."
+    ],
+    "2163:text": [
+      "There was a railing around the rooftop,"
+    ],
+    "2164:text": [
+      "but it wasn't very high."
+    ],
+    "2166:text": [
+      "They hoisted Kuwabatake up, leaned over the railing,"
+    ],
+    "2167:text": [
+      "and looked down."
+    ],
+    "2169:text": [
+      "Even a drop of a few dozen meters"
+    ],
+    "2170:text": [
+      "was enough to make you dizzy."
+    ],
+    "2172:text": [
+      "They couldn't wait to see someone fall..."
+    ],
+    "2173:text": [
+      "They held back their excitement and slowly slid"
+    ],
+    "2174:text": [
+      "Kuwabatake's body farther over the edge."
+    ],
+    "2176:text": [
+      "A little farther. Just a little farther, and"
+    ],
+    "2177:text": [
+      "gravity would take him the rest of the way. Their"
+    ],
+    "2178:text": [
+      "hearts pounded with anticipation.”"
+    ],
+    "2211:text": [
+      "Shoji Arai"
+    ],
+    "2212:text": [
+      "“That's when it happened.”"
+    ],
+    "2214:text": [
+      "Hiromi Mashita"
+    ],
+    "2215:text": [
+      "“Aah!”"
+    ],
+    "2217:text": [
+      "Shoji Arai"
+    ],
+    "2218:text": [
+      "“Mashita suddenly screamed, and Aizawa turned to look."
+    ],
+    "2219:text": [
+      "Kuwabatake, whom he'd thought was out cold,"
+    ],
+    "2220:text": [
+      "had his big hand wrapped around Mashita's arm.”"
+    ],
+    "2222:text": [
+      "Hiromi Mashita"
+    ],
+    "2223:text": [
+      "“L-Let go!”"
+    ],
+    "2225:text": [
+      "Shoji Arai"
+    ],
+    "2226:text": [
+      "“In a panic, Mashita tried to shake off his hand,"
+    ],
+    "2227:text": [
+      "but he had such a tight grip on her arm"
+    ],
+    "2228:text": [
+      "that she couldn't pull free."
+    ],
+    "2229:text": [
+      "Aizawa reached out to wrench Kuwabatake's hand"
+    ],
+    "2230:text": [
+      "off her arm, but before he could reach them,"
+    ],
+    "2231:text": [
+      "she and Kuwabatake vanished"
+    ],
+    "2232:text": [
+      "right in front of him."
+    ],
+    "2233:text": [
+      "And in the next instant came the sound"
+    ],
+    "2234:text": [
+      "he'd been so eager to hear..."
+    ],
+    "2239:text": [
+      "Aizawa hurried down the stairs."
+    ],
+    "2240:text": [
+      "It was after school and nobody was around,"
+    ],
+    "2241:text": [
+      "so there was no one to come running or raise the alarm."
+    ],
+    "2247:text": [
+      "By the time Aizawa got there,"
+    ],
+    "2248:text": [
+      "Kuwabatake and Mashita lay limp and motionless,"
+    ],
+    "2249:text": [
+      "with a pool of blood around them"
+    ],
+    "2250:text": [
+      "that had already spread quite far."
+    ],
+    "2252:text": [
+      "Aizawa rushed"
+    ],
+    "2253:text": [
+      "to her side."
+    ],
+    "2254:text": [
+      "He'd noticed"
+    ],
+    "2255:text": [
+      "her mouth moving ever so slightly."
+    ],
+    "2256:text": [
+      "Her lips moved as if she was trying to tell him something."
+    ],
+    "2257:text": [
+      "Aizawa leaned in, his ear close to her mouth.”"
+    ],
+    "2276:text": [
+      "Shoji Arai"
+    ],
+    "2277:text": [
+      "“That's right."
+    ],
+    "2278:text": [
+      "The more Mashita talked to Aizawa,"
+    ],
+    "2279:text": [
+      "the more she wanted to know the same thing he did."
+    ],
+    "2280:text": [
+      "If someone jumped off the roof,"
+    ],
+    "2281:text": [
+      "would they die?"
+    ],
+    "2282:text": [
+      "After she said she'd be his accomplice, Aizawa"
+    ],
+    "2283:text": [
+      "asked her this.”"
+    ],
+    "2293:text": [
+      "Shoji Arai"
+    ],
+    "2294:text": [
+      "“That's when it happened.”"
+    ],
+    "2296:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "2297:text": [
+      "“Aaah!”"
+    ],
+    "2299:text": [
+      "Shoji Arai"
+    ],
+    "2300:text": [
+      "“Kuwabatake, whom Aizawa had thought was out cold,"
+    ],
+    "2301:text": [
+      "had his big hand wrapped around Aizawa's arm.”"
+    ],
+    "2303:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "2304:text": [
+      "“L-Let go!”"
+    ],
+    "2306:text": [
+      "Shoji Arai"
+    ],
+    "2307:text": [
+      "“In a panic, Aizawa tried to shake off his hand,"
+    ],
+    "2308:text": [
+      "but Kuwabatake's grip was stronger than he'd expected"
+    ],
+    "2309:text": [
+      "and he couldn't pull free."
+    ],
+    "2311:text": [
+      "As Aizawa struggled, gravity took hold of Kuwabatake,"
+    ],
+    "2312:text": [
+      "who'd already slipped halfway over. He dragged Aizawa"
+    ],
+    "2313:text": [
+      "over the railing with him,"
+    ],
+    "2314:text": [
+      "and down they fell."
+    ],
+    "2315:text": [
+      "Aizawa's scream rang out."
+    ],
+    "2316:text": [
+      "And that answered the question."
+    ],
+    "2317:text": [
+      "Aizawa didn't survive.”"
+    ],
+    "2327:text": [
+      "Shoji Arai"
+    ],
+    "2328:text": [
+      "“Well, who can say...?"
+    ],
+    "2329:text": [
+      "But you can't rule it out, can you?"
+    ],
+    "2330:text": [
+      "I think that's one way to look at it."
+    ],
+    "2331:text": [
+      "After she said she'd be his accomplice, Aizawa"
+    ],
+    "2332:text": [
+      "asked her this.”"
+    ],
+    "2341:text": [
+      "Shoji Arai"
+    ],
+    "2342:text": [
+      "“And just like that, Kuwabatake slipped"
+    ],
+    "2343:text": [
+      "over the railing and fell."
+    ],
+    "2349:text": [
+      "The two of them hurried down the stairs."
+    ],
+    "2350:text": [
+      "Luckily, it was after school and nobody was around."
+    ],
+    "2351:text": [
+      "There was no one to come running"
+    ],
+    "2352:text": [
+      "or raise the alarm."
+    ],
+    "2354:text": [
+      "By the time they got there, Kuwabatake was lying"
+    ],
+    "2355:text": [
+      "limp and motionless, with a large pool of blood"
+    ],
+    "2356:text": [
+      "already spread around him."
+    ],
+    "2357:text": [
+      "They watched closely for a while,"
+    ],
+    "2358:text": [
+      "but Kuwabatake showed no sign of moving."
+    ],
+    "2360:text": [
+      "When they gingerly touched him,"
+    ],
+    "2361:text": [
+      "his body was already cold.”"
+    ],
+    "2363:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "2364:text": [
+      "“...He really is dead.”"
+    ],
+    "2366:text": [
+      "Hiromi Mashita"
+    ],
+    "2367:text": [
+      "“Yes, he's dead.”"
+    ],
+    "2369:text": [
+      "Shoji Arai"
+    ],
+    "2370:text": [
+      "“They looked at each other"
+    ],
+    "2371:text": [
+      "and smiled, satisfied."
+    ],
+    "2372:text": [
+      "Now that he had his answer, the knot in his chest was gone."
+    ],
+    "2373:text": [
+      "Relieved, Aizawa slept soundly that night"
+    ],
+    "2374:text": [
+      "for the first time in a long while."
+    ],
+    "2380:text": [
+      "Word of Kuwabatake's death spread quickly around school."
+    ],
+    "2381:text": [
+      "The police came in to investigate,"
+    ],
+    "2382:text": [
+      "but their investigation never led"
+    ],
+    "2383:text": [
+      "to Aizawa or Mashita."
+    ],
+    "2385:text": [
+      "Pushing Kuwabatake off the roof should have been enough"
+    ],
+    "2386:text": [
+      "to satisfy Aizawa. Then the knot in his chest"
+    ],
+    "2387:text": [
+      "started to come back."
+    ],
+    "2389:text": [
+      "‘Does a fall like that always kill someone?"
+    ],
+    "2390:text": [
+      "What if he'd just happened to die?"
+    ],
+    "2391:text": [
+      "Maybe it was the chloroform"
+    ],
+    "2392:text": [
+      "that killed him."
+    ],
+    "2393:text": [
+      "If he'd been conscious then,"
+    ],
+    "2394:text": [
+      "might he have survived?’"
+    ],
+    "2396:text": [
+      "Once a question takes hold, that knot stays with you"
+    ],
+    "2397:text": [
+      "until you find out for sure."
+    ],
+    "2398:text": [
+      "Aizawa asked Mashita to join him"
+    ],
+    "2399:text": [
+      "in another experiment."
+    ],
+    "2401:text": [
+      "Again and again and again and again... They tried"
+    ],
+    "2402:text": [
+      "all sorts of things. Each time, it just raised"
+    ],
+    "2403:text": [
+      "another question."
+    ],
+    "2404:text": [
+      "Aizawa knew it was dangerous to go any further,"
+    ],
+    "2405:text": [
+      "but he couldn't stop."
+    ],
+    "2407:text": [
+      "When Mashita saw what was happening to him,"
+    ],
+    "2408:text": [
+      "she felt it had gone too far. She asked him"
+    ],
+    "2409:text": [
+      "to stop."
+    ],
+    "2410:text": [
+      "Aizawa was growing frustrated. The knot in his chest"
+    ],
+    "2411:text": [
+      "showed no sign of going away, and he heard her words"
+    ],
+    "2412:text": [
+      "as a betrayal."
+    ],
+    "2414:text": [
+      "On impulse, he started strangling her."
+    ],
+    "2415:text": [
+      "She resisted, but the difference in strength between a man"
+    ],
+    "2416:text": [
+      "and a woman was obvious. She passed out in no time."
+    ],
+    "2417:text": [
+      "Looking down at her limp body,"
+    ],
+    "2418:text": [
+      "Aizawa had a thought."
+    ],
+    "2419:text": [
+      "‘Maybe she could make this knot in my chest"
+    ],
+    "2420:text": [
+      "go away...’"
+    ],
+    "2424:text": [
+      "With that in mind, Aizawa carried her on his back"
+    ],
+    "2425:text": [
+      "up to the roof."
+    ],
+    "2426:text": [
+      "He took a look down over the railing."
+    ],
+    "2427:text": [
+      "The height still made him dizzy."
+    ],
+    "2428:text": [
+      "‘It's always ended the same way... But surely,"
+    ],
+    "2429:text": [
+      "if it's her...’”"
+    ],
+    "2431:text": [
+      "Hiromi Mashita"
+    ],
+    "2432:text": [
+      "“Shall we jump together?”"
+    ],
+    "2434:text": [
+      "Shoji Arai"
+    ],
+    "2435:text": [
+      "“Who knows when she'd come to? Still on his back,"
+    ],
+    "2436:text": [
+      "Mashita whispered right in Aizawa's ear."
+    ],
+    "2437:text": [
+      "Maybe that was what Aizawa"
+    ],
+    "2438:text": [
+      "had been waiting for."
+    ],
+    "2439:text": [
+      "He gave a little nod at her whisper. At that same instant,"
+    ],
+    "2440:text": [
+      "he was over the railing."
+    ],
+    "2442:text": [
+      "Aizawa's scream sounded almost like a battle cry."
+    ],
+    "2443:text": [
+      "It echoed all around."
+    ],
+    "2444:text": [
+      "People came running at the sound. They found"
+    ],
+    "2445:text": [
+      "Aizawa lying"
+    ],
+    "2446:text": [
+      "in a pool of blood."
+    ],
+    "2448:text": [
+      "There was no sign"
+    ],
+    "2449:text": [
+      "of Mashita."
+    ],
+    "2454:text": [
+      "Aizawa was taken to the hospital,"
+    ],
+    "2455:text": [
+      "where he died, or so I heard."
+    ],
+    "2457:text": [
+      "But in his last moments, barely able to breathe,"
+    ],
+    "2458:text": [
+      "he apparently talked about Mashita."
+    ],
+    "2459:text": [
+      "‘She fell with me. She pushed me...’"
+    ],
+    "2460:text": [
+      "That's what he said."
+    ],
+    "2461:text": [
+      "The police heard his story and searched the school,"
+    ],
+    "2462:text": [
+      "but there was no such girl there."
+    ],
+    "2472:text": [
+      "So who exactly was Hiromi Mashita?"
+    ],
+    "2473:text": [
+      "I think she was a spirit"
+    ],
+    "2474:text": [
+      "that had made its home on that roof."
+    ],
+    "2476:text": [
+      "Maybe she's been luring people up there."
+    ],
+    "2477:text": [
+      "Maybe that's why she used Aizawa"
+    ],
+    "2478:text": [
+      "to take so many lives."
+    ],
+    "2479:text": [
+      "And when she decided Aizawa had"
+    ],
+    "2480:text": [
+      "outlived his usefulness, she finally took his life."
+    ],
+    "2481:text": [
+      "That's what I think... Well, that's the end"
+    ],
+    "2482:text": [
+      "of my story."
+    ],
+    "2504:text": [
+      "Shoji Arai"
+    ],
+    "2505:text": [
+      "“That makes sense."
+    ],
+    "2506:text": [
+      "That's what brought her and Aizawa together"
+    ],
+    "2507:text": [
+      "in the first place..."
+    ],
+    "2508:text": [
+      "After she said she'd be his accomplice, Aizawa"
+    ],
+    "2509:text": [
+      "asked her this.”"
+    ],
+    "2519:text": [
+      "Shoji Arai"
+    ],
+    "2520:text": [
+      "“And just like that, Kuwabatake slipped"
+    ],
+    "2521:text": [
+      "over the railing and fell."
+    ],
+    "2526:text": [
+      "The two of them hurried down the stairs."
+    ],
+    "2527:text": [
+      "Luckily, it was after school and nobody was around."
+    ],
+    "2528:text": [
+      "There was no one to come running"
+    ],
+    "2529:text": [
+      "or raise the alarm."
+    ],
+    "2533:text": [
+      "By the time Aizawa got there, Kuwabatake was lying"
+    ],
+    "2534:text": [
+      "limp and motionless, with a large pool of blood"
+    ],
+    "2535:text": [
+      "already spread around him."
+    ],
+    "2536:text": [
+      "They watched closely for a while,"
+    ],
+    "2537:text": [
+      "but Kuwabatake showed no sign of moving."
+    ],
+    "2539:text": [
+      "When they gingerly touched him,"
+    ],
+    "2540:text": [
+      "his body was already cold.”"
+    ],
+    "2542:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "2543:text": [
+      "“...He really is dead.”"
+    ],
+    "2545:text": [
+      "Hiromi Mashita"
+    ],
+    "2546:text": [
+      "“Yes, he's dead.”"
+    ],
+    "2548:text": [
+      "Shoji Arai"
+    ],
+    "2549:text": [
+      "“They looked at each other"
+    ],
+    "2550:text": [
+      "and smiled, satisfied."
+    ],
+    "2551:text": [
+      "Now that he had his answer, the knot in his chest was gone."
+    ],
+    "2552:text": [
+      "Relieved, Aizawa slept soundly that night"
+    ],
+    "2553:text": [
+      "for the first time in a long while."
+    ],
+    "2559:text": [
+      "Word of Kuwabatake's death spread quickly around school."
+    ],
+    "2560:text": [
+      "The police came in to investigate,"
+    ],
+    "2561:text": [
+      "but their investigation never led"
+    ],
+    "2562:text": [
+      "to Aizawa or Mashita."
+    ],
+    "2564:text": [
+      "Aizawa was satisfied with the result, yet he kept"
+    ],
+    "2565:text": [
+      "meeting Mashita even after that."
+    ],
+    "2566:text": [
+      "Seeing her had become something"
+    ],
+    "2567:text": [
+      "he looked forward to."
+    ],
+    "2570:text": [
+      "The roof had been closed off since Kuwabatake died,"
+    ],
+    "2571:text": [
+      "but they'd secretly made a duplicate key"
+    ],
+    "2572:text": [
+      "and used it to sneak up there."
+    ],
+    "2573:text": [
+      "Their time alone together was becoming"
+    ],
+    "2574:text": [
+      "something they wouldn't trade for anything."
+    ],
+    "2576:text": [
+      "Then one day, Mashita leaned against"
+    ],
+    "2577:text": [
+      "the railing and said how beautiful the sky was."
+    ],
+    "2578:text": [
+      "That drew Aizawa over to the railing, too."
+    ],
+    "2580:text": [
+      "They usually stayed back from the railing to avoid"
+    ],
+    "2581:text": [
+      "being seen by a teacher. But with no one around after"
+    ],
+    "2582:text": [
+      "school and a sunset that beautiful, he leaned on the rail..."
+    ],
+    "2583:text": [
+      "Aizawa agreed with her. It really was"
+    ],
+    "2584:text": [
+      "a beautiful sunset.”"
+    ],
+    "2586:text": [
+      "Hiromi Mashita"
+    ],
+    "2587:text": [
+      "“It's the same color as the blood that day, isn't it?”"
+    ],
+    "2589:text": [
+      "Shoji Arai"
+    ],
+    "2590:text": [
+      "“Before Aizawa could make sense of what Mashita"
+    ],
+    "2591:text": [
+      "had said, she'd already pushed him over"
+    ],
+    "2592:text": [
+      "the railing."
+    ],
+    "2597:text": [
+      "It all happened in an instant."
+    ],
+    "2598:text": [
+      "Aizawa died in a pool of his own blood,"
+    ],
+    "2599:text": [
+      "just as Kuwabatake had that day."
+    ],
+    "2601:text": [
+      "The police arrested her afterward."
+    ],
+    "2602:text": [
+      "Apparently, this is what she told them."
+    ],
+    "2603:text": [
+      "‘I couldn't forget how red the blood was that day."
+    ],
+    "2604:text": [
+      "I wanted to see that red again."
+    ],
+    "2605:text": [
+      "It didn't have to be him... Anybody would've done.’"
+    ],
+    "2615:text": [
+      "It took just one experiment for her to find pleasure"
+    ],
+    "2616:text": [
+      "in how red blood was and how fragile people were."
+    ],
+    "2617:text": [
+      "She couldn't hold that feeling back anymore,"
+    ],
+    "2618:text": [
+      "so she pushed Aizawa off."
+    ],
+    "2620:text": [
+      "But can we really say it was"
+    ],
+    "2621:text": [
+      "her fault?"
+    ],
+    "2622:text": [
+      "The soil around the school building had acquired"
+    ],
+    "2623:text": [
+      "a taste for people."
+    ],
+    "2624:text": [
+      "Maybe the soil wanted to taste blood again"
+    ],
+    "2625:text": [
+      "and that's why it tempted her"
+    ],
+    "2626:text": [
+      "...That's what I think."
+    ],
+    "2628:text": [
+      "If you ever come to my school, please stay"
+    ],
+    "2629:text": [
+      "off the roof."
+    ],
+    "2630:text": [
+      "That soil has already claimed two victims."
+    ],
+    "2631:text": [
+      "And if it remembers the taste of their blood..."
+    ],
+    "2632:text": [
+      "I wouldn't be surprised if there were"
+    ],
+    "2633:text": [
+      "a third victim any day now."
+    ],
+    "2634:text": [
+      "...That's the end of my story."
+    ],
+    "2657:text": [
+      "Hiromi Mashita"
+    ],
+    "2658:text": [
+      "“It felt good.”"
+    ],
+    "2660:text": [
+      "Shoji Arai"
+    ],
+    "2661:text": [
+      "“They say those were her last words."
+    ],
+    "2662:text": [
+      "She died right after saying them, too."
+    ],
+    "2667:text": [
+      "The next day, their deaths were all the school talked about."
+    ],
+    "2668:text": [
+      "The two of them had nothing in common, so people speculated"
+    ],
+    "2669:text": [
+      "about a murder-suicide and all sorts of other things."
+    ],
+    "2671:text": [
+      "But Aizawa showed no interest"
+    ],
+    "2672:text": [
+      "in any of it."
+    ],
+    "2673:text": [
+      "He could think only of her last words."
+    ],
+    "2674:text": [
+      "She'd fallen from the roof and said, ‘It felt good.’"
+    ],
+    "2675:text": [
+      "He couldn't get it out of his head."
+    ],
+    "2676:text": [
+      "Something inside Aizawa changed"
+    ],
+    "2677:text": [
+      "right then."
+    ],
+    "2679:text": [
+      "He no longer cared whether someone would live or die"
+    ],
+    "2680:text": [
+      "after falling off the roof."
+    ],
+    "2681:text": [
+      "Her words ate at him until he could think of nothing else."
+    ],
+    "2682:text": [
+      "He buried his head in his hands and agonized over it."
+    ],
+    "2684:text": [
+      "Neither Kuwabatake nor Mashita had survived"
+    ],
+    "2685:text": [
+      "the fall from the roof."
+    ],
+    "2686:text": [
+      "Dropping anyone else would surely end the same way."
+    ],
+    "2687:text": [
+      "That left Aizawa with only one conclusion"
+    ],
+    "2688:text": [
+      "to draw."
+    ],
+    "2692:text": [
+      "He was up on the roof."
+    ],
+    "2693:text": [
+      "He easily climbed over the low railing,"
+    ],
+    "2694:text": [
+      "then launched himself into the air"
+    ],
+    "2695:text": [
+      "without a moment's hesitation."
+    ],
+    "2697:text": [
+      "Aizawa's body was found"
+    ],
+    "2698:text": [
+      "by another student."
+    ],
+    "2699:text": [
+      "The deaths sent the school staff into a panic,"
+    ],
+    "2700:text": [
+      "but it didn't seem real to the other students,"
+    ],
+    "2701:text": [
+      "and once again all they did was swap rumors."
+    ],
+    "2703:text": [
+      "Apparently, the student who found Aizawa's body"
+    ],
+    "2704:text": [
+      "said he'd had an awfully satisfied look"
+    ],
+    "2705:text": [
+      "on his face."
+    ],
+    "2706:text": [
+      "He must have felt the same thing"
+    ],
+    "2707:text": [
+      "she did."
+    ],
+    "2718:text": [
+      "Looking down from a rooftop feels wonderful,"
+    ],
+    "2719:text": [
+      "don't you think?"
+    ],
+    "2720:text": [
+      "Don't you think it might feel good"
+    ],
+    "2721:text": [
+      "to jump?"
+    ],
+    "2723:text": [
+      "I'm sure it feels good."
+    ],
+    "2724:text": [
+      "But please, be careful."
+    ],
+    "2725:text": [
+      "You only get one life."
+    ],
+    "2726:text": [
+      "Is a moment of pleasure worth throwing it away?"
+    ],
+    "2727:text": [
+      "Think carefully about that."
+    ],
+    "2728:text": [
+      "Though maybe there's more pleasure in it"
+    ],
+    "2729:text": [
+      "than in going on living"
+    ],
+    "2730:text": [
+      "a life that tastes like sand..."
+    ],
+    "2731:text": [
+      "That's the end of my story."
+    ],
+    "2747:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "2748:text": [
+      "“Aaah!”"
+    ],
+    "2750:text": [
+      "Shoji Arai"
+    ],
+    "2751:text": [
+      "“Aizawa thought she could barely breathe,"
+    ],
+    "2752:text": [
+      "but she suddenly bit down on his ear."
+    ],
+    "2754:text": [
+      "No matter how hard he struggled,"
+    ],
+    "2755:text": [
+      "her teeth stayed sunk in his ear."
+    ],
+    "2756:text": [
+      "He kept struggling desperately until he finally broke free."
+    ],
+    "2757:text": [
+      "With blood dripping from his ear, he clamped a hand over it"
+    ],
+    "2758:text": [
+      "and ran from the scene."
+    ],
+    "2760:text": [
+      "He crawled into bed and couldn't stop shaking."
+    ],
+    "2761:text": [
+      "All he could do was lie there and wait for morning."
+    ],
+    "2767:text": [
+      "The next day, all anyone at school could talk about"
+    ],
+    "2768:text": [
+      "was the deaths of Kuwabatake and Mashita."
+    ],
+    "2769:text": [
+      "The two had nothing in common, yet the way they died"
+    ],
+    "2770:text": [
+      "looked like a suicide pact. The gossips had plenty of theories,"
+    ],
+    "2771:text": [
+      "but Aizawa paid them"
+    ],
+    "2772:text": [
+      "no attention at all."
+    ],
+    "2774:text": [
+      "He couldn't stop thinking about the ear"
+    ],
+    "2775:text": [
+      "she'd bitten the day before."
+    ],
+    "2776:text": [
+      "He couldn't hide the wound, so he covered it with gauze,"
+    ],
+    "2777:text": [
+      "but... he could hear a voice coming from the ear she'd bitten."
+    ],
+    "2778:text": [
+      "The voice was thin and faint. He thought the throbbing"
+    ],
+    "2779:text": [
+      "from the wound might just be making him imagine it,"
+    ],
+    "2780:text": [
+      "but as time passed, the voice"
+    ],
+    "2782:text": [
+      "became clearer and clearer."
+    ],
+    "2786:text": [
+      "Then, in the middle of class, Aizawa suddenly let out"
+    ],
+    "2787:text": [
+      "an incomprehensible shriek and raced straight up to the roof."
+    ],
+    "2788:text": [
+      "The door was supposed to be locked,"
+    ],
+    "2789:text": [
+      "yet he jumped from the roof."
+    ],
+    "2791:text": [
+      "Students who saw Aizawa running and crying out"
+    ],
+    "2792:text": [
+      "said they heard him say, ‘We'll see each other soon,’"
+    ],
+    "2793:text": [
+      "‘I'm coming now,’ ‘I'm sorry,’"
+    ],
+    "2794:text": [
+      "and things like that."
+    ],
+    "2796:text": [
+      "Maybe it was Mashita"
+    ],
+    "2797:text": [
+      "who called him. ...That's the end of my story."
+    ],
+    "2829:text": [
+      "Shoji Arai"
+    ],
+    "2830:text": [
+      "“Aizawa had something"
+    ],
+    "2831:text": [
+      "he'd prepared for this day."
+    ],
+    "2832:text": [
+      "A stun gun."
+    ],
+    "2833:text": [
+      "He'd found one online"
+    ],
+    "2834:text": [
+      "and ordered it ahead of time."
+    ],
+    "2836:text": [
+      "Aizawa got his friend to meet him, then ambushed them"
+    ],
+    "2837:text": [
+      "from behind and pressed the stun gun"
+    ],
+    "2838:text": [
+      "against the back of their neck.”"
+    ],
+    "2840:text": [
+      "Friend"
+    ],
+    "2841:text": [
+      "“Aah!”"
+    ],
+    "2843:text": [
+      "Shoji Arai"
+    ],
+    "2844:text": [
+      "“His friend let out a small scream. Their eyes rolled back"
+    ],
+    "2845:text": [
+      "and they collapsed."
+    ],
+    "2847:text": [
+      "Aizawa smiled, looking satisfied. He stuffed"
+    ],
+    "2848:text": [
+      "his guinea pig into the burlap sack he had ready"
+    ],
+    "2849:text": [
+      "and hauled it all the way to school."
+    ],
+    "2852:text": [
+      "He slipped into the school in the middle of the night"
+    ],
+    "2853:text": [
+      "and made his way to the roof in silence."
+    ],
+    "2854:text": [
+      "The door was locked, of course."
+    ],
+    "2855:text": [
+      "He broke the lock with pliers and a hammer,"
+    ],
+    "2856:text": [
+      "and a sudden gust rushed in and hit him full on."
+    ],
+    "2859:text": [
+      "‘I never knew being at school at night"
+    ],
+    "2860:text": [
+      "could feel this good.’"
+    ],
+    "2861:text": [
+      "With that thought, he took a deep breath"
+    ],
+    "2862:text": [
+      "and dragged the burlap sack"
+    ],
+    "2863:text": [
+      "out onto the roof.”"
+    ],
+    "2865:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "2866:text": [
+      "“......I've never been at school at night before.”"
+    ],
+    "2868:text": [
+      "Shoji Arai"
+    ],
+    "2869:text": [
+      "“Aizawa tossed the sack into a corner of the roof"
+    ],
+    "2870:text": [
+      "and walked over to the railing"
+    ],
+    "2871:text": [
+      "to take in the view.”"
+    ],
+    "2875:text": [
+      "Kurumi Kojiyama"
+    ],
+    "2876:text": [
+      "“Yay! We made it! We made it!”"
+    ],
+    "2878:text": [
+      "Shoji Arai"
+    ],
+    "2879:text": [
+      "“Suddenly, he heard a little girl's voice"
+    ],
+    "2880:text": [
+      "from down below."
+    ],
+    "2881:text": [
+      "Then he heard several voices, both male and female,"
+    ],
+    "2882:text": [
+      "as if they were answering her.”"
+    ],
+    "2884:text": [
+      "Hikomaro Kojiyama"
+    ],
+    "2885:text": [
+      "“Now, Kurumi, keep your voice down."
+    ],
+    "2886:text": [
+      "You're spoiling the mood.”"
+    ],
+    "2888:text": [
+      "Kyoka Kojiyama"
+    ],
+    "2889:text": [
+      "“Now, now, Dad, there's no need"
+    ],
+    "2890:text": [
+      "to get so worked up."
+    ],
+    "2891:text": [
+      "And Kurumi, let's try to be a little quieter, okay?”"
+    ],
+    "2893:text": [
+      "Kurumi Kojiyama"
+    ],
+    "2894:text": [
+      "“Okaaay! I got iiit! Ahahahaha"
+    ],
+    "2895:text": [
+      "hahaha!”"
+    ],
+    "2897:text": [
+      "Hikokiyo Kojiyama"
+    ],
+    "2898:text": [
+      "“Mom, Kurumi doesn't get it at all.”"
+    ],
+    "2900:text": [
+      "Shoji Arai"
+    ],
+    "2901:text": [
+      "“From the way they talked, it sounded"
+    ],
+    "2902:text": [
+      "like a family."
+    ],
+    "2903:text": [
+      "But what was a family doing at the school"
+    ],
+    "2904:text": [
+      "in the middle of the night?"
+    ],
+    "2905:text": [
+      "Aizawa was puzzled, but with the family down there,"
+    ],
+    "2906:text": [
+      "he couldn't carry out his experiment."
+    ],
+    "2907:text": [
+      "Just as Aizawa was wondering what to do,"
+    ],
+    "2908:text": [
+      "the family down below said"
+    ],
+    "2909:text": [
+      "something he hadn't expected.”"
+    ],
+    "2911:text": [
+      "Kurumi Kojiyama"
+    ],
+    "2912:text": [
+      "“Hey, hey, when do we get to see"
+    ],
+    "2913:text": [
+      "someone jump to their death?”"
+    ],
+    "2915:text": [
+      "Kyoka Kojiyama"
+    ],
+    "2916:text": [
+      "“Well, that all comes down to luck."
+    ],
+    "2917:text": [
+      "We might not get to see anyone"
+    ],
+    "2918:text": [
+      "jump tonight.”"
+    ],
+    "2920:text": [
+      "Kurumi Kojiyama"
+    ],
+    "2921:text": [
+      "“Whaaat?! No, no, no!"
+    ],
+    "2922:text": [
+      "I wanna see someone jump already!”"
+    ],
+    "2924:text": [
+      "Hikokiyo Kojiyama"
+    ],
+    "2925:text": [
+      "“Kurumi, you've been acting like a brat"
+    ],
+    "2926:text": [
+      "this whole time, you know that?”"
+    ],
+    "2928:text": [
+      "Hikomaro Kojiyama"
+    ],
+    "2929:text": [
+      "“Now, now, we've got plenty of time."
+    ],
+    "2930:text": [
+      "Why don't we have some tea"
+    ],
+    "2931:text": [
+      "and take our time waiting?"
+    ],
+    "2932:text": [
+      "We came all this way. Let's all pray"
+    ],
+    "2933:text": [
+      "that someone will jump for us.”"
+    ],
+    "2935:text": [
+      "Kyoka Kojiyama"
+    ],
+    "2936:text": [
+      "“Yes, let's pray.”"
+    ],
+    "2938:text": [
+      "Shoji Arai"
+    ],
+    "2939:text": [
+      "“What is with this family?!"
+    ],
+    "2940:text": [
+      "Aizawa was stunned by the conversation"
+    ],
+    "2941:text": [
+      "going on below."
+    ],
+    "2942:text": [
+      "Had they really come here to watch"
+    ],
+    "2943:text": [
+      "someone jump off the roof?"
+    ],
+    "2944:text": [
+      "Judging by what he'd heard, he couldn't see"
+    ],
+    "2945:text": [
+      "what else they'd be there for."
+    ],
+    "2947:text": [
+      "Without thinking, Aizawa quietly peered"
+    ],
+    "2948:text": [
+      "down over the railing."
+    ],
+    "2949:text": [
+      "It was too dark to see them clearly,"
+    ],
+    "2950:text": [
+      "but he could make out four figures, big and small,"
+    ],
+    "2951:text": [
+      "looking up at the roof."
+    ],
+    "2952:text": [
+      "One of the figures spotted him right away"
+    ],
+    "2953:text": [
+      "and called out.”"
+    ],
+    "2955:text": [
+      "Kurumi Kojiyama"
+    ],
+    "2956:text": [
+      "“Oh! There's somebody up on the roof!"
+    ],
+    "2957:text": [
+      "Heeey! Hey up there! Ahahahahaha!”"
+    ],
+    "2959:text": [
+      "Kyoka Kojiyama"
+    ],
+    "2960:text": [
+      "“Kurumi! You keep quiet now."
+    ],
+    "2961:text": [
+      "Excuse us! Please, don't mind us."
+    ],
+    "2962:text": [
+      "Feel free to go right ahead and jump!”"
+    ],
+    "2964:text": [
+      "Shoji Arai"
+    ],
+    "2965:text": [
+      "“The woman hushed the little girl"
+    ],
+    "2966:text": [
+      "and called up to Aizawa."
+    ],
+    "2967:text": [
+      "Who on earth were they? He'd never imagined"
+    ],
+    "2968:text": [
+      "anyone else would be this interested in people"
+    ],
+    "2969:text": [
+      "jumping to their deaths..."
+    ],
+    "2971:text": [
+      "No, this family took it even further."
+    ],
+    "2972:text": [
+      "Aizawa had been so distracted by the family below"
+    ],
+    "2973:text": [
+      "that he'd forgotten all about the guinea pig in his sack."
+    ],
+    "2975:text": [
+      "In the dark, they couldn't tell who he was."
+    ],
+    "2976:text": [
+      "Why not just go ahead with the experiment?"
+    ],
+    "2977:text": [
+      "But then... The sack had gone completely flat,"
+    ],
+    "2978:text": [
+      "like the air had been let out of it."
+    ],
+    "2979:text": [
+      "While he was distracted by the family below,"
+    ],
+    "2980:text": [
+      "his guinea pig had come to and escaped.”"
+    ],
+    "2982:text": [
+      "Nobuhiko Aizawa"
+    ],
+    "2983:text": [
+      "“Aaaaaaaah!!”"
+    ],
+    "2985:text": [
+      "Shoji Arai"
+    ],
+    "2986:text": [
+      "“Aizawa screamed in frustration and anguish.”"
+    ],
+    "2988:text": [
+      "Kurumi Kojiyama"
+    ],
+    "2989:text": [
+      "“Ahahahaha! He's yelling!”"
+    ],
+    "2991:text": [
+      "Kyoka Kojiyama"
+    ],
+    "2992:text": [
+      "“He's probably psyching himself up. Let's keep quiet"
+    ],
+    "2993:text": [
+      "so we don't disturb him.”"
+    ],
+    "2995:text": [
+      "Shoji Arai"
+    ],
+    "2996:text": [
+      "“He could hear the family's voices below."
+    ],
+    "2997:text": [
+      "They sounded delighted."
+    ],
+    "2998:text": [
+      "He glanced down and saw something"
+    ],
+    "2999:text": [
+      "like an ant running across the schoolyard."
+    ],
+    "3001:text": [
+      "It was the guinea pig who'd escaped the sack."
+    ],
+    "3002:text": [
+      "By then, there was little chance"
+    ],
+    "3003:text": [
+      "he could catch up if he went after them."
+    ],
+    "3005:text": [
+      "That's when Aizawa heard a voice"
+    ],
+    "3006:text": [
+      "calling out amid the wind."
+    ],
+    "3007:text": [
+      "He glanced down. The earth was beckoning to him."
+    ],
+    "3008:text": [
+      "It looked as though it lay in wait,"
+    ],
+    "3009:text": [
+      "its mouth wide open for its prey to fall in."
+    ],
+    "3011:text": [
+      "After all, this soil had drunk"
+    ],
+    "3012:text": [
+      "the blood of three people."
+    ],
+    "3013:text": [
+      "No wonder the soil had acquired a taste"
+    ],
+    "3014:text": [
+      "for blood."
+    ],
+    "3016:text": [
+      "The four shadows, too, could hardly wait"
+    ],
+    "3017:text": [
+      "for him to fall."
+    ],
+    "3019:text": [
+      "Aizawa put his hand on the railing."
+    ],
+    "3020:text": [
+      "Then he leaned farther out and stared"
+    ],
+    "3021:text": [
+      "at the ground lying in wait below.”"
+    ],
+    "3031:glink.text.1": [
+      "1. Jump"
+    ],
+    "3033:glink.text.1": [
+      "1. Jump"
+    ],
+    "3037:glink.text.1": [
+      "2. Back out"
+    ],
+    "3040:glink.text.1": [
+      "2. Back out"
+    ],
+    "3086:text": [
+      "Whose turn is it next?”"
+    ],
+    "3096:text": [
+      "It seems our seventh storyteller"
+    ],
+    "3097:text": [
+      "still hasn't arrived..."
+    ],
+    "3098:text": [
+      "What will you do, ",
+      "...?”"
+    ],
+    "3108:text": [
+      "It seems we still have that man's story to hear..."
+    ],
+    "3109:text": [
+      "Kazama, was it?"
+    ],
+    "3110:text": [
+      "I wonder what sort of scary story a man who seems"
+    ],
+    "3111:text": [
+      "so frivolous would tell... Well, I can't say I'm especially interested"
+    ],
+    "3112:text": [
+      "myself.”"
+    ],
+    "3122:text": [
+      "It seems he's the only one"
+    ],
+    "3123:text": [
+      "left now."
+    ],
+    "3124:text": [
+      "He said his name was Shindo, I believe."
+    ],
+    "3125:text": [
+      "I wonder what sort of story he'll tell us"
+    ],
+    "3126:text": [
+      "...”"
+    ],
+    "3136:text": [
+      "It looks as though that woman is the only one"
+    ],
+    "3137:text": [
+      "left now."
+    ],
+    "3138:text": [
+      "Iwashita... was that her name?"
+    ],
+    "3139:text": [
+      "Shall we hear her story, then...?”"
+    ],
+    "3149:text": [
+      "The one who's left is... that rather wide fellow,"
+    ],
+    "3150:text": [
+      "isn't it?"
+    ],
+    "3151:text": [
+      "He said his name was Hosoda, I believe."
+    ],
+    "3152:text": [
+      "They say names suit the people who bear them..."
+    ],
+    "3153:text": [
+      "His means ‘narrow field,’ though, and somehow"
+    ],
+    "3154:text": [
+      "I don't think it suits him.”"
+    ],
+    "3165:text": [
+      "The only person we haven't heard from"
+    ],
+    "3166:text": [
+      "is that girl."
+    ],
+    "3167:text": [
+      "Fukuzawa, was it?"
+    ],
+    "3168:text": [
+      "I do wonder what sort of story she'll tell us"
+    ],
+    "3169:text": [
+      "...”"
+    ]
+  }
+}

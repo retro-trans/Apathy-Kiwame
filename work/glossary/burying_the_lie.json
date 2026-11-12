@@ -1,0 +1,12 @@
+{
+  "language": "en",
+  "scope": "Burying the Lie and recurring setting terms introduced there.",
+  "entries": [
+    {"id": "burying_the_lie", "ja": "嘘の埋葬", "en": "Burying the Lie", "kind": "route title", "sources": ["Steam scenario maisou.ks", "https://w.atwiki.jp/allmiccore/pages/51.html"]},
+    {"id": "kawano", "ja": "川野崇", "reading": "かわの たかし", "en": "Takashi Kawano", "kind": "character", "gender": "male", "role": "Modern Japanese teacher at Narugami Academy", "nicknames": ["Mr. Kawano"], "voice": "Sakagami initially regards him as a good teacher. The route presents the allegations through other characters.", "sources": ["Steam scenario maisou.ks", "https://w.atwiki.jp/allmiccore/pages/270.html"]},
+    {"id": "murder_club", "ja": "殺人クラブ", "en": "Murder Club", "kind": "organization", "sources": ["Steam scenario maisou.ks", "https://w.atwiki.jp/allmiccore/pages/119.html"]},
+    {"id": "mortuary", "ja": "霊安室", "en": "mortuary", "kind": "location", "sources": ["Steam scenario maisou.ks"]},
+    {"id": "funeral_hall", "ja": "斎場", "en": "funeral hall", "kind": "location", "sources": ["Steam scenario maisou.ks"]},
+    {"id": "crematorium", "ja": "火葬場", "en": "crematorium", "kind": "location", "sources": ["Steam scenario maisou.ks"]}
+  ]
+}

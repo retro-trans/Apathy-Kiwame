@@ -1,0 +1,93 @@
+{
+  "status": "draft; English artwork and native fit review pending",
+  "scenario": "data/scenario/hosoda.ks",
+  "canvas": [960, 690],
+  "images": [
+    {
+      "id": "posted-envelope",
+      "source": "hosoda/手紙.jpg",
+      "output": "hosoda-posted-envelope.svg",
+      "source_line": 4588,
+      "preserve_rectangles": [[0, 0, 460, 690], [511, 0, 449, 690], [460, 0, 51, 130], [460, 230, 51, 460]],
+      "erase": [{"rect": [472, 137, 30, 83], "feather": 1.3}],
+      "text": [{"x": 487, "y": 156, "size": 7.6, "line_height": 13, "anchor": "middle", "blur": 0.45, "lines": ["To", "Tomoharu", "Hosoda"]}],
+      "protected": "Entire photograph outside the envelope address patch; preserve tape, paper edge and mirror."
+    },
+    {
+      "id": "letter-close-up",
+      "source": "hosoda/手紙2.jpg",
+      "output": "hosoda-letter-close-up.svg",
+      "clean_plate": "art/hosoda-letter-clean.png",
+      "source_line": 4595,
+      "preserve_polygons": [[[835, 0], [960, 0], [960, 690], [810, 690], [832, 160]]],
+      "clip": [[0, 0], [831, 0], [831, 160], [803, 690], [0, 690]],
+      "erase": [
+        {"rect": [0, 0, 819, 18], "feather": 2},
+        {"rect": [0, 17, 824, 44], "feather": 2},
+        {"rect": [0, 72, 723, 51], "feather": 2},
+        {"rect": [0, 115, 822, 55], "feather": 2},
+        {"rect": [0, 192, 594, 54], "feather": 2},
+        {"rect": [0, 246, 85, 47], "feather": 2},
+        {"rect": [0, 289, 722, 48], "feather": 2},
+        {"rect": [0, 333, 664, 55], "feather": 2},
+        {"rect": [0, 387, 725, 53], "feather": 2},
+        {"rect": [0, 505, 395, 62], "feather": 2},
+        {"rect": [0, 576, 695, 70], "feather": 2}
+      ],
+      "text": [
+        {"x": -190, "y": 4, "size": 30, "lines": ["Koichi Hoshikawa (myself)"]},
+        {"x": -116, "y": 49, "size": 29, "lines": ["if anything happens, in an emergency (in the worst case)"]},
+        {"x": -145, "y": 110, "size": 32, "lines": ["my wallet, bankbook, bank card,"]},
+        {"x": -115, "y": 151, "size": 32, "lines": ["and seal to my mother, Eiko Hoshikawa."]},
+        {"x": -220, "y": 230, "size": 33, "lines": ["my room, near the wall on the left."]},
+        {"x": -180, "y": 278, "size": 32, "lines": ["is my wallet."]},
+        {"x": -180, "y": 328, "size": 32, "lines": ["The bank card is inside it."]},
+        {"x": -215, "y": 372, "size": 32, "lines": ["at the back on the left is a bed,"]},
+        {"x": -200, "y": 430, "size": 32, "lines": ["a small chest of drawers in front of it."]},
+        {"x": -190, "y": 551, "size": 34, "lines": ["a red sticker to mark it."]},
+        {"x": -153, "y": 630, "size": 34, "lines": ["I put it there. They're inside."]}
+      ],
+      "protected": "Original cropped left edge and all pixels beyond the letter-paper polygon, including the overlapping envelope and its shadow.",
+      "review_notes": ["Visible fragments remain incomplete at the left edge; do not reveal the whole letter on this cropped photograph.", "The complete instructions remain in native dialogue. This image covers only the photographed opening and drawer instructions.", "Eiko Hoshikawa is a provisional name reading and must be resolved or explicitly reviewed before shipping."]
+    },
+    {
+      "id": "farewell-envelope",
+      "source": "hosoda/手紙3.jpg",
+      "output": "hosoda-farewell-envelope.svg",
+      "clean_plate": "art/hosoda-envelope-clean.png",
+      "source_line": 4629,
+      "preserve_polygons": [[[650, 0], [947, 123], [924, 159], [622, 36]], [[0, 0], [97, 0], [0, 294]]],
+      "regions": {
+        "letter-left": [[111, 0], [582, 0], [0, 530], [0, 310]],
+        "letter-right": [[960, 202], [960, 690], [668, 690]]
+      },
+      "erase": [
+        {"rect": [491, 152, 139, 99], "feather": 7},
+        {"rect": [423, 247, 134, 98], "feather": 7},
+        {"rect": [103, 0, 483, 152], "feather": 3, "clip": "letter-left"},
+        {"rect": [76, 180, 320, 121], "feather": 3, "clip": "letter-left"},
+        {"rect": [909, 266, 51, 46], "feather": 3, "clip": "letter-right"},
+        {"rect": [840, 350, 120, 49], "feather": 3, "clip": "letter-right"},
+        {"rect": [779, 466, 92, 68], "feather": 3, "clip": "letter-right"},
+        {"rect": [741, 520, 219, 72], "feather": 3, "clip": "letter-right"}
+      ],
+      "text": [
+        {"x": 516, "y": 258, "size": 32, "anchor": "middle", "rotate": 24, "blur": 0.3, "lines": ["Farewell Note"]},
+        {"x": 196, "y": 4, "size": 25, "clip": "letter-left", "lines": ["Koichi Hoshikawa (myself)"]},
+        {"x": 183, "y": 39, "size": 25, "clip": "letter-left", "lines": ["If anything happens,"]},
+        {"x": 169, "y": 73, "size": 25, "clip": "letter-left", "lines": ["in an emergency,"]},
+        {"x": 155, "y": 107, "size": 25, "clip": "letter-left", "lines": ["my wallet, bankbook, bank card,"]},
+        {"x": 142, "y": 141, "size": 25, "clip": "letter-left", "lines": ["and seal to my mother,"]},
+        {"x": 130, "y": 215, "size": 25, "clip": "letter-left", "lines": ["When you enter my room,"]},
+        {"x": 117, "y": 256, "size": 25, "clip": "letter-left", "lines": ["near the wall on the left,"]},
+        {"x": 104, "y": 294, "size": 25, "clip": "letter-left", "lines": ["is my wallet."]},
+        {"x": 702, "y": 300, "size": 28, "clip": "letter-right", "lines": ["The bank card is inside."]},
+        {"x": 690, "y": 389, "size": 28, "clip": "letter-right", "lines": ["the chest of drawers"]},
+        {"x": 656, "y": 525, "size": 28, "clip": "letter-right", "lines": ["sticker to mark it."]},
+        {"x": 660, "y": 584, "size": 28, "clip": "letter-right", "lines": ["They're inside."]}
+      ],
+      "protected": "Postal boxes, envelope edges, punched holes and paper/envelope overlap. English on the underlying sheet must remain clipped by the original envelope edge.",
+      "review_notes": ["The label does not specify suicide. Dialogue distinguishes this farewell note from a formal last will.", "Underlying English follows the visible opening and wallet/drawer instructions, retaining occluded fragments. Native image review is still required."]
+    }
+  ]
+}

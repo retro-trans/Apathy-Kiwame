@@ -1,0 +1,32 @@
+{
+  "language": "en",
+  "scope": "Steam build 10331351. Core cast and recurring terms. Add route-specific entries as they are verified.",
+  "style": "Use given name followed by family name in full English names. Use the family name alone when the Japanese does so. Express seniority through register or role when the relationship matters. Do not copy chronology or roles from another Apathy continuity into Kiwame without checking.",
+  "characters": [
+    {"id": "sakagami", "ja": "坂上修一", "reading": "さかがみ しゅういち", "en": "Shuichi Sakagami", "gender": "male", "nicknames": [], "role": "First-year Newspaper Club member and customizable protagonist", "voice": "Earnest, self-conscious, excited to earn a chance to contribute", "sources": ["Steam scenario op.ks, first.ks", "https://w.atwiki.jp/allmiccore/pages/301.html"]},
+    {"id": "asahina", "ja": "朝比奈慎也", "reading": "あさひな しんや", "en": "Shinya Asahina", "gender": "male", "nicknames": [], "role": "Newspaper Club president", "voice": "Direct and at ease when addressing the whole club", "sources": ["Steam scenario op.ks", "https://w.atwiki.jp/allmiccore/pages/299.html"]},
+    {"id": "hino", "ja": "日野貞夫", "reading": "ひの さだお", "en": "Sadao Hino", "gender": "male", "nicknames": [], "role": "Newspaper Club vice president", "voice": "Familiar with younger club members, persuasive, willing to push", "sources": ["Steam scenario op.ks", "https://w.atwiki.jp/allmiccore/pages/69.html"]},
+    {"id": "kurata", "ja": "倉田恵美", "reading": "くらた えみ", "en": "Emi Kurata", "gender": "female", "nicknames": [], "role": "First-year Newspaper Club member", "voice": "Outgoing and interested in gossip", "sources": ["https://w.atwiki.jp/allmiccore/pages/51.html", "https://w.atwiki.jp/allmiccore/pages/301.html"]},
+    {"id": "shindo", "ja": "新堂誠", "reading": "しんどう まこと", "en": "Makoto Shindo", "gender": "male", "nicknames": [], "role": "Storyteller", "voice": "Blunt and confident, with an older-brother quality in the wider series", "sources": ["https://w.atwiki.jp/allmiccore/pages/64.html", "https://w.atwiki.jp/allmiccore/pages/313.html"]},
+    {"id": "arai", "ja": "荒井昭二", "reading": "あらい しょうじ", "en": "Shoji Arai", "gender": "male", "nicknames": [], "role": "Storyteller", "voice": "Reserved, with a tendency to dwell on his interests", "sources": ["https://w.atwiki.jp/allmiccore/pages/97.html", "https://w.atwiki.jp/allmiccore/pages/313.html"]},
+    {"id": "kazama", "ja": "風間望", "reading": "かざま のぞむ", "en": "Nozomu Kazama", "gender": "male", "nicknames": [], "role": "Storyteller", "voice": "Playful, irreverent, likes to tease", "sources": ["https://w.atwiki.jp/allmiccore/pages/66.html", "https://w.atwiki.jp/allmiccore/pages/313.html"]},
+    {"id": "iwashita", "ja": "岩下明美", "reading": "いわした あけみ", "en": "Akemi Iwashita", "gender": "female", "nicknames": [], "role": "Storyteller", "voice": "Composed and poised. Verify register against each route.", "sources": ["https://w.atwiki.jp/allmiccore/pages/42.html", "https://w.atwiki.jp/allmiccore/pages/313.html"]},
+    {"id": "hosoda", "ja": "細田友晴", "reading": "ほそだ ともはる", "en": "Tomoharu Hosoda", "gender": "male", "nicknames": [], "role": "Visiting storyteller, a second-year high-school student from Kochi Prefecture", "voice": "Earnest and preoccupied with school restrooms and their lore", "sources": ["https://w.atwiki.jp/allmiccore/pages/83.html", "https://w.atwiki.jp/allmiccore/pages/313.html"]},
+    {"id": "fukuzawa", "ja": "福沢玲子", "reading": "ふくざわ れいこ", "en": "Reiko Fukuzawa", "gender": "female", "nicknames": [], "role": "Storyteller", "voice": "Conversational. Verify route-specific register against the scene.", "sources": ["https://w.atwiki.jp/allmiccore/pages/42.html", "https://w.atwiki.jp/allmiccore/pages/313.html"]}
+  ],
+  "terms": [
+    {"id": "narugami_academy", "ja": "鳴神学園", "en": "Narugami Academy", "kind": "location", "sources": ["https://w.atwiki.jp/allmiccore/pages/130.html", "Steam scenario op.ks"]},
+    {"id": "newspaper_club", "ja": "新聞部", "en": "Newspaper Club", "kind": "organization", "sources": ["https://w.atwiki.jp/allmiccore/pages/301.html", "Steam scenario op.ks"]},
+    {"id": "seven_wonders", "ja": "学校の七不思議", "en": "the Seven Wonders of the school", "kind": "folklore", "sources": ["https://w.atwiki.jp/allmiccore/pages/130.html"]},
+    {"id": "seven_wonders_gathering", "ja": "七不思議の集会", "en": "Seven Wonders Gathering", "kind": "event", "sources": ["https://w.atwiki.jp/allmiccore/pages/130.html", "https://w.atwiki.jp/allmiccore/pages/303.html"]},
+    {"id": "storyteller", "ja": "語り部", "en": "storyteller", "kind": "role", "sources": ["https://w.atwiki.jp/allmiccore/pages/313.html"]},
+    {"id": "old_school_building", "ja": "旧校舎", "en": "old school building", "kind": "location", "sources": ["https://w.atwiki.jp/allmiccore/pages/131.html"]},
+    {"id": "school_net", "ja": "スクール・ネット", "en": "School Net", "kind": "publication platform", "sources": ["Steam scenario op.ks"]},
+    {"id": "school_net_news", "ja": "スクール・ネットニュース", "en": "School Net News", "kind": "publication", "sources": ["Steam scenario op.ks"]},
+    {"id": "wall_newspaper", "ja": "壁新聞", "en": "wall newspaper", "kind": "publication format", "sources": ["Steam scenario op.ks"]},
+    {"id": "scary_stories_from_school", "ja": "学校であった怖い話", "en": "Scary Stories from School", "kind": "wall newspaper title", "sources": ["Steam scenario op.ks"]},
+    {"id": "self_help_book", "ja": "自信を取り戻す自己啓発", "en": "A Self-Help Guide to Getting Your Confidence Back", "kind": "book title", "sources": ["Steam scenarios op.ks and jiko.ks"]},
+    {"id": "manhood", "ja": "男根", "en": "manhood", "kind": "recurring pun", "note": "Hino derives it from a man's grit. Keep the double meaning in the self-help route.", "sources": ["Steam scenarios op.ks and jiko.ks"]},
+    {"id": "cursed_old_school_building", "ja": "呪われた旧校舎", "en": "The Cursed Old School Building", "kind": "route title", "sources": ["Steam scenario rpg/rpg_op.ks"]}
+  ]
+}

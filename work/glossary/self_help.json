@@ -1,0 +1,12 @@
+{
+  "language": "en",
+  "scope": "The Wonderful World of Self-Help and the cross-references it uses.",
+  "entries": [
+    {"id": "self_help_route", "ja": "素晴らしき自己啓発の世界", "en": "The Wonderful World of Self-Help", "kind": "route title", "sources": ["Steam scenario jiko.ks", "https://w.atwiki.jp/allmiccore/pages/303.html"]},
+    {"id": "pohe", "ja": "ポヘ", "en": "Pohe", "kind": "pet", "role": "Sakagami's pug", "gender": null, "note": "Use Pohe's name until a reliable source establishes sex.", "sources": ["Steam scenarios jiko.ks and jinniku.ks", "https://w.atwiki.jp/allmiccore/pages/243.html"]},
+    {"id": "sugi_jun", "ja": "杉ジュン", "en": "Sugi Jun", "kind": "stage name", "role": "Idol and member of Oarashi", "gender": null, "status": "provisional Latin spelling", "sources": ["Steam scenarios jiko.ks and inoti.ks"]},
+    {"id": "ketsu", "ja": "ケツ", "en": "Ketsu", "kind": "stage name", "role": "Idol mentioned by Sakagami", "gender": null, "status": "provisional Latin spelling", "sources": ["Steam scenario jiko.ks"]},
+    {"id": "dune", "ja": "デューン", "en": "Dune", "kind": "stage name", "role": "Musician mentioned by Sakagami", "gender": null, "status": "provisional Latin spelling", "sources": ["Steam scenarios jiko.ks and inoti.ks"]},
+    {"id": "kiyose", "ja": "清瀬尚道", "reading": "きよせ なおみち", "en": "Naomichi Kiyose", "kind": "character", "role": "Student Hino regards as a rival", "gender": "male", "note": "The self-help route refers to him by surname.", "sources": ["Steam scenario jiko.ks", "https://w.atwiki.jp/allmiccore/pages/168.html"]}
+  ]
+}

@@ -1,0 +1,2012 @@
+{
+  "language": "en",
+  "scope": "Perfect Score Cram School (jyuku.ks); branch-specific transformations and claims remain distinct.",
+  "source_sha256": "3bdd87178c25156dca599da8cbe5aa110939b7fd961b96b3741ace3fb259e637",
+  "entries": [
+    {
+      "id": "tatsuo_yoshida",
+      "ja": "吉田達夫",
+      "reading": "よしだ たつお",
+      "reading_status": "verified game-specific wiki kana",
+      "gender": "male",
+      "gender_evidence": "Native873 calls him a man; wiki gives male marker.",
+      "role": "Shindo's academically strong classmate; existing cram-school member who recruits Shindo, Kanda and Okura. Number Five.",
+      "voice": "Supercilious, articulate and teacher-pleasing. Polished conversational wording; unusually friendly recruitment is deliberately noticed. Reverent toward Goto, but not universally immune to the school's dangers.",
+      "native_lines": [
+        861,
+        871,
+        873,
+        912,
+        1186,
+        3694,
+        3966
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/154.html"
+      ],
+      "caution": "Do not import other-version clubs, romances, deaths or Narugami enrollment. In one branch replacement by a parallel-world person is explicit; elsewhere transformation has other or uncertain causes.",
+      "native_fields": [
+        {
+          "id": "861:text",
+          "ordinal": 308
+        },
+        {
+          "id": "871:text",
+          "ordinal": 314
+        },
+        {
+          "id": "873:text",
+          "ordinal": 316
+        },
+        {
+          "id": "912:text",
+          "ordinal": 349
+        },
+        {
+          "id": "1186:text",
+          "ordinal": 504
+        },
+        {
+          "id": "3694:text",
+          "ordinal": 1761
+        },
+        {
+          "id": "3966:text",
+          "ordinal": 1909
+        }
+      ],
+      "en": "Tatsuo Yoshida",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "id": "ayumu_goto",
+      "ja": "後藤歩",
+      "reading": "ごとう あゆむ",
+      "reading_status": "explicit native kana4113 and matching game-specific wiki",
+      "gender": "male",
+      "gender_evidence": "Native4085/4089/4118 identify a man; wiki explicitly male.",
+      "role": "Math instructor and main school contact. Called Dr. Goto in an overheard clinical exchange. A second Goto claims to be the genuine company representative in ED095.",
+      "voice": "Ceremoniously polite, unnervingly cheerful, with odd pauses and exaggerated teacherly approval. Sudden cold imperatives and cruel practicality. Katakana pronouns/address/endings signal artificial manner, not a foreign accent to invent. Self-reference as teacher can remain when natural.",
+      "native_lines": [
+        1074,
+        1370,
+        1943,
+        3676,
+        4089,
+        4113,
+        4114,
+        10073
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/239.html"
+      ],
+      "caution": "Handout artwork deliberately mangles his written name; not a new reading/person. Do not decide human/alien nature or second Goto's authenticity globally.",
+      "native_fields": [
+        {
+          "id": "1074:text",
+          "ordinal": 424
+        },
+        {
+          "id": "1370:text",
+          "ordinal": 593
+        },
+        {
+          "id": "1943:text",
+          "ordinal": 912
+        },
+        {
+          "id": "3676:text",
+          "ordinal": 1748
+        },
+        {
+          "id": "4089:text",
+          "ordinal": 1986
+        },
+        {
+          "id": "4113:text",
+          "ordinal": 2004
+        },
+        {
+          "id": "4114:text",
+          "ordinal": 2005
+        },
+        {
+          "id": "10073:text",
+          "ordinal": 5437
+        }
+      ],
+      "en": "Ayumu Goto",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "id": "takuro_kanda",
+      "ja": "神田拓郎",
+      "reading": "かんだ たくろう",
+      "reading_status": "verified game-specific wiki kana",
+      "gender": "male",
+      "gender_evidence": "Sister explicitly addresses him as older brother5026; game-specific wiki calls him a male student.",
+      "role": "Shindo's classmate; Number Six. Average grades, sociable and popular with girls; initially objects to cheating. Has an unnamed twelve-year-old younger sister.",
+      "voice": "Friendly, grounded, humorous and initially conscientious. Can yield to pressure; grief makes him desperate. Preserve situational changes without making every version a villain.",
+      "native_lines": [
+        1264,
+        1270,
+        3493,
+        3836,
+        3838,
+        3841,
+        4699,
+        4709,
+        5026
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/270.html"
+      ],
+      "caution": "No imported school class, romances or earlier death. Sister's accident, revival, suicide and future marriage belong to different branches.",
+      "native_fields": [
+        {
+          "id": "1264:text",
+          "ordinal": 553
+        },
+        {
+          "id": "1270:text",
+          "ordinal": 557
+        },
+        {
+          "id": "3493:text",
+          "ordinal": 1674
+        },
+        {
+          "id": "3836:text",
+          "ordinal": 1821
+        },
+        {
+          "id": "3838:text",
+          "ordinal": 1822
+        },
+        {
+          "id": "3841:text",
+          "ordinal": 1825
+        },
+        {
+          "id": "4699:text",
+          "ordinal": 2337
+        },
+        {
+          "id": "4709:text",
+          "ordinal": 2343
+        },
+        {
+          "id": "5026:text",
+          "ordinal": 2483
+        }
+      ],
+      "en": "Takuro Kanda",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "id": "tetsuo_yamazaki",
+      "ja": "山崎哲夫",
+      "reading": "やまざき てつお",
+      "reading_status": "explicit native kana9051 and matching game-specific wiki",
+      "gender": "male",
+      "gender_evidence": "Native9019/9021/9061 explicitly identify a man.",
+      "role": "Self-described adventurer living on the mountain, encountered in scene401/ED097. Offers shelter and guidance, then tries to kill Shindo.",
+      "voice": "Booming, hearty and reassuring at first. Jibun is ordinary first person in English. The casual warmth continues during attempted murder; do not replace it with formal villain rhetoric.",
+      "native_lines": [
+        9015,
+        9019,
+        9051,
+        9052,
+        9092,
+        9244,
+        9263,
+        9330
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/67.html"
+      ],
+      "caution": "Do not import wiki age, overseas childhood or relation to Arai. Narrator compares him to a supernatural mountain presence but never proves his species.",
+      "native_fields": [
+        {
+          "id": "9015:text",
+          "ordinal": 4773
+        },
+        {
+          "id": "9019:text",
+          "ordinal": 4776
+        },
+        {
+          "id": "9051:text",
+          "ordinal": 4798
+        },
+        {
+          "id": "9052:text",
+          "ordinal": 4799
+        },
+        {
+          "id": "9092:text",
+          "ordinal": 4824
+        },
+        {
+          "id": "9244:text",
+          "ordinal": 4928
+        },
+        {
+          "id": "9263:text",
+          "ordinal": 4942
+        },
+        {
+          "id": "9330:text",
+          "ordinal": 4990
+        }
+      ],
+      "en": "Tetsuo Yamazaki",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "ヨシオ",
+      "status": "locked working English form; preserve all source/context qualifications",
+      "gender": "unspecified; -kun is not sufficient evidence",
+      "role": "Fictional mathematics word-problem character only",
+      "native_lines": [
+        2317,
+        2324
+      ],
+      "native_fields": [
+        {
+          "id": "2317:text",
+          "ordinal": 1127
+        },
+        {
+          "id": "2324:text",
+          "ordinal": 1133
+        }
+      ],
+      "en": "Yoshio",
+      "id": "jyuku_minor_names_and_alias_001"
+    },
+    {
+      "ja": "ヨウコ",
+      "status": "locked working English form; preserve all source/context qualifications",
+      "gender": "unspecified",
+      "role": "Fictional mathematics word-problem cyclist/person only",
+      "native_lines": [
+        2318,
+        2323
+      ],
+      "caution": "Not Yoko Seto from Life.",
+      "native_fields": [
+        {
+          "id": "2318:text",
+          "ordinal": 1128
+        },
+        {
+          "id": "2323:text",
+          "ordinal": 1132
+        }
+      ],
+      "en": "Yoko",
+      "id": "jyuku_minor_names_and_alias_002"
+    },
+    {
+      "ja": "タカシ",
+      "status": "locked working English form; preserve all source/context qualifications",
+      "gender": "unspecified",
+      "role": "Fictional mathematics word-problem walker only",
+      "native_lines": [
+        2320
+      ],
+      "native_fields": [
+        {
+          "id": "2320:text",
+          "ordinal": 1130
+        }
+      ],
+      "en": "Takashi",
+      "id": "jyuku_minor_names_and_alias_003"
+    },
+    {
+      "ja": "ワレンカポンラ・トキリテクサンチア・ノイヒ",
+      "short_en": "Noihi",
+      "status": "locked working English form; preserve all source/context qualifications",
+      "role": "Hino's alien name, ED086 only",
+      "native_lines": [
+        6979,
+        6980,
+        7011,
+        7012
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/78.html"
+      ],
+      "caution": "Wiki supports Noihi as Hino identity; full English spelling needs approval. Continue existing Hino reference pronouns without importing alien biological-sex lore.",
+      "native_fields": [
+        {
+          "id": "6979:text",
+          "ordinal": 3475
+        },
+        {
+          "id": "6980:text",
+          "ordinal": 3476
+        },
+        {
+          "id": "7011:text",
+          "ordinal": 3499
+        },
+        {
+          "id": "7012:text",
+          "ordinal": 3500
+        }
+      ],
+      "en": "Warenkaponra Tokiritekusanchia Noihi",
+      "id": "jyuku_minor_names_and_alias_004",
+      "latin_spelling_status": "Editorial romanization from explicit kana; no official full Latin spelling verified."
+    },
+    {
+      "ja": "百点塾",
+      "reading": "ひゃくてんじゅく",
+      "kind": "route/institution informal name",
+      "native_lines": [
+        94
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/216.html"
+      ],
+      "note": "Promises 100/100. Window title proposal: Apathy Kiwame - Perfect Score Cram School.",
+      "native_fields": [
+        {
+          "id": "94:title.name.1",
+          "ordinal": 7
+        }
+      ],
+      "en": "Perfect Score Cram School",
+      "id": "jyuku_term_candidates_001",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "世界の幸せと平和を願う学習塾",
+      "kind": "formal sign name",
+      "native_lines": [
+        3928
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/216.html"
+      ],
+      "native_fields": [
+        {
+          "id": "3928:text",
+          "ordinal": 1882
+        }
+      ],
+      "en": "Cram School for World Happiness and Peace",
+      "id": "jyuku_term_candidates_002",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "世界の平和と幸せのための学習塾",
+      "native_lines": [
+        1395,
+        2670
+      ],
+      "note": "Same school; source reverses happiness/peace order and varies wording. Do not invent separate organization.",
+      "native_fields": [
+        {
+          "id": "1395:text",
+          "ordinal": 613
+        },
+        {
+          "id": "2670:text",
+          "ordinal": 1318
+        }
+      ],
+      "en": "Cram School for World Peace and Happiness",
+      "id": "jyuku_term_candidates_003",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "人類の平和と幸せのための学習塾",
+      "native_lines": [
+        7437
+      ],
+      "note": "Same school, humanity wording variant; preserve traceable variation.",
+      "native_fields": [
+        {
+          "id": "7437:text",
+          "ordinal": 3768
+        }
+      ],
+      "en": "Cram School for Humanity's Peace and Happiness",
+      "id": "jyuku_term_candidates_004",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "ワールド・ハッピー＆ピース・カンパニー",
+      "en": "World Happy & Peace Company",
+      "spoken_en": "World Happy and Peace Company",
+      "lock": "work/glossary/inoti.json",
+      "native_lines": [
+        5569,
+        5570,
+        10073,
+        10074
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/50.html"
+      ],
+      "note": "Insertable script uses and because renderer excludes ampersand. Distinct from World Happy Mountain Association.",
+      "native_fields": [
+        {
+          "id": "5569:text",
+          "ordinal": 2832
+        },
+        {
+          "id": "5570:text",
+          "ordinal": 2833
+        },
+        {
+          "id": "10073:text",
+          "ordinal": 5437
+        },
+        {
+          "id": "10074:text",
+          "ordinal": 5438
+        }
+      ],
+      "id": "jyuku_term_candidates_005",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "サジタリウス",
+      "kind": "named parasitic insect",
+      "native_lines": [
+        9801,
+        9802,
+        9825,
+        10080
+      ],
+      "sources": [
+        "https://w.atwiki.jp/allmiccore/pages/183.html"
+      ],
+      "note": "Keep eggs, larvae, adults distinct. No imported shampoo or symptom lore; winter-mountain lifecycle is Goto's account.",
+      "native_fields": [
+        {
+          "id": "9801:text",
+          "ordinal": 5281
+        },
+        {
+          "id": "9802:text",
+          "ordinal": 5282
+        },
+        {
+          "id": "9825:text",
+          "ordinal": 5301
+        },
+        {
+          "id": "10080:text",
+          "ordinal": 5443
+        }
+      ],
+      "en": "Sagittarius",
+      "id": "jyuku_term_candidates_006",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "狂気山脈",
+      "en": "Mountains of Madness",
+      "lock": "work/glossary/mountains_of_madness.json",
+      "native_lines": [
+        7438,
+        7612
+      ],
+      "note": "Goto's sanity/madness pun at7420 must survive. Keep alleged Antarctic coordinates and 34,000 feet/10,363 m; no factual correction.",
+      "native_fields": [
+        {
+          "id": "7438:text",
+          "ordinal": 3769
+        },
+        {
+          "id": "7612:text",
+          "ordinal": 3877
+        }
+      ],
+      "id": "jyuku_term_candidates_007",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "スンバラリア星人",
+      "en": "Sunbaralian",
+      "lock": "work/glossary/human_flesh_cafeteria.json",
+      "native_lines": [
+        7012
+      ],
+      "note": "ED086 only; distinct from Sambra tea.",
+      "native_fields": [
+        {
+          "id": "7012:text",
+          "ordinal": 3500
+        }
+      ],
+      "id": "jyuku_term_candidates_008",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "八甲田山",
+      "native_lines": [
+        8918,
+        8921,
+        8929
+      ],
+      "sources": [
+        "https://aomori-tourism.com/en/spot/detail_92.html"
+      ],
+      "note": "Official Aomori geographic English; ED096 location reveal only.",
+      "native_fields": [
+        {
+          "id": "8918:text",
+          "ordinal": 4711
+        },
+        {
+          "id": "8921:text",
+          "ordinal": 4713
+        },
+        {
+          "id": "8929:text",
+          "ordinal": 4718
+        }
+      ],
+      "en": "Hakkoda Mountains",
+      "id": "jyuku_term_candidates_009",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "青森",
+      "native_lines": [
+        8918
+      ],
+      "sources": [
+        "https://aomori-tourism.com/en/spot/detail_92.html"
+      ],
+      "note": "Native has no city/prefecture suffix; retain bare name.",
+      "native_fields": [
+        {
+          "id": "8918:text",
+          "ordinal": 4711
+        }
+      ],
+      "en": "Aomori",
+      "id": "jyuku_term_candidates_010",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "岐阜県",
+      "en": "Gifu Prefecture",
+      "lock": "work/glossary/inoti.json",
+      "native_lines": [
+        4580
+      ],
+      "note": "Grandfather's home in memory.",
+      "native_fields": [
+        {
+          "id": "4580:text",
+          "ordinal": 2251
+        }
+      ],
+      "id": "jyuku_term_candidates_011",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": [
+        "南極",
+        "南極大陸"
+      ],
+      "native_lines": [
+        7400,
+        7409,
+        7666,
+        9080
+      ],
+      "note": "Goto's claimed destination; unverified or overturned depending branch.",
+      "native_fields": [
+        {
+          "id": "7400:text",
+          "ordinal": 3739
+        },
+        {
+          "id": "7409:text",
+          "ordinal": 3746
+        },
+        {
+          "id": "7666:text",
+          "ordinal": 3916
+        },
+        {
+          "id": "9080:text",
+          "ordinal": 4817
+        }
+      ],
+      "en": "Antarctica",
+      "id": "jyuku_term_candidates_012",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "北極",
+      "native_lines": [
+        7603
+      ],
+      "note": "Goto corrects Okura's polar-bear mistake; do not repair earlier mistaken dialogue.",
+      "native_fields": [
+        {
+          "id": "7603:text",
+          "ordinal": 3871
+        }
+      ],
+      "en": "the Arctic",
+      "id": "jyuku_term_candidates_013",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "エベレスト",
+      "native_lines": [
+        7691
+      ],
+      "note": "Altitude comparison only.",
+      "native_fields": [
+        {
+          "id": "7691:text",
+          "ordinal": 3936
+        }
+      ],
+      "en": "Everest",
+      "id": "jyuku_term_candidates_014",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "モンブラン",
+      "native_lines": [
+        9211,
+        9263
+      ],
+      "note": "Yamazaki claims earlier endless-loop episode; no imported story details.",
+      "native_fields": [
+        {
+          "id": "9211:text",
+          "ordinal": 4909
+        },
+        {
+          "id": "9263:text",
+          "ordinal": 4942
+        }
+      ],
+      "en": "Mont Blanc",
+      "id": "jyuku_term_candidates_015",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "ポワン・ド・サタン",
+      "native_lines": [
+        9184,
+        9193
+      ],
+      "note": "Editorial Latin reconstruction from kana; immediately glossed the Devil's Point. Occult spot, no verified geographic site or literal Satan character asserted. No game-specific Latin spelling found.",
+      "native_fields": [
+        {
+          "id": "9184:text",
+          "ordinal": 4889
+        },
+        {
+          "id": "9193:text",
+          "ordinal": 4895
+        }
+      ],
+      "en": "Point de Satan",
+      "id": "jyuku_term_candidates_016",
+      "status": "locked working English form; preserve all source/context qualifications",
+      "latin_spelling_status": "Editorial romanization from explicit kana; no official full Latin spelling verified."
+    },
+    {
+      "ja": "アルデバラン",
+      "native_lines": [
+        8256,
+        8257
+      ],
+      "note": "Split across two rows. Goto says psychic waves should reach it. Not a person; do not omit initial Al-.",
+      "native_fields": [
+        {
+          "id": "8256:text",
+          "ordinal": 4296
+        },
+        {
+          "id": "8257:text",
+          "ordinal": 4297
+        }
+      ],
+      "en": "Aldebaran",
+      "id": "jyuku_term_candidates_017",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "エリア５１",
+      "native_lines": [
+        7460
+      ],
+      "note": "Comparison about concealment only.",
+      "native_fields": [
+        {
+          "id": "7460:text",
+          "ordinal": 3784
+        }
+      ],
+      "en": "Area 51",
+      "id": "jyuku_term_candidates_018",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "閻魔大王",
+      "native_lines": [
+        1414
+      ],
+      "note": "Underworld judge in absurd dream exclusion list, not an appearing speaker.",
+      "native_fields": [
+        {
+          "id": "1414:text",
+          "ordinal": 629
+        }
+      ],
+      "en": "King Enma",
+      "id": "jyuku_term_candidates_019",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "ゴマちゃん",
+      "native_lines": [
+        7616
+      ],
+      "note": "Pop-culture seal comparison for white penguins; not a new penguin name. Preserve reference without adding a lesson.",
+      "native_fields": [
+        {
+          "id": "7616:text",
+          "ordinal": 3881
+        }
+      ],
+      "en": "Goma-chan",
+      "id": "jyuku_term_candidates_020",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "東大",
+      "native_lines": [
+        946
+      ],
+      "note": "University some students may enter; not current enrollment.",
+      "native_fields": [
+        {
+          "id": "946:text",
+          "ordinal": 376
+        }
+      ],
+      "en": "the University of Tokyo",
+      "id": "jyuku_term_candidates_021",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "センター試験",
+      "native_lines": [
+        912,
+        913
+      ],
+      "note": "Historical university entrance test; do not modernize.",
+      "native_fields": [
+        {
+          "id": "912:text",
+          "ordinal": 349
+        },
+        {
+          "id": "913:text",
+          "ordinal": 350
+        }
+      ],
+      "en": "National Center Test",
+      "id": "jyuku_term_candidates_022",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "百点防止問題",
+      "native_lines": [
+        949
+      ],
+      "note": "School deliberately sets hard questions. Source supplies explanation; not a national official term.",
+      "native_fields": [
+        {
+          "id": "949:text",
+          "ordinal": 379
+        }
+      ],
+      "en": "perfect-score prevention question",
+      "id": "jyuku_term_candidates_023",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "赤点",
+      "native_lines": [
+        835
+      ],
+      "note": "No numerical pass threshold given.",
+      "native_fields": [
+        {
+          "id": "835:text",
+          "ordinal": 286
+        }
+      ],
+      "en": "failing mark",
+      "id": "jyuku_term_candidates_024",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": [
+        "ハーブティー",
+        "ハーブティ"
+      ],
+      "native_lines": [
+        1467,
+        1468,
+        2681
+      ],
+      "note": "School's unnamed electrolyte/hormone drink, not Sambra tea.",
+      "native_fields": [
+        {
+          "id": "1467:text",
+          "ordinal": 671
+        },
+        {
+          "id": "1468:text",
+          "ordinal": 672
+        },
+        {
+          "id": "2681:text",
+          "ordinal": 1325
+        }
+      ],
+      "en": "herbal tea",
+      "id": "jyuku_term_candidates_025",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "第六感",
+      "native_lines": [
+        1370
+      ],
+      "native_fields": [
+        {
+          "id": "1370:text",
+          "ordinal": 593
+        }
+      ],
+      "en": "sixth sense",
+      "id": "jyuku_term_candidates_026",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": [
+        "超能力",
+        "超感覚"
+      ],
+      "native_lines": [
+        1386,
+        1387,
+        3529
+      ],
+      "note": "Distinguish clairvoyance, telekinesis and telepathy when specified. Preserve pseudo-scientific claims as speech.",
+      "native_fields": [
+        {
+          "id": "1386:text",
+          "ordinal": 606
+        },
+        {
+          "id": "1387:text",
+          "ordinal": 607
+        },
+        {
+          "id": "3529:glink.text.1",
+          "ordinal": 1688
+        }
+      ],
+      "en": [
+        "psychic powers",
+        "extrasensory perception"
+      ],
+      "id": "jyuku_term_candidates_027",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "エイリアン・ハンド症候群",
+      "native_lines": [
+        2650,
+        2651
+      ],
+      "note": "Attributed explanation; no medical corrective exposition.",
+      "native_fields": [
+        {
+          "id": "2650:text",
+          "ordinal": 1302
+        },
+        {
+          "id": "2651:text",
+          "ordinal": 1303
+        }
+      ],
+      "en": "alien hand syndrome",
+      "id": "jyuku_term_candidates_028",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": [
+        "自動筆記",
+        "オートマティスム"
+      ],
+      "native_lines": [
+        2357,
+        2358
+      ],
+      "note": "Keep involuntary writing distinct from conscious cheating; source explicitly gives Japanese term after automatism.",
+      "native_fields": [
+        {
+          "id": "2357:text",
+          "ordinal": 1152
+        },
+        {
+          "id": "2358:text",
+          "ordinal": 1153
+        }
+      ],
+      "en": [
+        "automatic writing",
+        "automatism"
+      ],
+      "id": "jyuku_term_candidates_029",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "ドッペルゲンガー",
+      "native_lines": [
+        5559,
+        5562
+      ],
+      "note": "Explicit parallel-world double branch; not a universal explanation for every mirror event.",
+      "native_fields": [
+        {
+          "id": "5559:text",
+          "ordinal": 2824
+        },
+        {
+          "id": "5562:text",
+          "ordinal": 2826
+        }
+      ],
+      "en": "doppelganger",
+      "id": "jyuku_term_candidates_030",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "スクエア",
+      "native_lines": [
+        10262,
+        10319
+      ],
+      "note": "Named four-corner shoulder-tapping survival game/urban legend; numbered diagrams demonstrate missing fifth participant.",
+      "native_fields": [
+        {
+          "id": "10262:text",
+          "ordinal": 5548
+        },
+        {
+          "id": "10319:text",
+          "ordinal": 5573
+        }
+      ],
+      "en": "Square",
+      "id": "jyuku_term_candidates_031",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "リング・ワンデ・リング",
+      "native_lines": [
+        9172
+      ],
+      "note": "Japanese mountaineering loan term for walking in circles, already explained by source. No extra lesson.",
+      "native_fields": [
+        {
+          "id": "9172:text",
+          "ordinal": 4881
+        }
+      ],
+      "en": "ring wandering",
+      "id": "jyuku_term_candidates_032",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "デスゾーン",
+      "native_lines": [
+        7440,
+        7441
+      ],
+      "native_fields": [
+        {
+          "id": "7440:text",
+          "ordinal": 3771
+        },
+        {
+          "id": "7441:text",
+          "ordinal": 3772
+        }
+      ],
+      "en": "death zone",
+      "id": "jyuku_term_candidates_033",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "ホワイトアウト",
+      "native_lines": [
+        8000
+      ],
+      "note": "Narrator loosely connects storm and visibility effect; keep voice.",
+      "native_fields": [
+        {
+          "id": "8000:text",
+          "ordinal": 4129
+        }
+      ],
+      "en": "whiteout",
+      "id": "jyuku_term_candidates_034",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "ピッケル",
+      "native_lines": [
+        8959
+      ],
+      "note": "Distinct from survival knife, fruit knife and medical scalpel.",
+      "native_fields": [
+        {
+          "id": "8959:text",
+          "ordinal": 4732
+        }
+      ],
+      "en": "ice axe",
+      "id": "jyuku_term_candidates_035",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "サバイバルナイフ",
+      "native_lines": [
+        8749
+      ],
+      "note": "Used in amputation; distinct from later fruit knife.",
+      "native_fields": [
+        {
+          "id": "8749:text",
+          "ordinal": 4616
+        }
+      ],
+      "en": "survival knife",
+      "id": "jyuku_term_candidates_036",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": [
+        "無線機",
+        "トランシーバー"
+      ],
+      "native_lines": [
+        8047,
+        9223
+      ],
+      "note": "Preserve static and fragmentary quoted speech; don't identify unknown voices prematurely.",
+      "native_fields": [
+        {
+          "id": "8047:text",
+          "ordinal": 4151
+        }
+      ],
+      "en": [
+        "radio",
+        "two-way radio"
+      ],
+      "id": "jyuku_term_candidates_037",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "星形の中央に眼のある印",
+      "native_lines": [
+        4022,
+        4023
+      ],
+      "note": "Descriptive emblem; do not name Illuminati/Elder Sign or an invented cult.",
+      "native_fields": [
+        {
+          "id": "4022:text",
+          "ordinal": 1944
+        },
+        {
+          "id": "4023:text",
+          "ordinal": 1945
+        }
+      ],
+      "en": "star with an eye at its center",
+      "id": "jyuku_term_candidates_038",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": [
+        "リーダー",
+        "副リーダー"
+      ],
+      "native_lines": [
+        7141,
+        7142
+      ],
+      "note": "Yoshida5/Shindo8 expedition posts, not club offices.",
+      "native_fields": [
+        {
+          "id": "7141:text",
+          "ordinal": 3580
+        },
+        {
+          "id": "7142:text",
+          "ordinal": 3581
+        }
+      ],
+      "en": [
+        "leader",
+        "deputy leader"
+      ],
+      "id": "jyuku_term_candidates_039",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "おしるこドリンク",
+      "en": "oshiruko drink",
+      "lock": "work/glossary/old_school_building.json",
+      "native_lines": [
+        6960
+      ],
+      "note": "Cold canned red bean soup drink in drugging branch.",
+      "native_fields": [
+        {
+          "id": "6960:text",
+          "ordinal": 3469
+        }
+      ],
+      "id": "jyuku_term_candidates_040",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "写真部",
+      "en": "Photography Club",
+      "lock": "work/glossary/old_school_building.json",
+      "native_lines": [
+        6781
+      ],
+      "native_fields": [
+        {
+          "id": "6781:text",
+          "ordinal": 3381
+        }
+      ],
+      "id": "jyuku_term_candidates_041",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "ja": "特報 風間望号 Vol.01",
+      "native_lines": [
+        3566
+      ],
+      "note": "Comic self-important note/report title; proposal only.",
+      "native_fields": [
+        {
+          "id": "3566:text",
+          "ordinal": 1701
+        }
+      ],
+      "en": "Special Report: Nozomu Kazama, Vol.01",
+      "id": "jyuku_term_candidates_042",
+      "status": "locked working English form; preserve all source/context qualifications"
+    },
+    {
+      "id": "takeshi_onijima",
+      "ja": "鬼島武",
+      "reading": "おにじま たけし",
+      "en": "Takeshi Onijima",
+      "kind": "person",
+      "reading_status": "Verified game-specific wiki kana",
+      "role": "Boxing Club captain at a neighboring school; opponent who defeated Shindo the previous year.",
+      "note": "Mentioned in jyuku.ks2541; do not import another version’s named school, species, family or motives.",
+      "sources": [
+        "Steam jyuku.ks2541",
+        "https://w.atwiki.jp/allmiccore/pages/198.html"
+      ]
+    },
+    {
+      "id": "box_type_scam",
+      "ja": "箱型詐欺",
+      "en": "box-type scam",
+      "kind": "unresolved source term",
+      "status": "Literal working rendering; no reliable definition found in exact-term/game searches.",
+      "note": "At4724–4725 Kanda says these can be large operations. Preserve that hearsay; do not invent building, real-estate or staged-performance mechanics or silently correct the source term.",
+      "sources": [
+        "Steam jyuku.ks4724–4725"
+      ]
+    },
+    {
+      "id": "kamaitachi_simile",
+      "ja": "かまいたち",
+      "en": "kamaitachi",
+      "kind": "cultural simile",
+      "status": "Locked Latin rendering of the explicit source term; not an official fictional species label",
+      "source_lines": [
+        8580,
+        8581
+      ],
+      "usage": "A seasonal wind blows between the group and the cliff like a kamaitachi. Keep the cutting-wind simile; do not turn it into a literal named creature, add a species or introduce a folklore explanation into dialogue.",
+      "review": "C compared the adjacent scene; root approved the simile; recorded in the slice review."
+    }
+  ],
+  "pending_ending_title_terms": [
+    {
+      "ja": "逃現鏡",
+      "reading": "とうげんきょう",
+      "status": "ending title wordplay unresolved",
+      "native_lines": [
+        5910
+      ],
+      "note": "Comment supplies pronunciation, echoing utopia/peach-blossom paradise with flee/reality/mirror kanji. Not a location. Approve English ending title separately.",
+      "native_fields": []
+    }
+  ],
+  "unnamed_roles": [
+    {
+      "ja": "担任教師",
+      "proposed_en": "Homeroom Teacher",
+      "gender": "unspecified",
+      "native_lines": [
+        834,
+        835
+      ],
+      "role": "Threatens boxing ban if Shindo receives a failing mark.",
+      "native_fields": [
+        {
+          "id": "834:text",
+          "ordinal": 285
+        },
+        {
+          "id": "835:text",
+          "ordinal": 286
+        }
+      ]
+    },
+    {
+      "ja": "塾生１",
+      "proposed_en": "Cram School Student 1",
+      "spoken_address": "Number One",
+      "gender": "female, explicitly woman4179/7878",
+      "native_lines": [
+        1440,
+        4179,
+        7878
+      ],
+      "role": "Established member; fervent adherent with Number Two and Yoshida in mountain branch.",
+      "native_fields": [
+        {
+          "id": "1440:text",
+          "ordinal": 650
+        },
+        {
+          "id": "4179:text",
+          "ordinal": 2052
+        },
+        {
+          "id": "7878:text",
+          "ordinal": 4074
+        }
+      ]
+    },
+    {
+      "ja": "塾生２",
+      "proposed_en": "Cram School Student 2",
+      "spoken_address": "Number Two",
+      "gender": "female, explicit7894/8403/10172",
+      "native_lines": [
+        7894,
+        8403,
+        10172
+      ],
+      "role": "Unnamed; Okura shows interest in her.",
+      "native_fields": [
+        {
+          "id": "7894:text",
+          "ordinal": 4084
+        },
+        {
+          "id": "8403:text",
+          "ordinal": 4379
+        },
+        {
+          "id": "10172:text",
+          "ordinal": 5486
+        }
+      ]
+    },
+    {
+      "ja": "塾生３",
+      "proposed_en": "Cram School Student 3",
+      "spoken_address": "Number Three",
+      "gender": "male, explicit8412",
+      "native_lines": [
+        4236,
+        7878,
+        8412
+      ],
+      "role": "From another school; skeptical despite apparent compliance. Branch deaths differ.",
+      "native_fields": [
+        {
+          "id": "4236:text",
+          "ordinal": 2083
+        },
+        {
+          "id": "7878:text",
+          "ordinal": 4074
+        },
+        {
+          "id": "8412:text",
+          "ordinal": 4385
+        }
+      ]
+    },
+    {
+      "ja": "塾生４",
+      "proposed_en": "Cram School Student 4",
+      "spoken_address": "Number Four",
+      "gender": "not independently established by explicit wording in inspected context; keep neutral where needed",
+      "native_lines": [
+        7531,
+        7579,
+        7584
+      ],
+      "role": "Thrown from helicopter. Preserve combined Okura/student4 label7568 as two speakers; do not infer gender from boku/ore or silhouette.",
+      "native_fields": [
+        {
+          "id": "7531:text",
+          "ordinal": 3833
+        },
+        {
+          "id": "7579:text",
+          "ordinal": 3855
+        },
+        {
+          "id": "7584:text",
+          "ordinal": 3858
+        }
+      ]
+    },
+    {
+      "ja": "妹",
+      "proposed_en": "Younger Sister",
+      "gender": "female, explicit kinship",
+      "native_lines": [
+        4699,
+        4709,
+        5025
+      ],
+      "role": "Kanda's unnamed twelve-year-old sister. No first name or school name. Death before birthday explains the age clue.",
+      "native_fields": [
+        {
+          "id": "4699:text",
+          "ordinal": 2337
+        },
+        {
+          "id": "4709:text",
+          "ordinal": 2343
+        },
+        {
+          "id": "5025:text",
+          "ordinal": 2482
+        }
+      ]
+    },
+    {
+      "ja": "電話の声",
+      "proposed_en": "Voice on the Phone",
+      "gender": "parallel Shindo male; unidentified mirror entity unknown",
+      "native_lines": [
+        5516,
+        5557,
+        6212
+      ],
+      "role": "Keep label opaque before reveal. Parallel-world double and mirror replacement are separate branch explanations.",
+      "native_fields": [
+        {
+          "id": "5516:text",
+          "ordinal": 2789
+        },
+        {
+          "id": "5557:text",
+          "ordinal": 2822
+        },
+        {
+          "id": "6212:text",
+          "ordinal": 3116
+        }
+      ]
+    },
+    {
+      "ja": "？？？",
+      "proposed_en": "???",
+      "gender": "context dependent; never globally assigned",
+      "native_lines": [
+        1920,
+        1942,
+        4111,
+        6016,
+        9226,
+        10062
+      ],
+      "role": "Includes Kanda/Okura cries, Goto, clinical assistant(s), unidentified mirror voice, radio helper and second-Goto claimant.",
+      "native_fields": [
+        {
+          "id": "1920:text",
+          "ordinal": 894
+        },
+        {
+          "id": "1942:text",
+          "ordinal": 911
+        },
+        {
+          "id": "4111:text",
+          "ordinal": 2002
+        },
+        {
+          "id": "6016:text",
+          "ordinal": 3023
+        },
+        {
+          "id": "9226:text",
+          "ordinal": 4919
+        },
+        {
+          "id": "10062:text",
+          "ordinal": 5429
+        }
+      ]
+    },
+    {
+      "ja": [
+        "女子生徒１",
+        "女子生徒２",
+        "女子生徒３"
+      ],
+      "proposed_en": [
+        "Female Student 1",
+        "Female Student 2",
+        "Female Student 3"
+      ],
+      "gender": "female, explicit labels",
+      "native_lines": [
+        4526,
+        4530,
+        4535
+      ],
+      "role": "ED081 gossip coda; their explanations remain hearsay.",
+      "native_fields": [
+        {
+          "id": "4526:text",
+          "ordinal": 2228
+        },
+        {
+          "id": "4530:text",
+          "ordinal": 2231
+        },
+        {
+          "id": "4535:text",
+          "ordinal": 2235
+        }
+      ]
+    },
+    {
+      "role": "two guards",
+      "gender": "male, explicit3887",
+      "native_lines": [
+        3887
+      ],
+      "caution": "Unnamed; not automatically Goto duplicates.",
+      "native_fields": [
+        {
+          "id": "3887:text",
+          "ordinal": 1852
+        }
+      ]
+    },
+    {
+      "role": "helicopter pilot",
+      "gender": "male, explicit7282",
+      "native_lines": [
+        7282
+      ],
+      "caution": "Unnamed; not identified with other staff.",
+      "native_fields": [
+        {
+          "id": "7282:text",
+          "ordinal": 3679
+        }
+      ]
+    },
+    {
+      "role": "clinical assistant(s)",
+      "gender": "unspecified",
+      "native_lines": [
+        1943,
+        1958
+      ],
+      "caution": "Address Goto as doctor; clinical patient wording is not a name.",
+      "native_fields": [
+        {
+          "id": "1943:text",
+          "ordinal": 912
+        },
+        {
+          "id": "1958:text",
+          "ordinal": 922
+        }
+      ]
+    },
+    {
+      "role": "driver involved in sister's death",
+      "gender": "unspecified",
+      "native_lines": [
+        5140,
+        5143
+      ],
+      "caution": "Apprehended driver alleges she was pushed; does not prove who pushed her.",
+      "native_fields": [
+        {
+          "id": "5140:text",
+          "ordinal": 2545
+        },
+        {
+          "id": "5143:text",
+          "ordinal": 2547
+        }
+      ]
+    },
+    {
+      "role": "Okura's mother",
+      "gender": "female, explicit kinship",
+      "native_lines": [
+        6272,
+        6625
+      ],
+      "caution": "Unnamed, alternate-fate branch only.",
+      "native_fields": [
+        {
+          "id": "6272:text",
+          "ordinal": 3145
+        },
+        {
+          "id": "6625:text",
+          "ordinal": 3309
+        }
+      ]
+    },
+    {
+      "role": "Yamazaki's victims / radio helper",
+      "gender": "unspecified",
+      "native_lines": [
+        9226,
+        9290,
+        9358,
+        9359
+      ],
+      "caution": "Rescuing ghosts are Shindo's theory; do not invent personal names.",
+      "native_fields": [
+        {
+          "id": "9226:text",
+          "ordinal": 4919
+        },
+        {
+          "id": "9290:text",
+          "ordinal": 4960
+        },
+        {
+          "id": "9358:text",
+          "ordinal": 5003
+        },
+        {
+          "id": "9359:text",
+          "ordinal": 5004
+        }
+      ]
+    }
+  ],
+  "existing_cast_references": [
+    {
+      "lock": "work/glossary/core.json",
+      "names": [
+        "Shuichi Sakagami",
+        "Shinya Asahina",
+        "Sadao Hino",
+        "Emi Kurata",
+        "Makoto Shindo",
+        "Shoji Arai",
+        "Nozomu Kazama",
+        "Akemi Iwashita",
+        "Tomoharu Hosoda",
+        "Reiko Fukuzawa"
+      ],
+      "caution": "All recur. Customizable player names must remain placeholders. Narrator identity/body changes only in stated branches. Human-presenting speaker labels stay native."
+    },
+    {
+      "ja": "大倉和雄",
+      "en": "Kazuo Okura",
+      "lock": "work/glossary/shindo.json",
+      "gender": "male",
+      "native_lines": [
+        1181,
+        3493,
+        3853,
+        3855,
+        3859
+      ],
+      "role": "Shindo's classmate, Number Seven; opportunistic student moneylender/gambler, poor grades and conduct. Do not import Devil's Deck abilities.",
+      "native_fields": [
+        {
+          "id": "1181:text",
+          "ordinal": 500
+        },
+        {
+          "id": "3493:text",
+          "ordinal": 1674
+        },
+        {
+          "id": "3853:text",
+          "ordinal": 1832
+        },
+        {
+          "id": "3855:text",
+          "ordinal": 1833
+        },
+        {
+          "id": "3859:text",
+          "ordinal": 1837
+        }
+      ]
+    },
+    {
+      "ja": "斉藤圭輔",
+      "en": "Keisuke Saito",
+      "lock": "work/glossary/inoti.json",
+      "gender": "male, explicitly described with Miyamoto6789",
+      "native_lines": [
+        6772,
+        6789
+      ],
+      "voice": "Violent, belligerent; addresses Miyamoto by given name. No added school affiliation.",
+      "native_fields": [
+        {
+          "id": "6772:text",
+          "ordinal": 3374
+        },
+        {
+          "id": "6789:text",
+          "ordinal": 3386
+        }
+      ]
+    },
+    {
+      "ja": "宮本健史",
+      "en": "Takeshi Miyamoto",
+      "lock": "work/glossary/inoti.json",
+      "gender": "male, explicit6789",
+      "native_lines": [
+        6784,
+        6789,
+        6831
+      ],
+      "voice": "Politely composed while enabling violence. Do not import camp incident details.",
+      "native_fields": [
+        {
+          "id": "6784:text",
+          "ordinal": 3382
+        },
+        {
+          "id": "6789:text",
+          "ordinal": 3386
+        },
+        {
+          "id": "6831:text",
+          "ordinal": 3413
+        }
+      ]
+    },
+    {
+      "name": "Makoto Shindo",
+      "native_lines": [
+        131,
+        835,
+        843,
+        3493,
+        6404
+      ],
+      "role": "Third-year student at an unnamed top college-preparatory school, boxer; Number Eight/deputy expedition leader. Says he has no siblings in this branch.",
+      "voice": "Rough, blunt, confident, colloquial; insecure about math, enjoys teasing and intimidating narrator. Narration can be compassionate toward friends or selfish depending branch. Full English subjects and verbs without formalizing him.",
+      "native_fields": [
+        {
+          "id": "131:text",
+          "ordinal": 9
+        },
+        {
+          "id": "835:text",
+          "ordinal": 286
+        },
+        {
+          "id": "843:text",
+          "ordinal": 293
+        },
+        {
+          "id": "3493:text",
+          "ordinal": 1674
+        },
+        {
+          "id": "6404:text",
+          "ordinal": 3228
+        }
+      ]
+    },
+    {
+      "name": "Shinya Asahina",
+      "native_lines": [
+        6778,
+        6781
+      ],
+      "caution": "Interviewing in adjacent Photography Club room; remains Newspaper Club president. Does not become Photography Club president/member.",
+      "native_fields": [
+        {
+          "id": "6778:text",
+          "ordinal": 3379
+        },
+        {
+          "id": "6781:text",
+          "ordinal": 3381
+        }
+      ]
+    }
+  ],
+  "branch_identity_cautions": [
+    {
+      "lines": [
+        1900,
+        2009
+      ],
+      "ending": "ED075",
+      "note": "Shindo suspects Kanda/Okura were disposed of and replaced after clinical exchange; inference, not confirmed parallel-world swap."
+    },
+    {
+      "lines": [
+        2459,
+        2817
+      ],
+      "endings": [
+        "ED078",
+        "ED079"
+      ],
+      "note": "Kanda's apparent suicide ED078 differs from Goto's experimental killing ED079. Left-brain alien explanation is Goto's assertion. Preserve anatomical sides."
+    },
+    {
+      "lines": [
+        4466,
+        4556
+      ],
+      "ending": "ED081",
+      "note": "Customizable narrator revealed as older brother of a boy Shindo supposedly killed five years earlier; attacks Shindo. Future email undercuts certainty but contents withheld. Gossip coda is hearsay."
+    },
+    {
+      "lines": [
+        4698,
+        5120
+      ],
+      "ending": "ED082",
+      "note": "Sister dies before her thirteenth birthday. Apparent past call becomes dead-sister voice, identity not independently proven. Red button is apparition, not a real new floor name."
+    },
+    {
+      "lines": [
+        5385,
+        5914
+      ],
+      "endings": [
+        "ED087",
+        "ED088",
+        "ED089"
+      ],
+      "note": "Company parallel-world business; Yoshida/students swapped. First-person story eventually becomes murderous parallel Shindo's viewpoint. Keep native labels; don't pretend continuous original occupant."
+    },
+    {
+      "lines": [
+        5921,
+        6252
+      ],
+      "endings": [
+        "ED090",
+        "ED091",
+        "ED092"
+      ],
+      "note": "Unidentified mirror-caller alternatives separate from explicit company explanation. Missing reflection, dead future reflection and replacement differ. ED092 first person is mirror occupant who took Shindo's identity."
+    },
+    {
+      "lines": [
+        6259,
+        6709
+      ],
+      "endings": [
+        "ED083",
+        "ED084"
+      ],
+      "note": "Time revision alternates sister/mother deaths. ED083: Okura kills Kanda, saving mother but erasing future wife (Kanda's sister) and child. ED084: Kanda kills Okura; sister lives then dies by suicide, Okura her beloved. Do not merge outcomes or name child."
+    },
+    {
+      "lines": [
+        6756,
+        6876
+      ],
+      "ending": "ED085",
+      "note": "Asahina interviewing in adjacent Photography Club room. Remains Newspaper Club president. Saito/Miyamoto appear visiting students; no added Narugami enrollment."
+    },
+    {
+      "lines": [
+        6970,
+        7064
+      ],
+      "ending": "ED086",
+      "note": "Six storytellers Sunbaralians, Hino Noihi negotiates. Branch-specific. No imported biological-sex lore."
+    },
+    {
+      "lines": [
+        7382,
+        8380
+      ],
+      "ending": "ED098",
+      "note": "Antarctic destination Goto's claim. Pink winged crustacean creatures never named Mi-go; summoned god unnamed; Aldebaran named. Body restoration swaps occupants: Shindo says current face Kanda's. Keep stated chain, no invented full permutation."
+    },
+    {
+      "lines": [
+        8440,
+        8942
+      ],
+      "ending": "ED096",
+      "note": "Police identify Hakkoda in Aomori only here. Goto possession and continuing ghost march remain Shindo's theories."
+    },
+    {
+      "lines": [
+        8946,
+        9368
+      ],
+      "ending": "ED097",
+      "note": "Yamazaki attempts murder; earlier cabin occupants dead. Rescuing victims' ghosts and trapping predator are theories. No imported relation to Arai."
+    },
+    {
+      "lines": [
+        9373,
+        10128
+      ],
+      "endings": [
+        "ED094",
+        "ED095"
+      ],
+      "note": "Parasites and hallucinations. ED094 cannibal survival differs from ED095 second-Goto rescue. Second Goto claims first impostor; narrator suspects clones, unproven. Apparently dead named classmates recover in ED095."
+    },
+    {
+      "lines": [
+        10136,
+        10613
+      ],
+      "ending": "ED093",
+      "note": "Square participants inferred ghosts/thoughts of avalanche casualties. Shindo sole survivor. People claiming Goto association return him by airship, not helicopter."
+    }
+  ],
+  "source_discrepancies_to_preserve": [
+    {
+      "lines": [
+        3898,
+        3923
+      ],
+      "note": "Yoshida presses floor3, narration then describes floor6. Later1218/1238 assume6. No floor/control correction authorized."
+    },
+    {
+      "lines": [
+        3493,
+        7593,
+        7596
+      ],
+      "note": "Kanda6/Okura7/Shindo8 assigned; Goto addresses Okura as6 at7593. Preserve or raise explicitly, never silently repair."
+    },
+    {
+      "lines": [
+        1395,
+        2670,
+        3928,
+        7437
+      ],
+      "note": "School formal-name variants are same institution. Preserve source variation without creating new organizations."
+    },
+    {
+      "lines": [
+        1554,
+        2817
+      ],
+      "note": "Two native dispatches awardED079. Scene321 Kokkuri-san callback depends on prior Kazama story; preserve both."
+    },
+    {
+      "lines": [
+        2796,
+        2813
+      ],
+      "note": "Legacy flags/comments coexist with current ending code; don't rename controls."
+    },
+    {
+      "lines": [
+        4546,
+        6867
+      ],
+      "note": "Legacy No.3004 comment reused for different actualED081/ED085. Dispatch codes authoritative."
+    },
+    {
+      "lines": [
+        4369,
+        4402,
+        4408
+      ],
+      "note": "Handout image deliberately poor/wrong kanji and handwriting; choices mock both. Artwork must preserve joke rather than silently perfect spelling."
+    }
+  ],
+  "uncertainties": [
+    "Full Latin alien alias is editorial; wiki supports Noihi but published Latin full name not found.",
+    "Title and formal-school variants require approval before translation.",
+    "Point de Satan is proposed from kana; do not import geography from similar Endo story.",
+    "Student4 gender unconfirmed in inspected explicit wording; neutral where needed.",
+    "Supernatural claims are branch-specific or uncertain, not universal glossary facts."
+  ],
+  "research_sources": [
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/154.html",
+      "evidence": "Kana for Tatsuo Yoshida; Kiwame subsection confirms recruitment role. Other-version details excluded."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/239.html",
+      "evidence": "Kana for Ayumu Goto; Kiwame math-instructor context. Native4113 independently gives kana."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/270.html",
+      "evidence": "Kana for Takuro Kanda and male reference. Other-version class and relationships excluded."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/67.html",
+      "evidence": "Kana for Tetsuo Yamazaki; Kiwame subsection places him in this route. Native9051 independently gives kana."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/216.html",
+      "evidence": "Hyakuten juku kana; formal school name and alias distinction. Elementary-school version explicitly excluded."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/183.html",
+      "evidence": "Sagittarius term, Kiwame insect subsection; no imported symptoms/lore."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/50.html",
+      "evidence": "Company term and distinction from Mountain Association."
+    },
+    {
+      "url": "https://w.atwiki.jp/allmiccore/pages/78.html",
+      "evidence": "Noihi as Hino alien identity; full Latin spelling not established."
+    },
+    {
+      "url": "https://aomori-tourism.com/en/spot/detail_92.html",
+      "evidence": "Primary official Aomori tourist geography: Hakkoda Mountains English. No suffix added to native bare Aomori."
+    }
+  ]
+}

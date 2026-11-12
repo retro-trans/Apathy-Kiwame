@@ -1,0 +1,88 @@
+{
+  "scenario": "data/scenario/site.ks",
+  "status": "PLANNED ONLY. Not applied; no native fit or timing verification.",
+  "source_sha256": "cee111c93c8ddb367523b68aa00b452ea3eadd02d43d8861195c3c33d366bec0",
+  "dialogue": {
+    "font_px": 22,
+    "line_height_px": 27,
+    "status": "Starting point matching established English route layout; CG widths require native proof."
+  },
+  "choices": {
+    "193": 414,
+    "195": 414,
+    "199": 480,
+    "201": 480,
+    "205": 546,
+    "207": 546,
+    "1289": 414,
+    "1291": 414,
+    "1295": 480,
+    "1297": 480,
+    "1414": 414,
+    "1416": 414,
+    "1420": 480,
+    "1422": 480,
+    "1428": 546,
+    "1430": 546
+  },
+  "menus": [
+    {
+      "id": "opening",
+      "stop": 211,
+      "choice_lines": [
+        193,
+        195,
+        199,
+        201,
+        205,
+        207
+      ],
+      "timing": null
+    },
+    {
+      "id": "first_decision",
+      "stop": null,
+      "choice_lines": [
+        1289,
+        1291,
+        1295,
+        1297
+      ],
+      "timing": {
+        "wait_line": 1301,
+        "milliseconds": 8000,
+        "after_wait": {
+          "line": 1302,
+          "target": "*シーン008"
+        },
+        "meaning": "No selection during the wait takes the replacement-member branch. This is an executable timeout, not an affinity check."
+      }
+    },
+    {
+      "id": "second_decision",
+      "stop": 1434,
+      "choice_lines": [
+        1414,
+        1416,
+        1420,
+        1422,
+        1428,
+        1430
+      ],
+      "timing": {
+        "wait_line": 1425,
+        "milliseconds": 8000,
+        "after_wait": "Create option3 at1428/1430, then stop at1434; the original two options remain clickable during the wait."
+      }
+    }
+  ],
+  "frame_review_lines": [
+    27,
+    687,
+    712,
+    763,
+    777,
+    1962
+  ],
+  "constraint": "Horizontal English cards must preserve all native targets, visited flags,8s waits and delayed option creation. Do not place option3 early. Do not call1301 a static stop."
+}

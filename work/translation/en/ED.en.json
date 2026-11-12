@@ -1,0 +1,888 @@
+{
+  "scenario": "data/scenario/ED.ks",
+  "source_sha256": "da520371f0da43a726720d43fb8973c2150022a6425e02b1a4992d661babdf91",
+  "rows": {
+    "128:ptext.text.1": [
+      "ED001: ------"
+    ],
+    "129:ptext.text.1": [
+      "ED001: It Ends Today"
+    ],
+    "131:ptext.text.1": [
+      "ED002: ------"
+    ],
+    "132:ptext.text.1": [
+      "ED002: The Man Who Could See"
+    ],
+    "134:ptext.text.1": [
+      "ED003: ------"
+    ],
+    "135:ptext.text.1": [
+      "ED003: The Fourth-Dimensional Boy"
+    ],
+    "137:ptext.text.1": [
+      "ED004: ------"
+    ],
+    "138:ptext.text.1": [
+      "ED004: The Aftermath of a Handshake"
+    ],
+    "140:ptext.text.1": [
+      "ED005: ------"
+    ],
+    "141:ptext.text.1": [
+      "ED005: Ghosts Come to Those Who Laugh"
+    ],
+    "143:ptext.text.1": [
+      "ED006: ------"
+    ],
+    "144:ptext.text.1": [
+      "ED006: Grim Reaper Joker"
+    ],
+    "146:ptext.text.1": [
+      "ED007: ------"
+    ],
+    "147:ptext.text.1": [
+      "ED007: Hell Without End"
+    ],
+    "149:ptext.text.1": [
+      "ED008: ------"
+    ],
+    "150:ptext.text.1": [
+      "ED008: Poker for Souls"
+    ],
+    "152:ptext.text.1": [
+      "ED009: ------"
+    ],
+    "153:ptext.text.1": [
+      "ED009: My Savior"
+    ],
+    "155:ptext.text.1": [
+      "ED010: ------"
+    ],
+    "156:ptext.text.1": [
+      "ED010: A Contract for Life"
+    ],
+    "158:ptext.text.1": [
+      "ED011: ------"
+    ],
+    "159:ptext.text.1": [
+      "ED011: Rustle, Rustle"
+    ],
+    "161:ptext.text.1": [
+      "ED012: ------"
+    ],
+    "162:ptext.text.1": [
+      "ED012: Kirara the Magical Girl"
+    ],
+    "164:ptext.text.1": [
+      "ED013: ------"
+    ],
+    "165:ptext.text.1": [
+      "ED013: Who Wrote “Goodbye”?"
+    ],
+    "167:ptext.text.1": [
+      "ED014: ------"
+    ],
+    "168:ptext.text.1": [
+      "ED014: Where Madness Leads"
+    ],
+    "170:ptext.text.1": [
+      "ED015: ------"
+    ],
+    "171:ptext.text.1": [
+      "ED015: The Monster on the Roof"
+    ],
+    "174:ptext.text.1": [
+      "ED016: ------"
+    ],
+    "175:ptext.text.1": [
+      "ED016: The Ideal Way to Die"
+    ],
+    "177:ptext.text.1": [
+      "ED017: ------"
+    ],
+    "178:ptext.text.1": [
+      "ED017: Suicide with You"
+    ],
+    "180:ptext.text.1": [
+      "ED018: ------"
+    ],
+    "181:ptext.text.1": [
+      "ED018: Dragged Down by Love"
+    ],
+    "183:ptext.text.1": [
+      "ED019: ------"
+    ],
+    "184:ptext.text.1": [
+      "ED019: The Hungry Soil"
+    ],
+    "186:ptext.text.1": [
+      "ED020: ------"
+    ],
+    "187:ptext.text.1": [
+      "ED020: One Guest, Right This Way"
+    ],
+    "189:ptext.text.1": [
+      "ED021: ------"
+    ],
+    "190:ptext.text.1": [
+      "ED021: Shopping with Kazama"
+    ],
+    "192:ptext.text.1": [
+      "ED022: ------"
+    ],
+    "193:ptext.text.1": [
+      "ED022: Kazama the Salesman"
+    ],
+    "195:ptext.text.1": [
+      "ED023: ------"
+    ],
+    "196:ptext.text.1": [
+      "ED023: Let Sleeping Kazama Lie"
+    ],
+    "198:ptext.text.1": [
+      "ED024: ------"
+    ],
+    "199:ptext.text.1": [
+      "ED024: Kokkuri-san: The Premium Package"
+    ],
+    "201:ptext.text.1": [
+      "ED025: ------"
+    ],
+    "202:ptext.text.1": [
+      "ED025: Adding Kazama to Injury"
+    ],
+    "204:ptext.text.1": [
+      "ED026: ------"
+    ],
+    "205:ptext.text.1": [
+      "ED026: The Truth About Kokkuri-san"
+    ],
+    "207:ptext.text.1": [
+      "ED027: ------"
+    ],
+    "208:ptext.text.1": [
+      "ED027: Special Kokkuri-san"
+    ],
+    "210:ptext.text.1": [
+      "ED028: ------"
+    ],
+    "211:ptext.text.1": [
+      "ED028: Be... hind..."
+    ],
+    "213:ptext.text.1": [
+      "ED029: ------"
+    ],
+    "214:ptext.text.1": [
+      "ED029: The Curse"
+    ],
+    "216:ptext.text.1": [
+      "ED030: ------"
+    ],
+    "217:ptext.text.1": [
+      "ED030: ???"
+    ],
+    "220:ptext.text.1": [
+      "ED031: ------"
+    ],
+    "221:ptext.text.1": [
+      "ED031: The Answer Before Your Eyes"
+    ],
+    "223:ptext.text.1": [
+      "ED032: ------"
+    ],
+    "224:ptext.text.1": [
+      "ED032: Sleeping Beauties"
+    ],
+    "226:ptext.text.1": [
+      "ED033: ------"
+    ],
+    "227:ptext.text.1": [
+      "ED033: Red She..."
+    ],
+    "229:ptext.text.1": [
+      "ED034: ------"
+    ],
+    "230:ptext.text.1": [
+      "ED034: The Price of Summoning"
+    ],
+    "232:ptext.text.1": [
+      "ED035: ------"
+    ],
+    "233:ptext.text.1": [
+      "ED035: The Haunted Restroom"
+    ],
+    "235:ptext.text.1": [
+      "ED036: ------"
+    ],
+    "236:ptext.text.1": [
+      "ED036: The Neighbor"
+    ],
+    "238:ptext.text.1": [
+      "ED037: ------"
+    ],
+    "239:ptext.text.1": [
+      "ED037: The Truth Behind the Smiles"
+    ],
+    "241:ptext.text.1": [
+      "ED038: ------"
+    ],
+    "242:ptext.text.1": [
+      "ED038: The Bloody Stall"
+    ],
+    "244:ptext.text.1": [
+      "ED039: ------"
+    ],
+    "245:ptext.text.1": [
+      "ED039: Ignorance Is Bliss"
+    ],
+    "247:ptext.text.1": [
+      "ED040: ------"
+    ],
+    "248:ptext.text.1": [
+      "ED040: Nothing Costs More Than Free"
+    ],
+    "250:ptext.text.1": [
+      "ED041: ------"
+    ],
+    "251:ptext.text.1": [
+      "ED041: The Elusive Sambra Tree"
+    ],
+    "253:ptext.text.1": [
+      "ED042: ------"
+    ],
+    "254:ptext.text.1": [
+      "ED042: The Red Mark of Fate"
+    ],
+    "256:ptext.text.1": [
+      "ED043: ------"
+    ],
+    "257:ptext.text.1": [
+      "ED043: That Unforgettable Taste"
+    ],
+    "259:ptext.text.1": [
+      "ED044: ------"
+    ],
+    "260:ptext.text.1": [
+      "ED044: A Shared Diary in Heaven"
+    ],
+    "262:ptext.text.1": [
+      "ED045: ------"
+    ],
+    "263:ptext.text.1": [
+      "ED045: The Shadow of Regret"
+    ],
+    "266:ptext.text.1": [
+      "ED046: ------"
+    ],
+    "267:ptext.text.1": [
+      "ED046: A Corpse’s Cry"
+    ],
+    "269:ptext.text.1": [
+      "ED047: ------"
+    ],
+    "270:ptext.text.1": [
+      "ED047: Lying Is the First Step to Execution"
+    ],
+    "272:ptext.text.1": [
+      "ED048: ------"
+    ],
+    "273:ptext.text.1": [
+      "ED048: Eternal Atonement"
+    ],
+    "275:ptext.text.1": [
+      "ED049: ------"
+    ],
+    "276:ptext.text.1": [
+      "ED049: The Promise"
+    ],
+    "278:ptext.text.1": [
+      "ED050: ------"
+    ],
+    "279:ptext.text.1": [
+      "ED050: The Spirits’ Test"
+    ],
+    "281:ptext.text.1": [
+      "ED051: ------"
+    ],
+    "282:ptext.text.1": [
+      "ED051: Ant Hell"
+    ],
+    "284:ptext.text.1": [
+      "ED052: ------"
+    ],
+    "285:ptext.text.1": [
+      "ED052: Goodbye, World"
+    ],
+    "287:ptext.text.1": [
+      "ED053: ------"
+    ],
+    "288:ptext.text.1": [
+      "ED053: Where Is the Truth?"
+    ],
+    "290:ptext.text.1": [
+      "ED054: ------"
+    ],
+    "291:ptext.text.1": [
+      "ED054: Orange Juice Just for Me"
+    ],
+    "293:ptext.text.1": [
+      "ED055: ------"
+    ],
+    "294:ptext.text.1": [
+      "ED055: What's in the Treasure Chest?"
+    ],
+    "296:ptext.text.1": [
+      "ED056: ------"
+    ],
+    "297:ptext.text.1": [
+      "ED056: Out of Reach"
+    ],
+    "299:ptext.text.1": [
+      "ED057: ------"
+    ],
+    "300:ptext.text.1": [
+      "ED057: The Die Is Cast"
+    ],
+    "302:ptext.text.1": [
+      "ED058: ------"
+    ],
+    "303:ptext.text.1": [
+      "ED058: The Feast Begins"
+    ],
+    "305:ptext.text.1": [
+      "ED059: ------"
+    ],
+    "306:ptext.text.1": [
+      "ED059: Revenge Site"
+    ],
+    "308:ptext.text.1": [
+      "ED060: ------"
+    ],
+    "309:ptext.text.1": [
+      "ED060: Burying the Lie"
+    ],
+    "448:ptext.text.1": [
+      "ED061: ------"
+    ],
+    "449:ptext.text.1": [
+      "ED061: The Star of Dinner"
+    ],
+    "451:ptext.text.1": [
+      "ED062: ------"
+    ],
+    "452:ptext.text.1": [
+      "ED062: I'm the Hero"
+    ],
+    "454:ptext.text.1": [
+      "ED063: ------"
+    ],
+    "455:ptext.text.1": [
+      "ED063: Eaten with Relish"
+    ],
+    "457:ptext.text.1": [
+      "ED064: ------"
+    ],
+    "458:ptext.text.1": [
+      "ED064: Everyone Wants a Taste of Human Flesh"
+    ],
+    "460:ptext.text.1": [
+      "ED065: ------"
+    ],
+    "461:ptext.text.1": [
+      "ED065: Farewell, Humanity"
+    ],
+    "463:ptext.text.1": [
+      "ED066: ------"
+    ],
+    "464:ptext.text.1": [
+      "ED066: Who's to Blame?"
+    ],
+    "466:ptext.text.1": [
+      "ED067: ------"
+    ],
+    "467:ptext.text.1": [
+      "ED067: I'm an Urban Legend Too"
+    ],
+    "469:ptext.text.1": [
+      "ED068: ------"
+    ],
+    "470:ptext.text.1": [
+      "ED068: Cannibal Buddies"
+    ],
+    "472:ptext.text.1": [
+      "ED069: ------"
+    ],
+    "473:ptext.text.1": [
+      "ED069: At the Famed Bavarois Cat"
+    ],
+    "475:ptext.text.1": [
+      "ED070: ------"
+    ],
+    "476:ptext.text.1": [
+      "ED070: We Are the Okuri-inu"
+    ],
+    "478:ptext.text.1": [
+      "ED071: ------"
+    ],
+    "479:ptext.text.1": [
+      "ED071: The Wonderful World of Self-Harm"
+    ],
+    "481:ptext.text.1": [
+      "ED072: ------"
+    ],
+    "482:ptext.text.1": [
+      "ED072: Strangers in the Next Life"
+    ],
+    "484:ptext.text.1": [
+      "ED073: ------"
+    ],
+    "485:ptext.text.1": [
+      "ED073: The New Newspaper Club"
+    ],
+    "487:ptext.text.1": [
+      "ED074: ------"
+    ],
+    "488:ptext.text.1": [
+      "ED074: Let Sleeping Dogs Lie"
+    ],
+    "490:ptext.text.1": [
+      "ED075: ------"
+    ],
+    "491:ptext.text.1": [
+      "ED075: What Matters Most"
+    ],
+    "494:ptext.text.1": [
+      "ED076: ------"
+    ],
+    "495:ptext.text.1": [
+      "ED076: Welcome to Perfect Score Cram School"
+    ],
+    "497:ptext.text.1": [
+      "ED077: ------"
+    ],
+    "498:ptext.text.1": [
+      "ED077: Sweet Temptation"
+    ],
+    "500:ptext.text.1": [
+      "ED078: ------"
+    ],
+    "501:ptext.text.1": [
+      "ED078: Sensing Danger"
+    ],
+    "503:ptext.text.1": [
+      "ED079: ------"
+    ],
+    "504:ptext.text.1": [
+      "ED079: The Right-Hand Neighbor"
+    ],
+    "506:ptext.text.1": [
+      "ED080: ------"
+    ],
+    "507:ptext.text.1": [
+      "ED080: All That Apologizing for Nothing"
+    ],
+    "509:ptext.text.1": [
+      "ED081: ------"
+    ],
+    "510:ptext.text.1": [
+      "ED081: The Truth Remains Hidden"
+    ],
+    "512:ptext.text.1": [
+      "ED082: ------"
+    ],
+    "513:ptext.text.1": [
+      "ED082: A Call to the Underworld"
+    ],
+    "515:ptext.text.1": [
+      "ED083: ------"
+    ],
+    "516:ptext.text.1": [
+      "ED083: Too Late"
+    ],
+    "518:ptext.text.1": [
+      "ED084: ------"
+    ],
+    "519:ptext.text.1": [
+      "ED084: Fated Love"
+    ],
+    "521:ptext.text.1": [
+      "ED085: ------"
+    ],
+    "522:ptext.text.1": [
+      "ED085: Emi's Advice"
+    ],
+    "524:ptext.text.1": [
+      "ED086: ------"
+    ],
+    "525:ptext.text.1": [
+      "ED086: Farewell, Humanity: Part II"
+    ],
+    "527:ptext.text.1": [
+      "ED087: ------"
+    ],
+    "528:ptext.text.1": [
+      "ED087: A New Life"
+    ],
+    "530:ptext.text.1": [
+      "ED088: ------"
+    ],
+    "531:ptext.text.1": [
+      "ED088: All's Well That Ends Well"
+    ],
+    "533:ptext.text.1": [
+      "ED089: ------"
+    ],
+    "534:ptext.text.1": [
+      "ED089: The Mirror of Escape"
+    ],
+    "536:ptext.text.1": [
+      "ED090: ------"
+    ],
+    "537:ptext.text.1": [
+      "ED090: Another Me"
+    ],
+    "540:ptext.text.1": [
+      "ED091: ------"
+    ],
+    "541:ptext.text.1": [
+      "ED091: Who Died?"
+    ],
+    "543:ptext.text.1": [
+      "ED092: ------"
+    ],
+    "544:ptext.text.1": [
+      "ED092: The World in the Mirror"
+    ],
+    "546:ptext.text.1": [
+      "ED093: ------"
+    ],
+    "547:ptext.text.1": [
+      "ED093: Rainbow Valley"
+    ],
+    "549:ptext.text.1": [
+      "ED094: ------"
+    ],
+    "550:ptext.text.1": [
+      "ED094: The Madness of Sagittarius"
+    ],
+    "552:ptext.text.1": [
+      "ED095: ------"
+    ],
+    "553:ptext.text.1": [
+      "ED095: An Infested Life"
+    ],
+    "555:ptext.text.1": [
+      "ED096: ------"
+    ],
+    "556:ptext.text.1": [
+      "ED096: Whiteout"
+    ],
+    "558:ptext.text.1": [
+      "ED097: ------"
+    ],
+    "559:ptext.text.1": [
+      "ED097: Satan's True Face"
+    ],
+    "561:ptext.text.1": [
+      "ED098: ------"
+    ],
+    "562:ptext.text.1": [
+      "ED098: The Pitfall of Kindness"
+    ],
+    "564:ptext.text.1": [
+      "ED099: ------"
+    ],
+    "565:ptext.text.1": [
+      "ED099: Legendary Horror Stream"
+    ],
+    "567:ptext.text.1": [
+      "ED100: ------"
+    ],
+    "568:ptext.text.1": [
+      "ED100: We Won't Let You Get Away"
+    ],
+    "570:ptext.text.1": [
+      "ED101: ------"
+    ],
+    "571:ptext.text.1": [
+      "ED101: Wiped Out"
+    ],
+    "573:ptext.text.1": [
+      "ED102: ------"
+    ],
+    "574:ptext.text.1": [
+      "ED102: An Offering to the Dead"
+    ],
+    "576:ptext.text.1": [
+      "ED103: ------"
+    ],
+    "577:ptext.text.1": [
+      "ED103: Not Alone"
+    ],
+    "579:ptext.text.1": [
+      "ED104: ------"
+    ],
+    "580:ptext.text.1": [
+      "ED104: Good Night"
+    ],
+    "582:ptext.text.1": [
+      "ED105: ------"
+    ],
+    "583:ptext.text.1": [
+      "ED105: Rest in Peace"
+    ],
+    "586:ptext.text.1": [
+      "ED106: ------"
+    ],
+    "587:ptext.text.1": [
+      "ED106: A Soldier's Last Letter"
+    ],
+    "589:ptext.text.1": [
+      "ED107: ------"
+    ],
+    "590:ptext.text.1": [
+      "ED107: Hosoda Loses His Lump"
+    ],
+    "592:ptext.text.1": [
+      "ED108: ------"
+    ],
+    "593:ptext.text.1": [
+      "ED108: Rupture"
+    ],
+    "595:ptext.text.1": [
+      "ED109: ------"
+    ],
+    "596:ptext.text.1": [
+      "ED109: Welcome to Narukami Park"
+    ],
+    "598:ptext.text.1": [
+      "ED110: ------"
+    ],
+    "599:ptext.text.1": [
+      "ED110: The Tanuki of Mount Narugami"
+    ],
+    "601:ptext.text.1": [
+      "ED111: ------"
+    ],
+    "602:ptext.text.1": [
+      "ED111: My Summer Vacation"
+    ],
+    "604:ptext.text.1": [
+      "ED112: ------"
+    ],
+    "605:ptext.text.1": [
+      "ED112: The Red Room"
+    ],
+    "607:ptext.text.1": [
+      "ED113: ------"
+    ],
+    "608:ptext.text.1": [
+      "ED113: Love's Purgatory"
+    ],
+    "610:ptext.text.1": [
+      "ED114: ------"
+    ],
+    "611:ptext.text.1": [
+      "ED114: The Red Figure in the Woods"
+    ],
+    "613:ptext.text.1": [
+      "ED115: ------"
+    ],
+    "614:ptext.text.1": [
+      "ED115: The Snowless Stone"
+    ],
+    "616:ptext.text.1": [
+      "ED116: ------"
+    ],
+    "617:ptext.text.1": [
+      "ED116: Haunted Cabin 13"
+    ],
+    "619:ptext.text.1": [
+      "ED117: ------"
+    ],
+    "620:ptext.text.1": [
+      "ED117: Boats and Breakups"
+    ],
+    "622:ptext.text.1": [
+      "ED118: ------"
+    ],
+    "623:ptext.text.1": [
+      "ED118: The Bloodstained Boat"
+    ],
+    "625:ptext.text.1": [
+      "ED119: ------"
+    ],
+    "626:ptext.text.1": [
+      "ED119: Bound Spirits on the Lakebed"
+    ],
+    "628:ptext.text.1": [
+      "ED120: ------"
+    ],
+    "629:ptext.text.1": [
+      "ED120: The Weight of Life"
+    ],
+    "760:ptext.text.1": [
+      "ED121: ------"
+    ],
+    "761:ptext.text.1": [
+      "ED121: Body Rental"
+    ],
+    "763:ptext.text.1": [
+      "ED122: ------"
+    ],
+    "764:ptext.text.1": [
+      "ED122: Listen to the Tape"
+    ],
+    "766:ptext.text.1": [
+      "ED123: ------"
+    ],
+    "767:ptext.text.1": [
+      "ED123: Seto the Swimmer"
+    ],
+    "769:ptext.text.1": [
+      "ED124: ------"
+    ],
+    "770:ptext.text.1": [
+      "ED124: Left Waiting in the Cave"
+    ],
+    "772:ptext.text.1": [
+      "ED125: ------"
+    ],
+    "773:ptext.text.1": [
+      "ED125: Please Come Again"
+    ],
+    "775:ptext.text.1": [
+      "ED126: ------"
+    ],
+    "776:ptext.text.1": [
+      "ED126: Underground Kingdom Mystery"
+    ],
+    "778:ptext.text.1": [
+      "ED127: ------"
+    ],
+    "779:ptext.text.1": [
+      "ED127: That Girl Is Happy"
+    ],
+    "781:ptext.text.1": [
+      "ED128: ------"
+    ],
+    "782:ptext.text.1": [
+      "ED128: Loyalty"
+    ],
+    "784:ptext.text.1": [
+      "ED129: ------"
+    ],
+    "785:ptext.text.1": [
+      "ED129: True Feelings"
+    ],
+    "787:ptext.text.1": [
+      "ED130: ------"
+    ],
+    "788:ptext.text.1": [
+      "ED130: A Decaying Body"
+    ],
+    "790:ptext.text.1": [
+      "ED131: ------"
+    ],
+    "791:ptext.text.1": [
+      "ED131: On the Brink of Madness"
+    ],
+    "793:ptext.text.1": [
+      "ED132: ------"
+    ],
+    "794:ptext.text.1": [
+      "ED132: The Depths of Malice"
+    ],
+    "796:ptext.text.1": [
+      "ED133: ------"
+    ],
+    "797:ptext.text.1": [
+      "ED133: Under Its Spell"
+    ],
+    "799:ptext.text.1": [
+      "ED134: ------"
+    ],
+    "800:ptext.text.1": [
+      "ED134: Nightfall"
+    ],
+    "802:ptext.text.1": [
+      "ED135: ------"
+    ],
+    "803:ptext.text.1": [
+      "ED135: The Last Light"
+    ],
+    "806:ptext.text.1": [
+      "ED136: ------"
+    ],
+    "807:ptext.text.1": [
+      "ED136: The Devil's Melody"
+    ],
+    "809:ptext.text.1": [
+      "ED137: ------"
+    ],
+    "810:ptext.text.1": [
+      "ED137: Lost Time"
+    ],
+    "812:ptext.text.1": [
+      "ED138: ------"
+    ],
+    "813:ptext.text.1": [
+      "ED138: Dreamworld Tour"
+    ],
+    "815:ptext.text.1": [
+      "ED139: ------"
+    ],
+    "816:ptext.text.1": [
+      "ED139: The Silver Key Beyond Time and Space"
+    ],
+    "818:ptext.text.1": [
+      "ED140: ------"
+    ],
+    "819:ptext.text.1": [
+      "ED140: Twilight Ritual"
+    ],
+    "821:ptext.text.1": [
+      "ED141: ------"
+    ],
+    "822:ptext.text.1": [
+      "ED141: Glory and Ruin"
+    ],
+    "824:ptext.text.1": [
+      "ED142: ------"
+    ],
+    "825:ptext.text.1": [
+      "ED142: Until We Meet Again"
+    ],
+    "827:ptext.text.1": [
+      "ED143: ------"
+    ],
+    "828:ptext.text.1": [
+      "ED143: In Mother's Arms"
+    ],
+    "830:ptext.text.1": [
+      "ED144: ------"
+    ],
+    "831:ptext.text.1": [
+      "ED144: Proof of Life"
+    ],
+    "833:ptext.text.1": [
+      "ED145: ------"
+    ],
+    "834:ptext.text.1": [
+      "ED145: Mountains of Madness"
+    ],
+    "836:ptext.text.1": [
+      "ED146: ------"
+    ],
+    "837:ptext.text.1": [
+      "ED146: An Ominous Presence"
+    ],
+    "839:ptext.text.1": [
+      "ED147: ------"
+    ],
+    "840:ptext.text.1": [
+      "ED147: Return to the Sea"
+    ]
+  }
+}

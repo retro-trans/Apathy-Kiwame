@@ -1,0 +1,4 @@
+# Preserve exact source/overlay bytes across checkouts.
+* -text
+# Empty WebVTT tracks still require their header's terminating blank line.
+*.vtt whitespace=-blank-at-eof,cr-at-eol

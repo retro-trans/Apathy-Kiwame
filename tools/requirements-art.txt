@@ -1,0 +1,2 @@
+# Glyph outlines used by the Summoning Incident SVG builder.
+fonttools==4.57.0

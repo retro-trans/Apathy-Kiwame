@@ -1,0 +1,12 @@
+{
+  "scenario": "data/scenario/settei/EDflg.ks",
+  "source_sha256": "9fcb3c577f7b08bb5245d3293b271188b7820b64915160cb82594e913ace0d9f",
+  "rows": {
+    "755:title.name.1": [
+      "Apathy Kiwame"
+    ],
+    "767:title.name.1": [
+      "Apathy Kiwame"
+    ]
+  }
+}

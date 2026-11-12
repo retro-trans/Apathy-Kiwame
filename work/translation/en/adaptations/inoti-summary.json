@@ -1,0 +1,38 @@
+{
+  "scenario": "data/scenario/inoti.ks",
+  "version": 1,
+  "source_range": [3356, 3438],
+  "legacy_load_range": [3352, 3454],
+  "background_line": 3352,
+  "replacement_background": "kuro.jpg",
+  "placeholder": "...",
+  "pages": [
+    {
+      "first": 3356,
+      "last": 3381,
+      "show": 3356,
+      "pause": 3362,
+      "text": "Adapted summary (1/3): Moriyama enters the marked cabin expecting a sexual encounter. In the darkness, he assumes the person waiting for him is a girl."
+    },
+    {
+      "first": 3382,
+      "last": 3416,
+      "show": 3382,
+      "pause": 3394,
+      "text": "Adapted summary (2/3): The encounter is not what he expected. He panics as he is subjected to unwanted sexual contact. He repeatedly demands that the person stop and threatens them as he tries to get away."
+    },
+    {
+      "first": 3417,
+      "last": 3438,
+      "show": 3417,
+      "pause": 3438,
+      "text": "Adapted summary (3/3): Moriyama manages to escape. The account then returns to him and his friends outside the cabin."
+    }
+  ],
+  "editorial_note": "A non-graphic adaptation, not a verbatim translation. Preserves the marked cabin, mistaken expectation, darkness, unwanted contact, panic, demands to stop, threat and escape. Does not identify the other person or imply that the markings establish consent.",
+  "review": {
+    "accuracy": "Compared the existing source-compared non-graphic review with the approved English lead-in and aftermath. The earlier review examined120 fields (1661..1780); all61 retained locators and their command metadata checked without reproducing restricted prose. Escape is confirmed by the immediate aftermath. No added age, identity or gender for the other person.",
+    "editorial": "Third-person summary, explicitly labelled on every page; avoids an invented quotation or the original comic sexual tone. Retains cause, reaction and outcome.",
+    "proofreading": "Complete sentences, locked Moriyama name, ASCII punctuation, clear pronoun direction. Three native paragraph pauses; other original orders remain in place for old saves."
+  }
+}

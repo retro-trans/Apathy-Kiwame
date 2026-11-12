@@ -1,0 +1,7 @@
+{
+  "status":"Native visual/copy and protected-pixel fixture checks passed; actual story/timing integration pending",
+  "width":960,"height":690,
+  "title":{"source":"title/title_hukusyusite.jpg","clean":"work/ui/art/site-title-clean.png","patches":[[255,250,440,185]],"width":960,"height":690,"text":"Revenge Site","x":480,"baseline":370,"font_px":62},
+  "pc":{"source":"site/PC画面.jpg","clean":"work/ui/art/site-pc-clean.png","patches":[[339,300,247,111]],"width":960,"height":690,"text":"Revenge Site","x":463,"baseline":368,"font_px":35},
+  "invariants":"Composite only the approved lettering rectangles over original pixels. Preserve outside splatter contours, physical monitor, cursor, screen reflections, desk and background. Exact clean-plate prompts are in work/ui/art/site-clean-plates.json."
+}

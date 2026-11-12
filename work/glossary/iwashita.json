@@ -1,0 +1,13 @@
+{
+  "language": "en",
+  "scope": "Akemi Iwashita's promise and diary stories in iwashita.ks.",
+  "entries": [
+    {"id": "akemi_iwashita", "ja": "岩下明美", "reading": "いわした あけみ", "en": "Akemi Iwashita", "kind": "person", "gender": "female", "role": "Third-year high school student and storyteller", "note": "Composed, insistent, and ready to turn the listener's own answers against them. The Kiwame story belongs to her own school's past. Preserve the shift into second-person storytelling.", "sources": ["Steam scenario iwashita.ks", "https://w.atwiki.jp/allmiccore/pages/42.html"]},
+    {"id": "akiko_sano", "ja": "佐野明子", "reading": "さの あきこ", "en": "Akiko Sano", "kind": "person", "gender": "female", "role": "Girl in Iwashita's story about a shared diary", "note": "Quiet and withdrawn. Finds written communication easier than speaking and strongly values the diary exchanged with her boyfriend. Introduce her name only where the original does.", "sources": ["Steam scenario iwashita.ks", "https://w.atwiki.jp/allmiccore/pages/245.html"]},
+    {"id": "yoko_nakata", "ja": "中田洋子", "reading": "なかた ようこ", "en": "Yoko Nakata", "kind": "person", "gender": "female", "role": "Girl from another class who later proposes sharing a diary", "note": "Quiet and reserved. The story links her appearance with Sano's memory. Preserve its uncertainty about what is real.", "sources": ["Steam scenario iwashita.ks", "https://w.atwiki.jp/allmiccore/pages/148.html"]},
+    {"id": "shared_diary", "ja": "交換日記", "en": "shared diary", "kind": "object and practice", "note": "Two people take turns writing entries and passing the same diary back and forth. Use diary when the source shortens the term.", "sources": ["Steam scenario iwashita.ks"]},
+    {"id": "classroom_duty", "ja": "日直", "en": "classroom duty", "kind": "school role", "note": "Two students share the day's classroom duties. Preserve the paired assignment and distinguish the class log from a personal diary.", "sources": ["Steam scenario iwashita.ks lines2575–2598"]},
+    {"id": "class_log", "ja": "日誌", "en": "class log", "kind": "object", "note": "The official record of the day's classroom events, contrasted with Sano's personal diary at2593.", "sources": ["Steam scenario iwashita.ks lines2587–2598"]},
+    {"id": "spirit_world", "ja": "霊界", "en": "spirit world", "kind": "setting term", "note": "Generic realm of spirits. The corridor of endless hell is a description, not an established named location.", "sources": ["Steam scenario iwashita.ks lines1787–1796"]}
+  ]
+}

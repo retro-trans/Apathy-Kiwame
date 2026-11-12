@@ -1,0 +1,4566 @@
+{
+  "scenario": "data/scenario/rpg/stage.ks",
+  "source_sha256": "6b3667dc04da6fc5c60cfc22b577f67b81b896416f826d232884751be5f4f86f",
+  "rows": {
+    "61:text": [
+      "They're indoor shoes.",
+      "They're pretty dirty."
+    ],
+    "67:text": [
+      "“Should we turn these in to lost and found?”"
+    ],
+    "72:text": [
+      "“You're... pretty conscientious, huh."
+    ],
+    "73:text": [
+      "...They stopped using this old school building"
+    ],
+    "74:text": [
+      "long before I enrolled.”"
+    ],
+    "76:text": [
+      "“The owner graduated ages ago.",
+      " Besides...”"
+    ],
+    "78:text": [
+      "“The shoes probably don't even fit them anymore."
+    ],
+    "79:text": [
+      "Even if the owner got them back, they'd probably just throw them out.”"
+    ],
+    "81:text": [
+      "“Maybe someone would want to keep them as a memento of their school days,"
+    ],
+    "82:text": [
+      "but that kind of person would've remembered to take them home in the first place.”"
+    ],
+    "87:text": [
+      "...I was just asking, but Hino sure took that seriously..."
+    ],
+    "99:text": [
+      "Someone left a pair of sneakers behind."
+    ],
+    "110:text": [
+      "I picked a shoe cubby that caught my eye and peered inside."
+    ],
+    "111:text": [
+      "...It was empty."
+    ],
+    "113:text": [
+      "I guess that made sense. Nobody used this building anymore."
+    ],
+    "114:text": [
+      "Still, I'd better look carefully, just in case..."
+    ],
+    "125:text": [
+      "Surely there was no harm in looking inside."
+    ],
+    "126:text": [
+      "I reached for the envelope."
+    ],
+    "134:text": [
+      "This pentagram...",
+      " It's the same symbol as in the photo Hino showed me."
+    ],
+    "135:text": [
+      "Could ‘Yoshino’ be the sender's name...?"
+    ],
+    "140:text": [
+      "There was a single photo in the envelope."
+    ],
+    "142:text": [
+      "Was this photo taken somewhere in the old school building, too?"
+    ],
+    "143:text": [
+      "Then there was the symbol on the envelope."
+    ],
+    "144:text": [
+      "There might be some connection to the curse on the old school building..."
+    ],
+    "156:text": [
+      " pasted the “Mystery Photo” into the field notes."
+    ],
+    "171:text": [
+      "“Hino, I found something in a shoe cubby...”"
+    ],
+    "175:text": [
+      "“...Let's have a look.”"
+    ],
+    "179:text": [
+      "Hino opened the envelope without a moment's hesitation."
+    ],
+    "180:text": [
+      "For such a scaredy-cat, he could be pretty bold at the oddest times."
+    ],
+    "184:text": [
+      "“!”"
+    ],
+    "189:text": [
+      "“Did you figure something out?”"
+    ],
+    "194:text": [
+      "“...It's a page cut out of a book."
+    ],
+    "195:text": [
+      "Nice work, ",
+      "."
+    ],
+    "196:text": [
+      "This is a very powerful in...”"
+    ],
+    "201:text": [
+      "“...In?”"
+    ],
+    "206:text": [
+      "“...In-instructions for driving off rats with human faces,"
+    ],
+    "207:text": [
+      "all right here on this incredible scrap of paper!”"
+    ],
+    "208:text": [
+      "“This'll come in handy for our story on the old school building."
+    ],
+    "209:text": [
+      "I knew you were a first-year I could count on!”"
+    ],
+    "213:text": [
+      "...Hino was obviously rattled."
+    ],
+    "214:text": [
+      "Was he hiding something from me again?"
+    ],
+    "219:text": [
+      "“Can I have a look, too?”"
+    ],
+    "224:text": [
+      "I leaned over to see what Hino was holding."
+    ],
+    "226:text": [
+      "What was this writing...? I'd never seen this language before."
+    ],
+    "227:text": [
+      "At first glance, it looked like pictographs..."
+    ],
+    "228:text": [
+      "...Could Hino actually read this?"
+    ],
+    "233:text": [
+      "“...Heh...",
+      " Ha ha ha ha."
+    ],
+    "234:text": [
+      "How about we look around somewhere else, ",
+      "...?”"
+    ],
+    "238:text": [
+      "Hino quickly slipped the letter back into its envelope,"
+    ],
+    "239:text": [
+      "then gave me a series of shoves in the back to hurry me along."
+    ],
+    "240:text": [
+      "...That was suspicious.",
+      " It was so suspicious it felt silly to even call him on it."
+    ],
+    "260:text": [
+      "No, I couldn't do it."
+    ],
+    "261:text": [
+      "I couldn't just touch someone else's things without asking."
+    ],
+    "262:text": [
+      "I'd leave it alone."
+    ],
+    "273:text": [
+      "I picked a shoe cubby that caught my eye and peered inside."
+    ],
+    "274:text": [
+      "...Huh?",
+      " There's something in there..."
+    ],
+    "276:text": [
+      "Had someone left it behind?"
+    ],
+    "277:text": [
+      "You'd usually expect a love letter in a shoe cubby,"
+    ],
+    "278:text": [
+      "but this one didn't have that feel."
+    ],
+    "280:text": [
+      "A forgotten envelope...",
+      " I couldn't help wondering about it."
+    ],
+    "281:text": [
+      "If it was still here in the old school building, it must be years old."
+    ],
+    "282:text": [
+      "It was hard to imagine whoever used this cubby coming back for it now..."
+    ],
+    "285:rpg_choice.text.1": [
+      "1. Open it"
+    ],
+    "286:rpg_choice.text.1": [
+      "2. Show it to Hino"
+    ],
+    "287:rpg_choice.text.1": [
+      "3. Leave it alone"
+    ],
+    "295:text": [
+      "“!”"
+    ],
+    "299:text": [
+      "I headed to the first-floor entrance to leave the old school building."
+    ],
+    "301:text": [
+      "I looked through the glass doors. It was pitch-black outside."
+    ],
+    "302:text": [
+      "When had the sun gone down?"
+    ],
+    "304:text": [
+      "I started to take a step closer...",
+      " and suddenly noticed something odd."
+    ],
+    "307:text": [
+      "It was too dark.",
+      " Whatever time it was, there should've been light coming in from the schoolyard."
+    ],
+    "309:text": [
+      "I'd walked past the old school building on my way home after staying late at the club, so I was sure of it."
+    ],
+    "311:text": [
+      "And yet it looked as if a black curtain had come down outside,"
+    ],
+    "312:text": [
+      "and darkness had swallowed everything in sight."
+    ],
+    "316:rpg_choice.text.1": [
+      "1. Go outside and check"
+    ],
+    "317:rpg_choice.text.1": [
+      "2. Ask Hino"
+    ],
+    "324:text": [
+      "Was there a power outage?",
+      " I hurried over to the doors."
+    ],
+    "325:text": [
+      "The doors were still wide open, just as they'd been when we came in."
+    ],
+    "326:text": [
+      "It looked like I could get straight outside without using the key."
+    ],
+    "332:text": [
+      "“!”"
+    ],
+    "339:text": [
+      "Something black and slimy was covering the ground at my feet."
+    ],
+    "340:text": [
+      "It looked as though it was flowing in along the ground from the darkness outside."
+    ],
+    "342:text": [
+      "...The sun hadn't gone down."
+    ],
+    "343:text": [
+      "The monster I'd run into on the roof was covering the entire entrance!"
+    ],
+    "349:text": [
+      "The instant the monster crawled up my leg..."
+    ],
+    "352:text": [
+      "“Ph'nglui mglw'nafh Cthulhu"
+    ],
+    "353:text": [
+      "R'lyeh wgah'nagl fhtagn.”"
+    ],
+    "356:text": [
+      "On instinct, I'd spoken the spell Hino had taught me."
+    ],
+    "365:text": [
+      "“Guh...!”"
+    ],
+    "372:text": [
+      "In that instant, the black monster came off me in a burst, splattering across the floor."
+    ],
+    "373:text": [
+      "I've got to get out of here, fast...!"
+    ],
+    "380:text": [
+      "“Hah... hah...”"
+    ],
+    "384:text": [
+      "I never imagined that monster was so big."
+    ],
+    "385:text": [
+      "Thank goodness Hino's spell worked. It saved me..."
+    ],
+    "387:text": [
+      "I still had plenty of questions. How had Hino read that writing,"
+    ],
+    "388:text": [
+      "and had he taught me the spell to fight off that thing...?"
+    ],
+    "390:text": [
+      "Still, Hino had gone out of his way to teach me that spell,"
+    ],
+    "391:text": [
+      "and I couldn't imagine he had anything bad in mind."
+    ],
+    "393:text": [
+      "...Even so, we were in trouble."
+    ],
+    "394:text": [
+      "Most of the old school building's windows were boarded up and wouldn't open."
+    ],
+    "395:text": [
+      "With the entrance like that, we were trapped in the old school building!"
+    ],
+    "399:text": [
+      "“I h-have to tell Hino, quick...”"
+    ],
+    "411:text": [
+      "“Aaaaaaaaah!”"
+    ],
+    "428:text": [
+      "Hino and Arai should still be talking on the roof."
+    ],
+    "429:text": [
+      "With their view from up there,",
+      "they might've noticed something unusual."
+    ],
+    "430:text": [
+      "I decided to give Hino a call."
+    ],
+    "439:text": [
+      "“Huh...?",
+      " It's not going through..."
+    ],
+    "440:text": [
+      "That's weird. I should have a signal here...”"
+    ],
+    "444:text": [
+      "Whether I wanted to see for myself or get in touch with them,"
+    ],
+    "445:text": [
+      "I figured I'd better go back up to the roof for now."
+    ],
+    "537:text": [
+      "The marks on the blackboard",
+      " brought the lessons that must've been taught here"
+    ],
+    "538:text": [
+      "and the students' daily lives vividly to mind."
+    ],
+    "539:text": [
+      "I could almost hear the students' chatter..."
+    ],
+    "550:text": [
+      "A little stub of chalk had been left there, covered in powder."
+    ],
+    "552:text": [
+      "One of the five rumors mentioned chalk that could find lost things."
+    ],
+    "553:text": [
+      "I hoped this was the classroom that had it..."
+    ],
+    "555:text": [
+      "I opened the chalk box to see what was inside..."
+    ],
+    "558:text": [
+      "The chalk looked blue."
+    ],
+    "560:text": [
+      "The chalk looked white."
+    ],
+    "566:text": [
+      " obtained “Chalk Dust”."
+    ],
+    "579:text": [
+      "I rummaged through the desk, but nothing caught my eye."
+    ],
+    "590:text": [
+      "......"
+    ],
+    "593:text": [
+      "Ow!",
+      " ...Something pricked my finger..."
+    ],
+    "594:text": [
+      "Ugh... Why was there a thumbtack in here...?"
+    ],
+    "595:text": [
+      " was injured."
+    ],
+    "610:text": [
+      "......"
+    ],
+    "612:text": [
+      "Aah!"
+    ],
+    "615:text": [
+      "Ow, ow, ow...",
+      " Looks like I stepped on a weak spot in the floor."
+    ],
+    "616:text": [
+      "I need to be more careful in an old building like this..."
+    ],
+    "629:text": [
+      "There was a flowerpot on the teacher's desk."
+    ],
+    "630:text": [
+      "What was that? Something like a bunch of bristly whiskers was growing out of it..."
+    ],
+    "634:text": [
+      "“That's a dead cactus.”"
+    ],
+    "638:text": [
+      "“Wait, then those are...",
+      " spines?! I thought they were whiskers!”"
+    ],
+    "640:text": [
+      "“I've never seen a dead cactus before...”"
+    ],
+    "644:text": [
+      "“Really?",
+      " It's pretty easy for a cactus to die, you know."
+    ],
+    "645:text": [
+      "To keep the roots from rotting,"
+    ],
+    "646:text": [
+      "you have to repot it regularly.”"
+    ],
+    "650:text": [
+      "“...”"
+    ],
+    "654:text": [
+      "I'd always thought they were easy to look after..."
+    ],
+    "655:text": [
+      "The cactus on my balcony...",
+      " When was the last time I watered it?"
+    ],
+    "666:text": [
+      "I decided to search every inch under the teacher's desk."
+    ],
+    "667:text": [
+      "......"
+    ],
+    "674:text": [
+      "“Aah?!"
+    ],
+    "675:text": [
+      "S-S-S-S-S-",
+      "... J-j-j-j-j-just now, that was...”"
+    ],
+    "680:text": [
+      "“It was a spider.”"
+    ],
+    "686:text": [
+      "“Waaah?!”"
+    ],
+    "687:text": [
+      "“J-just now,",
+      " I,",
+      " I-I-I saw a white mist drift right in front of me...!”"
+    ],
+    "692:text": [
+      "“That was dust.”"
+    ],
+    "697:text": [
+      "Hino kept making a fuss,",
+      " so the whole thing took longer than it should've..."
+    ],
+    "732:text": [
+      "It didn't look like the windows in this classroom were boarded up."
+    ],
+    "733:text": [
+      "I looked through the window and understood right away.",
+      " It faced the school courtyard."
+    ],
+    "735:text": [
+      "The school building enclosed the courtyard,"
+    ],
+    "736:text": [
+      "so there was no need to worry about intruders getting in this way."
+    ],
+    "739:text": [
+      "Of course, that meant I couldn't get out, either."
+    ],
+    "740:text": [
+      "There was no escape this way."
+    ],
+    "757:text": [
+      "The courtyard flower beds had withered, and weeds had taken over."
+    ],
+    "758:text": [
+      "The only thing that caught my eye in all that overgrowth was a lone tree stump in the middle."
+    ],
+    "760:text": [
+      "Its trunk was unusually thick, for one thing..."
+    ],
+    "761:text": [
+      "Oddly, no weeds grew around the stump."
+    ],
+    "763:text": [
+      "That tree must've grown so big by drawing the life out of the plants around it..."
+    ],
+    "764:text": [
+      "For some reason, I found myself imagining that."
+    ],
+    "769:text": [
+      "“...Somei-yoshino."
+    ],
+    "770:text": [
+      "That's a cherry tree.”"
+    ],
+    "775:text": [
+      "“That's impressive, Hino."
+    ],
+    "776:text": [
+      "You can tell just by looking at the trunk?”"
+    ],
+    "781:text": [
+      "“No, I found a photo of the courtyard on one of the library's reference shelves."
+    ],
+    "782:text": [
+      "Here, look.”"
+    ],
+    "787:text": [
+      "“The blossoms look pure white...",
+      " They would've been pink in real life, of course."
+    ],
+    "788:text": [
+      "They were so beautiful, I couldn't forget them.”"
+    ],
+    "790:text": [
+      "“The window seats in here must've had the best view in spring...”"
+    ],
+    "794:text": [
+      "I could see why he'd say that."
+    ],
+    "796:text": [
+      "The photo had faded,"
+    ],
+    "797:text": [
+      "but I could still picture the cherry tree in full bloom, clear as day."
+    ],
+    "799:text": [
+      "Why had anyone cut it down?",
+      " What a waste."
+    ],
+    "811:text": [
+      "The window here wasn't boarded up, so I could probably get out into the courtyard."
+    ],
+    "813:text": [
+      "That pentagram I'd seen from the roof..."
+    ],
+    "815:text": [
+      "Hino had told me to go home already,"
+    ],
+    "816:text": [
+      "but I couldn't stop thinking about it..."
+    ],
+    "819:rpg_choice.text.1": [
+      "1. Go take a look"
+    ],
+    "820:rpg_choice.text.1": [
+      "2. Leave it alone"
+    ],
+    "834:text": [
+      "“Huh... That's odd...”"
+    ],
+    "838:text": [
+      "I could've sworn it was around here..."
+    ],
+    "840:text": [
+      "I'd seen the pentagram so clearly from the roof,"
+    ],
+    "841:text": [
+      "and now it was nowhere to be found..."
+    ],
+    "843:text": [
+      "I couldn't sense the monster at all, either."
+    ],
+    "844:text": [
+      "What on earth was going on...?"
+    ],
+    "859:text": [
+      "Why had the basement door disappeared...?"
+    ],
+    "878:text": [
+      "The sun was starting to go down..."
+    ],
+    "879:text": [
+      "It would be dusk soon."
+    ],
+    "891:text": [
+      "Hmm...?",
+      " What was that?"
+    ],
+    "892:text": [
+      "I could hear a voice coming from somewhere..."
+    ],
+    "894:text": [
+      "That voice..."
+    ],
+    "897:text": [
+      "Was that Arai?",
+      " Was he talking to Hino?"
+    ],
+    "898:text": [
+      "But then again...",
+      " It didn't sound like he was talking to anyone..."
+    ],
+    "899:text": [
+      "Arai's voice went on in a cold monotone. No one answered."
+    ],
+    "900:text": [
+      "It was almost like he was chanting an incantation..."
+    ],
+    "902:text": [
+      "That was... Arai's voice."
+    ],
+    "903:text": [
+      "His voice went on in a cold monotone. No one answered."
+    ],
+    "904:text": [
+      "It was almost like he was chanting an incantation..."
+    ],
+    "906:text": [
+      "...Just like Hino had said,"
+    ],
+    "907:text": [
+      "Arai might be performing a ritual."
+    ],
+    "909:text": [
+      "I had to hurry..."
+    ],
+    "923:text": [
+      "Arai's voice was still echoing through the old school building."
+    ],
+    "925:text": [
+      "Arai...",
+      " What on earth was he doing?"
+    ],
+    "926:text": [
+      "I had a terrible feeling about this."
+    ],
+    "927:text": [
+      "Was there any way I could get to the roof?"
+    ],
+    "1013:text": [
+      ".................."
+    ],
+    "1014:text": [
+      "There was nothing worth a closer look."
+    ],
+    "1026:text": [
+      "Huh?",
+      " The locker was locked. I couldn't open it."
+    ],
+    "1027:text": [
+      "And it smelled strange..."
+    ],
+    "1038:text": [
+      "“!”"
+    ],
+    "1042:text": [
+      "Ugh...",
+      " This locker smelled strange..."
+    ],
+    "1043:text": [
+      "But the number ‘26’ on the locker..."
+    ],
+    "1045:text": [
+      "The number ‘26’ on the locker..."
+    ],
+    "1048:text": [
+      "It matched the photo I'd just found in the shoe cubby."
+    ],
+    "1056:text": [
+      "Hmm...",
+      " It was locked and didn't look like it would open."
+    ],
+    "1060:text": [
+      "“Hino, this locker..."
+    ],
+    "1061:text": [
+      "Do you think one of Iwayama's keys might open it?”"
+    ],
+    "1065:text": [
+      "“Yeah, leave it to me.”"
+    ],
+    "1073:text": [
+      "“......Nope.”"
+    ],
+    "1075:text": [
+      "“......"
+    ],
+    "1076:text": [
+      "This one isn't right either...”"
+    ],
+    "1078:text": [
+      "“Damn..."
+    ],
+    "1079:text": [
+      "He could've at least labeled the keys...”"
+    ],
+    "1087:text": [
+      "“......”"
+    ],
+    "1091:text": [
+      "It'd probably be faster if I did it myself."
+    ],
+    "1093:text": [
+      "Maybe there was something lying around I could use."
+    ],
+    "1094:text": [
+      "I might be able to open it if I had some wire..."
+    ],
+    "1105:text": [
+      "It had been locked the last time I tried,"
+    ],
+    "1106:text": [
+      "but with the wire I'd found in the science lab..."
+    ],
+    "1114:text": [
+      "! Good, it looked like it was open."
+    ],
+    "1115:text": [
+      "Ugh...",
+      " This locker really did stink..."
+    ],
+    "1116:text": [
+      "Had someone left their lunch in there to rot...?"
+    ],
+    "1117:text": [
+      "I didn't want to look, but I had to check..."
+    ],
+    "1130:text": [
+      "“!!!!”"
+    ],
+    "1134:text": [
+      "There was a dead animal inside."
+    ],
+    "1135:text": [
+      "It had rotted so horribly I couldn't tell if it was a cat or a dog."
+    ],
+    "1137:text": [
+      "The moment I realized that foul air I'd been breathing had come from the carcass,"
+    ],
+    "1138:text": [
+      "an indescribable wave of revulsion and nausea welled up in me..."
+    ],
+    "1142:text": [
+      "“...This is...",
+      " These wounds are awful."
+    ],
+    "1143:text": [
+      "Poor thing...",
+      " Someone probably killed it.”"
+    ],
+    "1147:text": [
+      "Hino studied the carcass, perfectly calm,"
+    ],
+    "1148:text": [
+      "while I couldn't even bring myself to look straight at it..."
+    ],
+    "1150:text": [
+      "The cruelty a living person had left behind was"
+    ],
+    "1151:text": [
+      "much harder to stomach than any ghost I wasn't even sure existed..."
+    ],
+    "1155:text": [
+      "“Are you okay, ",
+      "...?”"
+    ],
+    "1159:text": [
+      "“...Sorry. I'd rather not look at it...”"
+    ],
+    "1163:text": [
+      "“............I see."
+    ],
+    "1164:text": [
+      "But this...”"
+    ],
+    "1173:text": [
+      "I warily peered at the spot Hino was pointing to."
+    ],
+    "1174:text": [
+      "Right beside the carcass was the same pentagram as in the photo,"
+    ],
+    "1175:text": [
+      "...but this time, the name written there was Somei."
+    ],
+    "1177:text": [
+      "...Why did that sound familiar...?"
+    ],
+    "1179:text": [
+      "Maybe looking inside would jog my memory."
+    ],
+    "1180:text": [
+      "As I wondered about it, I absentmindedly checked what was inside the envelope."
+    ],
+    "1187:text": [
+      "There were several photos inside."
+    ],
+    "1188:text": [
+      "They all bore the signature ‘a scrifice’"
+    ],
+    "1189:text": [
+      "and showed dead animals lying there in silence..."
+    ],
+    "1191:text": [
+      "A goldfish that had been stomped flat,",
+      " a cat with its head crushed,",
+      " a dog with its belly slit open..."
+    ],
+    "1192:text": [
+      "One photo even seemed to show a woman's slashed arm."
+    ],
+    "1194:text": [
+      "The subjects had all been hurt for no reason, then photographed out of malice,"
+    ],
+    "1195:text": [
+      "and it was obvious at a glance that these were records of cruelty."
+    ],
+    "1201:text": [
+      "“This is horrible.",
+      " It's just too much..."
+    ],
+    "1202:text": [
+      "Could they belong to a graduate who went to class in this building...?”"
+    ],
+    "1206:text": [
+      "“...",
+      " Then wouldn't the photos show more wear?"
+    ],
+    "1207:text": [
+      "I don't like thinking about it, but..."
+    ],
+    "1208:text": [
+      "They probably belong to a current student who snuck in here.”"
+    ],
+    "1212:text": [
+      "“That can't be...”"
+    ],
+    "1216:text": [
+      "“Hey... ",
+      "."
+    ],
+    "1217:text": [
+      "I don't really want to say this, but...”"
+    ],
+    "1219:text": [
+      "“You look like you're enjoying this...”"
+    ],
+    "1223:text": [
+      "“............",
+      " Huh?”"
+    ],
+    "1227:text": [
+      "“...You hadn't noticed?"
+    ],
+    "1228:text": [
+      "You've been smiling ever since you saw the carcass in the locker.”"
+    ],
+    "1232:text": [
+      "...I was smiling? That couldn't be right."
+    ],
+    "1234:text": [
+      "I quickly touched my mouth to check..."
+    ],
+    "1235:text": [
+      "...No. No way."
+    ],
+    "1236:text": [
+      "If anything, I'd felt crushed by what they'd done..."
+    ],
+    "1240:text": [
+      "“Oh, sorry."
+    ],
+    "1241:text": [
+      "I'm not trying to blame you.”"
+    ],
+    "1243:text": [
+      "“When something shocks you that badly,"
+    ],
+    "1244:text": [
+      "you can react in ways that don't match how you feel.”"
+    ],
+    "1246:text": [
+      "“Tell me if it gets to be too much."
+    ],
+    "1247:text": [
+      "I know I was rushing you earlier,"
+    ],
+    "1248:text": [
+      "but we don't have to finish the investigation today.”"
+    ],
+    "1252:text": [
+      "“............I'm all right.",
+      " Let's keep going.”"
+    ],
+    "1256:text": [
+      "...I was tired, sure,"
+    ],
+    "1257:text": [
+      "but the thought of coming back here was depressing, too."
+    ],
+    "1258:text": [
+      "Let's get this over with."
+    ],
+    "1262:text": [
+      " made an entry in the field notes."
+    ],
+    "1270:text": [
+      "I laid out the photos from the envelope and looked them over again."
+    ],
+    "1272:text": [
+      "This was a lead worth following."
+    ],
+    "1273:text": [
+      "I needed to look closely."
+    ],
+    "1275:text": [
+      "...",
+      " Out of all these photos, the one that stood out was..."
+    ],
+    "1291:text": [
+      "“...This faded photo of a cherry tree...”"
+    ],
+    "1293:text": [
+      "“It's the only one without a dead animal in it..."
+    ],
+    "1294:text": [
+      "Do you think it got put in by mistake?”"
+    ],
+    "1299:text": [
+      "“...No, wait.",
+      " There has to be... a reason for it..."
+    ],
+    "1300:text": [
+      "Hey, this photo...",
+      " Isn't this the one I showed you?”"
+    ],
+    "1304:text": [
+      "“Oh, you're right.”"
+    ],
+    "1308:text": [
+      "“...Which means...”"
+    ],
+    "1312:text": [
+      "“Do you want the photo?"
+    ],
+    "1313:text": [
+      "You liked the cherry tree in this one, right?”"
+    ],
+    "1317:text": [
+      "“...That's not what I'm trying to say!"
+    ],
+    "1318:text": [
+      "Listen. ",
+      ", think this through."
+    ],
+    "1319:text": [
+      "This photo and those envelopes we've been finding have to mean something.”"
+    ],
+    "1325:text": [
+      "“...No, wait.",
+      " There has to be... a reason for it.”"
+    ],
+    "1327:text": [
+      "“",
+      ", think this through.”"
+    ],
+    "1339:text": [
+      "“...Hino.",
+      " Look at this spot.”"
+    ],
+    "1343:text": [
+      "“What is it?",
+      " What's wrong?"
+    ],
+    "1344:text": [
+      "I don't see anything strange there.”"
+    ],
+    "1348:text": [
+      "“...Oh... You don't?”"
+    ],
+    "1352:text": [
+      "“...Anyway..."
+    ],
+    "1353:text": [
+      "This photo of the cherry tree...",
+      " Doesn't it look odd to you?”"
+    ],
+    "1355:text": [
+      "“It's the only one without a dead animal in it.”"
+    ],
+    "1360:text": [
+      "“Oh, you're right."
+    ],
+    "1361:text": [
+      "It looks just like the photo you showed me...”"
+    ],
+    "1363:text": [
+      "“Do you think it got put in by mistake?”"
+    ],
+    "1366:text": [
+      "“Do you think it got put in by mistake?”"
+    ],
+    "1369:text": [
+      "“...No, there has to be a reason."
+    ],
+    "1370:text": [
+      "Listen, ",
+      ", think this through.”"
+    ],
+    "1378:text": [
+      "“...Uh...",
+      " You want me to think it through?”"
+    ],
+    "1382:text": [
+      "Usually Hino just decided everything himself."
+    ],
+    "1383:text": [
+      "There really was something off about him today."
+    ],
+    "1385:text": [
+      "Hmm. Well, let's see..."
+    ],
+    "1386:text": [
+      "...In that case, maybe I should head over there."
+    ],
+    "1402:text": [
+      "The awful stench of rot still hung in the air..."
+    ],
+    "1403:text": [
+      "I couldn't bring myself to look again."
+    ],
+    "1448:text": [
+      "That mirror reminded me of a story."
+    ],
+    "1449:text": [
+      "Bloody Mary, Bloody Mary, Bloody Mary."
+    ],
+    "1450:text": [
+      "The urban legend says that if you say it three times, a girl covered in blood comes out of the mirror."
+    ],
+    "1452:text": [
+      "It felt like the kind of place where she might actually show up."
+    ],
+    "1453:text": [
+      "...Should I try calling her?"
+    ],
+    "1455:text": [
+      "No, no, no. That could get out of hand."
+    ],
+    "1456:text": [
+      "What would I do if something really came out?"
+    ],
+    "1457:text": [
+      "I should get out of here, fast."
+    ],
+    "1467:text": [
+      "There's something warped about this mirror."
+    ],
+    "1468:text": [
+      "Maybe it was just my imagination, but it looked like someone was standing behind me."
+    ],
+    "1470:text": [
+      "It was a woman in white, as thin as a matchstick."
+    ],
+    "1471:text": [
+      "She seemed to be saying something, her long, vertical slit of a mouth opening and closing like a goldfish's."
+    ],
+    "1473:text": [
+      "The mirror was so warped it could make me see things like that."
+    ],
+    "1474:text": [
+      "And it was clouded over, too."
+    ],
+    "1476:text": [
+      "What a creepy mirror. I should stop looking at it."
+    ],
+    "1477:text": [
+      "I should just put it out of my mind."
+    ],
+    "1478:text": [
+      "The woman I could see in the mirror, leaning against my back... I was just imagining it."
+    ],
+    "1489:text": [
+      "......"
+    ],
+    "1490:text": [
+      "I didn't see anything of interest."
+    ],
+    "1501:text": [
+      "...Ugh, it's filthy."
+    ],
+    "1502:text": [
+      "I suppose that's to be expected from an old restroom that no one uses anymore."
+    ],
+    "1504:text": [
+      "I remembered hearing about a restroom yokai called Kanbari Nyudo"
+    ],
+    "1505:text": [
+      "from my grandma who lives out in the country."
+    ],
+    "1507:text": [
+      "She said it'd show up if you didn't keep the restroom clean."
+    ],
+    "1509:text": [
+      "But what happens when it does, again?"
+    ],
+    "1510:text": [
+      "I don't think she ever told me what happens after it shows up."
+    ],
+    "1512:text": [
+      "Would it clean the restroom for you?"
+    ],
+    "1513:text": [
+      "If it did, it'd be one hardworking yokai."
+    ],
+    "1514:text": [
+      "I wish it would clean this one."
+    ],
+    "1525:text": [
+      "I'd heard the urban legend."
+    ],
+    "1526:text": [
+      "There was a stain shaped like a face in one of the old school building's restrooms."
+    ],
+    "1527:text": [
+      "It couldn't be this one, could it?"
+    ],
+    "1529:text": [
+      "...That stain kind of looked like a face."
+    ],
+    "1530:text": [
+      "On closer inspection, it looked angry."
+    ],
+    "1532:text": [
+      "No, that wasn't anger."
+    ],
+    "1533:text": [
+      "Was it crying?",
+      " Huh?"
+    ],
+    "1535:text": [
+      "There was another face right beside it.",
+      " This one was smiling."
+    ],
+    "1536:text": [
+      "It had a mocking smile."
+    ],
+    "1537:text": [
+      "Wait...",
+      " When I looked closer, there were faces all over the place."
+    ],
+    "1539:text": [
+      "The restroom was full of faces."
+    ],
+    "1540:text": [
+      "And every one of them was looking at me."
+    ],
+    "1541:text": [
+      "This was bad.",
+      " This restroom was really bad news.",
+      " I had to get out of here, fast."
+    ],
+    "1554:text": [
+      "There it is.",
+      " That stone."
+    ],
+    "1556:text": [
+      "Huh?"
+    ],
+    "1557:text": [
+      "Something was sparkling in a corner of the restroom..."
+    ],
+    "1559:text": [
+      "Was that... a stone...?"
+    ],
+    "1560:text": [
+      "It was clear and as pretty as a gem..."
+    ],
+    "1564:text": [
+      "I wasn't sure it was a power stone,"
+    ],
+    "1565:text": [
+      "but maybe I could use it to try that spell from earlier."
+    ],
+    "1566:text": [
+      "I decided to take it with me."
+    ],
+    "1569:text": [
+      " obtained “Pretty Gem”!"
+    ],
+    "1572:text": [
+      "The instructions for making Holy Water should be in the field notes."
+    ],
+    "1585:text": [
+      "Huh?"
+    ],
+    "1586:text": [
+      "Something was sparkling in a corner of the restroom..."
+    ],
+    "1588:text": [
+      "Was that... a stone...?"
+    ],
+    "1589:text": [
+      "It was clear and as pretty as a gem."
+    ],
+    "1594:text": [
+      "“Hey, ",
+      "."
+    ],
+    "1595:text": [
+      "What's that stone you've got...?”"
+    ],
+    "1599:text": [
+      "Hino looked thoroughly disgusted..."
+    ],
+    "1601:text": [
+      "He had a point. However pretty it was,"
+    ],
+    "1602:text": [
+      "it was creepy to find it lying in a restroom."
+    ],
+    "1604:text": [
+      "I'd leave it alone."
+    ],
+    "1619:text": [
+      "The pentagram and the five rumors..."
+    ],
+    "1620:text": [
+      "If the locations match the pentagram, then the fifth rumor"
+    ],
+    "1621:text": [
+      "would have to point to somewhere in one of the restrooms, right?"
+    ],
+    "1625:text": [
+      "If Hino was right, the five rumor locations should form a star."
+    ],
+    "1626:text": [
+      "Which means...",
+      " the fourth rumor would point to one of the restrooms."
+    ],
+    "1628:text": [
+      "And since what's hidden is the basement door..."
+    ],
+    "1630:text": [
+      "I tried sprinkling the chalk dust I'd picked up..."
+    ],
+    "1631:text": [
+      "......"
+    ],
+    "1635:text": [
+      "“!”"
+    ],
+    "1646:text": [
+      "A white mist spread through the stall,"
+    ],
+    "1647:text": [
+      "and a door appeared in the floor where the toilet should've been..."
+    ],
+    "1649:text": [
+      "This pentagram...",
+      " There was no mistaking it!"
+    ],
+    "1650:text": [
+      "It matched the photo perfectly."
+    ],
+    "1665:text": [
+      "The pentagram and the five rumors..."
+    ],
+    "1666:text": [
+      "If the locations match the pentagram, then the fifth rumor"
+    ],
+    "1667:text": [
+      "would have to point to somewhere in one of the restrooms, right?"
+    ],
+    "1671:text": [
+      "If Hino was right, the five rumor locations should form a star."
+    ],
+    "1672:text": [
+      "Which means...",
+      " the fifth rumor would point to one of the restrooms."
+    ],
+    "1674:text": [
+      "And since what's hidden is the basement door..."
+    ],
+    "1676:text": [
+      "I tried sprinkling the chalk dust I'd picked up..."
+    ],
+    "1677:text": [
+      "......"
+    ],
+    "1685:text": [
+      "“Cough... cough!”"
+    ],
+    "1690:text": [
+      "The chalk dust swirled through the air and a white mist spread..."
+    ],
+    "1691:text": [
+      "That was all that happened."
+    ],
+    "1693:text": [
+      "Hmm...",
+      " Could this chalk dust just be...?"
+    ],
+    "1721:text": [
+      "The mirror in the hallway had to be this full-length one."
+    ],
+    "1722:text": [
+      "Apparently, it had been made to commemorate Narugami Academy's 50th anniversary."
+    ],
+    "1724:text": [
+      "Face yourself in the mirror, reflect, and strive to do better... Was that it?"
+    ],
+    "1725:text": [
+      "I vaguely remembered the principal saying that in a speech once."
+    ],
+    "1727:text": [
+      "The odd thing was that an important piece of school history like this"
+    ],
+    "1728:text": [
+      "had been left behind in the old school building."
+    ],
+    "1730:text": [
+      "A mirror like this seemed easy enough to carry out..."
+    ],
+    "1732:text": [
+      "Could it have something to do with the story"
+    ],
+    "1733:text": [
+      "about this mirror leading to the underworld...?"
+    ],
+    "1754:text": [
+      "I decided to stand right in front of the mirror."
+    ],
+    "1755:text": [
+      "Nervously, I peered into it."
+    ],
+    "1757:text": [
+      "The flashlight brought my face into sharp relief as I stood alone in the hallway."
+    ],
+    "1758:text": [
+      "It didn't look like anything out of the ordinary was about to happen."
+    ],
+    "1760:text": [
+      "Well, that figured."
+    ],
+    "1762:text": [
+      "A mirror that led to the underworld..."
+    ],
+    "1763:text": [
+      "There was no way anyone would leave something that dangerous"
+    ],
+    "1764:text": [
+      "in a hallway students walked down every day."
+    ],
+    "1766:text": [
+      "...Hmm.",
+      " Was there any point to this investigation...?"
+    ],
+    "1780:text": [
+      "I peered into the mirror again."
+    ],
+    "1781:text": [
+      "..."
+    ],
+    "1782:text": [
+      "......"
+    ],
+    "1783:text": [
+      "............"
+    ],
+    "1785:text": [
+      "There didn't seem to be anything strange in the reflection."
+    ],
+    "1786:text": [
+      "I happened to glance at the frame."
+    ],
+    "1788:text": [
+      "It was a pretty old-fashioned design.",
+      " This mirror, I mean."
+    ],
+    "1789:text": [
+      "The dusty bronze frame was decorated with what looked like demons and ogres."
+    ],
+    "1791:text": [
+      "......",
+      " It looked awfully ominous for a keepsake."
+    ],
+    "1792:text": [
+      "Was this... the sort of thing the principal liked?"
+    ],
+    "1806:text": [
+      "I peered into the mirror again."
+    ],
+    "1808:text": [
+      "..."
+    ],
+    "1809:text": [
+      "......"
+    ],
+    "1810:text": [
+      "............"
+    ],
+    "1816:text": [
+      "...!"
+    ],
+    "1817:text": [
+      "Red eyes glinted behind me in the reflection."
+    ],
+    "1822:text": [
+      "It was the monster from the water tank...!"
+    ],
+    "1823:text": [
+      "I had to get away, fast!"
+    ],
+    "1824:text": [
+      "I..."
+    ],
+    "1826:rpg_choice.text.1": [
+      "1. Turned around"
+    ],
+    "1827:rpg_choice.text.1": [
+      "2. Ran away"
+    ],
+    "1837:text": [
+      "I turned around so the monster couldn't catch me from behind."
+    ],
+    "1838:text": [
+      "My flashlight cast a beam straight across the hall, lighting the classroom door opposite me."
+    ],
+    "1839:text": [
+      "The monster with the red eyes was nowhere in sight."
+    ],
+    "1841:text": [
+      "I slowly swept the beam around, checking the hallway carefully."
+    ],
+    "1842:text": [
+      "It had left a thick, sticky liquid on the roof when it went away."
+    ],
+    "1843:text": [
+      "But...",
+      " there wasn't a trace of it on the floor."
+    ],
+    "1846:text": [
+      "Strange...",
+      " I'd seen it so clearly. Could I have been mistaken?"
+    ],
+    "1847:text": [
+      "Just as I took half a step back to check the floor at my feet..."
+    ],
+    "1852:text": [
+      "I felt my back sink deep into something."
+    ],
+    "1853:text": [
+      "A sticky, lukewarm sensation spread across my back."
+    ],
+    "1858:text": [
+      "It was the monster.",
+      " Then I understood."
+    ],
+    "1859:text": [
+      "The monster hadn't been behind me.",
+      " It had been inside the mirror...!"
+    ],
+    "1862:text": [
+      "I swung my flashlight wildly,"
+    ],
+    "1863:text": [
+      "desperately trying to fend off the slimy creature clinging to me."
+    ],
+    "1868:text": [
+      "“Gah........................!!!”"
+    ],
+    "1872:text": [
+      "But the part of its body clinging to my throat throbbed"
+    ],
+    "1873:text": [
+      "and contracted, tightening its grip."
+    ],
+    "1875:text": [
+      "Before I knew it, the monster had closed around me like an iron maiden,"
+    ],
+    "1876:text": [
+      "covering me from head to toe."
+    ],
+    "1879:text": [
+      "Its body flowed and changed shape, sprouting countless spikes,"
+    ],
+    "1880:text": [
+      "and hardened appendages dug into the soft flesh of my stomach and thighs,"
+    ],
+    "1881:text": [
+      "tearing through my flesh..."
+    ],
+    "1885:text": [
+      "“Ugh........................!!!”"
+    ],
+    "1890:text": [
+      "My left hand went limp, and the flashlight fell from it and rolled away."
+    ],
+    "1891:text": [
+      "That dim flicker at the edge of my vision was the last light I'd ever see..."
+    ],
+    "1902:text": [
+      "I didn't have time to check behind me!"
+    ],
+    "1903:text": [
+      "I bolted in a panic."
+    ],
+    "1914:text": [
+      "“...Hah, hah...",
+      " I'm safe now.”"
+    ],
+    "1917:text": [
+      "...I'd better stay away from that corridor from now on."
+    ],
+    "1929:text": [
+      "I looked into the mirror again."
+    ],
+    "1930:text": [
+      "..."
+    ],
+    "1931:text": [
+      "......"
+    ],
+    "1932:text": [
+      "............"
+    ],
+    "1941:text": [
+      "A faint silhouette was taking shape behind me...!"
+    ],
+    "1942:text": [
+      "O-one of the dead had really come back from the underworld...!"
+    ],
+    "1946:text": [
+      "“",
+      ", it's me.”"
+    ],
+    "1950:text": [
+      "“!”"
+    ],
+    "1954:text": [
+      "Was that... Hino's voice?"
+    ],
+    "1955:text": [
+      "I looked again at the figure I could see behind me in the mirror."
+    ],
+    "1956:text": [
+      "It really was Hino standing there."
+    ],
+    "1960:text": [
+      "“Hino... Please don't scare me like that."
+    ],
+    "1961:text": [
+      "When did you...”"
+    ],
+    "1965:text": [
+      "“Don't move.”"
+    ],
+    "1969:text": [
+      "I was about to turn when Hino stopped me with a sharp command."
+    ],
+    "1973:text": [
+      "“H-Hino...?”"
+    ],
+    "1977:text": [
+      "“Don't turn around."
+    ],
+    "1978:text": [
+      "Keep your eyes on the mirror...",
+      " On my eyes. Stay where you are and listen.”"
+    ],
+    "1982:text": [
+      "Hino's voice was colder and sharper than usual."
+    ],
+    "1984:text": [
+      "But what bothered me more was..."
+    ],
+    "1986:text": [
+      "Hino's voice wasn't coming from behind me."
+    ],
+    "1987:text": [
+      "It was coming from the mirror right in front of me..."
+    ],
+    "1989:text": [
+      "I..."
+    ],
+    "1991:rpg_choice.text.1": [
+      "1. Silently did as he said"
+    ],
+    "1992:rpg_choice.text.1": [
+      "2. Ignored him and turned around"
+    ],
+    "1999:text": [
+      "I stayed quiet and waited for Hino to speak."
+    ],
+    "2007:text": [
+      "“...If you've made it here,"
+    ],
+    "2008:text": [
+      "I take it you've been looking into the field notes.”"
+    ],
+    "2010:text": [
+      "“Thank you, ",
+      "."
+    ],
+    "2011:text": [
+      "And I'm sorry.”"
+    ],
+    "2013:text": [
+      "“...",
+      " I knew there was danger, and I dragged you into it anyway.”"
+    ],
+    "2015:text": [
+      "“The old school building isn't cursed."
+    ],
+    "2016:text": [
+      "It serves a particular purpose...",
+      " That's why it was left standing.”"
+    ],
+    "2020:text": [
+      "“...A particular...",
+      " purpose...?”"
+    ],
+    "2024:text": [
+      "“Let's start with Narugami Academy."
+    ],
+    "2025:text": [
+      "The academy is a secret society. It was founded in the early Meiji era"
+    ],
+    "2026:text": [
+      "by the Starry Wisdom sect, a religious group long active in the shadows.”"
+    ],
+    "2028:text": [
+      "“The school is a front. Its teachers and students secretly work in departments,"
+    ],
+    "2029:text": [
+      "each devoted to dealing with cosmic truths.”"
+    ],
+    "2031:text": [
+      "“To put it simply, by ‘cosmic truths’ I mean extraterrestrial life."
+    ],
+    "2032:text": [
+      "Mind you, ",
+      ", these aren't the sort of aliens you're picturing.”"
+    ],
+    "2034:text": [
+      "“They existed long before humanity appeared,"
+    ],
+    "2035:text": [
+      "and they ruled the Earth in ages past.”"
+    ],
+    "2037:text": [
+      "“Think of them as something closer to evil gods or demons."
+    ],
+    "2038:text": [
+      "They're blasphemous, capricious...",
+      " To insignificant humans like us,"
+    ],
+    "2039:text": [
+      "they're terrifying creatures whose very sight can drive us mad...”"
+    ],
+    "2041:text": [
+      "“That's close enough for now.”"
+    ],
+    "2043:text": [
+      "“They made contact with certain humans,"
+    ],
+    "2044:text": [
+      "and they've been meddling in our history ever since.”"
+    ],
+    "2046:text": [
+      "“They taught us sorcery, curses, and all sorts of other things"
+    ],
+    "2047:text": [
+      "that surpass the physical laws of our world.”"
+    ],
+    "2049:text": [
+      "“But their blasphemous knowledge can drive humanity mad,"
+    ],
+    "2050:text": [
+      "destroy the world, and bring chaos and terror.”"
+    ],
+    "2052:text": [
+      "“To keep that from happening, the academy has tasked our Newspaper Club"
+    ],
+    "2053:text": [
+      "with collecting dangerous grimoires and artifacts from around the country,"
+    ],
+    "2054:text": [
+      "then destroying or sealing them away.”"
+    ],
+    "2056:text": [
+      "“Club President Asahina and I, the vice president,"
+    ],
+    "2057:text": [
+      "have been doing that work in secret.”"
+    ],
+    "2059:text": [
+      "“The curse on the old school building is just a cover story."
+    ],
+    "2060:text": [
+      "The rumors are made up to hide the dangerous artifacts.”"
+    ],
+    "2062:text": [
+      "“In reality, the building is protected by all sorts of spells."
+    ],
+    "2063:text": [
+      "It's a secret vault for storing artifacts.”"
+    ],
+    "2065:text": [
+      "“That's why we came to the old school building today."
+    ],
+    "2066:text": [
+      "I needed to seal away a particular artifact.”"
+    ],
+    "2068:text": [
+      "“",
+      ", that photo I showed you is of the entrance to the underground vault in the old school building.”"
+    ],
+    "2070:text": [
+      "“The entrance is hidden so well that even those of us entrusted with the vault"
+    ],
+    "2071:text": [
+      "can't find it with the mental strength of just one person.”"
+    ],
+    "2075:text": [
+      "The academy was a religious group?",
+      " And they collected artifacts?"
+    ],
+    "2078:text": [
+      "“No...",
+      " I can't believe this...”"
+    ],
+    "2082:text": [
+      "“Unfortunately, it's true.",
+      " You saw that monster yourself, didn't you?"
+    ],
+    "2083:text": [
+      "You just never noticed, but creatures like that have been"
+    ],
+    "2084:text": [
+      "lurking in everyday human life for ages.”"
+    ],
+    "2088:text": [
+      "“...Why did you ask me to come with you?”"
+    ],
+    "2090:text": [
+      "“I had no idea the Newspaper Club was some shady organization,"
+    ],
+    "2091:text": [
+      "and I'm not even interested in the occult.”"
+    ],
+    "2095:text": [
+      "“...That's why, ",
+      ".”"
+    ],
+    "2099:text": [
+      "“...What do you mean?”"
+    ],
+    "2102:text": [
+      "“The truth is, someone attacked Club President Asahina last night."
+    ],
+    "2103:text": [
+      "It was probably an organization trying"
+    ],
+    "2104:text": [
+      "to take the artifact we recovered by force.”"
+    ],
+    "2106:text": [
+      "“The only people who should've known what Club President Asahina was doing"
+    ],
+    "2107:text": [
+      "were the third-years in the Newspaper Club and a few of the second-years.”"
+    ],
+    "2109:text": [
+      "“I'd say it's very likely we have a traitor in the club."
+    ],
+    "2110:text": [
+      "That's why I turned to you."
+    ],
+    "2111:text": [
+      "You could come along on Newspaper Club business without raising suspicions, and you didn't know a thing...”"
+    ],
+    "2113:text": [
+      "“Club President Asahina was supposed to keep the traitor occupied"
+    ],
+    "2114:text": [
+      "while I used the story as cover to quietly seal the artifact away in the old school building."
+    ],
+    "2115:text": [
+      "That was the plan.”"
+    ],
+    "2117:text": [
+      "“But it looks like I guessed wrong...”"
+    ],
+    "2119:text": [
+      "“There are magical wards on the old school building"
+    ],
+    "2120:text": [
+      "to keep intruders out.”"
+    ],
+    "2122:text": [
+      "“Remember that bunch of keys I had?"
+    ],
+    "2123:text": [
+      "You can't open the doors without those special keys.”"
+    ],
+    "2125:text": [
+      "“There shouldn't be any way for Arai to be in the old school building at all."
+    ],
+    "2126:text": [
+      "There's also a spell on the basement door that makes it invisible,"
+    ],
+    "2127:text": [
+      "so you can't see it under normal circumstances.”"
+    ],
+    "2129:text": [
+      "“That was probably some kind of illusion."
+    ],
+    "2130:text": [
+      "Arai's a sorcerer who's after the artifact."
+    ],
+    "2131:text": [
+      "He's probably controlling the monster that appeared on the roof, too.”"
+    ],
+    "2133:text": [
+      "“I thought if I could hold Arai off, it'd all be over..."
+    ],
+    "2134:text": [
+      "It looks like I was no match for him.”"
+    ],
+    "2136:text": [
+      "“I'm sorry, ",
+      "...",
+      " I'm so sorry...”"
+    ],
+    "2140:text": [
+      "“...What about this mirror?”"
+    ],
+    "2144:text": [
+      "“Like the one I brought here today...",
+      " this is a genuine artifact."
+    ],
+    "2145:text": [
+      "We swapped it in for the commemorative mirror and sealed it here after the old school building closed.”"
+    ],
+    "2149:text": [
+      "“...Then this mirror really does..."
+    ],
+    "2150:text": [
+      "lead to the underworld.”"
+    ],
+    "2154:text": [
+      "“..................”"
+    ],
+    "2155:text": [
+      "“..................”"
+    ],
+    "2156:text": [
+      "“Yeah...”"
+    ],
+    "2161:text": [
+      "Hino sounded so defeated that I was sure."
+    ],
+    "2162:text": [
+      "I knew why I could see him in a mirror that led to the underworld..."
+    ],
+    "2166:text": [
+      "“There's only so much a ghost can do."
+    ],
+    "2167:text": [
+      "Now that it's come to this,"
+    ],
+    "2168:text": [
+      "all I can do is...",
+      " get you home safe.”"
+    ],
+    "2170:text": [
+      "“The last of the five rumors in my field notes"
+    ],
+    "2171:text": [
+      "is about the microscope in the science lab."
+    ],
+    "2172:text": [
+      "We keep it ready as a way out in an emergency.”"
+    ],
+    "2174:text": [
+      "“If you change the lens magnification,"
+    ],
+    "2175:text": [
+      "you can teleport to Narugami Academy's front gate"
+    ],
+    "2176:text": [
+      "or to the roof of the old school building.”"
+    ],
+    "2178:text": [
+      "“When you see Narugami Academy's front gate, follow the P.S. in the field notes."
+    ],
+    "2179:text": [
+      "That should get you home safely.”"
+    ],
+    "2182:text": [
+      "“......”"
+    ],
+    "2184:text": [
+      "“What should I do?”"
+    ],
+    "2188:text": [
+      "“Like I said, go to the science lab and use the microscope...”"
+    ],
+    "2192:text": [
+      "“There's something you want me to do, isn't there?"
+    ],
+    "2193:text": [
+      "That's why you came to see me.”"
+    ],
+    "2195:text": [
+      "“Maybe you can't do anything now that you're dead."
+    ],
+    "2196:text": [
+      "But I'm still alive.”"
+    ],
+    "2200:text": [
+      "“............”"
+    ],
+    "2202:text": [
+      "“You're up against a ruthless cultist who won't hesitate to kill.”"
+    ],
+    "2206:text": [
+      "“I'll do it.",
+      " I don't know if I can pull it off...”"
+    ],
+    "2208:text": [
+      "“You stayed on the roof in spite of the danger."
+    ],
+    "2209:text": [
+      "I believe you're a good person.”"
+    ],
+    "2213:text": [
+      "“...It might already be too late."
+    ],
+    "2214:text": [
+      "And if it is, you'll be in danger too."
+    ],
+    "2215:text": [
+      "Even so...",
+      " are you still willing to do this...?”"
+    ],
+    "2219:text": [
+      "“You think I can do it, don't you?",
+      " Leave it to me.”"
+    ],
+    "2223:text": [
+      "“...Thank you, ",
+      "......”"
+    ],
+    "2225:text": [
+      "“Among the keys I was carrying"
+    ],
+    "2226:text": [
+      "was the artifact I was here to seal away.”"
+    ],
+    "2228:text": [
+      "“It's called the Silver Key. You need it for a ritual to summon a certain god.”"
+    ],
+    "2230:text": [
+      "“I need you to do this in my place."
+    ],
+    "2231:text": [
+      "Seal that key away in the old school building's underground vault.”"
+    ],
+    "2235:text": [
+      "“Where's the key now?”"
+    ],
+    "2239:text": [
+      "“Arai probably took it after killing me."
+    ],
+    "2240:text": [
+      "He must be carrying out the ritual to summon that god right now.”"
+    ],
+    "2242:text": [
+      "“Get to the basement. ",
+      ", I'm counting on you."
+    ],
+    "2243:text": [
+      "Use the artifacts and spells stored down there"
+    ],
+    "2244:text": [
+      "to stop Arai. Please.”"
+    ],
+    "2246:text": [
+      "“You'll find it on the map."
+    ],
+    "2247:text": [
+      "If you lay the floor plans over one another,"
+    ],
+    "2248:text": [
+      "the locations of the five rumors should form a pentagram.”"
+    ],
+    "2250:text": [
+      "“Like I said, though,"
+    ],
+    "2251:text": [
+      "the entrance to the basement is hidden by a spell,"
+    ],
+    "2252:text": [
+      "so under normal circumstances you won't be able to see it.”"
+    ],
+    "2256:text": [
+      "“I was going to investigate the old school building with you"
+    ],
+    "2257:text": [
+      "to break the spe...............”"
+    ],
+    "2259:text": [
+      "“My field notes............sanity......",
+      " little by little......”"
+    ],
+    "2261:text": [
+      "“......Chalk......classroom...",
+      " Listen to the cursed tape and you'll understa...............”"
+    ],
+    "2269:text": [
+      "The mirror rippled and shook like the screen of a broken TV."
+    ],
+    "2270:text": [
+      "And behind that wavering image, I saw the slimy monster"
+    ],
+    "2271:text": [
+      "closing in, its red eyes wide."
+    ],
+    "2275:text": [
+      "“Damn...",
+      " Arai... was it...?”"
+    ],
+    "2277:text": [
+      "“Ah.........",
+      " I'm counting on you...... ",
+      "......”"
+    ],
+    "2281:text": [
+      "“Hino...!",
+      " Hino!”"
+    ],
+    "2293:text": [
+      "Bright red blood spattered across the glass, and that was the last I saw of Hino..."
+    ],
+    "2308:text": [
+      "I ignored Hino's warning and turned around."
+    ],
+    "2316:text": [
+      "“Huh...?”"
+    ],
+    "2320:text": [
+      "I searched the whole hallway, but Hino was nowhere to be seen."
+    ],
+    "2321:text": [
+      "Strange...",
+      " He'd been here just a moment ago..."
+    ],
+    "2329:text": [
+      "“...!!!”"
+    ],
+    "2333:text": [
+      "When I turned back toward the mirror, the glass was stained bright red."
+    ],
+    "2335:text": [
+      "What was this?"
+    ],
+    "2336:text": [
+      "Could it be... blood...?"
+    ],
+    "2352:text": [
+      "I gingerly ran a finger over the glass, but no blood came off on it."
+    ],
+    "2353:text": [
+      "All I felt was the smooth glass beneath my fingertip."
+    ],
+    "2355:text": [
+      "This blood..."
+    ],
+    "2356:text": [
+      "It looked like it had sprayed from the other side of the glass..."
+    ],
+    "2368:text": [
+      "I gingerly ran a finger over the glass, but no blood came off on it."
+    ],
+    "2369:text": [
+      "All I felt was the smooth glass beneath my fingertip."
+    ],
+    "2371:text": [
+      "That cold, lifeless surface"
+    ],
+    "2372:text": [
+      "was an eternal barrier between the dead and the world of the living..."
+    ],
+    "2373:text": [
+      "......",
+      " Hino..."
+    ],
+    "2472:text": [
+      "Portraits of famous musicians lined the wall."
+    ],
+    "2483:text": [
+      "Portraits of famous musicians lined the wall."
+    ],
+    "2487:text": [
+      "“Do you know who they are?",
+      " Well, ",
+      "?”"
+    ],
+    "2491:text": [
+      "“Huh?",
+      " Why are you asking all of a sudden?”"
+    ],
+    "2495:text": [
+      "“I was wondering how much you first-years know,"
+    ],
+    "2496:text": [
+      "so I figured I'd give you a little pop quiz.”"
+    ],
+    "2499:text": [
+      "“Aw, come on...",
+      " Um......”"
+    ],
+    "2502:text": [
+      "Honestly, I didn't have a clue..."
+    ],
+    "2503:text": [
+      "It almost looked like there were two portraits of each person."
+    ],
+    "2507:text": [
+      "“............"
+    ],
+    "2508:text": [
+      "That's Bach on the far right, isn't it?”"
+    ],
+    "2512:text": [
+      "“No.",
+      " It's Chopin.”"
+    ],
+    "2516:text": [
+      "“......Ah, ha ha... Of course it is...”"
+    ],
+    "2520:text": [
+      "Ugh, how embarrassing..."
+    ],
+    "2524:text": [
+      "“Hey, don't look so stunned."
+    ],
+    "2525:text": [
+      "I was kidding, I was kidding.",
+      " You had it right."
+    ],
+    "2526:text": [
+      "Chopin's the one next to him.”"
+    ],
+    "2530:text": [
+      "“I-I didn't know you made jokes like that, Hino...”"
+    ],
+    "2534:text": [
+      "“Well, musicians are usually better known for their music than their faces."
+    ],
+    "2535:text": [
+      "It's not like they put these portraits on tests,"
+    ],
+    "2536:text": [
+      "so it's a wonder anyone put them up in classrooms.”"
+    ],
+    "2540:text": [
+      "“Come to think of it, they don't have these in the music room in the new building."
+    ],
+    "2541:text": [
+      "Do you think it's a budget thing?”"
+    ],
+    "2545:text": [
+      "“Apparently, hanging up portraits of musicians like this"
+    ],
+    "2546:text": [
+      "was a fad back in the Showa era.”"
+    ],
+    "2548:text": [
+      "“They used to give away calendars with portraits of composers when people bought instruments,"
+    ],
+    "2549:text": [
+      "and music teachers all rushed to put them up on their classroom walls.”"
+    ],
+    "2554:text": [
+      "“Wow, Hino. You really do know everything.”"
+    ],
+    "2558:text": [
+      "I had to admire that about Hino."
+    ],
+    "2559:text": [
+      "Whether it was schoolwork or reporting for the Newspaper Club,"
+    ],
+    "2560:text": [
+      "he looked into everything thoroughly. That's how he'd learned so much."
+    ],
+    "2564:text": [
+      "“I don't know everything."
+    ],
+    "2565:text": [
+      "The talking portraits in the music room...",
+      " That's one of the classic Seven Wonders.”"
+    ],
+    "2567:text": [
+      "“Once you know the truth, you can tell yourself,"
+    ],
+    "2568:text": [
+      "‘Oh, these were mass-produced prints to begin with."
+    ],
+    "2569:text": [
+      "They couldn't possibly talk.’”"
+    ],
+    "2571:text": [
+      "“Then you can get on with your reporting without worrying.”"
+    ],
+    "2573:text": [
+      "“Except...",
+      " I dug a little too deep,"
+    ],
+    "2574:text": [
+      "and found out a music teacher had gone mad and hanged themselves"
+    ],
+    "2575:text": [
+      "in this very room. I wish I hadn't found that out...”"
+    ],
+    "2577:text": [
+      "“So let's get out of here, ",
+      ".”"
+    ],
+    "2581:text": [
+      "“.........”"
+    ],
+    "2584:text": [
+      "Maybe being that thorough wasn't always such a good thing..."
+    ],
+    "2595:text": [
+      "Huh? This portrait..."
+    ],
+    "2596:text": [
+      "When I looked closer, something was sticking out of one corner..."
+    ],
+    "2601:text": [
+      "Were these musical notes?"
+    ],
+    "2602:text": [
+      "It might mean something.",
+      " I'd better put it in the field notes."
+    ],
+    "2605:text": [
+      "▶ I pasted the “Music Note Memo” into the field notes."
+    ],
+    "2618:text": [
+      "This portrait...",
+      " There didn't seem to be anything unusual about it."
+    ],
+    "2645:text": [
+      "It was a chart of musical symbols."
+    ],
+    "2656:text": [
+      "That was one of the symbols from the memo."
+    ],
+    "2657:text": [
+      "Huh, that's called a half note."
+    ],
+    "2668:text": [
+      "That was one of the symbols from the memo."
+    ],
+    "2669:text": [
+      "Huh, that's called a quarter note."
+    ],
+    "2680:text": [
+      "That was one of the symbols from the memo."
+    ],
+    "2681:text": [
+      "Huh, that's called an eighth note."
+    ],
+    "2705:text": [
+      "Old cassettes, sheet music, and textbooks were crammed onto the shelf."
+    ],
+    "2717:text": [
+      "Old cassettes, sheet music, and textbooks were crammed onto the shelf."
+    ],
+    "2718:text": [
+      "The Devil's Melody from that rumor..."
+    ],
+    "2719:text": [
+      "Could the cursed cassette be somewhere in here?"
+    ],
+    "2721:text": [
+      "Hmm...",
+      " Which one was the cursed tape?"
+    ],
+    "2722:text": [
+      "With this many tapes, I wasn't going to find it by guessing."
+    ],
+    "2723:text": [
+      "It'd be easier if I knew the title or the composer..."
+    ],
+    "2726:text": [
+      "Besides, I couldn't see anything to play it on."
+    ],
+    "2727:text": [
+      "I'd need to find a boombox somewhere."
+    ],
+    "2741:text": [
+      "Old cassettes, sheet music, and textbooks were crammed onto the shelf."
+    ],
+    "2743:text": [
+      "Let's see... The composer in ‘Lives of the Musicians, Vol. 4’"
+    ],
+    "2744:text": [
+      "was Giuseppe Verdi, right...?"
+    ],
+    "2746:text": [
+      "It didn't look like any of these tapes had his music."
+    ],
+    "2749:text": [
+      "Besides, I couldn't see anything to play it on."
+    ],
+    "2750:text": [
+      "I'd need to find a boombox somewhere."
+    ],
+    "2763:text": [
+      "Old cassettes, sheet music, and textbooks were crammed onto the shelf."
+    ],
+    "2766:text": [
+      "What was the composer's name in that book I found in the library, ‘The Devil's Melody’...?"
+    ],
+    "2769:rpg_choice.text.1": [
+      "1. Louis-Hector Berlioz"
+    ],
+    "2770:rpg_choice.text.1": [
+      "2. Frédéric Chopin"
+    ],
+    "2771:rpg_choice.text.1": [
+      "3. Erich Zann"
+    ],
+    "2772:rpg_choice.text.1": [
+      "4. Stop looking"
+    ],
+    "2777:text": [
+      "I knew who composed The Devil's Melody from the library book,"
+    ],
+    "2778:text": [
+      "but I couldn't find a boombox to play it on."
+    ],
+    "2780:text": [
+      "I hoped there was one somewhere in the old school building..."
+    ],
+    "2791:text": [
+      "Found it! I think this was it..."
+    ],
+    "2800:text": [
+      "Found it! Is this the one?"
+    ],
+    "2809:text": [
+      "Found it! I wonder if this is the one."
+    ],
+    "2818:text": [
+      " picked up a cassette tape."
+    ],
+    "2821:text": [
+      "Now that I'd found the boombox, I could listen to the tape."
+    ],
+    "2824:text": [
+      "...There. That should do it."
+    ],
+    "2825:text": [
+      "It's a cursed tape, after all. I couldn't help being nervous about playing it."
+    ],
+    "2829:rpg_choice.text.1": [
+      "1. Listen from the beginning"
+    ],
+    "2830:rpg_choice.text.1": [
+      "2. Listen from partway through"
+    ],
+    "2831:rpg_choice.text.1": [
+      "3. Listen to another tape"
+    ],
+    "2848:text": [
+      "“............”"
+    ],
+    "2854:text": [
+      "Huh. It stopped partway through..."
+    ],
+    "2855:text": [
+      " Maybe this wasn't the cursed tape after all."
+    ],
+    "2871:text": [
+      "“............”"
+    ],
+    "2876:text": [
+      "...Such a wild sound."
+    ],
+    "2877:text": [
+      "I could hardly believe something that powerful was coming from a cassette."
+    ],
+    "2879:text": [
+      "I could picture the musician swept up in the piece, playing in a frenzy."
+    ],
+    "2881:text": [
+      "A fierce, impulsive melody, as if the instrument itself were screaming."
+    ],
+    "2883:text": [
+      "The notes were so unpredictable that just listening made my brain shake,"
+    ],
+    "2884:text": [
+      "and I could tell every piece of music I'd heard until then was a cheap imitation."
+    ],
+    "2886:text": [
+      "Incredible. This was incredible...!"
+    ],
+    "2887:text": [
+      "It was the finest piece in the world... No, it stood entirely alone."
+    ],
+    "2889:text": [
+      "My heart trembled with awe and pounded in answer to that magnificent sound,"
+    ],
+    "2890:text": [
+      "as if it were frantic to drive the music to even greater heights."
+    ],
+    "2892:text": [
+      "I forgot to breathe. I forgot I was even alive,"
+    ],
+    "2893:text": [
+      "and became a machine that did nothing but take in the music."
+    ],
+    "2898:text": [
+      "All at once, I thought I heard another unfamiliar melody coming from outside the window."
+    ],
+    "2900:text": [
+      "I couldn't tell if it was really there or if I was hearing things."
+    ],
+    "2901:text": [
+      "But compared with what was coming from the cassette,"
+    ],
+    "2902:text": [
+      "this was a far more stately melody, cold as the night air."
+    ],
+    "2911:text": [
+      "A sudden gust swept in as if to welcome the melody,"
+    ],
+    "2912:text": [
+      "and the window flew open, though it should've been sealed shut."
+    ],
+    "2914:text": [
+      "Outside the window, everything had gone pitch-black."
+    ],
+    "2916:text": [
+      "Cold air swept through the room,"
+    ],
+    "2917:text": [
+      "and the performance on the cassette grew wilder and more frantic."
+    ],
+    "2919:text": [
+      "The cursed melody raged and thrashed,"
+    ],
+    "2920:text": [
+      "thrilled and intoxicated by the music that had swept in."
+    ],
+    "2923:text": [
+      "I understood.",
+      " Ah.",
+      " A god was playing this music."
+    ],
+    "2924:text": [
+      "The musician on the tape had made an offering of music to this great god."
+    ],
+    "2931:text": [
+      "I let out a shriek of joy, my throat tight,"
+    ],
+    "2932:text": [
+      "and threw myself toward the god of the night, lurking silently in the dark..."
+    ],
+    "2942:text": [
+      "Where should I start listening?"
+    ],
+    "2945:rpg_choice.text.1": [
+      "1. 2 minutes in"
+    ],
+    "2946:rpg_choice.text.1": [
+      "2. 4 minutes in"
+    ],
+    "2947:rpg_choice.text.1": [
+      "3. 8 minutes in"
+    ],
+    "2948:rpg_choice.text.1": [
+      "1. 2 minutes in"
+    ],
+    "2949:rpg_choice.text.1": [
+      "2. 4 minutes in"
+    ],
+    "2950:rpg_choice.text.1": [
+      "3. 8 minutes in"
+    ],
+    "2957:text": [
+      "...This...",
+      " isn't music.",
+      " That's someone's voice."
+    ],
+    "2960:text": [
+      "It sounds like they're saying ‘dash’."
+    ],
+    "2962:text": [
+      "What should I do?",
+      " Should I keep listening?"
+    ],
+    "2965:rpg_choice.text.1": [
+      "1. Keep listening"
+    ],
+    "2966:rpg_choice.text.1": [
+      "2. Stop listening"
+    ],
+    "2973:text": [
+      "...This...",
+      " isn't music.",
+      " That's someone's voice."
+    ],
+    "2976:text": [
+      "It sounds like they're saying ‘bee’."
+    ],
+    "2978:text": [
+      "What should I do?",
+      " Should I keep listening?"
+    ],
+    "2981:rpg_choice.text.1": [
+      "1. Keep listening"
+    ],
+    "2982:rpg_choice.text.1": [
+      "2. Stop listening"
+    ],
+    "2989:text": [
+      "...This...",
+      " isn't music.",
+      " That's someone's voice."
+    ],
+    "2992:text": [
+      "It sounds like they're saying ‘two’."
+    ],
+    "2994:text": [
+      "What should I do?",
+      " Should I keep listening?"
+    ],
+    "2997:rpg_choice.text.1": [
+      "1. Keep listening"
+    ],
+    "2998:rpg_choice.text.1": [
+      "2. Stop listening"
+    ],
+    "3006:text": [
+      "Hmm. I can't make anything out..."
+    ],
+    "3007:text": [
+      "What should I do?",
+      " Should I keep listening?"
+    ],
+    "3009:rpg_choice.text.1": [
+      "1. Keep listening"
+    ],
+    "3010:rpg_choice.text.1": [
+      "2. Stop listening"
+    ],
+    "3019:text": [
+      "“Yeah, the smell's coming from in here..."
+    ],
+    "3020:text": [
+      "Hey, ",
+      ", could you take a closer look?”"
+    ],
+    "3087:text": [
+      "“Ugh...”"
+    ],
+    "3091:text": [
+      "The sheer number of bottles dumped here",
+      " made me grimace."
+    ],
+    "3093:text": [
+      "Ugh... It reeks..."
+    ],
+    "3094:text": [
+      "Looks like this is where that smell was coming from."
+    ],
+    "3099:text": [
+      "“Are these...",
+      " chemicals somebody dumped here illegally?"
+    ],
+    "3100:text": [
+      "Some of these bottles might still have something in them."
+    ],
+    "3101:text": [
+      "Be careful, ",
+      ".”"
+    ],
+    "3104:rpg_choice.text.1": [
+      "1. They might come in handy"
+    ],
+    "3105:rpg_choice.text.1": [
+      "2. Leave them alone"
+    ],
+    "3112:text": [
+      "“But they might come in handy.”"
+    ],
+    "3116:text": [
+      "I didn't really believe in the curse,"
+    ],
+    "3117:text": [
+      "but demolition had been called off so many times that there had to be more to it."
+    ],
+    "3118:text": [
+      "Someone could've been interfering."
+    ],
+    "3120:text": [
+      "If that was the case, the chemicals might come in handy precisely because they were dangerous."
+    ],
+    "3121:text": [
+      "It wouldn't hurt to have a way or two to protect myself."
+    ],
+    "3126:text": [
+      "“Even so..."
+    ],
+    "3127:text": [
+      "We can't just take any old thing."
+    ],
+    "3128:text": [
+      "Let's see...”"
+    ],
+    "3130:text": [
+      "“Oh, this one might do.”"
+    ],
+    "3134:text": [
+      "Hino picked up an opaque, silver-colored canister."
+    ],
+    "3136:text": [
+      "It had a nozzle and a handle on top."
+    ],
+    "3137:text": [
+      "It looked odd. Was it some kind of spray can?"
+    ],
+    "3142:text": [
+      "“This is liquid nitrogen.”"
+    ],
+    "3144:text": [
+      "“It can freeze things in an instant."
+    ],
+    "3145:text": [
+      "It'd do some serious damage if it got on your skin,"
+    ],
+    "3146:text": [
+      "but I think it's fairly easy to handle.”"
+    ],
+    "3151:text": [
+      "“Thank you, ",
+      "Hino!”"
+    ],
+    "3155:text": [
+      " obtained “Liquid Nitrogen”!"
+    ],
+    "3163:text": [
+      "“You're really going to carry that around...?"
+    ],
+    "3164:text": [
+      "Please don't spray me with it, okay?”"
+    ],
+    "3175:text": [
+      "Hino was right."
+    ],
+    "3176:text": [
+      "It was dangerous. I'd leave it alone."
+    ],
+    "3187:text": [
+      "It was an anatomical model.",
+      " Nothing stood out about it."
+    ],
+    "3198:text": [
+      "The microscope was dusty and grimy, but none of the parts seemed to be missing."
+    ],
+    "3199:text": [
+      "It looked like it would still work."
+    ],
+    "3201:text": [
+      "Maybe I should take a look through it..."
+    ],
+    "3205:text": [
+      "“",
+      "!",
+      " Look!!”"
+    ],
+    "3209:text": [
+      "Hino peered into the cabinet and let out a shout."
+    ],
+    "3213:text": [
+      "“This is sodium carbonate."
+    ],
+    "3214:text": [
+      "And look how many bottles there are...!”"
+    ],
+    "3218:text": [
+      "“What about it?”"
+    ],
+    "3221:text": [
+      "“If you take an animal carcass"
+    ],
+    "3222:text": [
+      "and simmer it in a 1% solution of sodium carbonate in water,"
+    ],
+    "3223:text": [
+      "you can prepare a presentable skeletal specimen pretty quickly.”"
+    ],
+    "3225:text": [
+      "“That skeleton in the science lab might be...”"
+    ],
+    "3229:text": [
+      "“Are you saying it might be real?"
+    ],
+    "3230:text": [
+      "But... if it were real, someone would've made a fuss about it by now.”"
+    ],
+    "3235:text": [
+      "“But there isn't a skeleton in the new school building, is there?"
+    ],
+    "3236:text": [
+      "If they went out of their way to leave this one in the old school building...”"
+    ],
+    "3240:text": [
+      "“You're jumping to conclusions here.”"
+    ],
+    "3244:text": [
+      "“There's also a rumor the former science teacher was a mad scientist."
+    ],
+    "3245:text": [
+      "Ah, just thinking about it is giving me chills."
+    ],
+    "3246:text": [
+      "Let's get out of here, ",
+      ".”"
+    ],
+    "3250:text": [
+      "“............”"
+    ],
+    "3254:text": [
+      "Hino really was a scaredy-cat..."
+    ],
+    "3256:text": [
+      "Wait. What was I about to do again...?"
+    ],
+    "3267:text": [
+      "One of the five rumors was about a microscope you weren't supposed to look through."
+    ],
+    "3268:text": [
+      "If I remembered right, it was marked with red tape..."
+    ],
+    "3269:text": [
+      "........."
+    ],
+    "3270:text": [
+      "..............."
+    ],
+    "3271:text": [
+      "..........................."
+    ],
+    "3273:text": [
+      "Ah, there it is."
+    ],
+    "3274:text": [
+      "Sure enough, the eyepiece was sealed with tape."
+    ],
+    "3276:text": [
+      "I carefully peeled back the tape and checked the lens."
+    ],
+    "3277:text": [
+      "Hm. ",
+      " It didn't seem to be broken."
+    ],
+    "3279:text": [
+      "What should I do? ",
+      " Should I look through it?"
+    ],
+    "3281:rpg_choice.text.1": [
+      "1. Look through it"
+    ],
+    "3282:rpg_choice.text.1": [
+      "2. Don't look"
+    ],
+    "3288:text": [
+      "I leaned over the microscope and looked through the eyepiece."
+    ],
+    "3298:text": [
+      "“!”"
+    ],
+    "3301:text": [
+      "I recognized that view."
+    ],
+    "3302:text": [
+      "It was the new school building's front gate..."
+    ],
+    "3307:text": [
+      "It was just as Hino had said."
+    ],
+    "3308:text": [
+      "So if I drew a pentagram on the blackboard in red chalk right now, I could go home..."
+    ],
+    "3309:text": [
+      "No. No, I couldn't do that.",
+      " I had to stop Arai, if only for Hino's sake..."
+    ],
+    "3310:text": [
+      "............"
+    ],
+    "3316:text": [
+      "I had no idea how it worked,"
+    ],
+    "3317:text": [
+      "but it was clearly no ordinary microscope."
+    ],
+    "3345:text": [
+      "Through the lens, I could see ",
+      "..."
+    ],
+    "3348:rpg_choice.text.1": [
+      "1. Change magnification"
+    ],
+    "3349:rpg_choice.text.1": [
+      "2. Do nothing"
+    ],
+    "3357:rpg_choice.text.1": [
+      "1. Set to 10×"
+    ],
+    "3358:rpg_choice.text.1": [
+      "2. Set to 80×"
+    ],
+    "3359:rpg_choice.text.1": [
+      "3. Set to 100×"
+    ],
+    "3366:text": [
+      "I changed the magnification and looked through the eyepiece..."
+    ],
+    "3375:text": [
+      "I changed the magnification and looked through the eyepiece..."
+    ],
+    "3384:text": [
+      "I changed the magnification and looked through the eyepiece..."
+    ],
+    "3397:text": [
+      "Let's see. If I've got the P.S. in the field notes right..."
+    ],
+    "3398:text": [
+      "Once I see where I want to go through the microscope,"
+    ],
+    "3399:text": [
+      "I just have to draw a pentagram in red chalk, right?"
+    ],
+    "3403:text": [
+      "I decided to try what was written on the sticky note."
+    ],
+    "3404:text": [
+      "A red star...",
+      " Does that mean I should use red chalk?"
+    ],
+    "3405:text": [
+      "In that case..."
+    ],
+    "3415:text": [
+      " drew a pentagram on the blackboard."
+    ],
+    "3419:text": [
+      "Hino said that if I looked through the microscope now,"
+    ],
+    "3420:text": [
+      "I'd end up in that place."
+    ],
+    "3421:text": [
+      "I'd have to choose where to go carefully..."
+    ],
+    "3433:text": [
+      " erased the pentagram from the blackboard."
+    ],
+    "3457:text": [
+      "I'd only made that promise to put Hino at ease,"
+    ],
+    "3458:text": [
+      "but there was no way I could take down that monster by myself."
+    ],
+    "3460:text": [
+      "Wait, what if I asked the older Newspaper Club members for help?"
+    ],
+    "3461:text": [
+      "Hino seemed worried that someone in the Newspaper Club had betrayed us,"
+    ],
+    "3462:text": [
+      "but now that I knew it was Arai, I was sure I could count on them."
+    ],
+    "3464:text": [
+      "All right. First I had to get out of here."
+    ],
+    "3470:text": [
+      "I looked through the microscope."
+    ],
+    "3471:text": [
+      "I could see the familiar front gate through the lens..."
+    ],
+    "3475:text": [
+      "Suddenly the view in front of me flashed with a blinding light."
+    ],
+    "3479:text": [
+      "“Whoa...?!”"
+    ],
+    "3495:text": [
+      "“...!”"
+    ],
+    "3499:text": [
+      "The abrupt shift in my vision threw me off balance, and I landed on my backside."
+    ],
+    "3500:text": [
+      "This was...",
+      " the school's front gate."
+    ],
+    "3503:text": [
+      "It looked like I'd ended up in the place I'd seen through the microscope."
+    ],
+    "3505:text": [
+      "Had I...",
+      " really made it out?"
+    ],
+    "3508:text": [
+      "Thank goodness."
+    ],
+    "3509:text": [
+      "It looked like I'd made it outside in one piece."
+    ],
+    "3513:text": [
+      "The sky had taken on the colors of dusk. The sun would set any minute..."
+    ],
+    "3531:text": [
+      "“Everyone!",
+      " Something terrible happened!",
+      " It's Hino, in the old school building...!”"
+    ],
+    "3533:text": [
+      "Shinya Asahina"
+    ],
+    "3534:text": [
+      "“Wait... Is that really you, ",
+      "?”"
+    ],
+    "3536:text": [
+      "Emi Kurata"
+    ],
+    "3537:text": [
+      "“",
+      "...!",
+      " I can't believe it...",
+      " You're alive!”"
+    ],
+    "3540:text": [
+      "The moment everyone in the clubroom saw me, they crowded around"
+    ],
+    "3541:text": [
+      "and started talking over each other, asking if I was all right."
+    ],
+    "3545:text": [
+      ".........",
+      " Something was off."
+    ],
+    "3547:text": [
+      "How did they know"
+    ],
+    "3548:text": [
+      "we'd been in danger?"
+    ],
+    "3551:text": [
+      "“Um... Did Hino tell you what was going on?”"
+    ],
+    "3553:text": [
+      "“If Hino told you...",
+      " could you come with me to the old school building?"
+    ],
+    "3554:text": [
+      "I can't figure out what to do on my own...”"
+    ],
+    "3556:text": [
+      "Shinya Asahina"
+    ],
+    "3557:text": [
+      "“Ah...",
+      " The old school building's already been torn down.”"
+    ],
+    "3560:text": [
+      "“............",
+      " What?”"
+    ],
+    "3564:text": [
+      "Shinya Asahina"
+    ],
+    "3565:text": [
+      "“It collapsed all of a sudden at the end of summer vacation."
+    ],
+    "3566:text": [
+      "They found Hino's body buried in the rubble...”"
+    ],
+    "3568:text": [
+      "Shinya Asahina"
+    ],
+    "3569:text": [
+      "“We thought you'd already... ",
+      "...that you were gone too...”"
+    ],
+    "3573:text": [
+      "“That can't be..."
+    ],
+    "3574:text": [
+      "But I was just in the old school building...”"
+    ],
+    "3576:text": [
+      "Emi Kurata"
+    ],
+    "3577:text": [
+      "“",
+      ", you must be confused."
+    ],
+    "3578:text": [
+      "You were spirited away, and it must've driven you out of your mind!”"
+    ],
+    "3580:text": [
+      "Emi Kurata"
+    ],
+    "3581:text": [
+      "“Club President Asahina, I'll go call an ambulance!”"
+    ],
+    "3584:text": [
+      "“Ah... wait... Kurata...!”"
+    ],
+    "3586:text": [
+      "Wh-what's going on?",
+      " Spirited away...?"
+    ],
+    "3587:text": [
+      "I checked my phone screen with a growing sense of dread."
+    ],
+    "3588:text": [
+      "When I saw the date, I couldn't speak."
+    ],
+    "3591:text": [
+      "October 1...",
+      " It was already fall!"
+    ],
+    "3593:text": [
+      "We'd gone to the old school building to report on it in the middle of summer break..."
+    ],
+    "3594:text": [
+      "It couldn't be..."
+    ],
+    "3597:text": [
+      "Shinya Asahina"
+    ],
+    "3598:text": [
+      "“Hey, wait... ",
+      ", where are you going?!”"
+    ],
+    "3603:text": [
+      "“...It really is gone...”"
+    ],
+    "3605:text": [
+      "There was nothing but bare ground where the old school building should have been."
+    ],
+    "3607:text": [
+      "No way..."
+    ],
+    "3608:text": [
+      "So that microscope had sent me through time, too?"
+    ],
+    "3610:text": [
+      "Even if I wanted to go back to my own time,"
+    ],
+    "3611:text": [
+      "with the old school building gone, I had no way to find out how..."
+    ],
+    "3613:text": [
+      "I finally understood what I'd done."
+    ],
+    "3624:text": [
+      "Before long, I was in the spotlight as the high school student who'd miraculously made it back."
+    ],
+    "3625:text": [
+      "Now I spend my days surrounded by TV crews and crowds of gawkers."
+    ],
+    "3628:text": [
+      "In the end, I never found out what had been about to happen in the old school building that day,"
+    ],
+    "3629:text": [
+      "or what ritual Arai had performed."
+    ],
+    "3632:text": [
+      "I went through our old emails about the interview to find out who Arai really was,"
+    ],
+    "3633:text": [
+      "but he'd even lied about what high school he went to, and I still don't know where he is."
+    ],
+    "3635:text": [
+      "Nothing has cleared up. The days just keep passing."
+    ],
+    "3636:text": [
+      "How long can this peace last? The thought won't leave me alone..."
+    ],
+    "3652:text": [
+      "I looked through the microscope."
+    ],
+    "3655:text": [
+      "Through the eyepiece I could see a dense forest stretching out in front of me..."
+    ],
+    "3662:text": [
+      "“Whoa...!”"
+    ],
+    "3666:text": [
+      "Suddenly my vision flickered,"
+    ],
+    "3667:text": [
+      "and a dizzy, weightless feeling washed over me."
+    ],
+    "3678:text": [
+      "“......!”"
+    ],
+    "3681:text": [
+      "A cold wind made my eyes fly open."
+    ],
+    "3682:text": [
+      "I found myself standing rooted to the spot in a dim forest."
+    ],
+    "3684:text": [
+      "It did look familiar, in a way."
+    ],
+    "3685:text": [
+      "Was this... the forest I'd seen through the microscope...?"
+    ],
+    "3687:text": [
+      "I looked all around me, but there were only strange, twisted trees,"
+    ],
+    "3688:text": [
+      "with no buildings or other sign of civilization."
+    ],
+    "3690:text": [
+      "What was I going to do?",
+      " I'd managed to escape, but"
+    ],
+    "3691:text": [
+      "I'd ended up somewhere completely bizarre."
+    ],
+    "3693:text": [
+      "Judging by the strange trees and the eerily glowing fungi around their roots,"
+    ],
+    "3694:text": [
+      "there was no way I was anywhere near Narugami Academy."
+    ],
+    "3696:text": [
+      "Actually, come to think of it...",
+      " Was I even in Japan...?"
+    ],
+    "3698:text": [
+      "I glanced down at my feet and got a shock."
+    ],
+    "3699:text": [
+      "My indoor shoes had turned into boots I'd never seen before..."
+    ],
+    "3701:text": [
+      "That wasn't all."
+    ],
+    "3702:text": [
+      "My pants and top had turned into a grimy medieval-looking outfit,"
+    ],
+    "3703:text": [
+      "and there was no trace of the uniform I'd been wearing a moment ago."
+    ],
+    "3705:text": [
+      "Even the flashlight I'd been holding had turned into a blazing torch."
+    ],
+    "3706:text": [
+      "No... Then what about my phone...?"
+    ],
+    "3708:text": [
+      "My hand shook as I felt around in my pocket and found something thin and hard."
+    ],
+    "3710:text": [
+      "I had to open my map app and figure out where I was, fast..."
+    ],
+    "3713:text": [
+      "“!?”"
+    ],
+    "3716:text": [
+      "...My phone had turned into a flat piece of stone?!"
+    ],
+    "3718:text": [
+      "I was reeling, trying to make sense of what had happened,"
+    ],
+    "3719:text": [
+      "when the trees in front of me bent and swayed violently."
+    ],
+    "3725:text": [
+      "Thud. Thud. Something was coming closer, shaking the ground with every step..."
+    ],
+    "3726:text": [
+      "No way... Was there a monster here too...?!"
+    ],
+    "3727:text": [
+      "I had to run...!"
+    ],
+    "3729:text": [
+      "Just as that thought crossed my mind..."
+    ],
+    "3733:text": [
+      "When I saw enormous arms thrust out between the trees, I blacked out..."
+    ],
+    "3742:text": [
+      "Science lab supplies were stored here."
+    ],
+    "3743:text": [
+      "A magnifying glass, a Komagome pipette, boric acid, prepared slides, an alcohol lamp,"
+    ],
+    "3744:text": [
+      "a small light bulb, batteries..."
+    ],
+    "3746:text": [
+      "Mosquito coils, pepper, a coffee maker,"
+    ],
+    "3747:text": [
+      "a boombox, an alarm clock, a business card from a hostess club...",
+      " A business card from a hostess club?!"
+    ],
+    "3749:text": [
+      "These weren't science lab supplies."
+    ],
+    "3750:text": [
+      "Had a teacher left some personal belongings here?"
+    ],
+    "3752:text": [
+      "Wire, a box cutter, tweezers, nails, pliers..."
+    ],
+    "3753:text": [
+      "Brass knuckles... Whoa, that's disturbing.",
+      " Did these really belong to a teacher?"
+    ],
+    "3755:text": [
+      "Ugh, that stain looked like blood..."
+    ],
+    "3757:text": [
+      "There were probably plenty more strange things in there,"
+    ],
+    "3758:text": [
+      "but I could be here all day, and it was starting to creep me out.",
+      " I decided to leave it alone."
+    ],
+    "3765:text": [
+      "Science lab supplies were stored here."
+    ],
+    "3770:text": [
+      "Science lab supplies were stored here."
+    ],
+    "3775:text": [
+      "Science lab supplies were stored here."
+    ],
+    "3776:text": [
+      "A magnifying glass, a Komagome pipette, boric acid, prepared slides, an alcohol lamp,"
+    ],
+    "3777:text": [
+      "a small light bulb, batteries..."
+    ],
+    "3779:text": [
+      "Mosquito coils, pepper, a coffee maker..."
+    ],
+    "3780:text": [
+      "Ah! A boombox.",
+      " I might be able to play the cassette from earlier with this."
+    ],
+    "3783:text": [
+      " obtained “Boombox”."
+    ],
+    "3788:text": [
+      "Now that I'd found the boombox, I could listen to the tape."
+    ],
+    "3789:text": [
+      "I'd better hurry to the music room."
+    ],
+    "3795:text": [
+      "I'd found the boombox. Now I just had to narrow down which tape to play..."
+    ],
+    "3796:text": [
+      "Maybe I could look it up somewhere."
+    ],
+    "3803:text": [
+      "Science lab supplies were stored here."
+    ],
+    "3807:text": [
+      "A magnifying glass, a Komagome pipette, boric acid, prepared slides, an alcohol lamp,"
+    ],
+    "3808:text": [
+      "a small light bulb, batteries..."
+    ],
+    "3810:text": [
+      "Mosquito coils, pepper, a coffee maker,"
+    ],
+    "3811:text": [
+      "a boombox, an alarm clock, a business card from a hostess club...",
+      " A business card from a hostess club?!"
+    ],
+    "3813:text": [
+      "These weren't science lab supplies."
+    ],
+    "3814:text": [
+      "Had a teacher left some personal belongings here?"
+    ],
+    "3816:text": [
+      "Oh!",
+      " There's some wire right here."
+    ],
+    "3820:text": [
+      "It should be around here somewhere..."
+    ],
+    "3822:text": [
+      "Ah, there it is!"
+    ],
+    "3823:text": [
+      "It's the wire...!"
+    ],
+    "3825:text": [
+      "With this, I might be able to open the locker in Room 3-A."
+    ],
+    "3827:text": [
+      " obtained “Wire”."
+    ],
+    "3835:text": [
+      "Science lab supplies were stored here."
+    ],
+    "3846:text": [
+      "Chemicals for experiments were stored here."
+    ],
+    "3881:text": [
+      "This library wasn't even in use, yet it still had so many books..."
+    ],
+    "3893:text": [
+      "It looked like this shelf held books on music."
+    ],
+    "3895:text": [
+      "‘The Classical Music Compendium’...",
+      " ‘What You Should Know About the Nyckelharpa’..."
+    ],
+    "3896:text": [
+      "‘Lives of the Musicians, Vol. 4’...",
+      " ‘Music to Cleanse the Heart’..."
+    ],
+    "3898:text": [
+      "Nothing really caught my eye."
+    ],
+    "3903:text": [
+      "It looked like this shelf held books on music."
+    ],
+    "3905:text": [
+      "‘The Classical Music Compendium’..."
+    ],
+    "3906:text": [
+      "‘What You Should Know About the Nyckelharpa’..."
+    ],
+    "3907:text": [
+      "‘Lives of the Musicians, Vol. 4’... Huh?"
+    ],
+    "3909:text": [
+      "Wasn't that what Hino had written in his notes?"
+    ],
+    "3910:text": [
+      "I'd taken it for a hasty scribble, but it was a book title."
+    ],
+    "3913:text": [
+      "I took a look inside..."
+    ],
+    "3914:text": [
+      "Apparently it was part of a series about the lives of musicians."
+    ],
+    "3916:text": [
+      "This fourth volume..."
+    ],
+    "3917:text": [
+      "It seemed to be about Giuseppe Verdi,"
+    ],
+    "3918:text": [
+      "an Italian musician."
+    ],
+    "3920:text": [
+      "...Huh?"
+    ],
+    "3921:text": [
+      "That mustache... I thought I'd seen that face in a portrait in the music room..."
+    ],
+    "3925:text": [
+      "▶ I made an entry in the field notes!"
+    ],
+    "3938:text": [
+      "It looked like this shelf held books on the occult."
+    ],
+    "3940:text": [
+      "‘The Devil's Melody’...",
+      " ‘100 Cursed Effigies’..."
+    ],
+    "3942:text": [
+      "‘The Man Who Sees the Right Moment’..."
+    ],
+    "3943:text": [
+      "‘For the Happiness and Peace of Humanity"
+    ],
+    "3944:text": [
+      "– Ten Initiatives from the World Happy and Peace Company’..."
+    ],
+    "3948:text": [
+      "Nothing really caught my eye."
+    ],
+    "3955:text": [
+      "Huh?",
+      " Something just fell out..."
+    ],
+    "3962:text": [
+      "Was this some charm that used to be popular?"
+    ],
+    "3964:text": [
+      "It looked like I'd need a power stone to make it."
+    ],
+    "3967:text": [
+      "Oh...!"
+    ],
+    "3968:text": [
+      "Come to think of it, there was a strange stone lying in the second-floor restroom."
+    ],
+    "3969:text": [
+      "Maybe I should go get it and try this."
+    ],
+    "3971:text": [
+      "It might come in handy for a future article, so I'd make a note of it just in case."
+    ],
+    "3976:text": [
+      " pasted the “Charm Notes” into the field notes."
+    ],
+    "3981:text": [
+      "“Hey..."
+    ],
+    "3982:text": [
+      "You're not really thinking of making that, are you?”"
+    ],
+    "3984:text": [
+      "“Whatever you do, don't make it...",
+      " That wretched thing...”"
+    ],
+    "3989:text": [
+      "Hino was looking at me with contempt..."
+    ],
+    "3991:text": [
+      "What's gotten into him?!",
+      " Hino was acting a little strange today."
+    ],
+    "3998:text": [
+      "Nothing really caught my eye."
+    ],
+    "4001:text": [
+      "This book, ‘The Devil's Melody’..."
+    ],
+    "4002:text": [
+      "Wasn't that the rumor in Hino's field notes?"
+    ],
+    "4005:text": [
+      "There were records you must never play backward,"
+    ],
+    "4006:text": [
+      "and deadly sheet music you're never supposed to play."
+    ],
+    "4007:text": [
+      "It looked like a collection of ominous stories about music."
+    ],
+    "4009:text": [
+      "One of them was apparently the title story, The Devil's Melody."
+    ],
+    "4011:text": [
+      "It was mostly the same as what was in the notes,"
+    ],
+    "4012:text": [
+      "but it went into more detail about the performer on the tape..."
+    ],
+    "4014:text": [
+      "The performer's name was... Erich Zann..."
+    ],
+    "4016:text": [
+      "Now I might be able to figure out which tape to play!"
+    ],
+    "4017:text": [
+      "I'd better remember the name."
+    ],
+    "4020:text": [
+      "▶ I made an entry in the field notes!"
+    ],
+    "4036:text": [
+      "It looked like this shelf held books on crime."
+    ],
+    "4038:text": [
+      "‘The Psychopaths Around Us – Beware Your Neighbors’..."
+    ],
+    "4039:text": [
+      "‘Yasuaki Takes On the Industry's Dark Side!’..."
+    ],
+    "4040:text": [
+      "‘Behind the Scenes with the Police and the Yakuza’..."
+    ],
+    "4043:text": [
+      "Nothing really caught my eye."
+    ],
+    "4047:text": [
+      "‘The True Story of the Kazama Murder Case"
+    ],
+    "4048:text": [
+      "– Every Suspect Is Kazama?!",
+      " An Unsolved Mystery’..."
+    ],
+    "4050:text": [
+      "Huh...?",
+      " There's a comedy novel mixed in here."
+    ],
+    "4051:text": [
+      "I'd better put it back where I found it..."
+    ],
+    "4089:text": [
+      "“!”"
+    ],
+    "4093:text": [
+      "That black monster...",
+      " It was blocking the door to the roof...!"
+    ],
+    "4094:text": [
+      "What could I do...?",
+      " With that thing in the way, Hino and Arai would...!"
+    ],
+    "4098:text": [
+      "Countless red eyes swiveled, and I knew every last one had fixed on me."
+    ],
+    "4099:text": [
+      "I had to get out of here...!"
+    ],
+    "4110:text": [
+      "“Hah...",
+      " hah...”"
+    ],
+    "4114:text": [
+      "I'd come far enough. I should be safe now."
+    ],
+    "4115:text": [
+      "Damn it...",
+      " What the hell was that thing...?"
+    ],
+    "4117:text": [
+      "Were Hino and Arai going to be all right?"
+    ],
+    "4118:text": [
+      "I wished there was something I could do for them..."
+    ],
+    "4120:text": [
+      "...Right.",
+      " Hino had told me that if anything seemed wrong,"
+    ],
+    "4121:text": [
+      "I should use the field notes to find a way out."
+    ],
+    "4141:text": [
+      "“Hey, ",
+      "."
+    ],
+    "4142:text": [
+      "Wait a second.”"
+    ],
+    "4146:text": [
+      "At the foot of the stairs to the roof,"
+    ],
+    "4147:text": [
+      "Hino stopped dead in his tracks."
+    ],
+    "4151:text": [
+      "“Is something wrong?”"
+    ],
+    "4155:text": [
+      "“Do you...",
+      " smell something?”"
+    ],
+    "4159:text": [
+      "Now that he mentioned it,"
+    ],
+    "4160:text": [
+      "there was a sharp smell that stung my nose."
+    ],
+    "4162:text": [
+      "It smelled like disinfectant...",
+      " Was it some kind of chemical?"
+    ],
+    "4166:text": [
+      "“It's coming from the science lab..."
+    ],
+    "4167:text": [
+      "What do you think?",
+      " Should we take a look?”"
+    ],
+    "4175:rpg_choice.text.1": [
+      "1. Go to the science lab"
+    ],
+    "4176:rpg_choice.text.1": [
+      "2. Skip the science lab"
+    ],
+    "4183:text": [
+      "“All right, then. The roof can wait.”"
+    ],
+    "4187:text": [
+      "We hurried to the science lab..."
+    ],
+    "4198:text": [
+      "From the smell of it,"
+    ],
+    "4199:text": [
+      "it probably wasn't anything too dangerous."
+    ],
+    "4201:text": [
+      "I was more concerned"
+    ],
+    "4202:text": [
+      "about the figure I'd seen when I took the photo..."
+    ],
+    "4206:text": [
+      "“Let's go to the roof, Hino.”"
+    ],
+    "4210:text": [
+      "“Sure, I don't mind..."
+    ],
+    "4211:text": [
+      "But what's got you so set on going up there?”"
+    ],
+    "4215:text": [
+      "Oh, right.",
+      " Hino didn't know about the figure on the roof."
+    ],
+    "4217:text": [
+      "The last thing I wanted was for him to run off if I told him now."
+    ],
+    "4218:text": [
+      "I'd have taken my chances with a ghost,"
+    ],
+    "4219:text": [
+      "but if it was an intruder, I didn't want to go up there alone."
+    ],
+    "4223:text": [
+      "“Y-You'll see when we get there!"
+    ],
+    "4224:text": [
+      "Ha ha, come on!”"
+    ],
+    "4227:text": [
+      "“Uh, okay...?”"
+    ],
+    "4241:text": [
+      "It was a water tank."
+    ],
+    "4242:text": [
+      "It smelled a bit like a sewer..."
+    ],
+    "4243:text": [
+      "Was there still old water in it?",
+      " How unsanitary..."
+    ],
+    "4246:text": [
+      "Still, there was nobody in sight."
+    ],
+    "4247:text": [
+      "My eyes must've been playing tricks on me..."
+    ],
+    "4259:text": [
+      "The sky was bright."
+    ],
+    "4261:text": [
+      "It was easy to forget inside the old school building,"
+    ],
+    "4262:text": [
+      "but it was still daytime."
+    ],
+    "4272:text": [
+      "The fence that kept people from falling was rippling wildly in the wind."
+    ],
+    "4275:text": [
+      "“This fence is a lot lower than the one on the new building...”"
+    ],
+    "4279:text": [
+      "“...The wind's blown people right off this roof more than once."
+    ],
+    "4280:text": [
+      "Apparently that's why they made the fence so tall on the new building.”"
+    ],
+    "4284:text": [
+      "“Huh...",
+      " Then, could that be what's really behind the curse...?”"
+    ],
+    "4288:text": [
+      "“No, that's not it."
+    ],
+    "4289:text": [
+      "An ordinary ghost can't curse someone to death.”"
+    ],
+    "4293:text": [
+      "He sounded awfully sure of that..."
+    ],
+    "4294:text": [
+      "Hino was afraid of curses but unfazed by ghosts. He really was an odd guy."
+    ],
+    "4303:text": [
+      "The monster's remains, still scattered across the roof,"
+    ],
+    "4304:text": [
+      "slid through gaps in the fence and down into the courtyard, as if trying to escape."
+    ],
+    "4305:text": [
+      "Before long, there wasn't a drop left."
+    ],
+    "4309:text": [
+      "“Are either of you hurt?”"
+    ],
+    "4314:text": [
+      "A pale young man was suddenly standing between the water tank and me."
+    ],
+    "4315:text": [
+      "I'd never seen that uniform before.",
+      " Did he go to another school?"
+    ],
+    "4319:text": [
+      "“A rather peculiar cry drew me over here..."
+    ],
+    "4320:text": [
+      "Then I found myself stuck here with that monster.”"
+    ],
+    "4322:text": [
+      "“You've done me a great favor by defeating it.”"
+    ],
+    "4326:text": [
+      "He gave us a little bow."
+    ],
+    "4330:text": [
+      "“...And you are?",
+      " You don't look like you go here...”"
+    ],
+    "4334:text": [
+      "“That's a surprise."
+    ],
+    "4335:text": [
+      "I thought you'd at least know my face.",
+      " ...Hino.”"
+    ],
+    "4339:text": [
+      "“!!",
+      " ...Do you know me?”"
+    ],
+    "4343:text": [
+      "Hino glared at him suspiciously, but the young man didn't seem the least bit fazed."
+    ],
+    "4344:text": [
+      "He just gave us a brazen grin, as if he were laughing at us."
+    ],
+    "4349:text": [
+      "“My name is Shoji Arai...",
+      " Does that ring any bells?"
+    ],
+    "4351:text": [
+      "Hee hee...”"
+    ],
+    "4355:text": [
+      "“Arai...",
+      " Shoji...”"
+    ],
+    "4356:text": [
+      "“!”"
+    ],
+    "4360:text": [
+      "“You know him, Hino?”"
+    ],
+    "4364:text": [
+      "“We ran a feature on scary school stories back in the spring..."
+    ],
+    "4365:text": [
+      "Remember?”"
+    ],
+    "4367:text": [
+      "“Arai and I traded a few emails when I was reporting on it.”"
+    ],
+    "4371:text": [
+      "I remembered that, too."
+    ],
+    "4372:text": [
+      "We emailed as many occult clubs at other schools as we could,"
+    ],
+    "4373:text": [
+      "then put their stories together for a roundup of scary tales from across the country."
+    ],
+    "4375:text": [
+      "I'd only just joined the Newspaper Club then,",
+      " so I used Hino's email as a template"
+    ],
+    "4376:text": [
+      "and got to handle a few of the leads myself."
+    ],
+    "4380:text": [
+      "“But...",
+      " why are you here?"
+    ],
+    "4381:text": [
+      "You live in a much more rural prefecture, don't you?”"
+    ],
+    "4386:text": [
+      "“I found it fascinating.",
+      " Narugami Academy, that is."
+    ],
+    "4387:text": [
+      "When you interviewed me, I took the time to read through"
+    ],
+    "4388:text": [
+      "Narugami Academy's School Net News.”"
+    ],
+    "4390:text": [
+      "“From current events and sports results to trends in local industry,"
+    ],
+    "4391:text": [
+      "you published quite an impressive variety of articles."
+    ],
+    "4392:text": [
+      "It made for a rather engaging read.”"
+    ],
+    "4394:text": [
+      "“You certainly live up to your reputation as a huge school."
+    ],
+    "4395:text": [
+      "Your range and sheer volume of articles must rank first in the country.”"
+    ],
+    "4397:text": [
+      "“But...",
+      " that's precisely what puzzled me.”"
+    ],
+    "4399:text": [
+      "“Most of the articles in Narugami Academy's School Net News"
+    ],
+    "4400:text": [
+      "focused on things happening locally.”"
+    ],
+    "4404:text": [
+      "“Of course they did."
+    ],
+    "4405:text": [
+      "It's online, but it's for students here.”"
+    ],
+    "4409:text": [
+      "“Yes, that's exactly my point."
+    ],
+    "4410:text": [
+      "And yet the occult articles alone"
+    ],
+    "4411:text": [
+      "take a different approach.”"
+    ],
+    "4413:text": [
+      "“At a school this large, even without looking beyond your own prefecture,"
+    ],
+    "4414:text": [
+      "there should be any number of stories for you to write."
+    ],
+    "4415:text": [
+      "And yet I couldn't find a single one about Narugami Academy...”"
+    ],
+    "4417:text": [
+      "“You go out of your way to look only to other schools and prefectures for urban legends and folklore."
+    ],
+    "4418:text": [
+      "...It's almost as if there's something you'd rather keep buried, isn't it?”"
+    ],
+    "4422:text": [
+      "“Something we'd rather keep buried, huh."
+    ],
+    "4423:text": [
+      "That makes for a sensational headline,"
+    ],
+    "4424:text": [
+      "but you're reading too much into it.”"
+    ],
+    "4426:text": [
+      "“In fact, we're here to do a story on the cursed old school building."
+    ],
+    "4427:text": [
+      "Right, ",
+      "?”"
+    ],
+    "4431:text": [
+      "“Y-yes.”"
+    ],
+    "4435:text": [
+      "“I see."
+    ],
+    "4436:text": [
+      "So, ",
+      ", you were brought here on that pretext.”"
+    ],
+    "4441:text": [
+      "“......What?”"
+    ],
+    "4446:text": [
+      "What did he mean?",
+      " ‘On that pretext’?"
+    ],
+    "4448:text": [
+      "I shot a glance at Hino, who stood beside me."
+    ],
+    "4449:text": [
+      "Hino didn't so much as raise an eyebrow at Arai's words."
+    ],
+    "4450:text": [
+      "He'd been so visibly rattled just a moment ago..."
+    ],
+    "4455:text": [
+      "“Let me be clear."
+    ],
+    "4456:text": [
+      "I did my own research,"
+    ],
+    "4457:text": [
+      "and it led me to this old school building.”"
+    ],
+    "4459:text": [
+      "“With that in mind..."
+    ],
+    "4460:text": [
+      "Hino, I seriously doubt that you intend"
+    ],
+    "4461:text": [
+      "to write an article about the old school building.”"
+    ],
+    "4463:text": [
+      "“Weren't you just here to cover up something inconvenient?”"
+    ],
+    "4468:text": [
+      "“Come on."
+    ],
+    "4469:text": [
+      "Even if the school's got something it doesn't want uncovered,"
+    ],
+    "4470:text": [
+      "why would a regular student like me cover it up?”"
+    ],
+    "4474:text": [
+      "“I think you'd have a reason.",
+      " As the Newspaper Club's vice president.”"
+    ],
+    "4478:text": [
+      "“...What did you say?”"
+    ],
+    "4482:text": [
+      "“I suspect there's a close connection between the Newspaper Club and the old school building.”"
+    ],
+    "4484:text": [
+      "“So I see no reason to trust those articles.”"
+    ],
+    "4486:text": [
+      "“That's why I came here,"
+    ],
+    "4487:text": [
+      "to see it for myself.”"
+    ],
+    "4492:text": [
+      "“Look...",
+      " then let me ask you this."
+    ],
+    "4493:text": [
+      "How did you get in here...?”"
+    ],
+    "4501:text": [
+      "The growl of that monster echoed from somewhere..."
+    ],
+    "4505:text": [
+      "“We really don't have time for a long conversation."
+    ],
+    "4506:text": [
+      "Who knows when that monster might attack again?”"
+    ],
+    "4510:text": [
+      "He'd talked his head off, and now he wanted us to hurry...?"
+    ],
+    "4511:text": [
+      "Still, what Arai said sounded credible."
+    ],
+    "4513:text": [
+      "Hino was definitely hiding something..."
+    ],
+    "4517:text": [
+      "“U-um..."
+    ],
+    "4518:text": [
+      "Arai, you wouldn't happen to recognize this photo...",
+      " would you?”"
+    ],
+    "4522:text": [
+      "“Hey, ",
+      "...”"
+    ],
+    "4527:text": [
+      "“Hee hee...",
+      " Of course."
+    ],
+    "4528:text": [
+      "Of course...",
+      " I know it.”"
+    ],
+    "4532:text": [
+      "“Really...?!”"
+    ],
+    "4536:text": [
+      "“Look over there, please.”"
+    ],
+    "4541:text": [
+      "With that, Arai leaned over the railing."
+    ],
+    "4542:text": [
+      "Even his slender frame was apparently too much for the rusty railing,"
+    ],
+    "4543:text": [
+      "and it let out a sharp creak."
+    ],
+    "4547:text": [
+      "“B-be careful, Arai...!”"
+    ],
+    "4557:text": [
+      "I could see a large iron door set into the ground in the courtyard."
+    ],
+    "4559:text": [
+      "That big pentagram... There was no mistaking it.",
+      " It matched the photo!"
+    ],
+    "4560:text": [
+      "I couldn't believe it was there of all places."
+    ],
+    "4561:text": [
+      "It was hidden by grass and shrubs. No wonder I hadn't seen it from the first-floor window."
+    ],
+    "4567:text": [
+      "“It seems staring out at the scenery to pass the time"
+    ],
+    "4568:text": [
+      "paid off. How fortunate.”"
+    ],
+    "4572:text": [
+      "“What should we do?",
+      " Hino...”"
+    ],
+    "4576:text": [
+      "“...Sorry, ",
+      ", but you should head home ahead of me."
+    ],
+    "4577:text": [
+      "With a monster like that around,"
+    ],
+    "4578:text": [
+      "we can't exactly go on investigating.”"
+    ],
+    "4582:text": [
+      "“What about you, Hino?”"
+    ],
+    "4586:text": [
+      "“I'll be right behind you."
+    ],
+    "4587:text": [
+      "Just give me a moment...",
+      " There's something I need to talk to Arai about.”"
+    ],
+    "4590:rpg_choice.text.1": [
+      "1. I'm worried about going alone"
+    ],
+    "4591:rpg_choice.text.1": [
+      "2. All right"
+    ],
+    "4597:text": [
+      "“But with a monster like that around..."
+    ],
+    "4598:text": [
+      "I don't know if I can make it to the entrance on my own.”"
+    ],
+    "4602:text": [
+      "“That monster must've run toward the courtyard."
+    ],
+    "4603:text": [
+      "You should be safe if you go straight to the entrance.”"
+    ],
+    "4607:text": [
+      "“......”"
+    ],
+    "4611:text": [
+      "Hino seemed set on staying here."
+    ],
+    "4613:text": [
+      "Hino was the one who'd asked me to come because he was scared,"
+    ],
+    "4614:text": [
+      "and now the instant a monster showed up, he'd changed his mind..."
+    ],
+    "4616:text": [
+      "It was getting more suspicious by the minute, but I couldn't spare the time to press him now."
+    ],
+    "4618:text": [
+      "I'd press Hino for answers another day."
+    ],
+    "4619:text": [
+      "For now, I'd better get out of the old school building."
+    ],
+    "4628:text": [
+      "“All right."
+    ],
+    "4629:text": [
+      "You be careful, too, Hino...”"
+    ],
+    "4636:text": [
+      "“...Oh, right."
+    ],
+    "4637:text": [
+      "I'll teach you my best self-defense trick, just in case.”"
+    ],
+    "4641:text": [
+      "Keeping an eye on Arai, Hino leaned in and whispered in my ear."
+    ],
+    "4654:ptext.text.1": [
+      "Ph'nglui mglw'nafh Cthulhu"
+    ],
+    "4655:ptext.text.1": [
+      "R'lyeh wgah'nagl fhtagn"
+    ],
+    "4664:text": [
+      "“Huh?”"
+    ],
+    "4669:text": [
+      "The words I couldn't make out echoed in my head."
+    ],
+    "4670:text": [
+      "They didn't sound like any language I'd ever heard."
+    ],
+    "4671:text": [
+      "There was a strange sound to them that sent a shiver through me."
+    ],
+    "4673:text": [
+      "I immediately thought of the letter I'd found in the shoe cubby and given to Hino."
+    ],
+    "4675:text": [
+      "So I'd been right."
+    ],
+    "4677:text": [
+      " Hino could read that writing after all..."
+    ],
+    "4681:text": [
+      "“It's a charm to protect you.",
+      " But it won't last long.”"
+    ],
+    "4683:text": [
+      "“Now, make sure you remember.”"
+    ],
+    "4685:text": [
+      "“Ph'nglui mglw'nafh Cthulhu.”"
+    ],
+    "4686:text": [
+      "“R'lyeh wgah'nagl fhtagn. That's it.”"
+    ],
+    "4690:text": [
+      "“Yes... I understand.”"
+    ],
+    "4694:text": [
+      "I'd thought I couldn't possibly memorize words I didn't understand so quickly,"
+    ],
+    "4695:text": [
+      "but the writing on the letter and the sound of Hino's whisper were already etched in my mind."
+    ],
+    "4700:text": [
+      "“Oh, and take this."
+    ],
+    "4701:text": [
+      "It's the key to the old school building's front door.”"
+    ],
+    "4703:text": [
+      "“I've got another one just like it,"
+    ],
+    "4704:text": [
+      "so you can leave the door open.”"
+    ],
+    "4708:text": [
+      " obtained “Old School Building Key”."
+    ],
+    "4711:text": [
+      "“If anything feels wrong, use the field notes to find a way out.”"
+    ],
+    "4712:text": [
+      "“And be careful.”"
+    ],
+    "4725:text": [
+      "▶ Sadao Hino left the party!"
+    ],
+    "4750:text": [
+      "Hino and Arai were probably talking by now."
+    ],
+    "4751:text": [
+      "I'd better head home..."
+    ],
+    "4766:text": [
+      "What a mountain of records..."
+    ],
+    "4767:text": [
+      "If what Hino said was true,"
+    ],
+    "4768:text": [
+      "there had to be plenty of grimoires and artifacts tucked away in here."
+    ],
+    "4770:text": [
+      "I had to find something I could use against Arai..."
+    ],
+    "4772:text": [
+      "What a mountain of records..."
+    ],
+    "4773:text": [
+      "Maybe I'd find something here that could help me escape."
+    ],
+    "4775:text": [
+      "I'd better take a good look."
+    ],
+    "4799:text": [
+      "I found a cardboard box packed with oddly shaped bottles."
+    ],
+    "4800:text": [
+      "Was this... liquor...?"
+    ],
+    "4802:rpg_choice.text.1": [
+      "1. Try the yellow liquor"
+    ],
+    "4803:rpg_choice.text.1": [
+      "2. Try the blue liquor"
+    ],
+    "4804:rpg_choice.text.1": [
+      "3. Don't drink anything"
+    ],
+    "4810:text": [
+      "Maybe it was a magic item that could let me fly,"
+    ],
+    "4811:text": [
+      "or make flames shoot out of my fingers."
+    ],
+    "4813:text": [
+      "I pulled out the cork and sniffed..."
+    ],
+    "4814:text": [
+      "It smelled sweet, like honey."
+    ],
+    "4816:text": [
+      "...It didn't seem like poison.",
+      " I decided to try it."
+    ],
+    "4821:text": [
+      "“............”"
+    ],
+    "4824:text": [
+      "It tasted good... but nothing else happened."
+    ],
+    "4835:text": [
+      "The liquor was a beautiful clear blue."
+    ],
+    "4836:text": [
+      "I pulled out the cork and sniffed..."
+    ],
+    "4837:text": [
+      "...The smell of alcohol alone told me this stuff was pretty strong..."
+    ],
+    "4839:text": [
+      "I took a cautious sip and held it in my mouth."
+    ],
+    "4841:text": [
+      "Ugh, bitter... I didn't get how anyone could be so into drinking."
+    ],
+    "4843:text": [
+      "When I forced myself to swallow, it felt like my stomach caught fire."
+    ],
+    "4845:text": [
+      " My neck was starting to tingle for some reason..."
+    ],
+    "4856:text": [
+      "No.",
+      " I shouldn't be drinking alcohol."
+    ],
+    "4857:text": [
+      "I wasn't old enough."
+    ],
+    "4858:text": [
+      "Then again...",
+      " could I afford to worry about that when lives were on the line?"
+    ],
+    "4870:text": [
+      "This looked like...",
+      " a spellbook."
+    ],
+    "4871:text": [
+      "There was a report in Japanese tucked inside. Even I could read that."
+    ],
+    "4872:text": [
+      "A spell called Flesh Ward, huh..."
+    ],
+    "4874:text": [
+      "“It repels all physical and magical attacks that would harm the body...”",
+      " That's what it said."
+    ],
+    "4876:text": [
+      "What should I do?",
+      " It looked like it would take a while to learn..."
+    ],
+    "4878:rpg_choice.text.1": [
+      "1. Read it"
+    ],
+    "4879:rpg_choice.text.1": [
+      "2. Don't read it"
+    ],
+    "4886:text": [
+      "..."
+    ],
+    "4887:text": [
+      "........."
+    ],
+    "4888:text": [
+      "............"
+    ],
+    "4890:text": [
+      " learned Flesh Ward."
+    ],
+    "4903:text": [
+      "This looked like a spellbook."
+    ],
+    "4904:text": [
+      "There was a report in Japanese tucked inside. Even I could read that."
+    ],
+    "4905:text": [
+      "A Resurrection spell..."
+    ],
+    "4907:text": [
+      "“It reduces the dead to ashes and allows their bodies to be reconstituted...”"
+    ],
+    "4908:text": [
+      "“However, if this spell is cast on a badly damaged corpse, it will only turn the corpse to ashes.”"
+    ],
+    "4909:text": [
+      "That's what it said."
+    ],
+    "4912:text": [
+      "Maybe I could use it to bring Hino back to life."
+    ],
+    "4915:text": [
+      "What should I do?",
+      " It looked like it would take a long time to learn..."
+    ],
+    "4917:rpg_choice.text.1": [
+      "1. Read it"
+    ],
+    "4918:rpg_choice.text.1": [
+      "2. Don't read it"
+    ],
+    "4925:text": [
+      "..."
+    ],
+    "4926:text": [
+      "........."
+    ],
+    "4927:text": [
+      "............"
+    ],
+    "4929:text": [
+      " learned the Resurrection spell."
+    ],
+    "4942:text": [
+      "It was written in Japanese. I could read this."
+    ],
+    "4943:text": [
+      "Contact a Zo-Sunbaralian... huh."
+    ],
+    "4944:text": [
+      "Hold up a 500-yen coin and cry out the name of the great Mazaka..."
+    ],
+    "4945:text": [
+      "Would an alien actually show up?"
+    ],
+    "4946:text": [
+      "What should I do?",
+      " It looked like it would take an awfully long time to learn..."
+    ],
+    "4949:rpg_choice.text.1": [
+      "1. Read it"
+    ],
+    "4950:rpg_choice.text.1": [
+      "2. Don't read it"
+    ],
+    "4956:text": [
+      "..."
+    ],
+    "4957:text": [
+      "........."
+    ],
+    "4958:text": [
+      "............"
+    ],
+    "4960:text": [
+      " learned how to contact a Zo-Sunbaralian."
+    ],
+    "4973:text": [
+      "It was written in Japanese.",
+      " I could read this."
+    ],
+    "4974:text": [
+      "A spell called Water Mirror, huh..."
+    ],
+    "4975:text": [
+      "It could reflect a spell back at its caster..."
+    ],
+    "4977:text": [
+      "What should I do? It looked like it would take a while to learn..."
+    ],
+    "4979:rpg_choice.text.1": [
+      "1. Read it"
+    ],
+    "4980:rpg_choice.text.1": [
+      "2. Don't read it"
+    ],
+    "4987:text": [
+      "..."
+    ],
+    "4988:text": [
+      "........."
+    ],
+    "4989:text": [
+      "............"
+    ],
+    "4991:text": [
+      " learned the Water Mirror spell."
+    ],
+    "5005:text": [
+      "There was something very strange here."
+    ],
+    "5006:text": [
+      "Was this... a tiara?"
+    ],
+    "5008:text": [
+      "It was oval and too oddly shaped to fit a human head..."
+    ],
+    "5009:text": [
+      "Figures that were half human and half fish, covered in scales, were carved into it in relief."
+    ],
+    "5010:text": [
+      "It was incredibly creepy."
+    ],
+    "5012:text": [
+      "But its golden gleam"
+    ],
+    "5013:text": [
+      "was more magnificent and beautiful than anything I'd ever seen..."
+    ],
+    "5015:text": [
+      "I wanted it..."
+    ],
+    "5016:text": [
+      "I felt that desire rear its head inside me."
+    ],
+    "5018:text": [
+      "I..."
+    ],
+    "5020:rpg_choice.text.1": [
+      "1. Take it"
+    ],
+    "5021:rpg_choice.text.1": [
+      "2. Put it back"
+    ],
+    "5027:text": [
+      "It didn't look dangerous..."
+    ],
+    "5028:text": [
+      "It was tucked away down here in the basement."
+    ],
+    "5029:text": [
+      "Surely nobody would mind if I took it...?"
+    ],
+    "5031:text": [
+      "Huh, there was something written on the box it had been in."
+    ],
+    "5033:text": [
+      "“It brings happiness and ruin to whoever obtains it.”"
+    ],
+    "5035:text": [
+      "..."
+    ],
+    "5037:rpg_choice.text.1": [
+      "1. Take it"
+    ],
+    "5038:rpg_choice.text.1": [
+      "2. Put it back after all"
+    ],
+    "5044:text": [
+      "It was probably...",
+      " just some made-up legend...",
+      " I'd be fine."
+    ],
+    "5047:text": [
+      " took the “Tiara”."
+    ],
+    "5058:text": [
+      "I'd better leave it here..."
+    ],
+    "5059:text": [
+      "I'd come down here for something else..."
+    ],
+    "5070:text": [
+      "It was written in Latin."
+    ],
+    "5071:text": [
+      "I couldn't read it..."
+    ],
+    "5090:text": [
+      "“...!”"
+    ],
+    "5093:text": [
+      "Before I knew it, the sky had taken on the colors of dusk."
+    ],
+    "5094:text": [
+      "That was odd..."
+    ],
+    "5095:text": [
+      "The sky shimmered with iridescent colors..."
+    ],
+    "5097:text": [
+      "My vision lurched and swayed...",
+      " Was it an earthquake?"
+    ],
+    "5099:text": [
+      "No, wait...",
+      " Is the old school building itself tilting...?"
+    ],
+    "5103:text": [
+      "“Come now... O Silver Key..."
+    ],
+    "5104:text": [
+      "Lead me to truths beyond human understanding...!”"
+    ],
+    "5111:text": [
+      "As a blinding light swallowed my field of vision,"
+    ],
+    "5112:text": [
+      "my consciousness sank into darkness..."
+    ]
+  }
+}

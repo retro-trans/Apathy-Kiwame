@@ -1,0 +1,48 @@
+{
+  "status": "Integrated isolated candidate; native fixtures and protected-pixel checks passed. Actual route title/face/hover interaction approval remains pending.",
+  "pendant_name": {
+    "source": "hukuzawa/CG/イノチ.png",
+    "clean": "work/ui/art/inoti-pendant-name-clean.png",
+    "patches": [[342,230,255,232]],
+    "width": 960,
+    "height": 690,
+    "text": ["Michiru", "Furushiba"],
+    "reading_note": "Michiru verified kana; Furushiba remains a provisional surname reading. Preserve the full personal-name function, not Life."
+  },
+  "ending_hover": {
+    "source": "edlist/inoti.jpg",
+    "clean": "work/ui/art/inoti-ending-hover-clean.png",
+    "patches": [[30,122,195,42],[578,38,185,133]],
+    "width": 960,
+    "height": 690,
+    "text": ["Life", "Ending List"]
+  },
+  "wrong_answer": {
+    "source": "chara/hukuzawa/美和子プラカード.png",
+    "clean": "work/ui/art/inoti-wrong-answer-clean.png",
+    "patches": [[49,73,249,177],[62,232,60,38]],
+    "width": 470,
+    "height": 600,
+    "text": ["Wrong", "Answer"],
+    "alpha": "Preserve original transparency outside the lettering patch."
+  },
+  "grid_backing": {
+    "source": "hukuzawa/CG/問題3_2.png",
+    "clean": "work/ui/art/inoti-grid-blank-clean.png",
+    "patches": [[450,60,65,56],[165,310,70,70],[745,310,70,70],[450,565,65,70]],
+    "width": 960,
+    "height": 690,
+    "purpose": "Remove duplicated large compass letters only in read-only hint backing; preserve original interactive backing and its compass."
+  },
+  "title": {
+    "sources": ["title/title_イノチA.png", "title/title_イノチB.png"],
+    "text": "Life",
+    "width": 960,
+    "height": 690,
+    "center_x": 480,
+    "baseline": 352,
+    "font_px": 92,
+    "colors": ["#ffffff", "#d90018"],
+    "style": "Latin brush-like lettering on black with matching reflected counterpart; retain both native title stages/timings."
+  }
+}

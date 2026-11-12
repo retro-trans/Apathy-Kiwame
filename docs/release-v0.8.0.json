@@ -1,0 +1,27 @@
+{
+  "version": "0.8.0",
+  "steam_build": "10331351",
+  "app_id": "2283710",
+  "source_files": {
+    "kiwame.exe": {
+      "sha256": "3024dba7e99020ffc04840c88d28af19395c32e75ae982f5e6dfd05237ed15d5",
+      "size": 601000405
+    },
+    "kiwame.tpatch": {
+      "sha256": "ca8ac62083dcc5129c46d310313658377b3c9493a7ca1d14b5dfeb2cdf1781d8",
+      "size": 196845942
+    }
+  },
+  "source_order": [
+    "kiwame.exe",
+    "kiwame.tpatch"
+  ],
+  "source_sha256": "166919d57cd3235e57fd3f7bcef4decee7bc9a1da1111769fcc6c6ea5aad6ab9",
+  "target_sha256": "72ec7a82ad41e98c2f29e8a1f8684c003bf7cc123147895d8215a3fba9a8cd62",
+  "target_size": 953561420,
+  "patch_file": "Apathy-Kiwame-English-v0.8.0.xdelta",
+  "patch_sha256": "b667e5038fb2f1676e0fe90a4d7bf58cdc8ae6b72ef7753761b6a7311d0ddea1",
+  "decoder_sha256": "7b75f1948cb93ad4900fd9d52042d1a60b019844ac5793f01242e4bd543add2d",
+  "layout": "embedded",
+  "package_files": 2009
+}

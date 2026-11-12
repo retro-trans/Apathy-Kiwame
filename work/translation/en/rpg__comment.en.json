@@ -1,0 +1,123 @@
+{
+  "scenario": "data/scenario/rpg/comment.ks",
+  "source_sha256": "dfed440abe2fb8088e34fe5c6f5dd14f9c32a1a1f8a2e88342efd926caa51b53",
+  "rows": {
+    "2:text": [
+      "There's no way to get away from that monster."
+    ],
+    "3:text": [
+      "Drive the monster off",
+      "... is there a good way I could do that?"
+    ],
+    "9:text": [
+      "I won't beat Hino like this."
+    ],
+    "10:text": [
+      "Didn't I see an item that could ",
+      "exploit a weakness",
+      " of Hino's"
+    ],
+    "11:text": [
+      "somewhere in the building?"
+    ],
+    "18:text": [
+      "Looks like I got the timing wrong..."
+    ],
+    "19:text": [
+      "Sometimes I've got to be brave enough to ",
+      "try something new",
+      "."
+    ],
+    "25:text": [
+      "I can't take much more of this monster's attacks..."
+    ],
+    "26:text": [
+      "I've got to find ",
+      "the monster's weak spot",
+      "..."
+    ],
+    "32:text": [
+      "At this rate, I'll just keep taking a beating..."
+    ],
+    "33:text": [
+      "I need to find ",
+      "a way to fight back",
+      " against that thing..."
+    ],
+    "38:text": [
+      "That thing moves fast."
+    ],
+    "39:text": [
+      "I'll have to find an opening and finish it ",
+      "in one strike",
+      "..."
+    ],
+    "45:text": [
+      "Arai's going to throw all kinds of spells at me."
+    ],
+    "46:text": [
+      "I need to prepare with ",
+      "the artifacts in the basement",
+      "..."
+    ],
+    "48:text": [
+      "The ",
+      "five rumors",
+      " in the field notes..."
+    ],
+    "49:text": [
+      "Maybe I should look into them more carefully..."
+    ],
+    "56:text": [
+      "Hino left these field notes behind. They're important."
+    ],
+    "57:text": [
+      "The right moment",
+      "... that's when I've got to use them."
+    ],
+    "59:text": [
+      "The ",
+      "five rumors",
+      " in the field notes..."
+    ],
+    "60:text": [
+      "Maybe I should look into them more carefully..."
+    ],
+    "67:text": [
+      "Hino's just Arai's puppet now."
+    ],
+    "68:text": [
+      "It hurts, but for Hino's sake, I've got to lay him to rest..."
+    ],
+    "70:text": [
+      "The ",
+      "five rumors",
+      " in the field notes..."
+    ],
+    "71:text": [
+      "Maybe I should look into them more carefully..."
+    ],
+    "77:text": [
+      "I doubt Arai will let his guard down."
+    ],
+    "78:text": [
+      "I've got to outsmart him ",
+      "some other way",
+      "..."
+    ],
+    "83:text": [
+      "Things won't get any better if I just watch and wait."
+    ],
+    "84:text": [
+      "Time to be a little bolder!"
+    ],
+    "89:text": [
+      "Arai's trying to wear me down until my mind breaks..."
+    ],
+    "90:text": [
+      "I've got to go into this fight with a ",
+      "clear head",
+      "."
+    ]
+  }
+}

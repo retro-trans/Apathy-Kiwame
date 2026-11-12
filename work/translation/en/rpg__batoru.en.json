@@ -1,0 +1,3492 @@
+{
+  "scenario": "data/scenario/rpg/batoru.ks",
+  "source_sha256": "09bc828ddfb29eefecdcf1a879599cef87b1fb444c1148ec060a2816e6ed2e91",
+  "rows": {
+    "16:text": [
+      "“Hino, do you still have the work gloves?”"
+    ],
+    "21:text": [
+      "“...Yeah, I've got them.",
+      " Here.”"
+    ],
+    "25:text": [
+      "I put on the work gloves he'd lent me and crouched down."
+    ],
+    "27:text": [
+      "The sender's name on that letter..."
+    ],
+    "28:text": [
+      "Yoshino... Somei..."
+    ],
+    "30:text": [
+      "I'd been so sure it was someone's name,"
+    ],
+    "31:text": [
+      "but what if it meant a kind of cherry tree...",
+      " the Somei-yoshino?"
+    ],
+    "33:text": [
+      "The stump was the only trace of a cherry tree I knew of around the old school building."
+    ],
+    "34:text": [
+      "I hadn't searched the courtyard yet...",
+      " It was worth a look."
+    ],
+    "36:text": [
+      "When I went over to the spot I'd seen from the window,"
+    ],
+    "37:text": [
+      "I found a patch of bare dirt around the stump."
+    ],
+    "39:text": [
+      "Beside the stump, the tools that must've been used to tend the garden"
+    ],
+    "40:text": [
+      "had been left to rust."
+    ],
+    "42:text": [
+      "I picked up a shovel lying on the ground"
+    ],
+    "43:text": [
+      "and slowly began to dig..."
+    ],
+    "47:text": [
+      "..."
+    ],
+    "49:text": [
+      "........."
+    ],
+    "51:text": [
+      ".................."
+    ],
+    "58:text": [
+      "After I'd been digging for a while,"
+    ],
+    "59:text": [
+      "the tip of the shovel hit something hard, like a large stone."
+    ],
+    "61:text": [
+      "Feeling the shovel strike something, I hurried to brush the dirt away..."
+    ],
+    "70:text": [
+      "That pentagram...",
+      " This had to be it!"
+    ],
+    "75:text": [
+      "“...I found it! Hino, I found it...!",
+      " Huh?”"
+    ],
+    "83:text": [
+      "I looked over my shoulder. Hino had vanished without a trace."
+    ],
+    "85:text": [
+      "Could Hino have..."
+    ],
+    "86:text": [
+      "gotten cold feet when the moment finally came?"
+    ],
+    "87:text": [
+      "After seeing how scared he'd been, I could believe it."
+    ],
+    "89:text": [
+      "What should I do?",
+      " I could try calling him, but..."
+    ],
+    "91:text": [
+      "Hino had kept dodging my questions,"
+    ],
+    "92:text": [
+      "so I still knew nothing about the old school building's curse."
+    ],
+    "94:text": [
+      "Standing over the hatch, I felt the curiosity I'd been holding back start to bubble up..."
+    ],
+    "96:text": [
+      "Even if Hino came back, I knew I'd be the one to open it anyway."
+    ],
+    "97:text": [
+      "So what was the harm in opening it now?"
+    ],
+    "101:text": [
+      "I carefully put a hand on the hatch... It looked like a manhole cover,"
+    ],
+    "102:text": [
+      "the kind you just lift to open."
+    ],
+    "108:text": [
+      "This book looked like someone had made it by hand."
+    ],
+    "109:text": [
+      "The title was written in English on a tattered sheet of glossy, translucent paper."
+    ],
+    "111:text": [
+      "The",
+      " Revelations",
+      " of Glaaki",
+      " from “Goatswood”..."
+    ],
+    "112:text": [
+      "The Revolutions of... Glaaaki... Goats..."
+    ],
+    "114:text": [
+      "What kind of book was it?"
+    ],
+    "119:text": [
+      "I took off my dirt-stained work gloves and leafed through it."
+    ],
+    "120:text": [
+      "I noticed a bookmark tucked between the pages near the end."
+    ],
+    "122:text": [
+      "I recognized that bookmark..."
+    ],
+    "123:text": [
+      "Wait...",
+      " Wasn't that the one from Hino's notebook?"
+    ],
+    "125:text": [
+      "When I looked closer at the bookmark, my eyes strayed to the words on the page."
+    ],
+    "126:text": [
+      "There, on the page, was the name Y'golonac..."
+    ],
+    "131:text": [
+      "“Y'golonac.”"
+    ],
+    "138:text": [
+      "“!”"
+    ],
+    "149:text": [
+      "When I turned, the first thing I saw was red."
+    ],
+    "150:text": [
+      "Blood was dripping from Hino's palms, more than his cotton work gloves could soak up,"
+    ],
+    "151:text": [
+      "and falling like red rain, drop by drop, onto the overgrown plants."
+    ],
+    "153:text": [
+      "I gasped at the sight,"
+    ],
+    "155:text": [
+      "and a sickeningly gleeful chuckle"
+    ],
+    "156:text": [
+      "bubbled up from both of Hino's palms...!"
+    ],
+    "163:text": [
+      "“Hyahahahaha!",
+      " You really are one hell of a first-year, ",
+      "."
+    ],
+    "164:text": [
+      "You were my hands and feet, doing exactly what I'd expected you to do.”"
+    ],
+    "169:text": [
+      "Hino's work gloves finally fell to the ground under the weight of all that blood."
+    ],
+    "171:text": [
+      "On his bare palms,"
+    ],
+    "172:text": [
+      "I could see countless sharp teeth and thick tongues jutting out."
+    ],
+    "177:text": [
+      "“H-Hino...?",
+      " What happened to your hands...”"
+    ],
+    "182:text": [
+      "“This is the god's own form, bestowed on those who read that book."
+    ],
+    "183:text": [
+      "I came to the old school building a week ago."
+    ],
+    "184:text": [
+      "I read that book, just like you did, and was chosen to be the god's priest.”"
+    ],
+    "188:text": [
+      "A god...?",
+      " A priest...?"
+    ],
+    "189:text": [
+      "What was Hino talking about...?"
+    ],
+    "194:text": [
+      "“Don't be so scared, ",
+      "."
+    ],
+    "195:text": [
+      "I've grown quite fond of you."
+    ],
+    "196:text": [
+      "You've got more nerve than anyone would guess...",
+      " and you're cruel.”"
+    ],
+    "201:text": [
+      "“I'm...",
+      " cruel?”"
+    ],
+    "205:text": [
+      "“Yeah.",
+      " You say you feel sorry for people,"
+    ],
+    "206:text": [
+      "but deep down, you crave doing cruel things."
+    ],
+    "207:text": [
+      "That's why you were chosen.”"
+    ],
+    "209:text": [
+      "“By me.",
+      " By that book.",
+      " And by—Y'golonac.”"
+    ],
+    "214:text": [
+      "“No... That's not what I meant to...”"
+    ],
+    "218:text": [
+      "“It's too late for regrets."
+    ],
+    "219:text": [
+      "You read that book of your own free will."
+    ],
+    "220:text": [
+      "You have to accept it, ",
+      ".”"
+    ],
+    "222:text": [
+      "“Come on.",
+      " Say the god's name one more time...”"
+    ],
+    "227:text": [
+      "Hino came toward me, one step at a time."
+    ],
+    "229:text": [
+      "With every step, his body swelled and frothed white,"
+    ],
+    "231:text": [
+      "on the verge of becoming something from another world..."
+    ],
+    "267:text": [
+      "Y'golonac appeared!"
+    ],
+    "276:rpg_choice.text.1": [
+      "1. Splash Holy Water"
+    ],
+    "277:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "278:rpg_choice.text.1": [
+      "3. Close your eyes"
+    ],
+    "282:rpg_choice.text.1": [
+      "1. Reason with Hino"
+    ],
+    "283:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "284:rpg_choice.text.1": [
+      "3. Close your eyes"
+    ],
+    "288:rpg_choice.text.1": [
+      "1. Drink Holy Water"
+    ],
+    "289:rpg_choice.text.1": [
+      "2. Run away"
+    ],
+    "290:rpg_choice.text.1": [
+      "3. Close your eyes"
+    ],
+    "295:text": [
+      " doused"
+    ],
+    "296:text": [
+      "Y'golonac with “Holy Water”!"
+    ],
+    "301:text": [
+      "▶ Y'golonac let out a low groan..."
+    ],
+    "304:text": [
+      "“Damn... It looks like it's working, but...",
+      " I only made one bottle of Holy Water...”"
+    ],
+    "312:text": [
+      " watched and waited..."
+    ],
+    "314:text": [
+      " sensed overwhelming malice from Y'golonac..."
+    ],
+    "323:text": [
+      " closed his eyes and gave in..."
+    ],
+    "334:text": [
+      "“Hino!",
+      " Come to your senses!”"
+    ],
+    "336:text": [
+      "Sadao Hino"
+    ],
+    "337:text": [
+      "“Hyahahaha!",
+      " You still don't get it?"
+    ],
+    "338:text": [
+      "Sanity and madness bleed into each other.”"
+    ],
+    "340:text": [
+      "“I've been sane this whole time.”"
+    ],
+    "342:text": [
+      "It was no use...",
+      " He wouldn't listen...!"
+    ],
+    "352:text": [
+      "A black, ugly feeling was welling up in my heart..."
+    ],
+    "353:text": [
+      "The malice... I had to find a way to drive it back..."
+    ],
+    "355:text": [
+      "......",
+      " It was a gamble, but I had to try..."
+    ],
+    "357:text": [
+      " took a mouthful of “Holy Water” and held it!"
+    ],
+    "359:text": [
+      "Sadao Hino"
+    ],
+    "360:text": [
+      "“Y-y-y-you...",
+      " Stop... ",
+      "...!”"
+    ],
+    "362:text": [
+      "Sadao Hino"
+    ],
+    "363:text": [
+      "“Your heart's tainted.",
+      " Are you sure you want to do that?"
+    ],
+    "364:text": [
+      "If you drink that, you won't come out of it unharmed either...”"
+    ],
+    "367:text": [
+      "“I can tell you're rattled, Hino. It's pretty obvious...”"
+    ],
+    "372:text": [
+      "“Ugh...",
+      " Ungh!”"
+    ],
+    "374:text": [
+      "Hot..."
+    ],
+    "376:text": [
+      "My throat was burning...!"
+    ],
+    "380:text": [
+      "“Ugh...",
+      " Aaaaaah...!”"
+    ],
+    "394:text": [
+      "Was this...",
+      " the courtyard?"
+    ],
+    "396:text": [
+      "I sat up, trying to shake the numbness from my body, and saw Hino beside me."
+    ],
+    "397:text": [
+      "But his head was crushed,"
+    ],
+    "398:text": [
+      "and blood was pouring from both arms..."
+    ],
+    "400:text": [
+      "Of course, he wasn't breathing anymore."
+    ],
+    "402:text": [
+      "His blood-soaked arms clutched that accursed book as if it were precious."
+    ],
+    "403:text": [
+      "I'd never imagined that someone I looked up to"
+    ],
+    "404:text": [
+      "would put me through something like this..."
+    ],
+    "410:ptext.text.1": [
+      "Eyesore"
+    ],
+    "422:text": [
+      "Hino and this book... If I could burn them right now,",
+      " along with the whole old school building, I'd feel so much better..."
+    ],
+    "425:ptext.text.1": [
+      "Give in to desire"
+    ],
+    "440:text": [
+      "I caught myself reaching for that book without even thinking."
+    ],
+    "441:text": [
+      "Whatever was whispering to my heart just now..."
+    ],
+    "443:text": [
+      "I had to get away, as fast as I could."
+    ],
+    "445:text": [
+      "I poured what was left of the Holy Water over the book and decided to put it back where I'd found it."
+    ],
+    "450:text": [
+      "Y'golonac... a terrifying monster that preys on human malice."
+    ],
+    "451:text": [
+      "Something beyond human understanding that drags anyone who learns of it to the brink of madness."
+    ],
+    "453:text": [
+      "I'd fallen under its spell..."
+    ],
+    "454:text": [
+      "I knew in my gut that Hino hadn't been lying."
+    ],
+    "456:text": [
+      "That was exactly why I couldn't have anything more to do with the book."
+    ],
+    "457:text": [
+      "I had to forget."
+    ],
+    "458:text": [
+      "I'd tell myself I'd forgotten."
+    ],
+    "460:text": [
+      "The old school building...",
+      " This curse consumes human malice."
+    ],
+    "462:text": [
+      "I walked away from the old school building, my steps heavy."
+    ],
+    "470:text": [
+      " ran away...!"
+    ],
+    "472:text": [
+      "Sadao Hino"
+    ],
+    "473:text": [
+      "“Pathetic, ",
+      "..."
+    ],
+    "474:text": [
+      "I guess I was wrong about you.”"
+    ],
+    "476:text": [
+      "“Either way, a loser like you doesn't deserve to live.”"
+    ],
+    "480:text": [
+      "“Die.”"
+    ],
+    "483:text": [
+      "▶ Y'golonac grabbed ",
+      " and lifted him up!"
+    ],
+    "488:text": [
+      "“Ungh!”"
+    ],
+    "490:text": [
+      " struggled!"
+    ],
+    "491:text": [
+      "But he couldn't get away!"
+    ],
+    "494:text": [
+      "▶ Y'golonac tightened its grip on ",
+      "..."
+    ],
+    "498:text": [
+      "'s consciousness was fading..."
+    ],
+    "512:text": [
+      "Sadao Hino"
+    ],
+    "513:text": [
+      "“I've got a soft spot for you, kid.",
+      " I'll make sure it hurts like hell.”"
+    ],
+    "515:text": [
+      "▶ Y'golonac bit ",
+      " with the mouth in its palm!"
+    ],
+    "526:text": [
+      "Sadao Hino"
+    ],
+    "527:text": [
+      "“Does it hurt?",
+      " Well, ",
+      "...?"
+    ],
+    "528:text": [
+      "Suffer some more!”"
+    ],
+    "530:text": [
+      "▶ Y'golonac bit ",
+      " with the mouth in its palm!"
+    ],
+    "542:text": [
+      "Sadao Hino"
+    ],
+    "543:text": [
+      "“Hyahahaha!"
+    ],
+    "544:text": [
+      "I'll keep doting on you, even after you're dead.”"
+    ],
+    "546:text": [
+      "▶ Y'golonac bit ",
+      " with the mouth in its palm!"
+    ],
+    "557:text": [
+      "Sadao Hino"
+    ],
+    "558:text": [
+      "“That's it... Good..."
+    ],
+    "559:text": [
+      "Accept me...",
+      " Accept the malice...”"
+    ],
+    "565:text": [
+      "'s brain rang with a discordant sound..."
+    ],
+    "571:text": [
+      "I felt as if I were floating. It was terribly pleasant..."
+    ],
+    "579:text": [
+      "Sadao Hino"
+    ],
+    "580:text": [
+      "“That's it.",
+      " You don't have to think about anything..."
+    ],
+    "581:text": [
+      "Follow your heart...",
+      " Give yourself over to malice.”"
+    ],
+    "587:text": [
+      "'s malice began to stir..."
+    ],
+    "590:text": [
+      "Hino was right..."
+    ],
+    "591:text": [
+      "Blood..."
+    ],
+    "592:text": [
+      "I had to offer it to the god..."
+    ],
+    "598:text": [
+      " felt a murderous urge taking root..."
+    ],
+    "607:text": [
+      "Sadao Hino"
+    ],
+    "608:text": [
+      "“Now then, who's your master?"
+    ],
+    "609:text": [
+      "Who will accept you?”"
+    ],
+    "616:text": [
+      "'s malice began to stir..."
+    ],
+    "622:text": [
+      " was desperate to kill someone..."
+    ],
+    "631:text": [
+      " was “possessed” by Y'golonac...!"
+    ],
+    "639:text": [
+      "Sadao Hino"
+    ],
+    "640:text": [
+      "“Ah, that's it."
+    ],
+    "641:text": [
+      "Give in to your desires. Accept the malice...”"
+    ],
+    "648:text": [
+      "'s malice grew stronger..."
+    ],
+    "654:text": [
+      " wanted to kill someone..."
+    ],
+    "655:text": [
+      "▶ Right now...!"
+    ],
+    "673:text": [
+      "Y'golonac was whispering to me..."
+    ],
+    "674:text": [
+      "A pleasant wave of murderous intent washed through me."
+    ],
+    "678:text": [
+      "“",
+      ".",
+      " You know what you have to do now, don't you?”"
+    ],
+    "682:text": [
+      "Yes.",
+      " Of course.",
+      " Hino."
+    ],
+    "686:text": [
+      "“Follow your desires.”"
+    ],
+    "691:text": [
+      "“Follow your desires.”"
+    ],
+    "696:ptext.text.1": [
+      "KILL"
+    ],
+    "740:text": [
+      "It was a water tank."
+    ],
+    "741:text": [
+      "It smelled faintly of sewage..."
+    ],
+    "742:text": [
+      "Was there still old water in it?",
+      " How unsanitary..."
+    ],
+    "744:text": [
+      "That figure I'd seen earlier was still bothering me. Maybe I'd take a closer look."
+    ],
+    "746:text": [
+      "The tank gave off a terrible stench that got worse the closer I came."
+    ],
+    "747:text": [
+      "It stung my eyes and nose until I started tearing up."
+    ],
+    "751:text": [
+      "“Ugh...”"
+    ],
+    "755:text": [
+      "The smell was awful...",
+      " This couldn't just be stagnant water..."
+    ],
+    "756:text": [
+      "I put a hand on the tank without thinking, and..."
+    ],
+    "763:text": [
+      "Something like black tar stuck fast to my palm."
+    ],
+    "764:text": [
+      "The stench was incredible...",
+      " This had to be where it was coming from."
+    ],
+    "766:text": [
+      "I looked up at the tank. From a gap around the inlet,"
+    ],
+    "767:text": [
+      "a thick black liquid was oozing out..."
+    ],
+    "769:text": [
+      "I recoiled and was about to back away when it happened."
+    ],
+    "771:text": [
+      "I felt something watching me from down by my feet."
+    ],
+    "775:text": [
+      "In the black, tar-like liquid... several red eyes had surfaced."
+    ],
+    "776:text": [
+      "The eyes slid from place to place, still fixed on me, as the liquid shifted shape"
+    ],
+    "777:text": [
+      "and crept up the side of the tank as though it were defying gravity."
+    ],
+    "779:text": [
+      "And when it reached the height of my face..."
+    ],
+    "782:text": [
+      "“Watch out!",
+      " Quick, ",
+      "!!”"
+    ],
+    "785:text": [
+      "The liquid shot countless needle-like spikes at me!"
+    ],
+    "788:rpg_choice.text.1": [
+      "1. Dodge right"
+    ],
+    "789:rpg_choice.text.1": [
+      "2. Dodge left"
+    ],
+    "803:text": [
+      "“Gah...!”"
+    ],
+    "808:text": [
+      "Before I knew it, thick black liquid had surrounded me."
+    ],
+    "809:text": [
+      "No, wait... This wasn't liquid...",
+      " It was alive!"
+    ],
+    "819:text": [
+      "I twisted away at Hino's shout, just barely dodging the attack."
+    ],
+    "820:text": [
+      "But a needle that grazed my neck stuck to my skin, biting into it,"
+    ],
+    "821:text": [
+      "and tried to burrow into a blood vessel...!"
+    ],
+    "845:text": [
+      "A tar-like monster appeared!"
+    ],
+    "847:text": [
+      "▶ Hino rushed over to ",
+      " and tried to stop the bleeding..."
+    ],
+    "849:text": [
+      "Sadao Hino"
+    ],
+    "850:text": [
+      "“Are you okay?",
+      " Hey, ",
+      "...!”"
+    ],
+    "852:text": [
+      "Sadao Hino"
+    ],
+    "853:text": [
+      "“Press hard on the wound.",
+      " That should stop the bleeding...”"
+    ],
+    "856:text": [
+      "▶ The tar-like monster reached out with its tentacles...!"
+    ],
+    "864:rpg_choice.text.1": [
+      "1. Duck"
+    ],
+    "865:rpg_choice.text.1": [
+      "2. Push Hino out of the way"
+    ],
+    "866:rpg_choice.text.1": [
+      "3. Run away"
+    ],
+    "873:rpg_choice.text.1": [
+      "1. Duck"
+    ],
+    "874:rpg_choice.text.1": [
+      "2. Lunge at it"
+    ],
+    "875:rpg_choice.text.1": [
+      "3. Run away"
+    ],
+    "881:rpg_choice.text.1": [
+      "1. Use the spray"
+    ],
+    "882:rpg_choice.text.1": [
+      "2. Search your pockets"
+    ],
+    "883:rpg_choice.text.1": [
+      "3. Try dancing"
+    ],
+    "889:rpg_choice.text.1": [
+      "1. Use the spray"
+    ],
+    "890:rpg_choice.text.1": [
+      "2. Throw the 500-yen coin"
+    ],
+    "891:rpg_choice.text.1": [
+      "2. Lunge at it"
+    ],
+    "892:rpg_choice.text.1": [
+      "3. Spray Hino"
+    ],
+    "900:text": [
+      "▶ The monster bit down on ",
+      "'s arm!"
+    ],
+    "905:text": [
+      "Ugh... It's fast...!"
+    ],
+    "906:text": [
+      "I don't have time to hesitate...!"
+    ],
+    "914:text": [
+      "▶ The monster bit down on ",
+      "'s arm!"
+    ],
+    "919:text": [
+      "Ugh... It's fast...!"
+    ],
+    "920:text": [
+      "I don't have time to hesitate...!"
+    ],
+    "928:text": [
+      "▶ The monster spat a thick liquid at ",
+      "!"
+    ],
+    "930:text": [
+      "'s skin melted and bubbled...!"
+    ],
+    "936:text": [
+      "Damn... If I hesitate here, I'm dead...!"
+    ],
+    "937:text": [
+      "I have to think of something, fast...!"
+    ],
+    "945:text": [
+      "▶ The monster squeezed ",
+      " in its tentacles!"
+    ],
+    "950:text": [
+      "Ugh... I'm so close...!"
+    ],
+    "959:text": [
+      " lunged at the monster!"
+    ],
+    "962:text": [
+      " began sinking into the monster's body..."
+    ],
+    "964:text": [
+      "O-Oh no...",
+      " I can't move...!"
+    ],
+    "967:text": [
+      "▶ The monster started swallowing ",
+      " whole..."
+    ],
+    "977:text": [
+      "“Ugh...”"
+    ],
+    "979:text": [
+      " couldn't move. Every joint was creaking..."
+    ],
+    "986:text": [
+      "▶ One of the monster's spikes pierced ",
+      "'s shoulder!"
+    ],
+    "988:text": [
+      "I'd lost so much blood so fast. My body can't take any more."
+    ],
+    "989:text": [
+      "At this rate...",
+      " I'm going to..."
+    ],
+    "993:text": [
+      "Sadao Hino"
+    ],
+    "994:text": [
+      "“Look out...! ",
+      "!”"
+    ],
+    "995:text": [
+      "▶ Hino shielded ",
+      " with his body...!"
+    ],
+    "999:text": [
+      "Sadao Hino"
+    ],
+    "1000:text": [
+      "“Gah...!”"
+    ],
+    "1021:text": [
+      "“Hino!",
+      " Look out...!”"
+    ],
+    "1023:text": [
+      " shoved Hino as hard as he could!"
+    ],
+    "1025:text": [
+      " lost his balance and fell!"
+    ],
+    "1029:text": [
+      " narrowly missed being hit by one of the monster's spikes...!"
+    ],
+    "1031:text": [
+      "If that had hit me..."
+    ],
+    "1032:text": [
+      "I can't afford to nurse my injuries anymore."
+    ],
+    "1033:text": [
+      "I've got to do something about this monster, fast...!"
+    ],
+    "1042:text": [
+      "“Ugh...”"
+    ],
+    "1044:text": [
+      " couldn't move. Every joint was creaking..."
+    ],
+    "1048:text": [
+      "▶ One of the monster's spikes pierced ",
+      "'s shoulder!"
+    ],
+    "1050:text": [
+      "▶ Critical hit!"
+    ],
+    "1070:text": [
+      " fired the spray at the monster!"
+    ],
+    "1075:text": [
+      "▶ But the monster dodged it..."
+    ],
+    "1077:text": [
+      "▶ The monster lashed out with a tentacle and slashed ",
+      "!"
+    ],
+    "1084:text": [
+      "'s shoulder"
+    ],
+    "1085:text": [
+      "was gushing blood..."
+    ],
+    "1087:text": [
+      "It's surprisingly nimble...!"
+    ],
+    "1088:text": [
+      "If only I could distract it somehow..."
+    ],
+    "1107:text": [
+      " fired the spray at the monster!"
+    ],
+    "1112:text": [
+      "▶ But the monster dodged it..."
+    ],
+    "1114:text": [
+      "▶ The monster lashed out with a tentacle and slashed ",
+      "!"
+    ],
+    "1121:text": [
+      "'s shoulder"
+    ],
+    "1122:text": [
+      "was gushing blood..."
+    ],
+    "1124:text": [
+      "It's surprisingly nimble...!"
+    ],
+    "1125:text": [
+      "If only I could distract it somehow..."
+    ],
+    "1136:text": [
+      "Do I have anything I can use...?"
+    ],
+    "1138:text": [
+      " rummaged through his pockets!"
+    ],
+    "1139:text": [
+      "........."
+    ],
+    "1140:text": [
+      ".................."
+    ],
+    "1144:text": [
+      " found a 500-yen coin!"
+    ],
+    "1146:text": [
+      "I'd completely forgotten it was there.",
+      " Yes!"
+    ],
+    "1147:text": [
+      "...Wait, this is no time to celebrate!"
+    ],
+    "1150:text": [
+      "▶ The monster fired countless spikes!"
+    ],
+    "1166:text": [
+      "“Hino!",
+      " Dance with me!”"
+    ],
+    "1168:text": [
+      "Sadao Hino"
+    ],
+    "1169:text": [
+      "“Whoa, are you out of your mind?!”"
+    ],
+    "1171:text": [
+      " lost himself in the moment"
+    ],
+    "1172:text": [
+      "and broke into the Awa Odori!"
+    ],
+    "1174:text": [
+      "▶ The graceful movements rattled the monster..."
+    ],
+    "1176:text": [
+      "Sadao Hino"
+    ],
+    "1177:text": [
+      "“...",
+      " Don't blame me if your wound opens up again!”"
+    ],
+    "1179:text": [
+      "▶ Hino tried to copy the moves!"
+    ],
+    "1180:text": [
+      "▶ It looked more like hula!"
+    ],
+    "1184:text": [
+      "▶ The wild rhythm confused the monster..."
+    ],
+    "1186:text": [
+      "Sadao Hino"
+    ],
+    "1187:text": [
+      "“...",
+      " It's off guard."
+    ],
+    "1188:text": [
+      "Go!",
+      " Now, ",
+      "!”"
+    ],
+    "1205:text": [
+      "“Take that!”"
+    ],
+    "1207:text": [
+      " threw the 500-yen coin at the monster!"
+    ],
+    "1209:text": [
+      "▶ The monster stared at the 500-yen coin on the ground..."
+    ],
+    "1212:text": [
+      "Good, it looked away...!",
+      " Now I could...!"
+    ],
+    "1226:text": [
+      " fired the spray at Hino!"
+    ],
+    "1230:text": [
+      "Sadao Hino"
+    ],
+    "1231:text": [
+      "“Aah?!”"
+    ],
+    "1236:text": [
+      "Sadao Hino"
+    ],
+    "1237:text": [
+      "“What are you doing, ",
+      "?!"
+    ],
+    "1238:text": [
+      "Hey!”"
+    ],
+    "1265:text": [
+      "Sadao Hino"
+    ],
+    "1266:text": [
+      "“Do you have some kind of grudge against me...?!”"
+    ],
+    "1271:text": [
+      "Sadao Hino"
+    ],
+    "1272:text": [
+      "“Just stop already!"
+    ],
+    "1273:text": [
+      "I'm begging you, ",
+      "!"
+    ],
+    "1274:text": [
+      "I'm really going to die...!”"
+    ],
+    "1278:text": [
+      "Sadao Hino"
+    ],
+    "1279:text": [
+      "“H-h-h-help me, ",
+      "!"
+    ],
+    "1280:text": [
+      "I'm freezing!",
+      " I'm burning!",
+      " I'm going to die!”"
+    ],
+    "1284:text": [
+      "Sadao Hino"
+    ],
+    "1285:text": [
+      "“I can't take it anymore. I'm sorry. I was wrong...!”"
+    ],
+    "1289:text": [
+      "▶ Hino was on the verge of death..."
+    ],
+    "1290:text": [
+      "What am I doing...?",
+      " Calm down..."
+    ],
+    "1297:text": [
+      "Tekeli-li!",
+      " Tekeli-li!"
+    ],
+    "1298:text": [
+      "▶ The monster let out an eerie screech!"
+    ],
+    "1300:text": [
+      "'s ears wouldn't stop ringing...!"
+    ],
+    "1318:text": [
+      "I fired the liquid nitrogen spray at the monster in one burst."
+    ],
+    "1320:text": [
+      "It was right in front of me, freezing before my eyes."
+    ],
+    "1322:text": [
+      "As if trying to save the frozen parts,"
+    ],
+    "1323:text": [
+      "wave after wave of its tar-like body surged forward,"
+    ],
+    "1324:text": [
+      "but the monster was freezing faster than the tar could flow."
+    ],
+    "1329:text": [
+      "The monster shattered, scattering in every direction,"
+    ],
+    "1330:text": [
+      "and vanished as though it had dissolved into the air."
+    ],
+    "1332:text": [
+      "The empty can slipped from my limp hand,"
+    ],
+    "1333:text": [
+      "and gave two light, metallic clangs."
+    ],
+    "1335:text": [
+      "It sounded like the final bell in a match...",
+      " I'd won."
+    ],
+    "1337:text": [
+      "Exhaustion and pain hit me all at once, and I slumped to the ground."
+    ],
+    "1338:text": [
+      "Hino was tending to my wounds..."
+    ],
+    "1341:text": [
+      "But"
+    ],
+    "1343:text": [
+      "my eyelids were already..."
+    ],
+    "1356:text": [
+      "“............",
+      " ...ey...",
+      " Hey, ",
+      "!”"
+    ],
+    "1360:text": [
+      "“...Hah!”"
+    ],
+    "1369:text": [
+      "My body was shaking, and Hino's voice snapped me awake."
+    ],
+    "1370:text": [
+      "I must've passed out without realizing it..."
+    ],
+    "1372:text": [
+      "A handkerchief and strips of shirt fabric had been tied firmly over my wounds."
+    ],
+    "1373:text": [
+      "He must've bandaged me to stop the bleeding.",
+      " It looked like it had worked."
+    ],
+    "1374:text": [
+      "It hurt, but I could still move."
+    ],
+    "1378:text": [
+      "“",
+      ", are you okay?”"
+    ],
+    "1382:text": [
+      "“Yes, I'm fine.",
+      " Thank you for patching me up.”"
+    ],
+    "1386:text": [
+      "“I should be thanking you...",
+      " Taking down that monster was something else."
+    ],
+    "1387:text": [
+      "Can you keep going?”"
+    ],
+    "1391:text": [
+      "“Yes.”"
+    ],
+    "1395:text": [
+      "I got to my feet carefully.",
+      " It hurt less than I'd expected."
+    ],
+    "1396:text": [
+      "Maybe passing out had been a bit dramatic..."
+    ],
+    "1398:text": [
+      "In any case,",
+      " I was safe for now."
+    ],
+    "1399:text": [
+      "But what on earth was that monster...?"
+    ],
+    "1409:text": [
+      "I looked through the microscope."
+    ],
+    "1412:text": [
+      "I could see the roof of the old school building through the eyepiece..."
+    ],
+    "1419:text": [
+      "“Whoa...!”"
+    ],
+    "1423:text": [
+      "Suddenly, the scene in front of me began to glow."
+    ],
+    "1424:text": [
+      "The light was so bright I couldn't see..."
+    ],
+    "1436:text": [
+      "“......!”"
+    ],
+    "1440:text": [
+      "Was this...",
+      " the roof of the old school building...?"
+    ],
+    "1441:text": [
+      "The setting sun streamed across the roof beneath a sky as red as a raw burn."
+    ],
+    "1443:text": [
+      "I could see crows wheeling frantically in the distance."
+    ],
+    "1445:text": [
+      "...I couldn't shake an overwhelming sense of dread..."
+    ],
+    "1450:text": [
+      "That's right. Arai and Hino..."
+    ],
+    "1455:text": [
+      "In the shadow of the water tank,"
+    ],
+    "1456:text": [
+      "I saw Arai and Hino deep in conversation."
+    ],
+    "1459:text": [
+      "“Arai, Hino... So this is where you two were!”"
+    ],
+    "1462:text": [
+      "“Stay back!",
+      " ...",
+      "...!",
+      " Urgh...”"
+    ],
+    "1468:text": [
+      "Hino turned around, and black liquid came bubbling out of his mouth."
+    ],
+    "1469:text": [
+      "He bowed his head, clutching at his throat,"
+    ],
+    "1470:text": [
+      "then suddenly collapsed onto the tiles."
+    ],
+    "1472:text": [
+      "He writhed on the ground,"
+    ],
+    "1473:text": [
+      "still spewing black liquid from his mouth..."
+    ],
+    "1477:text": [
+      "“Gah... ah... ugh......”"
+    ],
+    "1483:text": [
+      "It was coming from more than his mouth."
+    ],
+    "1484:text": [
+      "The liquid was spilling from Hino's eyes, his nose, his ears..."
+    ],
+    "1485:text": [
+      "It was gushing from every opening like a fountain."
+    ],
+    "1487:text": [
+      "Finally, Hino's head swelled to more than twice its size,"
+    ],
+    "1488:text": [
+      "then burst with a crisp, almost satisfying pop, scattering pieces of flesh."
+    ],
+    "1490:text": [
+      "Hino's blood, redder than the sunset,"
+    ],
+    "1491:text": [
+      "spread across the floor, following the seams between the tiles..."
+    ],
+    "1495:text": [
+      "“H-Hino...”"
+    ],
+    "1500:text": [
+      "“At last... I have it."
+    ],
+    "1501:text": [
+      "With this Silver Key,"
+    ],
+    "1502:text": [
+      "I can set out in pursuit of knowledge beyond human understanding...”"
+    ],
+    "1506:text": [
+      "Arai paid no attention to Hino lying on the floor."
+    ],
+    "1507:text": [
+      "He was beside himself with excitement, turning a key over and over in his hands."
+    ],
+    "1511:text": [
+      "“Arai...",
+      " What are you...?”"
+    ],
+    "1515:text": [
+      "“...Hehehe.",
+      " There's no need to worry."
+    ],
+    "1516:text": [
+      "I'll show you too, ",
+      "...”"
+    ],
+    "1523:text": [
+      "“What brings you here, ",
+      "?”"
+    ],
+    "1528:text": [
+      "I spun around at the sound of the voice"
+    ],
+    "1529:text": [
+      "and saw Arai standing in the middle of the roof."
+    ],
+    "1531:text": [
+      "The ground at Arai's feet caught the setting sun and shimmered like a red sea."
+    ],
+    "1532:text": [
+      "Someone lay face down beside him, as if tossed there."
+    ],
+    "1534:text": [
+      "That was all that remained of a human being."
+    ],
+    "1536:text": [
+      "Half the head was gone, with bone and brain exposed."
+    ],
+    "1537:text": [
+      "A torrent of blood and bodily fluids seemed to melt out of the head into the sunset,"
+    ],
+    "1538:text": [
+      "leaving spatters all across the rooftop."
+    ],
+    "1540:text": [
+      "White foam bubbled on the skin in patches, and there were black marks like burns."
+    ],
+    "1541:text": [
+      "Shriveled intestines stuck obscenely out of the belly."
+    ],
+    "1543:text": [
+      "...There was no way to tell whose body it was anymore."
+    ],
+    "1545:text": [
+      "But I knew how few people had been trapped up here,"
+    ],
+    "1546:text": [
+      "so I had to accept who it was..."
+    ],
+    "1550:text": [
+      "“...",
+      " Hino...”"
+    ],
+    "1552:text": [
+      "“Why would you do something so cruel...!”"
+    ],
+    "1556:text": [
+      "“It's the most efficient way to destroy a human body."
+    ],
+    "1557:text": [
+      "Once it's like this, even if someone uses a spell,"
+    ],
+    "1558:text": [
+      "they can't restore the corpse.”"
+    ],
+    "1560:text": [
+      "“",
+      ", if you'd rather avoid the same fate, you should leave now."
+    ],
+    "1561:text": [
+      "I don't have time to spare."
+    ],
+    "1562:text": [
+      "I'll let you go if you leave now.”"
+    ],
+    "1564:text": [
+      "“...At last, fortune has smiled on me, too."
+    ],
+    "1565:text": [
+      "With this Silver Key,"
+    ],
+    "1566:text": [
+      "I can set out in pursuit of knowledge beyond human understanding...”"
+    ],
+    "1570:text": [
+      "Arai was beside himself with excitement, turning a key over and over in his hands."
+    ],
+    "1571:text": [
+      "—That was Hino's Silver Key...!"
+    ],
+    "1575:text": [
+      "“...I can't let you have your way!"
+    ],
+    "1576:text": [
+      "Give that key back right now...!”"
+    ],
+    "1580:text": [
+      "“I see."
+    ],
+    "1581:text": [
+      "In that case, ",
+      ", stay right there and watch."
+    ],
+    "1582:text": [
+      "Once you've laid eyes on the god, I'm sure you'll change your mind.”"
+    ],
+    "1587:text": [
+      "With that, Arai thrust his arm up toward the setting sun."
+    ],
+    "1588:text": [
+      "The Silver Key in his hand caught the light and glinted."
+    ],
+    "1590:text": [
+      "I couldn't say why.",
+      " It should've been a beautiful sight,"
+    ],
+    "1591:text": [
+      "but I found it deeply unsettling."
+    ],
+    "1594:text": [
+      "With the key still raised to the setting sun, Arai gave it a turn."
+    ],
+    "1595:text": [
+      "The wind died at once,"
+    ],
+    "1596:text": [
+      "and a miasma filled the air until it was hard to breathe."
+    ],
+    "1598:text": [
+      "I couldn't let Arai go on like this...!"
+    ],
+    "1627:text": [
+      "Sorcerer Shoji Arai appeared!"
+    ],
+    "1629:text": [
+      "Shoji Arai"
+    ],
+    "1630:text": [
+      "“I don't have time to deal with you.”"
+    ],
+    "1632:text": [
+      "▶ Arai gazed at the sunset and chanted a spell..."
+    ],
+    "1633:text": [
+      "▶ Arai breathed out “Breath of the Deep”..."
+    ],
+    "1644:text": [
+      " couldn't breathe..."
+    ],
+    "1645:text": [
+      "I could barely breathe...",
+      " It was like I was underwater..."
+    ],
+    "1649:text": [
+      "▶ It didn't seem to have much effect..."
+    ],
+    "1650:text": [
+      "Shoji Arai"
+    ],
+    "1651:text": [
+      "“Hino's been talking, hasn't he?",
+      " In that case...”"
+    ],
+    "1659:rpg_choice.text.1": [
+      "1. Cast Flesh Ward"
+    ],
+    "1660:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "1664:rpg_choice.text.1": [
+      "1. Guard"
+    ],
+    "1665:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "1670:text": [
+      " cast “Flesh Ward”!"
+    ],
+    "1671:text": [
+      "▶ Arai slashed the air with blood dripping from his fingertips!"
+    ],
+    "1673:text": [
+      "▶ A blade of wind passed right through ",
+      "...!"
+    ],
+    "1680:text": [
+      "▶ Arai held the Silver Key up to the setting sun..."
+    ],
+    "1681:text": [
+      "▶ The Silver Key turned once."
+    ],
+    "1683:text": [
+      "I had a bad feeling about what would happen if this kept up."
+    ],
+    "1684:text": [
+      "I had to stop Arai somehow..."
+    ],
+    "1693:text": [
+      "▶ Arai slashed the air with blood dripping from his fingertips!"
+    ],
+    "1695:text": [
+      " guarded!"
+    ],
+    "1696:text": [
+      "▶ But it had no effect!"
+    ],
+    "1697:text": [
+      "A blade of wind struck ",
+      "!"
+    ],
+    "1710:rpg_choice.text.1": [
+      "1. Throw the field notes"
+    ],
+    "1711:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "1712:rpg_choice.text.1": [
+      "3. Contact a Zo-Sunbaralian"
+    ],
+    "1717:text": [
+      " hurled the field notes and hit Arai!"
+    ],
+    "1719:text": [
+      "▶ The field notes burned to ashes..."
+    ],
+    "1721:text": [
+      "▶ It didn't seem to have much effect..."
+    ],
+    "1723:text": [
+      "Ugh... Did I get the timing wrong?!"
+    ],
+    "1725:text": [
+      "▶ Arai pulled out a flute and played an eerie tune..."
+    ],
+    "1728:text": [
+      "A rift tore open, and tentacles from another dimension attacked ",
+      "!"
+    ],
+    "1745:text": [
+      "▶ Arai held the Silver Key up to the setting sun..."
+    ],
+    "1746:text": [
+      "▶ The Silver Key turned once."
+    ],
+    "1748:text": [
+      "I had a bad feeling about what would happen if this kept up."
+    ],
+    "1749:text": [
+      "I had to stop Arai somehow..."
+    ],
+    "1757:text": [
+      " held a 500-yen coin up to the sky!"
+    ],
+    "1760:text": [
+      "“Iä! Iä!",
+      " Cthulhu fhtagn!"
+    ],
+    "1761:text": [
+      "Mazaka!",
+      " Long live",
+      " Mazaka!”"
+    ],
+    "1763:text": [
+      "▶ The sky grew dark with clouds before my eyes..."
+    ],
+    "1771:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1772:text": [
+      "“Iä, Iää!"
+    ],
+    "1773:text": [
+      "Aah-",
+      "ha ha ha ha ha ha haaa!”"
+    ],
+    "1775:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1776:text": [
+      "“Hey there.",
+      " Thanks for asking for me by name."
+    ],
+    "1777:text": [
+      "I'm Mazaka Reteranikasennisehi Muzonno, a Zo-Sunbaralian.”"
+    ],
+    "1779:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1780:text": [
+      "“I'm second-in-command of Sunbaralia's illustrious elite intelligence unit!”"
+    ],
+    "1782:text": [
+      "Shoji Arai"
+    ],
+    "1783:text": [
+      "“...You look like...",
+      " What's a spawn of Cthulhu doing here...”"
+    ],
+    "1785:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1786:text": [
+      "“Spaaawn?",
+      " Non, non!",
+      " Sunbaralian!"
+    ],
+    "1787:text": [
+      "Now listen.",
+      " I'm a cut above your average Sunbaralian.”"
+    ],
+    "1789:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1790:text": [
+      "“I'm a Zo-Sunbaralian."
+    ],
+    "1791:text": [
+      "Only the elite get the honor of calling themselves ‘Zo’, don'tcha Zo?”"
+    ],
+    "1794:text": [
+      "“Um... I don't really get what makes that so impressive..."
+    ],
+    "1795:text": [
+      "But please!",
+      " You have to take him down!”"
+    ],
+    "1797:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1798:text": [
+      "“Uh-huuuh."
+    ],
+    "1799:text": [
+      "Wait, why?”"
+    ],
+    "1802:text": [
+      "“What do you mean, why?",
+      " That's what I called you for!”"
+    ],
+    "1804:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1805:text": [
+      "“The elite don't do charity!"
+    ],
+    "1806:text": [
+      "You didn't seriously think I'd do all that for a measly 500 yen, did you?”"
+    ],
+    "1808:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1809:text": [
+      "“Five hundred yen was just to summon me. A",
+      " sum",
+      "-mon",
+      "-ing",
+      " fee.”"
+    ],
+    "1811:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1812:text": [
+      "“Taking down that two-bit sorcerer would be a piece of cake, easy as letting one rip,"
+    ],
+    "1813:text": [
+      "but I've got an elite reputation to uphold. Let's call it 50,000 yen.”"
+    ],
+    "1816:text": [
+      "“I don't have that kind of money!”"
+    ],
+    "1819:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1820:text": [
+      "“Oh, well.",
+      " I'm off then."
+    ],
+    "1821:text": [
+      "Adieuuu!!!!!”"
+    ],
+    "1826:text": [
+      "▶ The Zo-Sunbaralian left Earth..."
+    ],
+    "1828:text": [
+      "“............”"
+    ],
+    "1830:text": [
+      "“Uh...",
+      " Sorry about that...”"
+    ],
+    "1832:text": [
+      "Shoji Arai"
+    ],
+    "1833:text": [
+      "“...",
+      " Please never summon that thing again.”"
+    ],
+    "1837:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1838:text": [
+      "“Wow, Earthlings are weak and broke."
+    ],
+    "1839:text": [
+      "You poor things...",
+      " If I'm not getting paid, I'm out of here.”"
+    ],
+    "1841:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1842:text": [
+      "“Oh, but that folk dance you did earlier"
+    ],
+    "1843:text": [
+      "was pretty entertaining, so I'll throw in a little bonus.”"
+    ],
+    "1844:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1845:text": [
+      "“Here we go!",
+      " Here we go!”"
+    ],
+    "1847:text": [
+      "▶ The Zo-Sunbaralian held up a badge!"
+    ],
+    "1852:text": [
+      "'s HP was fully restored!"
+    ],
+    "1856:text": [
+      "Zo-Sunbaralian"
+    ],
+    "1857:text": [
+      "“Well then, everyone, adieuuu!!!!!”"
+    ],
+    "1862:text": [
+      "▶ The Zo-Sunbaralian left Earth..."
+    ],
+    "1864:text": [
+      "............",
+      " I guess I was such a good dancer"
+    ],
+    "1865:text": [
+      "that even an alien was impressed..."
+    ],
+    "1867:text": [
+      " gained confidence as a dancer."
+    ],
+    "1875:text": [
+      "▶ The two resumed their fight!"
+    ],
+    "1884:text": [
+      "▶ Arai ripped the heart out of Hino's corpse..."
+    ],
+    "1885:rpg_choice.text.1": [
+      "1. Throw the field notes"
+    ],
+    "1886:rpg_choice.text.1": [
+      "1. Take a swing"
+    ],
+    "1887:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "1888:rpg_choice.text.1": [
+      "3. Cast Resurrection"
+    ],
+    "1889:rpg_choice.text.1": [
+      "3. Try to reason with him"
+    ],
+    "1895:text": [
+      " hurled the field notes and hit Arai!"
+    ],
+    "1897:text": [
+      "▶ The field notes burst into flames along with Hino's heart..."
+    ],
+    "1898:text": [
+      "Hino...",
+      " Did you put something in the notebook to help me...?"
+    ],
+    "1900:text": [
+      "▶ Arai shot ",
+      " a venomous look..."
+    ],
+    "1905:text": [
+      " took a swing at Arai!"
+    ],
+    "1907:text": [
+      "▶ Arai fixed ",
+      " with an icy stare...!"
+    ],
+    "1910:text": [
+      "Ugh... My vision..."
+    ],
+    "1911:text": [
+      "'s vision blurred,"
+    ],
+    "1912:text": [
+      "and he couldn't land the punch...!"
+    ],
+    "1924:text": [
+      " cast the Resurrection spell!"
+    ],
+    "1925:text": [
+      "▶ Hino's corpse turned to ashes..."
+    ],
+    "1926:text": [
+      "▶ That was all that happened..."
+    ],
+    "1927:text": [
+      "...Just as I feared, the body's too badly damaged...!"
+    ],
+    "1929:text": [
+      "Shoji Arai"
+    ],
+    "1930:text": [
+      "“Consider yourself fortunate, ",
+      "."
+    ],
+    "1931:text": [
+      "...Even if he came back now, he'd only die again in far greater agony.”"
+    ],
+    "1939:text": [
+      "“Please, put an end to this...!”"
+    ],
+    "1940:text": [
+      " tried to reason with Arai!"
+    ],
+    "1942:text": [
+      "Shoji Arai"
+    ],
+    "1943:text": [
+      "“",
+      ", you don't know anything."
+    ],
+    "1944:text": [
+      "That's the only reason you'd say such a thing.”"
+    ],
+    "1946:text": [
+      "“Allow me to show you the god in all its glory...”"
+    ],
+    "1948:text": [
+      "▶ It didn't seem to have much effect..."
+    ],
+    "1955:text": [
+      "Shoji Arai"
+    ],
+    "1956:text": [
+      "“I'll bring him back to life for you.”"
+    ],
+    "1957:text": [
+      "▶ Arai gripped Hino's heart and cast a spell."
+    ],
+    "1958:text": [
+      "▶ Hino's corpse slowly got to its feet..."
+    ],
+    "1960:rpg_choice.text.1": [
+      "1. Cast Resurrection"
+    ],
+    "1961:rpg_choice.text.1": [
+      "1. Try to reason with him"
+    ],
+    "1962:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "1967:text": [
+      "Hino...!",
+      " I'm sorry...!"
+    ],
+    "1968:text": [
+      " cast the Resurrection spell!"
+    ],
+    "1969:text": [
+      "▶ Hino's heart turned to ashes!"
+    ],
+    "1970:text": [
+      "▶ Hino went still without so much as a twitch..."
+    ],
+    "1971:text": [
+      "Shoji Arai"
+    ],
+    "1972:text": [
+      "“So you finished him off with a Resurrection spell that couldn't succeed."
+    ],
+    "1973:text": [
+      "What an interesting way to use it.”"
+    ],
+    "1975:text": [
+      "Shoji Arai"
+    ],
+    "1976:text": [
+      "“I wonder, though..."
+    ],
+    "1977:text": [
+      "What does it feel like to die over and over? Hee hee.”"
+    ],
+    "1980:text": [
+      "“...............!”"
+    ],
+    "1982:text": [
+      "This guy...",
+      " Human life means nothing to him..."
+    ],
+    "1983:text": [
+      "I have to stop Arai, whatever it takes...!"
+    ],
+    "1991:text": [
+      "“Hino!",
+      " It's me!",
+      " It's ",
+      "!”"
+    ],
+    "1992:text": [
+      "▶ Hino refused to listen..."
+    ],
+    "1993:text": [
+      "▶ Hino's corpse lunged at ",
+      "!"
+    ],
+    "1998:text": [
+      "▶ Critical hit!"
+    ],
+    "2009:text": [
+      " waited to see what would happen..."
+    ],
+    "2010:text": [
+      "▶ Hino's corpse lunged at ",
+      "!"
+    ],
+    "2020:text": [
+      "Ugh...",
+      " There's no reasoning with Hino in this state..."
+    ],
+    "2026:text": [
+      "I'm sorry...!",
+      " Hino...!"
+    ],
+    "2027:text": [
+      " pushed Hino off the roof!"
+    ],
+    "2028:text": [
+      "▶ Hino's corpse plummeted headfirst toward the courtyard below!"
+    ],
+    "2032:text": [
+      "▶ Hino stopped moving..."
+    ],
+    "2047:text": [
+      "Shoji Arai"
+    ],
+    "2048:text": [
+      "“Now, to the depths of time,",
+      " to the other side of chaos...”"
+    ],
+    "2049:rpg_choice.text.1": [
+      "1. Cast Resurrection"
+    ],
+    "2050:rpg_choice.text.1": [
+      "1. Try to reason with him"
+    ],
+    "2051:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "2052:rpg_choice.text.1": [
+      "3. Push Hino off the roof"
+    ],
+    "2058:text": [
+      "Shoji Arai"
+    ],
+    "2059:text": [
+      "“Let me show you what I see.”"
+    ],
+    "2060:text": [
+      "▶ Arai began forming ritual hand signs..."
+    ],
+    "2061:rpg_choice.text.1": [
+      "1. Cast Water Mirror"
+    ],
+    "2062:rpg_choice.text.1": [
+      "1. Use the camera flash"
+    ],
+    "2063:rpg_choice.text.1": [
+      "2. Wait and see"
+    ],
+    "2064:rpg_choice.text.1": [
+      "3. Push Arai off the roof"
+    ],
+    "2070:text": [
+      " cast the Water Mirror spell!"
+    ],
+    "2071:text": [
+      "▶ The spell bounced back at Arai...!"
+    ],
+    "2073:text": [
+      "Shoji Arai"
+    ],
+    "2074:text": [
+      "“!!”"
+    ],
+    "2083:text": [
+      " set off the camera flash!"
+    ],
+    "2085:text": [
+      "Shoji Arai"
+    ],
+    "2086:text": [
+      "“Urgh...!”"
+    ],
+    "2087:text": [
+      "▶ The flash dazzled Arai...!"
+    ],
+    "2089:text": [
+      "This might be my chance...!"
+    ],
+    "2097:text": [
+      " watched Arai to see what he'd do..."
+    ],
+    "2098:text": [
+      "▶ Arai cast “Implant Fear”!"
+    ],
+    "2102:text": [
+      " had an eerie waking dream..."
+    ],
+    "2117:text": [
+      " shoved Arai toward the fence!"
+    ],
+    "2122:text": [
+      "“Huh...?”"
+    ],
+    "2124:text": [
+      "▶ Arai gently took ",
+      "'s arm."
+    ],
+    "2128:text": [
+      " was hurled into the twilight sky!"
+    ],
+    "2137:text": [
+      "▶ But Arai dodged!"
+    ],
+    "2138:text": [
+      "This won't work...",
+      " If I could just distract him for a second..."
+    ],
+    "2166:text": [
+      "The Stalker appeared!"
+    ],
+    "2168:rpg_choice.text.1": [
+      "1. Dodge"
+    ],
+    "2169:rpg_choice.text.1": [
+      "2. Use an item"
+    ],
+    "2170:rpg_choice.text.1": [
+      "3. Sing"
+    ],
+    "2175:text": [
+      "Look out...!",
+      " I'd just lifted my head, but I ducked again just in time."
+    ],
+    "2179:text": [
+      "I heard the chair slam into the wall behind me..."
+    ],
+    "2180:text": [
+      "I'd have been in serious trouble if it had hit me..."
+    ],
+    "2187:text": [
+      " looked for an item!"
+    ],
+    "2188:text": [
+      "But he was too late!"
+    ],
+    "2191:text": [
+      " looked for an item again!"
+    ],
+    "2192:text": [
+      "But he dropped it!"
+    ],
+    "2195:text": [
+      " looked for the item he'd dropped!"
+    ],
+    "2196:text": [
+      "But he couldn't find it!"
+    ],
+    "2199:text": [
+      " looked for an item one more time!"
+    ],
+    "2200:text": [
+      "It was too dark to see!"
+    ],
+    "2203:text": [
+      "▶ The Stalker launched an attack, looking perfectly at ease!"
+    ],
+    "2206:text": [
+      "▶ The Stalker laughed at Sakagami's desperation!"
+    ],
+    "2215:text": [
+      "▶ Music brings the world together!"
+    ],
+    "2216:text": [
+      "Then ",
+      " burst into song at the top of his lungs!"
+    ],
+    "2218:text": [
+      "▶ But it had no effect..."
+    ],
+    "2221:text": [
+      "▶ Sure the song would get through, ",
+      " kept singing!"
+    ],
+    "2223:text": [
+      "▶ But it had no effect..."
+    ],
+    "2226:text": [
+      " sang on until he had nothing left!!"
+    ],
+    "2228:text": [
+      "▶ But it had no effect..."
+    ],
+    "2232:text": [
+      "▶ Music brings the world together!"
+    ],
+    "2233:text": [
+      "Then ",
+      " burst into song at the top of his lungs!"
+    ],
+    "2235:text": [
+      "▶ But it had no effect..."
+    ],
+    "2239:text": [
+      "▶ The Stalker was shaken!"
+    ],
+    "2240:text": [
+      "But the Stalker attacked as usual!"
+    ],
+    "2243:text": [
+      "▶ The Stalker covered their ears, looking pained!"
+    ],
+    "2244:text": [
+      "But the Stalker attacked as usual!"
+    ],
+    "2247:text": [
+      "▶ The Stalker aimed every attack straight at the singer's mouth!"
+    ],
+    "2255:text": [
+      "▶ The Stalker was muttering something under their breath."
+    ],
+    "2257:text": [
+      "▶ A chair came flying from behind!"
+    ],
+    "2269:rpg_choice.text.1": [
+      "1. Punch"
+    ],
+    "2270:rpg_choice.text.1": [
+      "2. Use an item"
+    ],
+    "2271:rpg_choice.text.1": [
+      "3. Sing"
+    ],
+    "2277:text": [
+      " clenched his fist, then took a determined swing!"
+    ],
+    "2281:text": [
+      " swung his fists wildly in desperation!"
+    ],
+    "2285:text": [
+      " tried again,"
+    ],
+    "2286:text": [
+      "swinging as if his life depended on it!"
+    ],
+    "2290:text": [
+      "▶ It was obviously pointless,"
+    ],
+    "2291:text": [
+      "but ",
+      " was still taking swings!"
+    ],
+    "2295:text": [
+      "▶ The Stalker sidestepped it with ease!!"
+    ],
+    "2298:text": [
+      "▶ The Stalker snorted in contempt..."
+    ],
+    "2301:text": [
+      "▶ The Stalker got bored and started yawning!"
+    ],
+    "2310:text": [
+      "▶ Music brings the world together!"
+    ],
+    "2311:text": [
+      "Then ",
+      " burst into song at the top of his lungs!"
+    ],
+    "2313:text": [
+      "▶ But it had no effect..."
+    ],
+    "2316:text": [
+      "▶ Sure the song would get through, ",
+      " kept singing!"
+    ],
+    "2318:text": [
+      "▶ But it had no effect..."
+    ],
+    "2321:text": [
+      " sang on until he had nothing left!!"
+    ],
+    "2323:text": [
+      "▶ But it had no effect..."
+    ],
+    "2327:text": [
+      "▶ Music brings the world together!"
+    ],
+    "2328:text": [
+      "Then ",
+      " burst into song at the top of his lungs!"
+    ],
+    "2330:text": [
+      "▶ But it had no effect..."
+    ],
+    "2334:text": [
+      "▶ The Stalker was shaken!"
+    ],
+    "2335:text": [
+      "But the Stalker attacked as usual!"
+    ],
+    "2338:text": [
+      "▶ The Stalker covered their ears, looking pained!"
+    ],
+    "2339:text": [
+      "But the Stalker attacked as usual!"
+    ],
+    "2342:text": [
+      "▶ The Stalker aimed every attack straight at the singer's mouth!"
+    ],
+    "2350:text": [
+      "▶ An eerie glow formed around the Stalker."
+    ],
+    "2352:text": [
+      "▶ A desk came flying from behind!"
+    ],
+    "2387:text": [
+      "The Stalker appeared!"
+    ],
+    "2389:rpg_choice.text.1": [
+      "1. Punch"
+    ],
+    "2390:rpg_choice.text.1": [
+      "2. Run away"
+    ],
+    "2391:rpg_choice.text.1": [
+      "3. Use an item"
+    ],
+    "2397:text": [
+      " put everything he had into one blow!!"
+    ],
+    "2398:text": [
+      "But it couldn't reach the enemy!"
+    ],
+    "2402:text": [
+      " raised his fist again, refusing to give up!"
+    ],
+    "2403:text": [
+      "But he couldn't keep up with the enemy's speed."
+    ],
+    "2407:text": [
+      " mustered the last of his strength and took a swing!"
+    ],
+    "2408:text": [
+      "But it was no use..."
+    ],
+    "2416:text": [
+      "▶ I'm done running...!"
+    ],
+    "2423:text": [
+      " rummaged in his pockets!"
+    ],
+    "2424:text": [
+      "But the enemy was faster!"
+    ],
+    "2427:text": [
+      " rummaged in his pockets!"
+    ],
+    "2428:text": [
+      "But he was too flustered to find it!"
+    ],
+    "2431:text": [
+      " looked for the item he'd dropped!"
+    ],
+    "2432:text": [
+      " But his hands shook too badly to grab it!"
+    ],
+    "2440:text": [
+      "▶ The darkness stirred. Something seemed to be there."
+    ],
+    "2441:text": [
+      "▶ A locker came flying from behind!"
+    ],
+    "2458:text": [
+      "“Ngh... gah!”"
+    ],
+    "2460:text": [
+      "The flying desk hit me in the gut, and blood burst from my mouth."
+    ],
+    "2461:text": [
+      "I could barely stay on my feet..."
+    ],
+    "2462:text": [
+      "Was I going to die here...?",
+      " Without ever doing a thing to stop the Stalker?"
+    ],
+    "2466:text": [
+      "...Oh.",
+      " The oshiruko drink Hino gave me..."
+    ],
+    "2470:text": [
+      "“Hino...",
+      " I'm sorry...",
+      " After all you did to help me...”"
+    ],
+    "2472:text": [
+      "...",
+      " I should've drunk it when he gave it to me."
+    ],
+    "2473:text": [
+      "Drinking it now would do me no good, but at least I could tell him what I thought of it in heaven."
+    ],
+    "2478:text": [
+      "“...Wait. This isn't... oshiruko?”"
+    ],
+    "2480:text": [
+      "The taste that spread across my tongue was sweet, but it wasn't the sweetness of red bean paste."
+    ],
+    "2481:text": [
+      "The liquid was thick but clear, completely different from any oshiruko drink I'd ever had."
+    ],
+    "2483:text": [
+      "Yet the can clearly had the usual oshiruko drink label..."
+    ],
+    "2493:text": [
+      "“M-my wounds... they're healing...”"
+    ],
+    "2495:text": [
+      "My whole body suddenly felt lighter."
+    ],
+    "2496:text": [
+      "I looked down and saw my wounds closing before my eyes."
+    ],
+    "2499:text": [
+      "Was this what an oshiruko drink could do?",
+      " No way."
+    ],
+    "2500:text": [
+      "Give me a break.",
+      " I'd had enough of this."
+    ],
+    "2503:text": [
+      "But I didn't have time to stand there and complain."
+    ],
+    "2505:text": [
+      "Fukuzawa had been watching from the end of the hall. Now she was staring at me, wide-eyed."
+    ],
+    "2506:text": [
+      "I had to protect her, at least...",
+      " I was still unsteady, but I managed to get to my feet."
+    ],
+    "2510:text": [
+      "'s pocket"
+    ],
+    "2511:text": [
+      "had something tumble out of it..."
+    ],
+    "2513:text": [
+      "A box cutter..."
+    ],
+    "2514:text": [
+      "Oh, right. I'd picked this up earlier..."
+    ],
+    "2516:text": [
+      "Stalker"
+    ],
+    "2518:text": [
+      "“...!?”"
+    ],
+    "2521:text": [
+      "“...”"
+    ],
+    "2523:text": [
+      "The Stalker saw the box cutter on the floor and took a small step back."
+    ],
+    "2524:text": [
+      "Look closely...",
+      " I remembered what Hino had told me."
+    ],
+    "2526:text": [
+      "I scooped up the box cutter and rushed straight at the Stalker."
+    ],
+    "2527:text": [
+      "A strong wind rushed at me as if to keep me away."
+    ],
+    "2529:text": [
+      "But the instant it touched the tip of the blade,"
+    ],
+    "2530:text": [
+      "the wind split to either side as if to clear a path."
+    ],
+    "2532:text": [
+      "I was closing in fast."
+    ],
+    "2533:text": [
+      "Then I felt something grab the box cutter, just as it had grabbed the mop handle."
+    ],
+    "2535:text": [
+      "One more centimeter...!"
+    ],
+    "2539:text": [
+      "“...Aaaaaaaah!!”"
+    ],
+    "2541:text": [
+      "I kicked off the floor with all my strength."
+    ],
+    "2542:text": [
+      "My full weight and strength drove the blade through something unseen,"
+    ],
+    "2543:text": [
+      "and it pierced the very center of the Stalker's chest as if sucked in."
+    ],
+    "2554:text": [
+      "A shriek like silk tearing rang out,"
+    ],
+    "2555:text": [
+      "along with the crash of chairs and desks slamming into the floor."
+    ],
+    "2557:text": [
+      "The Stalker fell backward. The robe flipped up... and underneath..."
+    ],
+    "2559:text": [
+      "There was a young woman with long black hair. "
+    ],
+    "2561:text": [
+      "Blood slowly spread from her chest across the black robe."
+    ],
+    "2562:text": [
+      "I'd been sure the Stalker was a man..."
+    ],
+    "2564:text": [
+      "Actually, it hadn't even occurred to me there was an ordinary person under there."
+    ],
+    "2565:text": [
+      "She certainly looked human."
+    ],
+    "2567:text": [
+      "Fukuzawa had called her a stalker, too."
+    ],
+    "2569:text": [
+      "But a “person” who could use such incomprehensible powers"
+    ],
+    "2570:text": [
+      "hadn't seemed human in the way I was."
+    ],
+    "2571:text": [
+      "And yet, any way I looked at her, she was human."
+    ],
+    "2573:text": [
+      "I couldn't believe she was a girl about my age..."
+    ],
+    "2575:text": [
+      "Her eyes flew wide open with hatred,"
+    ],
+    "2576:text": [
+      "and she glared past me into the distance, muttering something under her breath... Then she died."
+    ],
+    "2577:text": [
+      "Suddenly, the floor shook."
+    ],
+    "2579:text": [
+      "No. The floor was still."
+    ],
+    "2580:text": [
+      "My knees were shaking.",
+      " Blood dripped from the box cutter in my hand."
+    ],
+    "2581:text": [
+      "I'd killed a girl... I'd killed a person."
+    ],
+    "2583:text": [
+      "I could see a white uniform beneath her robe."
+    ],
+    "2584:text": [
+      "There was a name embroidered on the scarf at her chest."
+    ],
+    "2585:text": [
+      "Akemi Iwashita...",
+      " That was her name. The Stalker's name."
+    ],
+    "2587:text": [
+      "I looked where she'd been glaring."
+    ],
+    "2588:text": [
+      "...Fukuzawa was standing there, smiling happily."
+    ],
+    "2593:text": [
+      "“Sakagami, you don't have to make that face, you know?"
+    ],
+    "2594:text": [
+      "Thanks for getting rid of my dear big sister."
+    ],
+    "2595:text": [
+      "You reeeally helped me out.",
+      " Kyahaha!”"
+    ],
+    "2599:text": [
+      "“Your big sister...?”"
+    ],
+    "2603:text": [
+      "“That's right.",
+      " My big sister lying there dead and I"
+    ],
+    "2604:text": [
+      "are both children of a reeally powerful god.”"
+    ],
+    "2606:text": [
+      "“But my big sister just had to go and"
+    ],
+    "2607:text": [
+      "keep all that divine power for herself."
+    ],
+    "2608:text": [
+      "That isn't fair, is it?”"
+    ],
+    "2610:text": [
+      "“So now it's my turn."
+    ],
+    "2611:text": [
+      "Kyahaha!",
+      " I know I'll be the greatest god of all!”"
+    ],
+    "2613:text": [
+      "“",
+      ", you've helped me out so much, so I'll eat you first."
+    ],
+    "2614:text": [
+      "Then we'll be together foreeever! Kyahahahaha!!”"
+    ],
+    "2626:text": [
+      "She opened her mouth wide and laughed."
+    ],
+    "2627:text": [
+      "Her mouth kept widening, turning inside out and swallowing her head."
+    ],
+    "2629:text": [
+      "After her head came her shoulders, then her chest..."
+    ],
+    "2630:text": [
+      "The scarlet mouth swallowed her from the head down, turning her body inside out."
+    ],
+    "2632:text": [
+      "Rows of tiny white teeth sprouted,"
+    ],
+    "2633:text": [
+      "then changed into what looked like gray scales."
+    ],
+    "2635:text": [
+      "Once her entire body had turned inside out, like a scaly egg of flesh,"
+    ],
+    "2636:text": [
+      "a crescent of meat rose from where her head had been,"
+    ],
+    "2638:text": [
+      "and curved black horns covered in pockmarks sprouted like a goat's beard,"
+    ],
+    "2639:text": [
+      "black liquid dripping endlessly from their tips."
+    ],
+    "2641:text": [
+      "What seemed to be its head had neither eyes nor a mouth."
+    ],
+    "2643:text": [
+      "Two blue, membranous protrusions, veined like leaves,"
+    ],
+    "2644:text": [
+      "sprouted from the center of its face,"
+    ],
+    "2645:text": [
+      "one directly above the other."
+    ],
+    "2647:text": [
+      "A growth bristling with spikes stretched from the back of its head,"
+    ],
+    "2648:text": [
+      "and below the head was a black chest."
+    ],
+    "2650:text": [
+      "The lower part was covered in reddish nipples,"
+    ],
+    "2651:text": [
+      "and hundreds of things like fish fins fringed both sides."
+    ],
+    "2653:text": [
+      "It swayed,"
+    ],
+    "2654:text": [
+      "then, as if peering down at me as I stared up in a daze,"
+    ],
+    "2655:text": [
+      "slowly toppled toward me..."
+    ],
+    "2665:text": [
+      "A wet pop rang out, like a bug being squashed."
+    ],
+    "2666:text": [
+      "My body was crushed in an instant, then swallowed into Fukuzawa's body."
+    ],
+    "2668:text": [
+      "There was no pain."
+    ],
+    "2670:text": [
+      "It felt wonderful instead."
+    ],
+    "2671:text": [
+      "It was like being held and rocked in my mother's arms..."
+    ],
+    "2672:text": [
+      "No, perhaps it was a more depraved pleasure."
+    ],
+    "2674:text": [
+      "Every pleasure and desire in the world enveloped me,"
+    ],
+    "2675:text": [
+      "welcoming me gently into their warmth."
+    ],
+    "2676:text": [
+      "Ah... Why had I been running from something that felt so good?"
+    ],
+    "2678:text": [
+      "I really was an idiot..."
+    ],
+    "2679:text": [
+      "I could hear Fukuzawa laughing."
+    ],
+    "2681:text": [
+      "I began to feel like laughing with her."
+    ],
+    "2682:text": [
+      "But I no longer had a mouth to laugh with."
+    ],
+    "2683:text": [
+      "Boundless pleasure...",
+      " TH AT WAS A LL I W AS..."
+    ],
+    "2718:text": [
+      "A monster appeared!"
+    ],
+    "2721:rpg_choice.text.1": [
+      "1. Punch"
+    ],
+    "2722:rpg_choice.text.1": [
+      "2. Run away"
+    ],
+    "2723:rpg_choice.text.1": [
+      "3. Use an item"
+    ],
+    "2729:text": [
+      "It was hopeless...",
+      " Against a monster on a completely different scale,"
+    ],
+    "2730:text": [
+      "someone like me didn't stand a chance...!"
+    ],
+    "2732:text": [
+      "I steeled myself and slowly closed my eyes..."
+    ],
+    "2742:text": [
+      "“",
+      ", you've done well.”"
+    ],
+    "2744:text": [
+      "A jolt shot through my body, as if I'd been hit with a stun gun."
+    ],
+    "2745:text": [
+      "My foggy mind snapped awake,"
+    ],
+    "2746:text": [
+      "and I hurtled sideways as if propelled by a blow, then collapsed."
+    ],
+    "2750:text": [
+      "Squelch..."
+    ],
+    "2752:text": [
+      "At that sickening sound, I fearfully opened my eyes."
+    ],
+    "2754:text": [
+      "There...",
+      " The monster was pressing its blasphemous, hideous head down,"
+    ],
+    "2755:text": [
+      "writhing as if to engulf the spot where I'd just been."
+    ],
+    "2757:text": [
+      "If I'd stayed there... I would've..."
+    ],
+    "2759:text": [
+      "“Didn't I tell you?",
+      " What you can see isn't the whole truth.”"
+    ],
+    "2762:text": [
+      "“Hino...?”"
+    ],
+    "2764:text": [
+      "The voice was coming from my pocket."
+    ],
+    "2765:text": [
+      "That device I'd found in the classroom was in there, the one that looked like a cell phone."
+    ],
+    "2767:text": [
+      "Sadao Hino"
+    ],
+    "2768:text": [
+      "“Yeah, that's right.”"
+    ],
+    "2770:text": [
+      "“That body died, but I've always lived by projecting my mind into a physical body,"
+    ],
+    "2771:text": [
+      "which makes me something like an alien.”"
+    ],
+    "2773:text": [
+      "“Well, let's leave the details for another time.”"
+    ],
+    "2776:text": [
+      "“",
+      ", you've got too much potential to die just yet."
+    ],
+    "2777:text": [
+      "Above all, this academy is well worth observing.”"
+    ],
+    "2779:text": [
+      "“I need to continue my experiments, so I'll make an exception this time.”"
+    ],
+    "2781:text": [
+      "“I'm going to send that monster back where it belongs.”"
+    ],
+    "2783:text": [
+      "“Cover your ears and shut your eyes. Don't try anything else.”"
+    ],
+    "2785:text": [
+      "“If you don't do as I say, I'm afraid it's an instant game over."
+    ],
+    "2786:text": [
+      "Got it? Here we go.”"
+    ],
+    "2790:text": [
+      "Before I could speak, the device poured out what sounded like words."
+    ],
+    "2791:text": [
+      "Those few sounds gave me a headache like a fist crushing my brain."
+    ],
+    "2792:text": [
+      "I couldn't take it. I clamped both hands over my ears, shut my eyes, and crouched."
+    ],
+    "2794:text": [
+      "The ground shook."
+    ],
+    "2796:text": [
+      "The violent shaking went on like an earthquake."
+    ],
+    "2798:text": [
+      "I curled up as tightly as I could"
+    ],
+    "2799:text": [
+      "and desperately prayed to a god I'd never believed in..."
+    ],
+    "2817:text": [
+      "How much time had passed?"
+    ],
+    "2818:text": [
+      "When I came to, I was lying outside the old school building."
+    ],
+    "2819:text": [
+      "It was completely dark, and I had no idea what time it was."
+    ],
+    "2821:text": [
+      "Despite everything that had happened, the old school building looming behind me"
+    ],
+    "2822:text": [
+      "looked just as it had when we'd arrived."
+    ],
+    "2825:text": [
+      "“Sakagami, you're finally awake.”"
+    ],
+    "2830:text": [
+      "“......Hino.”"
+    ],
+    "2834:text": [
+      "“Yeah.”"
+    ],
+    "2838:text": [
+      "“......",
+      " But... you were crushed to death...”"
+    ],
+    "2842:text": [
+      "“Come on...",
+      " Weren't you listening?"
+    ],
+    "2843:text": [
+      "A physical body is easy enough to deal with.”"
+    ],
+    "2845:text": [
+      "“Anyway, let's get out of here."
+    ],
+    "2846:text": [
+      "We've made a lot of progress investigating the old school building.”"
+    ],
+    "2850:text": [
+      "“...............”"
+    ],
+    "2854:text": [
+      "Who was this man?"
+    ],
+    "2855:text": [
+      "More to the point, had any of this really happened?"
+    ],
+    "2859:text": [
+      "My vision swam."
+    ],
+    "2860:text": [
+      "If I could, I'd have liked to pass out right there,"
+    ],
+    "2861:text": [
+      "but I also wanted to get away from this place as fast as possible..."
+    ],
+    "2865:text": [
+      "“",
+      ", a lot's happened, but...”"
+    ],
+    "2869:text": [
+      "“......Yes.”"
+    ],
+    "2873:text": [
+      "“At least you're still alive.”"
+    ],
+    "2877:text": [
+      "“............",
+      " Yes.”"
+    ],
+    "2881:text": [
+      "Once we were through the school gates, I could see the lights of the town stretching into the distance."
+    ],
+    "2882:text": [
+      "At that moment, all that mattered was knowing I was alive."
+    ],
+    "2896:text": [
+      "Shoji Arai"
+    ],
+    "2897:text": [
+      "“Ah... the gate...",
+      " The truth...",
+      " It's slipping away...”"
+    ],
+    "2899:text": [
+      "Arai stretched a hand toward the twilight sky, as if pleading with it..."
+    ],
+    "2900:text": [
+      "He reached desperately into empty space, trying to grasp that invisible shape..."
+    ],
+    "2904:text": [
+      "“Ah...!”"
+    ],
+    "2915:text": [
+      "Arai lost his balance and fell toward the ground as if offering himself up to it."
+    ],
+    "2918:text": [
+      "By the time I hurried down to the courtyard,"
+    ],
+    "2920:text": [
+      "Arai had vanished without a trace."
+    ],
+    "2922:text": [
+      "So had Hino's body, which had been left on the roof, and every trace of it..."
+    ],
+    "2925:text": [
+      "Arai had vanished without a trace."
+    ],
+    "2927:text": [
+      "So had Hino's body, which I was sure I'd pushed off the roof, and every trace of it..."
+    ],
+    "2931:text": [
+      "As for the Silver Key,"
+    ],
+    "2932:text": [
+      "I decided to wrap it in parchment and store it carefully in the underground vault."
+    ],
+    "2933:text": [
+      "I couldn't begin to guess what that key was worth..."
+    ],
+    "2935:text": [
+      "No one else should end up being manipulated"
+    ],
+    "2936:text": [
+      "the way Arai and Hino had."
+    ],
+    "2956:text": [
+      "Would the curse on the old school building ever come to light,"
+    ],
+    "2957:text": [
+      "and with it, the cosmic truth...?"
+    ],
+    "2960:text": [
+      "That wasn't for me to know."
+    ],
+    "2962:text": [
+      "At least, I'd given up on making it public myself."
+    ],
+    "2964:text": [
+      "Sometimes, keeping the truth hidden might preserve order"
+    ],
+    "2965:text": [
+      "and keep the world as it should be."
+    ],
+    "2967:text": [
+      "That had to be what Hino wanted. He'd given everything to his mission, right up to his death."
+    ],
+    "2969:text": [
+      "Part of me resented Hino for involving me in all of this,"
+    ],
+    "2970:text": [
+      "but at the same time,"
+    ],
+    "2971:text": [
+      "I could never thank him enough for doing everything he could to keep me alive."
+    ],
+    "2981:text": [
+      "And that's why"
+    ],
+    "2982:text": [
+      "I still visit the old school building from time to time..."
+    ],
+    "3000:text": [
+      "When Hino went missing,"
+    ],
+    "3001:text": [
+      "the whole school was in an uproar for a while,"
+    ],
+    "3002:text": [
+      "but with no new leads turning up, the fuss has gradually died down."
+    ],
+    "3004:text": [
+      "As if the whole thing had been a hallucination,"
+    ],
+    "3005:text": [
+      "even I was starting to get back to my normal, peaceful life."
+    ],
+    "3007:text": [
+      "Still, the experience had shaken my idea of what was normal. There was no denying that."
+    ],
+    "3009:text": [
+      "The old school building would still stand, just as it always had,"
+    ],
+    "3010:text": [
+      "and its reputation as a breeding ground for curses would live on."
+    ],
+    "3012:text": [
+      "I could only pray I'd never get caught up in anything like that again..."
+    ],
+    "3026:text": [
+      "Maybe it was because Arai was gone,"
+    ],
+    "3027:text": [
+      "but the monster was nowhere to be seen."
+    ],
+    "3029:text": [
+      "It looked like I could get out safely now..."
+    ],
+    "3031:text": [
+      "First, I ought to explain what had happened."
+    ],
+    "3032:text": [
+      "...I could see light spilling from the faculty office in the new school building..."
+    ],
+    "3033:text": [
+      "Maybe the teacher on duty was still there."
+    ],
+    "3040:text": [
+      "“Hah... hah...”"
+    ],
+    "3044:text": [
+      "Maybe fear had kept me tensed up."
+    ],
+    "3045:text": [
+      "I was out of breath after just a short run..."
+    ],
+    "3053:text": [
+      "“Excuse me...!",
+      " Something terrible just happened in the old school building...”"
+    ],
+    "3056:text": [
+      "Teacher A"
+    ],
+    "3057:text": [
+      "“Oh, what's wro...",
+      " Aaaaah!"
+    ],
+    "3058:text": [
+      "A monsteeer!!!!”"
+    ],
+    "3062:text": [
+      "One of the teachers pointed behind me and let out a terrified scream."
+    ],
+    "3063:text": [
+      "A-a monster...?!"
+    ],
+    "3064:text": [
+      "I'd let my guard down...",
+      " Had it followed me here without my noticing?!"
+    ],
+    "3071:text": [
+      "...That was odd."
+    ],
+    "3072:text": [
+      "There wasn't a monster anywhere to be seen..."
+    ],
+    "3077:text": [
+      "“Um, excuse me...”"
+    ],
+    "3080:text": [
+      "Teacher A"
+    ],
+    "3081:text": [
+      "“Aaaaah...!”"
+    ],
+    "3084:text": [
+      "The teacher shrieked"
+    ],
+    "3085:text": [
+      "and hurled the papers on the desk at me in a frenzy."
+    ],
+    "3086:text": [
+      "Those eyes, wide with terror, were fixed squarely on me..."
+    ],
+    "3088:text": [
+      "What...?",
+      " What on earth was going on...?"
+    ],
+    "3090:text": [
+      "I caught sight of my face reflected in the faculty office window and froze in horror..."
+    ],
+    "3093:text": [
+      "A sunken, stunted nose, and scales as rough as sharkskin on hard, pale-gray skin..."
+    ],
+    "3095:text": [
+      "The skin around my neck hung loose, and with every breath,"
+    ],
+    "3096:text": [
+      "countless slits opened and closed, exposing glimpses of dark red flesh..."
+    ],
+    "3098:text": [
+      "Round, expressionless eyes"
+    ],
+    "3099:text": [
+      "bulged far out of their sockets, staring unblinking at the window."
+    ],
+    "3101:text": [
+      "No wonder the teacher was screaming."
+    ],
+    "3102:text": [
+      "I looked like nothing but a fish-faced monster...!"
+    ],
+    "3105:text": [
+      "Please, it's me, ",
+      "!"
+    ],
+    "3106:text": [
+      "Don't you recognize me!?"
+    ],
+    "3109:rpg_choice.text.1": [
+      "1. Gyogyogyo..."
+    ],
+    "3110:rpg_choice.text.1": [
+      "2. Gyo-gyooo!"
+    ],
+    "3111:rpg_choice.text.1": [
+      "3. ...Gyo-gyo!"
+    ],
+    "3119:text": [
+      "“Gyogyogyo...”"
+    ],
+    "3127:text": [
+      "“Gyo-gyooo!”"
+    ],
+    "3135:text": [
+      "“...Gyo-gyo!”"
+    ],
+    "3141:text": [
+      "Teacher A"
+    ],
+    "3142:text": [
+      "“Aaaaaaah!”"
+    ],
+    "3144:text": [
+      "It was no use. They couldn't even understand me anymore...!"
+    ],
+    "3145:text": [
+      "Wh-what was I going to do...?"
+    ],
+    "3147:text": [
+      "Just as I was about to give up hope, I heard a dull thud against the window."
+    ],
+    "3149:text": [
+      "Teacher A"
+    ],
+    "3150:text": [
+      "“Eek... The window!",
+      " The window!”"
+    ],
+    "3155:text": [
+      "The window had been empty a moment before,"
+    ],
+    "3156:text": [
+      "but now countless raindrops and webbed hands"
+    ],
+    "3157:text": [
+      "clung to the glass all around its frame."
+    ],
+    "3159:text": [
+      "...Thank goodness. My own kind had come to get me...!"
+    ],
+    "3163:text": [
+      "“Gyo...",
+      " Gyogyogyo...”"
+    ],
+    "3167:text": [
+      "As if guided by them, I leaped out of the faculty office window."
+    ],
+    "3168:text": [
+      "Rain had started without my noticing, and the drops struck my skin.",
+      " Ah, it felt so good."
+    ],
+    "3170:text": [
+      "The sea was calling me."
+    ],
+    "3172:text": [
+      "Onward, then.",
+      " To the vast ocean depths, where Father Dagon and Mother Hydra dwell..."
+    ],
+    "3173:text": [
+      "Gyogyo..."
+    ],
+    "3188:text": [
+      "As soon as I got home, I stashed the treasure I'd brought back in my bedroom closet."
+    ],
+    "3190:text": [
+      "Ah... What a beautiful tiara..."
+    ],
+    "3191:text": [
+      "I was right to think it was too good to leave in that storeroom."
+    ],
+    "3192:text": [
+      "I'll take good care of it.",
+      " No one's getting it from me..."
+    ],
+    "3209:text": [
+      "Reporter A"
+    ],
+    "3210:text": [
+      "“Mr. ",
+      "."
+    ],
+    "3211:text": [
+      "Is it true that your new book"
+    ],
+    "3212:text": [
+      "is based on things you really experienced as a student?”"
+    ],
+    "3215:text": [
+      "“Yes, that's right."
+    ],
+    "3216:text": [
+      "I experienced all sorts of strange things at Narugami Academy.”"
+    ],
+    "3219:text": [
+      "“Well, that...”"
+    ],
+    "3222:text": [
+      "Whew... Look at all these reporters.",
+      " Looks like it'll take over an hour to get through them again today."
+    ],
+    "3224:text": [
+      "What a pain.",
+      " Maybe I should tell my manager to wrap things up early..."
+    ],
+    "3225:text": [
+      "But that reporter over there came to interview me last time, too,"
+    ],
+    "3226:text": [
+      "so maybe I could give them a little extra attention for once."
+    ],
+    "3231:text": [
+      "Ever since the incident in that old school building,"
+    ],
+    "3232:text": [
+      "my life has been one success after another."
+    ],
+    "3234:text": [
+      "The article I wrote won the top prize at the Student Newspaper Culture Awards,"
+    ],
+    "3235:text": [
+      "and the principal's recommendation got me into a highly selective university."
+    ],
+    "3236:text": [
+      "At university, the diary of terrifying experiences I posted on social media became a hit and was published as a book."
+    ],
+    "3237:text": [
+      "It became a bestseller, selling two million copies and making me a famous freelance writer overnight."
+    ],
+    "3239:text": [
+      "I'm sure it's all thanks to that tiara that brings happiness."
+    ],
+    "3240:text": [
+      "Just looking at it fills me with happiness"
+    ],
+    "3241:text": [
+      "and makes me feel full of energy."
+    ],
+    "3243:text": [
+      "The confidence that I can do absolutely anything"
+    ],
+    "3244:text": [
+      "drives me forward on a triumphant march to success."
+    ],
+    "3246:text": [
+      "I'd love to write about that wonderful tiara in a book too,"
+    ],
+    "3247:text": [
+      "but that just isn't an option."
+    ],
+    "3249:text": [
+      "It'd be a disaster if someone got jealous and stole it."
+    ],
+    "3252:text": [
+      "...No, wait."
+    ],
+    "3256:text": [
+      "What if one of these reporters"
+    ],
+    "3257:text": [
+      "is after my tiara?"
+    ],
+    "3258:text": [
+      "Think back to the interview at the award ceremony.",
+      " There weren't this many people crowding around then, were there?"
+    ],
+    "3260:text": [
+      "Yes, there's no doubt about it.",
+      " They're after my tiara."
+    ],
+    "3261:text": [
+      "Otherwise, there wouldn't be this many reporters here."
+    ],
+    "3266:text": [
+      "Damn it... How did they find out!?"
+    ],
+    "3267:text": [
+      "Was it my manager!?",
+      " That whore!"
+    ],
+    "3271:text": [
+      "Still, I suppose it can't be helped. The last few years have taught me that the hard way."
+    ],
+    "3272:text": [
+      "People like hyenas, swarming wherever they smell easy pickings,"
+    ],
+    "3273:text": [
+      "pop up like maggots no matter how careful I am..."
+    ],
+    "3275:text": [
+      "But who would have the nerve to try and steal my tiara?"
+    ],
+    "3276:text": [
+      "...Yes, that one.",
+      " They're suspicious."
+    ],
+    "3277:text": [
+      "They've had their eye on me since the last interview."
+    ],
+    "3279:text": [
+      "Look at that bag they're carrying. It's bulging."
+    ],
+    "3280:text": [
+      "...They couldn't have...",
+      " stolen it already, could they?"
+    ],
+    "3283:text": [
+      "...I get it now."
+    ],
+    "3284:text": [
+      "They stalked me during that last interview"
+    ],
+    "3285:text": [
+      "to find out where I lived."
+    ],
+    "3287:text": [
+      "Then they waited until I went out today"
+    ],
+    "3288:text": [
+      "and picked the lock on my front door..."
+    ],
+    "3289:text": [
+      "Yes. That's got to be it."
+    ],
+    "3291:text": [
+      "...But then why would they show themselves to me now?"
+    ],
+    "3292:text": [
+      "Are they trying to give themselves an alibi for the burglary?"
+    ],
+    "3297:text": [
+      "No, no...",
+      " That's not it."
+    ],
+    "3298:text": [
+      "They're laughing at me."
+    ],
+    "3300:text": [
+      "Here I am, giving an interview like a fool, with no idea they've stolen my tiara."
+    ],
+    "3301:text": [
+      "They must be enjoying a private laugh at my expense."
+    ],
+    "3303:text": [
+      "What a horrible person..."
+    ],
+    "3304:text": [
+      "The thought of someone like that touching my precious tiara makes me want to throw up."
+    ],
+    "3305:text": [
+      "I've got to get it back. Now...!"
+    ],
+    "3312:text": [
+      "Reporter A"
+    ],
+    "3313:text": [
+      "“Waaagh!!!?”"
+    ],
+    "3315:text": [
+      "Reporter B"
+    ],
+    "3316:text": [
+      "“What's wrong!?",
+      " Please, ",
+      ","
+    ],
+    "3317:text": [
+      "calm down, ",
+      "!”"
+    ],
+    "3320:text": [
+      "“You're in on it too!?",
+      " Damn it!”"
+    ],
+    "3323:text": [
+      "“Give me back my tiara!”"
+    ],
+    "3374:text": [
+      "Ah... I finally understand the truth of the world."
+    ],
+    "3376:text": [
+      "The world has no substance."
+    ],
+    "3378:text": [
+      "The eternal past and the depths of the universe."
+    ],
+    "3379:text": [
+      "The Outer Gods know everything."
+    ],
+    "3381:text": [
+      "People can know nothing.",
+      " They can gain nothing."
+    ],
+    "3382:text": [
+      "As long as we live as humans, we can never know the depths of madness."
+    ],
+    "3390:ptext.text.1": [
+      "Iä! Iä!"
+    ],
+    "3394:ptext.text.1": [
+      "Cthulhu fhtagn!"
+    ],
+    "3398:ptext.text.1": [
+      "Iä! Iä!"
+    ],
+    "3402:ptext.text.1": [
+      "Cthulhu fhtagn!"
+    ],
+    "3406:ptext.text.1": [
+      "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl"
+    ],
+    "3407:ptext.text.1": [
+      "fhtagn Iä! Iä! Cthulhu fhtagn Ph'nglui mglw'nafh"
+    ],
+    "3408:ptext.text.1": [
+      "Cthulhu R'lyeh wgah'nagl fhtagn Ong D'acta"
+    ],
+    "3409:ptext.text.1": [
+      "Linka, Neblod Zin, Neblod Zin, Ong D'acta Linka"
+    ],
+    "3410:ptext.text.1": [
+      "Y'golonac, Ong D'acta Linka, Ong D'acta Linka, Yarl Iä! Iä!"
+    ],
+    "3411:ptext.text.1": [
+      "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl"
+    ],
+    "3412:ptext.text.1": [
+      "Linka, Ong D'acta Linka, Yarl M'ten, Yarl M'ten"
+    ],
+    "3413:ptext.text.1": [
+      "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl"
+    ],
+    "3414:ptext.text.1": [
+      "fhtagn Iä! Iä! Cthulhu fhtagn Ph'nglui mglw'nafh"
+    ],
+    "3415:ptext.text.1": [
+      "Cthulhu R'lyeh wgah'nagl fhtagn Ong D'acta"
+    ],
+    "3416:ptext.text.1": [
+      "Linka, Neblod Zin, Neblod Zin, Ong D'acta Linka"
+    ],
+    "3417:ptext.text.1": [
+      "Y'golonac, Ong D'acta Linka, Ong D'acta Linka, Yarl Iä! Iä!"
+    ],
+    "3418:ptext.text.1": [
+      "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl"
+    ],
+    "3419:ptext.text.1": [
+      "Linka, Ong D'acta Linka, Yarl M'ten, Yarl M'ten"
+    ],
+    "3420:ptext.text.1": [
+      "Iä! Iä! Cthulhu fhtagn! Iä! Iä! Cthulhu fhtagn!"
+    ],
+    "3421:ptext.text.1": [
+      "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl"
+    ],
+    "3422:ptext.text.1": [
+      "fhtagn Iä! Iä! Cthulhu fhtagn Ph'nglui mglw'nafh"
+    ],
+    "3423:ptext.text.1": [
+      "Cthulhu R'lyeh wgah'nagl fhtagn Ong D'acta"
+    ],
+    "3424:ptext.text.1": [
+      "Linka, Neblod Zin, Neblod Zin, Ong D'acta Linka"
+    ],
+    "3425:ptext.text.1": [
+      "Y'golonac, Ong D'acta Linka, Ong D'acta Linka, Yarl Iä! Iä!"
+    ]
+  }
+}

@@ -1,0 +1,1617 @@
+{
+  "scenario": "data/scenario/maisou.ks",
+  "source_sha256": "5f62557e714b476874f96bb0a70728a8d31e7327aa30a7dbcccf4fdecad18e9e",
+  "rows": {
+    "83:text": [
+      "“So what did you want to talk to me about, Kurata?”"
+    ],
+    "85:text": [
+      "Emi Kurata"
+    ],
+    "86:text": [
+      "“......”"
+    ],
+    "88:text": [
+      "Kurata and I were both in the Newspaper Club. She'd asked me to meet her after school, so there I was on a back road behind the school."
+    ],
+    "89:text": [
+      "It was strange enough for Kurata to ask to see me outside of club activities. What could she want with me way out here?"
+    ],
+    "91:text": [
+      "But deep down, I knew."
+    ],
+    "92:text": [
+      "It had to be something bad... I was sure of it."
+    ],
+    "94:text": [
+      "As far as looks went, Emi Kurata was one of the cuter girls in my year."
+    ],
+    "96:text": [
+      "She could be a little too energetic and a little too curious, but she was bright and fun to be around, and short hair really suited her."
+    ],
+    "97:text": [
+      "And out of the blue today, she'd asked me to meet her."
+    ],
+    "99:text": [
+      "Normally, I'd think she was about to tell me she liked me... but coming from her? No way."
+    ],
+    "101:text": [
+      "I did my best to sound calm when I spoke so she wouldn't realize how nervous I was."
+    ],
+    "102:text": [
+      "Maybe she was nervous, too. She just looked down and kept quiet."
+    ],
+    "104:text": [
+      "What was I supposed to do? We couldn't just stand there in silence, but I couldn't think of anything to say..."
+    ],
+    "106:text": [
+      "Emi Kurata"
+    ],
+    "107:text": [
+      "“Listen, ",
+      "...”"
+    ],
+    "110:text": [
+      "“Y-yeah? What is it?”"
+    ],
+    "112:text": [
+      "Emi Kurata"
+    ],
+    "113:text": [
+      "“Actually, there's an article I want you to write.”"
+    ],
+    "116:text": [
+      "“...Huh? An article?”"
+    ],
+    "118:text": [
+      "Emi Kurata"
+    ],
+    "119:text": [
+      "“Yeah... See, I found out this huge"
+    ],
+    "120:text": [
+      "secret... and I want you to write an article"
+    ],
+    "121:text": [
+      "to expose it..."
+    ],
+    "122:text": [
+      "Our modern Japanese teacher, Mr. Kawano... I think he's been secretly taking"
+    ],
+    "123:text": [
+      "pictures of girls in the locker room.”"
+    ],
+    "126:text": [
+      "“What?! Mr. Kawano, of all people? No way..."
+    ],
+    "127:text": [
+      "I can't believe that. He doesn't seem like the type, and"
+    ],
+    "128:text": [
+      "he's a good teacher.”"
+    ],
+    "130:text": [
+      "Emi Kurata"
+    ],
+    "131:text": [
+      "“That's what I thought at first, too..."
+    ],
+    "132:text": [
+      "But after gym the other day, I had this feeling someone was watching me."
+    ],
+    "133:text": [
+      "Mr. Kawano was walking past the girls' locker room window."
+    ],
+    "134:text": [
+      "A modern Japanese teacher wouldn't have"
+    ],
+    "135:text": [
+      "any reason to be near the gym.”"
+    ],
+    "138:text": [
+      "“...Hold on, Kurata. That's it?"
+    ],
+    "139:text": [
+      "Your evidence that he was taking secret pictures is"
+    ],
+    "140:text": [
+      "that you felt watched, looked, and saw him walking"
+    ],
+    "141:text": [
+      "past the window?”"
+    ],
+    "143:text": [
+      "Emi Kurata"
+    ],
+    "144:text": [
+      "“Yeah. That's plenty of proof, isn't it?"
+    ],
+    "145:text": [
+      "Besides, how often does a first-year get"
+    ],
+    "146:text": [
+      "to write up a scoop like this?"
+    ],
+    "147:text": [
+      "I think this could be a real opportunity for you, too.”"
+    ],
+    "150:text": [
+      "“......———”"
+    ],
+    "152:text": [
+      "Now I knew what it meant to be speechless."
+    ],
+    "153:text": [
+      "She had nothing to go on but her own delusions."
+    ],
+    "155:text": [
+      "I did wonder what a modern Japanese teacher was doing there."
+    ],
+    "157:text": [
+      "But the girls' locker room was on the third floor of the gym."
+    ],
+    "158:text": [
+      "Would anyone really try to peek in up there with the naked eye...? Besides, he worked at the school. He could pass any building on campus."
+    ],
+    "160:text": [
+      "She wanted me to write an article accusing a teacher of taking secret photos, with no hard evidence.",
+      "What was she thinking...?"
+    ],
+    "161:text": [
+      "There was no way I could go along with this."
+    ],
+    "164:text": [
+      "“Sorry, but I can't help you."
+    ],
+    "165:text": [
+      "For one thing, without any physical evidence, we have no idea"
+    ],
+    "166:text": [
+      "whether Mr. Kawano was actually taking those pictures."
+    ],
+    "167:text": [
+      "If I wrote the article and he turned out to be innocent,"
+    ],
+    "168:text": [
+      "we'd have a real mess on our hands."
+    ],
+    "169:text": [
+      "Sorry. I'm going home.”"
+    ],
+    "171:text": [
+      "Emi Kurata"
+    ],
+    "172:text": [
+      "“Wait, ",
+      "!"
+    ],
+    "173:text": [
+      "You call yourself a member of the Newspaper Club?"
+    ],
+    "174:text": [
+      "Mr. Kawano could be taking pictures of all the other"
+    ],
+    "175:text": [
+      "girls, too, and you're just going to leave it alone? That's"
+    ],
+    "176:text": [
+      "awful! Come on, ",
+      "!”"
+    ],
+    "179:text": [
+      "“Give it a rest... If you're that worried,"
+    ],
+    "180:text": [
+      "talk to another teacher. Or write the article"
+    ],
+    "181:text": [
+      "yourself."
+    ],
+    "183:text": [
+      "Just leave me alone! ............"
+    ],
+    "184:text": [
+      "...Ah!!”"
+    ],
+    "187:text": [
+      "I shook off Kurata's arm as she clung to me."
+    ],
+    "188:text": [
+      "............That was all I did."
+    ],
+    "190:text": [
+      "But it threw her off balance. Her foot caught on the curb, and she fell backward."
+    ],
+    "191:text": [
+      "Her head bounced dully against the asphalt, like a ball with the air let out,",
+      "and she lay there, limp and motionless."
+    ],
+    "195:text": [
+      "“K-Kurata? Are you okay... Kurata!”"
+    ],
+    "197:text": [
+      "I grabbed her shoulders and shook her."
+    ],
+    "198:text": [
+      "There was a soft patter like the start of rain as bright red blood dripped",
+      "from the back of her head onto the ground."
+    ],
+    "200:text": [
+      "My palm slipped. It was slick."
+    ],
+    "201:text": [
+      "Kurata didn't say another word to me."
+    ],
+    "202:text": [
+      "She was dead, that's why... She was",
+      "dead."
+    ],
+    "204:text": [
+      "My heart was pounding so hard I thought it might burst."
+    ],
+    "205:text": [
+      "I felt my head slowly growing hot. My vision blurred, and the ringing in my ears got louder."
+    ],
+    "207:text": [
+      "It wasn't my fault... It wasn't my... It was her fault."
+    ],
+    "208:text": [
+      "I told her to leave me alone, but she wouldn't let up."
+    ],
+    "210:text": [
+      "Besides, who could've imagined it'd turn out like this?"
+    ],
+    "211:text": [
+      "That's right. I didn't do anything wrong."
+    ],
+    "213:text": [
+      "...Then whose fault is it that there's a body lying here?"
+    ],
+    "215:text": [
+      "Even if it wasn't my fault, I'll take the blame if I leave things like this."
+    ],
+    "216:text": [
+      "First things first. I have to do something about this body..."
+    ],
+    "217:text": [
+      "What do I do? What do I... Think. Think..."
+    ],
+    "221:text": [
+      "“The coffin will now depart... Everyone, please put your palms together"
+    ],
+    "222:text": [
+      "as we see the deceased off...”"
+    ],
+    "224:text": [
+      "They're taking the coffin away...? I looked and saw a hearse pulling away from a building in the distance, with a crowd there to see it off."
+    ],
+    "225:text": [
+      "Right. I'm behind a funeral hall..."
+    ],
+    "227:text": [
+      "That's it. I'd be a fool not to use this."
+    ],
+    "228:text": [
+      "I have to do this to protect my future."
+    ],
+    "230:text": [
+      "I dragged Kurata's body away slowly,",
+      "taking one step at a time without a sound."
+    ],
+    "236:title.name.1": [
+      "Apathy Kiwame - Burying the Lie"
+    ],
+    "270:text": [
+      "“...What did you want to talk to me about?”"
+    ],
+    "272:text": [
+      "Sadao Hino"
+    ],
+    "273:text": [
+      "“Yeah. I was thinking of putting together a wall newspaper."
+    ],
+    "274:text": [
+      "I want you to take charge of it."
+    ],
+    "275:text": [
+      "So I thought we might talk it over today,"
+    ],
+    "276:text": [
+      "maybe over something to eat.”"
+    ],
+    "279:text": [
+      "“I see. I'm sorry, though."
+    ],
+    "280:text": [
+      "My dad's coming home early today, so I have to"
+    ],
+    "281:text": [
+      "eat dinner at home... Would it be all right to meet"
+    ],
+    "282:text": [
+      "another day?”"
+    ],
+    "284:text": [
+      "Sadao Hino"
+    ],
+    "285:text": [
+      "“Oh, I see. We'll have to leave it for today, then."
+    ],
+    "286:text": [
+      "Let's do it some other time. How about this Saturday?”"
+    ],
+    "289:text": [
+      "“All right. See you Saturday.”"
+    ],
+    "291:text": [
+      "Sadao Hino"
+    ],
+    "292:text": [
+      "“Yeah. Get home safe.”"
+    ],
+    "295:text": [
+      "“I will. Thanks for today.”"
+    ],
+    "297:text": [
+      "Did I manage to act calm...?"
+    ],
+    "298:text": [
+      "No, I'm sure it was fine."
+    ],
+    "299:text": [
+      "The more guarded I act, the more likely I am to give myself away."
+    ],
+    "300:text": [
+      "I just have to act like I always do. Right. Just like always."
+    ],
+    "302:text": [
+      "Sadao Hino"
+    ],
+    "303:text": [
+      "“Hey, ",
+      ".”"
+    ],
+    "306:text": [
+      "“Y-yes?”"
+    ],
+    "308:text": [
+      "Sadao Hino"
+    ],
+    "309:text": [
+      "“Do you know where Kurata is?”"
+    ],
+    "312:text": [
+      "“No, I don't. Come to think of it,"
+    ],
+    "313:text": [
+      "she didn't come in today, did she?”"
+    ],
+    "315:text": [
+      "Sadao Hino"
+    ],
+    "316:text": [
+      "“Yeah. It's unusual for her to miss a day."
+    ],
+    "317:text": [
+      "I thought you might know something, since you're both first-years,"
+    ],
+    "318:text": [
+      "but I guess you don't. Sorry. See you around.”"
+    ],
+    "323:text": [
+      "“Okay.”"
+    ],
+    "325:text": [
+      "While I could still see Hino walking away, I turned on my heel and set off more slowly than usual."
+    ],
+    "326:text": [
+      "I was terrified he'd sense something was off if I stood there watching him leave or just took off running."
+    ],
+    "328:text": [
+      "I'd forgotten what Hino was like."
+    ],
+    "329:text": [
+      "How good he was at sniffing things out..."
+    ],
+    "331:text": [
+      "If Hino was already bringing up Kurata's name, I was out of time."
+    ],
+    "332:text": [
+      "Partway home I changed course and headed for that funeral hall on the outskirts."
+    ],
+    "339:text": [
+      "Unlike yesterday, the funeral hall",
+      "was utterly silent."
+    ],
+    "340:text": [
+      "If I heard the staff right, the hall should be closed today for tomobiki."
+    ],
+    "342:text": [
+      "I looked around."
+    ],
+    "343:text": [
+      "No sign of anyone... I might be able to do this."
+    ],
+    "346:text": [
+      "I kept as quiet as I could and circled around to the back entrance."
+    ],
+    "347:text": [
+      "I'd watched for a while yesterday and noticed the back entrance was for contractors. It was usually unlocked."
+    ],
+    "349:text": [
+      "The guards would still come and go even if the hall was closed, so it should be unlocked. At least, it should be."
+    ],
+    "350:text": [
+      "I put my hand on the doorknob",
+      " and slowly turned it..."
+    ],
+    "351:text": [
+      "Yes! It was unlocked!"
+    ],
+    "352:text": [
+      "Looks like heaven hasn't abandoned me after all."
+    ],
+    "356:text": [
+      "I peered through the gap in the door. A long corridor stretched ahead, lit by emergency lights."
+    ],
+    "357:text": [
+      "I could see the light in the guardroom by reception and hear a faint sound from inside... Now was my chance."
+    ],
+    "359:text": [
+      "I slipped inside and made straight for the door at the far end of the corridor."
+    ],
+    "361:text": [
+      "I couldn't sense anybody else in the vast funeral hall."
+    ],
+    "362:text": [
+      "I didn't even realize I'd been holding my breath."
+    ],
+    "364:text": [
+      "I reached the silver door and rested my hand on its cold surface."
+    ],
+    "365:text": [
+      "A sharp freezer smell from inside stung the back of my nose. Even in the dark,",
+      "I knew I'd found the mortuary."
+    ],
+    "374:text": [
+      "4-3, 4-4, 4-5... 4-8."
+    ],
+    "375:text": [
+      "This was the door."
+    ],
+    "376:text": [
+      "I opened the door as quietly as I could and dragged out the white box inside."
+    ],
+    "379:text": [
+      "The coffin was wrapped in white cloth, with a slip of paper stuck to it bearing a name I didn't recognize."
+    ],
+    "380:text": [
+      "I peered through the window in the coffin lid. There lay a dead old woman, her makeup beautifully done."
+    ],
+    "382:text": [
+      "She was a tiny woman, but dead people weigh a lot more than you'd think."
+    ],
+    "383:text": [
+      "Her stiff body wouldn't bend, so it was like carrying a big plank."
+    ],
+    "385:text": [
+      "Her dry skin was slippery, and the curves of her body made her hard to lift."
+    ],
+    "387:text": [
+      "I struggled to lift the old woman out of the coffin without smudging her makeup or disturbing her burial clothes."
+    ],
+    "388:text": [
+      "Then I lifted the bedding that lined the coffin..."
+    ],
+    "389:text": [
+      "—————There she was."
+    ],
+    "391:text": [
+      "This was where I'd hidden Kurata."
+    ],
+    "392:text": [
+      "They say if you want to hide a tree, hide it in a forest. So I'd hidden a corpse in a coffin."
+    ],
+    "394:text": [
+      "Yesterday, while the staff were clearing up the funeral hall, I'd dragged Kurata into the mortuary and hidden her in a coffin they'd left nearby."
+    ],
+    "396:text": [
+      "A bit of an odd smell wouldn't stand out here. Even if someone came looking for Kurata, nobody would think to look in a place like this."
+    ],
+    "397:text": [
+      "I had to hand it to myself. I'd picked the perfect hiding place."
+    ],
+    "399:text": [
+      "I'd hoped I'd never have to go near it again..."
+    ],
+    "400:text": [
+      "But when I saw that look in Hino's eyes, my confidence shattered."
+    ],
+    "401:text": [
+      "The other me started shouting inside my head that a sloppy plan I'd made up on the spot wouldn't fool anyone for long."
+    ],
+    "403:text": [
+      "I looked down into the coffin."
+    ],
+    "404:text": [
+      "Kurata had been in cold storage all this time. A thin layer of frost covered her skin."
+    ],
+    "405:text": [
+      "Her cheeks and lips were usually cherry-blossom pink. Now they were pure white."
+    ],
+    "407:text": [
+      "Thank goodness. No one had found out yet..."
+    ],
+    "408:text": [
+      "I fought down my panic as I took Kurata out of the coffin and put the old woman back."
+    ],
+    "410:text": [
+      "I couldn't leave anything that would look even slightly off."
+    ],
+    "411:text": [
+      "Don't panic... Don't panic... This is exactly when you need to be careful..."
+    ],
+    "414:text": [
+      "I opened the other refrigerated compartments in turn",
+      "and looked inside."
+    ],
+    "415:text": [
+      "The slip on each coffin lid listed the person's name",
+      "and when they were due to be taken to the crematorium."
+    ],
+    "416:text": [
+      "I searched frantically",
+      "for the one due to go first."
+    ],
+    "418:text": [
+      "That was it. I just had to have her burned."
+    ],
+    "419:text": [
+      "Once she was gone from this world for good, no one could prove I'd committed a crime."
+    ],
+    "421:text": [
+      "My phone's flashlight was my only light,",
+      "and the dates on those tiny slips were hard to read."
+    ],
+    "422:text": [
+      "But I managed to find a coffin due to go to the crematorium tomorrow."
+    ],
+    "424:text": [
+      "I checked inside."
+    ],
+    "425:text": [
+      "An old woman lay inside, much like the one in the coffin where I'd hidden Kurata."
+    ],
+    "427:text": [
+      "Unlike the woman I'd just moved, this one's makeup had been slapped on, and her mouth hung half open."
+    ],
+    "428:text": [
+      "Maybe her eyes had dried out and shriveled,"
+    ],
+    "429:text": [
+      "leaving her eyelids sunken. She looked like a skeleton with skin stretched over it..."
+    ],
+    "431:text": [
+      "She really looked like a corpse. It was horrifying."
+    ],
+    "432:text": [
+      "I almost shut the lid without thinking."
+    ],
+    "434:text": [
+      "But I had no time to hesitate..."
+    ],
+    "435:text": [
+      "Once again, I carefully hid Kurata beneath the old woman's body."
+    ],
+    "436:text": [
+      "I pushed down hard on Kurata's body with my hands again and again to flatten her as much as I could, then laid the old woman's ice-cold body over her."
+    ],
+    "438:text": [
+      "I shut the lid and peered through the viewing window. The old woman's face was unnervingly close."
+    ],
+    "439:text": [
+      "Of course it was. There were two people in a coffin meant for one..."
+    ],
+    "441:text": [
+      "By the time I'd made enough little adjustments to fit both bodies in the coffin without anything looking off, I was drenched in sweat."
+    ],
+    "445:text": [
+      "But I was safe now."
+    ],
+    "446:text": [
+      "Once this body burned tomorrow, it would all be over."
+    ],
+    "448:text": [
+      "I felt bad for Kurata, but this wasn't",
+      "my fault."
+    ],
+    "449:text": [
+      "She was the one who started all this, making a fuss about Mr. Kawano sneaking photos of girls when she didn't have any proof."
+    ],
+    "450:text": [
+      "This had to be divine punishment."
+    ],
+    "451:text": [
+      "So it wasn't my fault. It wasn't my fault..."
+    ],
+    "455:text": [
+      "“Hey.”"
+    ],
+    "457:text": [
+      "My heart stopped for an instant."
+    ],
+    "458:text": [
+      "Then I felt such a violent pulse that it was as if my whole body had turned into one big heart."
+    ],
+    "460:text": [
+      "My body wouldn't do what I told it to. It was as if I were a corpse myself."
+    ],
+    "461:text": [
+      "I didn't want to turn around."
+    ],
+    "462:text": [
+      "I wanted to run, right then."
+    ],
+    "464:text": [
+      "...But the only door that could get me out was right behind me."
+    ],
+    "466:text": [
+      "“Hey.”"
+    ],
+    "468:text": [
+      "There was no mistaking it. The voice was calling to me."
+    ],
+    "469:text": [
+      "It was a man's voice."
+    ],
+    "470:text": [
+      "I forced my rigid body to move and slowly turned around."
+    ],
+    "473:text": [
+      "Sadao Hino"
+    ],
+    "474:text": [
+      "“What are you doing in a place like this?”"
+    ],
+    "476:text": [
+      "Oh. It was over."
+    ],
+    "477:text": [
+      "The devil had come."
+    ],
+    "478:text": [
+      "No, more like a hyena."
+    ],
+    "479:text": [
+      "A hyena that sniffs out a corpse",
+      "and eats every last bit of it."
+    ],
+    "481:text": [
+      "In the dim glow of the emergency lights spilling in from the hall, Hino looked this way and that, curious about everything he saw."
+    ],
+    "483:text": [
+      "Sadao Hino"
+    ],
+    "484:text": [
+      "“This is the mortuary, right? I can't believe you got in."
+    ],
+    "485:text": [
+      "Then again, I slipped in myself while the guard was"
+    ],
+    "486:text": [
+      "dozing.”"
+    ],
+    "488:text": [
+      "...Wait. What if he hadn't seen what I'd just done?"
+    ],
+    "489:text": [
+      "The Hino I knew would've rushed straight to the coffin in front of me and looked inside if he'd seen what I'd done."
+    ],
+    "491:text": [
+      "But Hino just wandered around the mortuary, taking the odd photo on his phone."
+    ],
+    "493:text": [
+      "I was sure of it."
+    ],
+    "494:text": [
+      "Hino hadn't seen",
+      "what I'd been doing."
+    ],
+    "495:text": [
+      "Heaven hadn't turned its back on me yet."
+    ],
+    "498:text": [
+      "“You startled me... What about you, Hino? What are you"
+    ],
+    "499:text": [
+      "doing here?”"
+    ],
+    "501:text": [
+      "Sadao Hino"
+    ],
+    "502:text": [
+      "“I'm the one who's surprised here."
+    ],
+    "503:text": [
+      "I realized I'd forgotten to give you the material"
+    ],
+    "504:text": [
+      "for the wall newspaper, so I came after you. You suddenly"
+    ],
+    "505:text": [
+      "left the road. I wondered what you were up to, so"
+    ],
+    "506:text": [
+      "I followed you."
+    ],
+    "507:text": [
+      "And then I saw you go into a place like this,"
+    ],
+    "508:text": [
+      "of all places."
+    ],
+    "509:text": [
+      "Weren't you supposed to go eat with your family"
+    ],
+    "510:text": [
+      "today?”"
+    ],
+    "513:text": [
+      "“I am. I just really wanted to come in here first."
+    ],
+    "514:text": [
+      "I've been curious about it for"
+    ],
+    "515:text": [
+      "a while."
+    ],
+    "516:text": [
+      "Isn't it wild that there's a mortuary near school"
+    ],
+    "517:text": [
+      "with actual dead bodies lying inside?"
+    ],
+    "519:text": [
+      "I felt that reporter's itch... Maybe you're rubbing off"
+    ],
+    "520:text": [
+      "on me, Hino. Ha ha.”"
+    ],
+    "522:text": [
+      "Sadao Hino"
+    ],
+    "523:text": [
+      "“That's a pretty strange reporter's itch."
+    ],
+    "524:text": [
+      "But I get it."
+    ],
+    "525:text": [
+      "It's true, you hardly ever get inside a mortuary unless you're a doctor,"
+    ],
+    "526:text": [
+      "a cop, or you work"
+    ],
+    "527:text": [
+      "in the funeral business."
+    ],
+    "528:text": [
+      "We're here now. Let's have a look around."
+    ],
+    "529:text": [
+      "Hey, ",
+      ", keep an eye on the entrance for me.”"
+    ],
+    "534:text": [
+      "“...Okay. I will.”"
+    ],
+    "536:text": [
+      "Oh, no. The last thing I needed was to be stuck on lookout."
+    ],
+    "537:text": [
+      "I stood in front of the coffin and tried to look as casual as I could."
+    ],
+    "539:text": [
+      "Hino looked around more thoroughly this time."
+    ],
+    "540:text": [
+      "He opened the cold storage cabinet and peered into a coffin, then started opening boxes of supplies. Thank goodness there was enough to keep him from looking behind me."
+    ],
+    "541:text": [
+      "Please, let this be over without anything happening..."
+    ],
+    "543:text": [
+      "Once he'd taken a look around, Hino suddenly turned to me."
+    ],
+    "544:text": [
+      "His eyes settled on something behind me."
+    ],
+    "545:text": [
+      "Of course. It was never going to be that easy..."
+    ],
+    "547:text": [
+      "Sadao Hino"
+    ],
+    "548:text": [
+      "“",
+      ", you were looking at that coffin behind you earlier, right?"
+    ],
+    "549:text": [
+      "How was it?”"
+    ],
+    "552:text": [
+      "“Oh. There was an old woman inside."
+    ],
+    "553:text": [
+      "I didn't notice anything unusual."
+    ],
+    "554:text": [
+      "She looked normal.”"
+    ],
+    "556:text": [
+      "Sadao Hino"
+    ],
+    "557:text": [
+      "“Huh... I guess since it's a proper mortuary,"
+    ],
+    "558:text": [
+      "they don't keep any gruesome bodies here."
+    ],
+    "559:text": [
+      "Then again, seeing one might traumatize me.”"
+    ],
+    "562:text": [
+      "“Ha ha, probably."
+    ],
+    "563:text": [
+      "Hino, don't you think we should get going?"
+    ],
+    "564:text": [
+      "A security guard could come by.”"
+    ],
+    "566:text": [
+      "Sadao Hino"
+    ],
+    "567:text": [
+      "“Yeah, good point. I'll just take a look in that coffin,"
+    ],
+    "568:text": [
+      "and then we'll go.”"
+    ],
+    "571:text": [
+      "“What...?”"
+    ],
+    "573:text": [
+      "Sadao Hino"
+    ],
+    "574:text": [
+      "“Hm? What's wrong? You said it was only"
+    ],
+    "575:text": [
+      "an old woman in there, right?”"
+    ],
+    "578:text": [
+      "“It is, but... well, it's a little gruesome."
+    ],
+    "579:text": [
+      "I mean, she doesn't look as well-kept as the people"
+    ],
+    "580:text": [
+      "in the other coffins..."
+    ],
+    "581:text": [
+      "I think you should leave it alone."
+    ],
+    "582:text": [
+      "Nothing good will come of looking.”"
+    ],
+    "584:text": [
+      "Sadao Hino"
+    ],
+    "585:text": [
+      "“...I see. But if this one's different from the others,"
+    ],
+    "586:text": [
+      "of course I want to see it."
+    ],
+    "587:text": [
+      "If you're scared, ",
+      ", you can stand back.”"
+    ],
+    "591:text": [
+      "“...Okay.”"
+    ],
+    "593:text": [
+      "No. If I tried any harder to hide it now, I'd only make him suspicious."
+    ],
+    "594:text": [
+      "Even a quick look should be enough",
+      "to satisfy him."
+    ],
+    "595:text": [
+      "I'd taken my time hiding Kurata. It would be fine."
+    ],
+    "597:text": [
+      "Just act natural. If I let it show, he'll know."
+    ],
+    "598:text": [
+      "I took one step to the side, as naturally as I could."
+    ],
+    "602:text": [
+      "Hino crouched in front of the coffin, opened the viewing window, and peered inside."
+    ],
+    "603:text": [
+      "Just watching him from behind as he stared into it was enough to drive me out of my mind."
+    ],
+    "605:text": [
+      "It couldn't have been a minute, but it felt like hours."
+    ],
+    "606:text": [
+      "Please, please, please, please, please! Let this be the end of it! Please!"
+    ],
+    "608:text": [
+      "Sadao Hino"
+    ],
+    "609:text": [
+      "“",
+      ".”"
+    ],
+    "612:text": [
+      "“...Yes?”"
+    ],
+    "614:text": [
+      "Sadao Hino"
+    ],
+    "615:text": [
+      "“She's a bit more gruesome than the others,"
+    ],
+    "616:text": [
+      "but it's nothing that bad."
+    ],
+    "617:text": [
+      "You're more of a scaredy-cat than I thought.”"
+    ],
+    "620:text": [
+      "“H-ha ha ha. Sorry...”"
+    ],
+    "622:text": [
+      "Sadao Hino"
+    ],
+    "623:text": [
+      "“Right. We've seen the place. Let's get out of here."
+    ],
+    "624:text": [
+      "Come on, ",
+      ", help me put this coffin back.”"
+    ],
+    "627:text": [
+      "“Okay.”"
+    ],
+    "631:text": [
+      "I don't think I'd ever been so relieved in my life."
+    ],
+    "635:text": [
+      "Hino closed the viewing window, slid the coffin back into cold storage, and stretched a little."
+    ],
+    "636:text": [
+      "He looked just like he always did in the clubroom. I finally felt my normal life coming back to me."
+    ],
+    "638:text": [
+      "After checking that the photos on his phone had come out, Hino finally said the words I'd been dying to hear."
+    ],
+    "640:text": [
+      "Sadao Hino"
+    ],
+    "641:text": [
+      "“Let's go, ",
+      ".”"
+    ],
+    "644:text": [
+      "“Okay!”"
+    ],
+    "649:text": [
+      "Sadao Hino"
+    ],
+    "650:text": [
+      "“...What's that?”"
+    ],
+    "653:text": [
+      "“Maybe it's the security guard."
+    ],
+    "654:text": [
+      "Let's hurry.”"
+    ],
+    "656:text": [
+      "Sadao Hino"
+    ],
+    "657:text": [
+      "“...Yeah.”"
+    ],
+    "663:text": [
+      "Sadao Hino"
+    ],
+    "664:text": [
+      "“...No, it wasn't a guard. I heard it"
+    ],
+    "665:text": [
+      "inside this room.”"
+    ],
+    "668:text": [
+      "“Th-that can't be...”"
+    ],
+    "673:text": [
+      "Sadao Hino"
+    ],
+    "674:text": [
+      "“...Here. This is where it came from.”"
+    ],
+    "676:text": [
+      "4-8... It was the door to the cabinet we'd just put the coffin back in."
+    ],
+    "677:text": [
+      "Hino stood in front of it and gently pressed his ear to the door."
+    ],
+    "682:text": [
+      "Sadao Hino"
+    ],
+    "683:text": [
+      "“That's definitely it. I'm opening it.”"
+    ],
+    "687:text": [
+      "“Y-you're opening it?!”"
+    ],
+    "689:text": [
+      "Sadao Hino"
+    ],
+    "690:text": [
+      "“Of course I am. Wasn't it that reporter's itch"
+    ],
+    "691:text": [
+      "that brought you here?”"
+    ],
+    "694:text": [
+      "“B-but... ah!”"
+    ],
+    "696:text": [
+      "Before I could stop him, Hino opened the cold storage door."
+    ],
+    "697:text": [
+      "The white coffin was just visible in the pitch dark."
+    ],
+    "698:text": [
+      "Somehow, its lid had shifted a little."
+    ],
+    "700:text": [
+      "Sadao Hino"
+    ],
+    "701:text": [
+      "“...Did the lid slide out of place?”"
+    ],
+    "704:text": [
+      "“...M-maybe I didn't close it"
+    ],
+    "705:text": [
+      "properly."
+    ],
+    "706:text": [
+      "Sorry. I'll fix it now."
+    ],
+    "707:text": [
+      "Go on ahead, Hino."
+    ],
+    "708:text": [
+      "A guard might come.”"
+    ],
+    "710:text": [
+      "Sadao Hino"
+    ],
+    "711:text": [
+      "“You think? Come on, get it together.”"
+    ],
+    "716:text": [
+      "Sadao Hino"
+    ],
+    "717:text": [
+      "“...Didn't the lid just move?”"
+    ],
+    "720:text": [
+      "“It must've slipped again. Hino, hurry up"
+    ],
+    "721:text": [
+      "and go ahead...”"
+    ],
+    "726:text": [
+      "Hino grabbed the coffin and hauled it out of the cabinet in one pull."
+    ],
+    "727:text": [
+      "The lid, already askew, fell to the floor with a dull clatter."
+    ],
+    "729:text": [
+      "“H-help... me... h-help... me...”"
+    ],
+    "732:text": [
+      "“Eek...!”"
+    ],
+    "734:text": [
+      "The old woman's head, which had been facing straight up, jerked to one side."
+    ],
+    "735:text": [
+      "Something thick spilled from her nose and mouth as it moved."
+    ],
+    "737:text": [
+      "A thin voice like the whine of a mosquito seeped from her half-open mouth. The body that should have been dead slowly sat up."
+    ],
+    "738:text": [
+      "Was that crackling sound a thin layer of ice breaking, or was it her bones...?"
+    ],
+    "740:text": [
+      "The corpse. The corpse was moving."
+    ],
+    "741:text": [
+      "All the strength went out of the old woman's body at once. She slumped forward as if bowing her head."
+    ],
+    "744:text": [
+      "“Ah... aah... ah...”"
+    ],
+    "746:text": [
+      "Sadao Hino"
+    ],
+    "747:text": [
+      "“K... Kurata...”"
+    ],
+    "749:text": [
+      "From behind the old woman, Kurata stared at us with clouded, reproachful eyes."
+    ],
+    "750:text": [
+      "The blood from her head had frozen against her face."
+    ],
+    "751:text": [
+      "Every time she spoke, her dried-out skin cracked and blood slowly welled up."
+    ],
+    "754:text": [
+      "“Ku... rata...”"
+    ],
+    "756:text": [
+      "Emi Kurata"
+    ],
+    "757:text": [
+      "“H... help... h... help... me...”"
+    ],
+    "759:text": [
+      "Sadao Hino"
+    ],
+    "760:text": [
+      "“Kurata.”"
+    ],
+    "762:text": [
+      "Kurata reached out a hand toward us,",
+      "begging for help."
+    ],
+    "763:text": [
+      "Hino took her hand."
+    ],
+    "765:text": [
+      "No. I was done for."
+    ],
+    "766:text": [
+      "It was all over... I'd never imagined she'd still be alive."
+    ],
+    "767:text": [
+      "I'd been so sure she was dead."
+    ],
+    "769:text": [
+      "But part of me felt relieved, too."
+    ],
+    "770:text": [
+      "Because I hadn't killed Kurata."
+    ],
+    "771:text": [
+      "Whatever else I'd done, I wasn't a murderer."
+    ],
+    "772:text": [
+      "I didn't know what would happen next. I was just so glad Kurata was alive..."
+    ],
+    "779:text": [
+      "“...No. Why?”"
+    ],
+    "781:text": [
+      "Hino took Kurata's hand and pulled her toward him. Then he grabbed her slender throat and squeezed with all his strength."
+    ],
+    "783:text": [
+      "Kurata was too weak to cry out. There was a little sound like a twig snapping, and then she stopped moving altogether."
+    ],
+    "785:text": [
+      "Hino laid Kurata back in the coffin. He hid her just the way I had, as if nothing had happened."
+    ],
+    "787:text": [
+      "What had just happened...?"
+    ],
+    "788:text": [
+      "Why had Hino done that to Kurata...?"
+    ],
+    "789:text": [
+      "She was alive. After all that, she was alive. She'd made it."
+    ],
+    "792:text": [
+      "Sadao Hino"
+    ],
+    "793:text": [
+      "“",
+      ", you killed Kurata, didn't you?"
+    ],
+    "794:text": [
+      "I never thought you'd do something like that. You surprised me.”"
+    ],
+    "797:text": [
+      "“N-no. I didn't kill her... I mean,"
+    ],
+    "798:text": [
+      "you just killed her, Hino."
+    ],
+    "799:text": [
+      "It wasn't me. It wasn't me!”"
+    ],
+    "801:text": [
+      "Sadao Hino"
+    ],
+    "802:text": [
+      "“What are you talking about? You're the one who"
+    ],
+    "803:text": [
+      "hid Kurata in this coffin first, right? You thought she was dead."
+    ],
+    "804:text": [
+      "That's as good as killing her."
+    ],
+    "805:text": [
+      "You're crueler than I am."
+    ],
+    "806:text": [
+      "If things had gone the way they were going, she would've"
+    ],
+    "807:text": [
+      "been burned alive.”"
+    ],
+    "810:text": [
+      "“Why...? Why did you...?”"
+    ],
+    "812:text": [
+      "Sadao Hino"
+    ],
+    "813:text": [
+      "“Why? Come on. You know why, don't you?"
+    ],
+    "814:text": [
+      "I was helping you out."
+    ],
+    "815:text": [
+      "You're a good kid to have around, ",
+      "."
+    ],
+    "816:text": [
+      "And thinking to hide a body in a place like this?"
+    ],
+    "817:text": [
+      "That isn't something most people would come up with."
+    ],
+    "818:text": [
+      "I think pretty highly of you."
+    ],
+    "821:text": [
+      "You've got a talent. For killing, I mean."
+    ],
+    "822:text": [
+      "There's a club I think you'd like. What do you say?"
+    ],
+    "823:text": [
+      "Would you like to join?”"
+    ],
+    "826:text": [
+      "“A club...?”"
+    ],
+    "828:text": [
+      "Sadao Hino"
+    ],
+    "829:text": [
+      "“Yeah. It's just right for someone like you."
+    ],
+    "830:text": [
+      "You don't have to join."
+    ],
+    "831:text": [
+      "But if you don't, I'll have to start yelling right here"
+    ],
+    "832:text": [
+      "and call somebody over."
+    ],
+    "833:text": [
+      "Your fingerprints are already smeared"
+    ],
+    "834:text": [
+      "all over Kurata's body."
+    ],
+    "835:text": [
+      "Sure, I'd probably get arrested too..."
+    ],
+    "836:text": [
+      "but your life would be over."
+    ],
+    "837:text": [
+      "You don't want that, do you? Come on, you know"
+    ],
+    "838:text": [
+      "the answer by now, right?”"
+    ],
+    "840:text": [
+      "I didn't have a choice."
+    ],
+    "841:text": [
+      "After all, I hadn't done anything wrong."
+    ],
+    "842:text": [
+      "I had nothing to atone for."
+    ],
+    "844:text": [
+      "I wanted to go on and have a bright future."
+    ],
+    "845:text": [
+      "I couldn't let Kurata's delusions ruin my life. I couldn't..."
+    ],
+    "848:text": [
+      "“...I'll join.”"
+    ],
+    "850:text": [
+      "Sadao Hino"
+    ],
+    "851:text": [
+      "“...Welcome to the Murder Club.”"
+    ],
+    "863:text": [
+      "“Is that kid the new club member?”"
+    ],
+    "865:text": [
+      "“Hee hee, I'm so happy I get to make"
+    ],
+    "866:text": [
+      "a new friend. Hee hee hee.”"
+    ],
+    "868:text": [
+      "“Come on, is a wimp like that really"
+    ],
+    "869:text": [
+      "gonna cut it?”"
+    ],
+    "871:text": [
+      "“A first-year? Just like me! I'm so glad."
+    ],
+    "872:text": [
+      "I felt so out of place with all these upperclassmen.”"
+    ],
+    "874:text": [
+      "“Heh heh heh...”"
+    ],
+    "876:text": [
+      "“You're at the bottom of the pecking order now, so we've got"
+    ],
+    "877:text": [
+      "plenty of jobs for you."
+    ],
+    "878:text": [
+      "You'll learn to be thoughtful enough to bring"
+    ],
+    "879:text": [
+      "a bottle of something to drink each time, at least.”"
+    ],
+    "881:text": [
+      "I heard a crowd of voices in the pitch-dark clubroom."
+    ],
+    "882:text": [
+      "There were male and female voices, all so cheerful I could almost mistake this for an ordinary, friendly club meeting."
+    ],
+    "884:text": [
+      "Sadao Hino"
+    ],
+    "885:text": [
+      "“All right, settle down."
+    ],
+    "886:text": [
+      "Now that we've got our new member, let me introduce"
+    ],
+    "887:text": [
+      "our first target."
+    ],
+    "888:text": [
+      "His name is Takashi Kawano."
+    ],
+    "889:text": [
+      "He teaches modern Japanese at Narugami Academy."
+    ],
+    "890:text": [
+      "Fukuzawa put in the request this time, right?”"
+    ],
+    "892:text": [
+      "Reiko Fukuzawa"
+    ],
+    "893:text": [
+      "“Yep, yep, that's meee."
+    ],
+    "894:text": [
+      "Kawano used to work at my school, but he secretly took photos"
+    ],
+    "895:text": [
+      "in the changing room, so they shipped him off to another school."
+    ],
+    "896:text": [
+      "That's how he ended up here."
+    ],
+    "897:text": [
+      "I'm sure I'm in a few of those pictures. Ever since then, I've wanted"
+    ],
+    "898:text": [
+      "to kill him someday.”"
+    ],
+    "901:text": [
+      "“Huh...?”"
+    ],
+    "903:text": [
+      "Reiko Fukuzawa"
+    ],
+    "904:text": [
+      "“See? Awful, right? Oh, Lord Hino, let's hand down"
+    ],
+    "905:text": [
+      "the sentence already!"
+    ],
+    "906:text": [
+      "Everyone else is okay with that, right?”"
+    ],
+    "908:text": [
+      "Sadao Hino"
+    ],
+    "909:text": [
+      "“Yeah, you're right. We've heard enough... I'll now hand down"
+    ],
+    "910:text": [
+      "the sentence!”"
+    ],
+    "912:text": [
+      "Hino raised his right hand."
+    ],
+    "913:text": [
+      "And then..."
+    ],
+    "915:text": [
+      "“Death sentence!!”"
+    ],
+    "917:text": [
+      "“No objection!”"
+    ],
+    "919:text": [
+      "“No objection!”"
+    ],
+    "921:text": [
+      "“No objection!”"
+    ],
+    "923:text": [
+      "Everyone made a fist with their right hand, stuck out a thumb, and turned it sharply down."
+    ],
+    "925:text": [
+      "Sadao Hino"
+    ],
+    "926:text": [
+      "“...Hm? ",
+      ", what's wrong?”"
+    ],
+    "929:text": [
+      "“...Was Mr. Kawano really taking secret photos"
+    ],
+    "930:text": [
+      "in the changing room?”"
+    ],
+    "932:text": [
+      "Reiko Fukuzawa"
+    ],
+    "933:text": [
+      "“Of course he did. Otherwise he wouldn't have run off"
+    ],
+    "934:text": [
+      "to another school."
+    ],
+    "935:text": [
+      "I bet he's doing it here too. Of course he deserves"
+    ],
+    "936:text": [
+      "to die."
+    ],
+    "937:text": [
+      "You agree, ",
+      ", don't you?”"
+    ],
+    "939:text": [
+      "Then Kurata... Had Kurata been telling the truth?"
+    ],
+    "940:text": [
+      "She hadn't imagined it. She really had..."
+    ],
+    "942:text": [
+      "My stomach lurched. I covered my mouth and doubled over."
+    ],
+    "943:text": [
+      "I could feel fourteen eyes on my back."
+    ],
+    "945:text": [
+      "Sadao Hino"
+    ],
+    "946:text": [
+      "“",
+      ", what's your verdict?”"
+    ],
+    "948:text": [
+      "Hino's voice rang out in the clubroom."
+    ],
+    "949:text": [
+      "Kurata... What had I done? What had I done to her?"
+    ],
+    "951:text": [
+      "She'd never be able to rest, even in death."
+    ],
+    "952:text": [
+      "She must hate me."
+    ],
+    "954:text": [
+      "What was I supposed to do? What could I do?"
+    ],
+    "955:text": [
+      "...But was I really the one at fault?"
+    ],
+    "957:text": [
+      "If Kurata had been more reliable to begin with, I'd never have doubted her."
+    ],
+    "958:text": [
+      "If Kawano hadn't been taking secret photos, none of this would've happened."
+    ],
+    "960:text": [
+      "Kurata paid for what she'd done with her life."
+    ],
+    "961:text": [
+      "So Kawano should pay with his life, too."
+    ],
+    "963:text": [
+      "I stood up and looked back at them all."
+    ],
+    "964:text": [
+      "Fourteen eyes glittered in the dark."
+    ],
+    "965:text": [
+      "I made a fist with my right hand, stuck out my thumb,",
+      "and turned it down."
+    ],
+    "967:text": [
+      "Yes. This was right."
+    ],
+    "968:text": [
+      "If someone gets in the way of my life, of course I should get rid of them."
+    ],
+    "969:text": [
+      "I have every right."
+    ],
+    "970:text": [
+      "I'm sure Kurata would want it too."
+    ],
+    "971:text": [
+      "Poor Kurata. I'll avenge you."
+    ],
+    "973:text": [
+      "There's nothing wrong with this."
+    ],
+    "974:text": [
+      "This is the right answer."
+    ],
+    "975:text": [
+      "I straightened up and said it loud and clear."
+    ],
+    "978:text": [
+      "“...No objection.”"
+    ]
+  }
+}

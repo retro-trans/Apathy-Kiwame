@@ -1,0 +1,32 @@
+{
+  "canvas": {"width": 960, "height": 690},
+  "reference_asset": "data/bgimage/game/sindo/赤5.jpg",
+  "still_assets": {
+    "生放送.jpg": 0,
+    "タイトル.gif": 0,
+    "ゲーム画面1.jpg": 0,
+    "攻撃.gif": 0,
+    "ゲーム画面2.jpg": 0,
+    "赤.jpg": 0,
+    "赤2.jpg": 6,
+    "赤3.jpg": 6,
+    "赤4.jpg": 7,
+    "赤5.jpg": 7,
+    "赤7.jpg": 7
+  },
+  "scope": "Layout and transcription from the seven-clue stream still. Approximate text bounds in the original 960 by 690 artwork.",
+  "coordinates_left": 134,
+  "labels_left": 582,
+  "row_height": 46,
+  "rows": [
+    {"top": 132, "coordinates": "34.928488,135.46733", "label": "BEHEADING"},
+    {"top": 191, "coordinates": "35.320277,139.55929", "label": "GUTTING"},
+    {"top": 250, "coordinates": "33.688908,130.56036", "label": "ABLAZE"},
+    {"top": 309, "coordinates": "39.653595,141.00375", "label": "SHATTERED"},
+    {"top": 368, "coordinates": "43.803198,143.57108", "label": "DARUMA"},
+    {"top": 427, "coordinates": "35.700701,139.57449", "label": "DISMEMBERED"},
+    {"top": 486, "coordinates": "34.410226,135.37129", "label": "SURGERY"}
+  ],
+  "banner": {"x": 0, "y": 589, "width": 766, "height": 77, "label": "Majiru's Seriously Cursed Game Stream"},
+  "facecam": {"x": 766, "y": 558, "width": 177, "height": 124}
+}

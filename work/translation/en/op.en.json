@@ -1,0 +1,1848 @@
+{
+  "scenario": "data/scenario/op.ks",
+  "source_sha256": "640771f014dc9cd5366fd0f31116f4fcb65b9787a70679a25aaf97db76c416d6",
+  "rows": {
+    "94:text": [
+      "Shinya Asahina"
+    ],
+    "95:text": [
+      "“All right, that's it for today."
+    ],
+    "96:text": [
+      "At our next meeting, we'll pitch ideas for the last"
+    ],
+    "97:text": [
+      "School Net News of summer break."
+    ],
+    "98:text": [
+      "I want everyone to come up with something interesting."
+    ],
+    "99:text": [
+      "Okay, you're dismissed.”"
+    ],
+    "102:text": [
+      "Club President Asahina's words made me more than a little nervous."
+    ],
+    "104:text": [
+      "My name is ",
+      "."
+    ],
+    "105:text": [
+      "I'm a first-year at Narugami Academy."
+    ],
+    "106:text": [
+      "It's already been three months since I joined the Newspaper Club."
+    ],
+    "107:text": [
+      "I'm still getting the hang of things and messing up all the time, but the older members are kind. I feel right at home."
+    ],
+    "109:text": [
+      "Every month, the Newspaper Club reports on what's happening at school and publishes it online."
+    ],
+    "110:text": [
+      "The older members come up with most of the ideas. We first-years help them out."
+    ],
+    "112:text": [
+      "But this time is different."
+    ],
+    "113:text": [
+      "At the next meeting, even we first-years will get",
+      "to speak up."
+    ],
+    "114:text": [
+      "If we come up with a good one, they'll run with it."
+    ],
+    "116:text": [
+      "My heart's already racing."
+    ],
+    "117:text": [
+      "What if they actually pick my idea?"
+    ],
+    "118:text": [
+      "Still, this is my chance. I've got to come up with something good."
+    ],
+    "120:text": [
+      "???"
+    ],
+    "121:text": [
+      "“",
+      ", got a minute?”"
+    ],
+    "124:text": [
+      "“Yes? What can I do for you, Hino?”"
+    ],
+    "127:text": [
+      "That was Hino, the Newspaper Club's vice president."
+    ],
+    "128:text": [
+      "He's always good at telling us first-years what needs doing. We can count on him."
+    ],
+    "130:text": [
+      "Sadao Hino"
+    ],
+    "131:text": [
+      "“Yeah, I actually wanted to ask you a favor."
+    ],
+    "132:text": [
+      "Do you have some time now?”"
+    ],
+    "134:text": [
+      "Hino wants to talk something over with me himself?"
+    ],
+    "135:text": [
+      "He's never come to me before. Me, of all people."
+    ],
+    "136:text": [
+      "I wonder what's going on."
+    ],
+    "148:glink.text.1": [
+      "1. Sorry, I'm in a hurry."
+    ],
+    "150:glink.text.1": [
+      "1. Sorry, I'm in a hurry."
+    ],
+    "154:glink.text.1": [
+      "2. Sure. What is it?"
+    ],
+    "157:glink.text.1": [
+      "2. Sure. What is it?"
+    ],
+    "161:glink.text.1": [
+      "3. Wait, did that get out?"
+    ],
+    "163:glink.text.1": [
+      "3. Wait, did that get out?"
+    ],
+    "179:text": [
+      "“Sorry. I've got somewhere to be today,"
+    ],
+    "180:text": [
+      "and I'm in a bit of a hurry."
+    ],
+    "181:text": [
+      "Could we do this another time?”"
+    ],
+    "183:text": [
+      "Sadao Hino"
+    ],
+    "184:text": [
+      "“Hey, don't be like that."
+    ],
+    "185:text": [
+      "Come on. It'll only take a minute."
+    ],
+    "186:text": [
+      "Besides, you're the only one I can ask.”"
+    ],
+    "189:text": [
+      "“I'm the only one?”"
+    ],
+    "191:text": [
+      "Sadao Hino"
+    ],
+    "192:text": [
+      "“That's right. You're the only one I can talk to about it."
+    ],
+    "193:text": [
+      "Just give me a minute, okay? Please."
+    ],
+    "194:text": [
+      "Look, I'm begging you.”"
+    ],
+    "196:text": [
+      "Hino had never bowed his head to me before."
+    ],
+    "197:text": [
+      "Maybe it was something really important."
+    ],
+    "207:glink.text.1": [
+      "1. I'm sorry. I really am in a hurry."
+    ],
+    "209:glink.text.1": [
+      "1. I'm sorry. I really am in a hurry."
+    ],
+    "213:glink.text.1": [
+      "2. All right. What is it?"
+    ],
+    "216:glink.text.1": [
+      "2. All right. What is it?"
+    ],
+    "224:text": [
+      "Sadao Hino"
+    ],
+    "225:text": [
+      "“Come on. Your senior's practically begging you,"
+    ],
+    "226:text": [
+      "and you're still saying no?”"
+    ],
+    "229:text": [
+      "“I'm sorry. I really can't today."
+    ],
+    "230:text": [
+      "Please let me off this once.”"
+    ],
+    "232:text": [
+      "Sadao Hino"
+    ],
+    "233:text": [
+      "“Fine. I guess I'll ask someone else."
+    ],
+    "234:text": [
+      "You'd better put some thought into what you'll pitch"
+    ],
+    "235:text": [
+      "at the next meeting, then.”"
+    ],
+    "238:text": [
+      "“I'm really sorry."
+    ],
+    "239:text": [
+      "Excuse me.”"
+    ],
+    "243:text": [
+      "Hino looked terribly disappointed, but I didn't have a choice."
+    ],
+    "244:text": [
+      "I had something I absolutely couldn't put off.",
+      "It had to be today."
+    ],
+    "245:text": [
+      "The thing was..."
+    ],
+    "254:text": [
+      "Sadao Hino"
+    ],
+    "255:text": [
+      "“Oh, good, ",
+      "."
+    ],
+    "256:text": [
+      "I knew I could count on you"
+    ],
+    "257:text": [
+      "to say yes."
+    ],
+    "258:text": [
+      "Let's get going. We'll talk on the way.”"
+    ],
+    "261:text": [
+      "“Sure. What is it?”"
+    ],
+    "263:text": [
+      "Sadao Hino"
+    ],
+    "264:text": [
+      "“Well, there's something I want you to do"
+    ],
+    "265:text": [
+      "that's separate from the next pitch meeting.”"
+    ],
+    "268:text": [
+      "“Huh? What do you mean?”"
+    ],
+    "270:text": [
+      "Sadao Hino"
+    ],
+    "271:text": [
+      "“I wouldn't normally ask a first-year to take on"
+    ],
+    "272:text": [
+      "anything this big."
+    ],
+    "273:text": [
+      "But I think you can handle it."
+    ],
+    "274:text": [
+      "I'd like to put you in charge of a special project."
+    ],
+    "275:text": [
+      "Interested?”"
+    ],
+    "277:text": [
+      "A big assignment? A special project?"
+    ],
+    "278:text": [
+      "Why did he think I was the one for it? What could it be?"
+    ],
+    "279:text": [
+      "Could I really handle a job that big?"
+    ],
+    "281:text": [
+      "Sadao Hino"
+    ],
+    "282:text": [
+      "“What's wrong? You look worried."
+    ],
+    "283:text": [
+      "Relax. It isn't that complicated."
+    ],
+    "284:text": [
+      "I want to put together a wall newspaper.”"
+    ],
+    "287:text": [
+      "“A wall newspaper...?”"
+    ],
+    "289:text": [
+      "Sadao Hino"
+    ],
+    "290:text": [
+      "“Hey, what's with that look? You look like a pigeon someone just pelted with a pea."
+    ],
+    "291:text": [
+      "You know what a wall newspaper is, right?”"
+    ],
+    "294:text": [
+      "“Well, yes, but if we put up a wall newspaper these days,"
+    ],
+    "295:text": [
+      "who's going to read it?"
+    ],
+    "296:text": [
+      "If it's school news, we can just post it on School Net."
+    ],
+    "297:text": [
+      "Why go to all that trouble...?”"
+    ],
+    "299:text": [
+      "Sadao Hino"
+    ],
+    "300:text": [
+      "“Come on. The moment you put something online,"
+    ],
+    "301:text": [
+      "anyone can read it."
+    ],
+    "302:text": [
+      "Which means there are some risks"
+    ],
+    "303:text": [
+      "we just can't take."
+    ],
+    "305:text": [
+      "Write one wrong thing these days and people pile on."
+    ],
+    "306:text": [
+      "The school, the PTA, and everyone else out there"
+    ],
+    "307:text": [
+      "are watching us like hawks."
+    ],
+    "308:text": [
+      "So all we get to write is harmless stuff"
+    ],
+    "309:text": [
+      "nobody cares about."
+    ],
+    "310:text": [
+      "A squeaky-clean school paper is just a bunch of"
+    ],
+    "311:text": [
+      "dull publicity dressed up as news."
+    ],
+    "312:text": [
+      "Doesn't that bother you?”"
+    ],
+    "315:text": [
+      "“...I guess.”"
+    ],
+    "317:text": [
+      "Sadao Hino"
+    ],
+    "318:text": [
+      "“What makes a newspaper a newspaper"
+    ],
+    "319:text": [
+      "is running a real scoop."
+    ],
+    "321:text": [
+      "You print something that makes people stop and stare,"
+    ],
+    "322:text": [
+      "and give everybody a good shock."
+    ],
+    "323:text": [
+      "That's the thrill of putting out a newspaper."
+    ],
+    "324:text": [
+      "You wanted to write stories like that, didn't you?"
+    ],
+    "325:text": [
+      "Isn't that why you joined the Newspaper Club?”"
+    ],
+    "328:text": [
+      "“...I guess.”"
+    ],
+    "330:text": [
+      "Sadao Hino"
+    ],
+    "331:text": [
+      "“All we run on School Net News is stuff like"
+    ],
+    "332:text": [
+      "which club won a tournament, who came first in the national mock exams,"
+    ],
+    "333:text": [
+      "or how this year's university acceptance rate"
+    ],
+    "334:text": [
+      "is the highest it's ever been."
+    ],
+    "336:text": [
+      "What I want is to write stories that get me excited"
+    ],
+    "337:text": [
+      "even while I'm writing them."
+    ],
+    "338:text": [
+      "That's the kind of paper I want to make."
+    ],
+    "339:text": [
+      "You feel the same way, don't you, ",
+      "?"
+    ],
+    "340:text": [
+      "Tell me what you really think.”"
+    ],
+    "353:glink.text.1": [
+      "1. I feel the same way."
+    ],
+    "355:glink.text.1": [
+      "1. I feel the same way."
+    ],
+    "359:glink.text.1": [
+      "2. I'm happy with things the way they are."
+    ],
+    "362:glink.text.1": [
+      "2. I'm happy with things the way they are."
+    ],
+    "366:glink.text.1": [
+      "3. Why don't you make it yourself, Hino?"
+    ],
+    "368:glink.text.1": [
+      "3. Why don't you make it yourself, Hino?"
+    ],
+    "378:text": [
+      "Sadao Hino"
+    ],
+    "379:text": [
+      "“Whoa, whoa, whoa. What's gotten into you, ",
+      "?"
+    ],
+    "380:text": [
+      "You're satisfied with the Newspaper Club the way it is?"
+    ],
+    "381:text": [
+      "I don't think you're"
+    ],
+    "382:text": [
+      "that kind of guy.”"
+    ],
+    "384:text": [
+      "Oh, boy. This is awkward."
+    ],
+    "385:text": [
+      "I'm perfectly happy with the Newspaper Club the way it is, though."
+    ],
+    "386:text": [
+      "I enjoy getting the word out about what goes on at school. I'm proud of it, too."
+    ],
+    "388:text": [
+      "Sadao Hino"
+    ],
+    "389:text": [
+      "“...You're lying, ",
+      "."
+    ],
+    "390:text": [
+      "You don't know who you really are."
+    ],
+    "391:text": [
+      "I know who you really are."
+    ],
+    "392:text": [
+      "That's exactly why I came to you about this."
+    ],
+    "394:text": [
+      "And right now you're missing the real grit"
+    ],
+    "395:text": [
+      "every man ought to have."
+    ],
+    "396:text": [
+      "That's right, a man's grit. Manhood, for short!!"
+    ],
+    "397:text": [
+      "You need to get back to being the real you."
+    ],
+    "398:text": [
+      "I've got a good book for you. Read it!!”"
+    ],
+    "400:text": [
+      "With that, Hino pulled a book out of his bag."
+    ],
+    "402:text": [
+      "“A Self-Help Guide to Getting Your Confidence Back”"
+    ],
+    "404:text": [
+      "That was the title printed on it."
+    ],
+    "405:text": [
+      "It looked really sketchy."
+    ],
+    "407:text": [
+      "Sadao Hino"
+    ],
+    "408:text": [
+      "“Now, I want you to read that book carefully."
+    ],
+    "409:text": [
+      "See you!”"
+    ],
+    "414:text": [
+      "“Uh... Hino...”"
+    ],
+    "416:text": [
+      "Hino shoved the book into my hands and took off like the wind."
+    ],
+    "417:text": [
+      "What on earth was all that talk about the wall newspaper, anyway?"
+    ],
+    "427:text": [
+      "“Um... if you feel that strongly about it, Hino,"
+    ],
+    "428:text": [
+      "wouldn't it make sense to put it together yourself?”"
+    ],
+    "430:text": [
+      "Sadao Hino"
+    ],
+    "431:text": [
+      "“Uh...”"
+    ],
+    "433:text": [
+      "Was Hino always this intense and pushy?"
+    ],
+    "434:text": [
+      "He seemed a lot more worked up than usual."
+    ],
+    "436:text": [
+      "Honestly, as long as I'm having fun in the Newspaper Club, I'm happy."
+    ],
+    "437:text": [
+      "I don't want to stir up trouble by writing something out of line, either."
+    ],
+    "438:text": [
+      "If I get into it with the school and end up suspended or expelled,"
+    ],
+    "439:text": [
+      "my whole high school life will be ruined."
+    ],
+    "441:text": [
+      "And he says he wants to talk to me about something,"
+    ],
+    "442:text": [
+      "but what exactly does Hino want me to do?"
+    ],
+    "443:text": [
+      "Don't tell me he's planning to use me from behind the scenes so he can stay out of the firing line and pin everything on me if anything goes wrong."
+    ],
+    "446:text": [
+      "“Um, if you want to take that kind of risk,"
+    ],
+    "447:text": [
+      "why don't you do it yourself?"
+    ],
+    "448:text": [
+      "I don't see why you need me for it."
+    ],
+    "449:text": [
+      "Are you scared to do it alone?”"
+    ],
+    "451:text": [
+      "Sadao Hino"
+    ],
+    "452:text": [
+      "“Uh... uhh...”"
+    ],
+    "455:text": [
+      "“With all due respect, you aren't going to make me"
+    ],
+    "456:text": [
+      "do the whole thing and pin the blame on me if there's trouble,"
+    ],
+    "457:text": [
+      "are you?"
+    ],
+    "458:text": [
+      "It feels like you're trying to set me up.”"
+    ],
+    "460:text": [
+      "Sadao Hino"
+    ],
+    "461:text": [
+      "“Y-y-y-y-y-you, y-you, you..."
+    ],
+    "462:text": [
+      "W-w-w-w-w-what's gotten into you, ",
+      "?"
+    ],
+    "463:text": [
+      "I-I-I-I-I'd never even think of"
+    ],
+    "464:text": [
+      "d-doing that, would I?”"
+    ],
+    "466:text": [
+      "Hino was visibly rattled. It looked like I'd hit the nail on the head."
+    ],
+    "467:text": [
+      "I never knew Hino was this easy to read."
+    ],
+    "470:text": [
+      "“If you'll excuse me, then. I'll pretend"
+    ],
+    "471:text": [
+      "I didn't hear any of that.”"
+    ],
+    "473:text": [
+      "What a complete waste of time."
+    ],
+    "474:text": [
+      "I was an idiot to get my hopes up when Hino said he had something special to discuss."
+    ],
+    "476:text": [
+      "Sadao Hino"
+    ],
+    "477:text": [
+      "“Hey, wait, ",
+      "."
+    ],
+    "478:text": [
+      "Don't go just yet.”"
+    ],
+    "481:text": [
+      "“Was there something else?"
+    ],
+    "482:text": [
+      "I'm busy too, you know.”"
+    ],
+    "484:text": [
+      "Hino leaned in close to my ear,",
+      "then spoke in a soft whisper."
+    ],
+    "486:text": [
+      "Sadao Hino"
+    ],
+    "487:text": [
+      "“All right, ",
+      "."
+    ],
+    "488:text": [
+      "I'll tell you the truth."
+    ],
+    "489:text": [
+      "I guess there was no way an excuse like that"
+    ],
+    "490:text": [
+      "was going to fool you."
+    ],
+    "491:text": [
+      "Listen, what I'm about to tell you stays between us."
+    ],
+    "492:text": [
+      "You absolutely cannot tell anyone.”"
+    ],
+    "494:text": [
+      "Hino had a more serious look in his eyes than usual."
+    ],
+    "496:text": [
+      "Sadao Hino"
+    ],
+    "497:text": [
+      "“The thing is, I discovered a secret"
+    ],
+    "498:text": [
+      "hidden in the old school building.”"
+    ],
+    "501:text": [
+      "“Wait, the old school building? You mean the"
+    ],
+    "502:text": [
+      "cursed old school building?!”"
+    ],
+    "504:text": [
+      "Sadao Hino"
+    ],
+    "505:text": [
+      "“That's right. I found out why"
+    ],
+    "506:text": [
+      "that old school building is cursed.”"
+    ],
+    "508:text": [
+      "There's an old school building at Narugami Academy that we don't use anymore."
+    ],
+    "509:text": [
+      "It's been sitting unused for years, and there's still no sign it'll be torn down."
+    ],
+    "511:text": [
+      "Apparently, they've tried to tear it down a few times before,"
+    ],
+    "512:text": [
+      "but there was a terrible accident every time."
+    ],
+    "513:text": [
+      "I heard the construction vehicles stopped working without warning and people on the job fell sick one after another. When they tried to keep going anyway, the person in charge started acting strangely and went missing."
+    ],
+    "515:text": [
+      "That's why the old school building is still standing today, off-limits to everyone."
+    ],
+    "517:text": [
+      "Everyone says it must be some kind of curse. Could Hino really have found out what it was?"
+    ],
+    "520:text": [
+      "“Is that true?”"
+    ],
+    "522:text": [
+      "Sadao Hino"
+    ],
+    "523:text": [
+      "“Yeah. I wouldn't lie or joke"
+    ],
+    "524:text": [
+      "about something like this."
+    ],
+    "525:text": [
+      "And if we uncover the secret hidden in the old school building,"
+    ],
+    "526:text": [
+      "we'll have a scoop big enough to stun everyone at Narugami Academy"
+    ],
+    "527:text": [
+      "and the world outside it, too.”"
+    ],
+    "530:text": [
+      "“No way... That can't possibly...”"
+    ],
+    "532:text": [
+      "Sadao Hino"
+    ],
+    "533:text": [
+      "“It's true."
+    ],
+    "534:text": [
+      "I'm going to show you the proof."
+    ],
+    "535:text": [
+      "Let's uncover the secret of the cursed old school building"
+    ],
+    "536:text": [
+      "and put together a wall newspaper about it.”"
+    ],
+    "539:text": [
+      "“...But why a wall newspaper?"
+    ],
+    "540:text": [
+      "If it's that big a scoop, wouldn't it be faster"
+    ],
+    "541:text": [
+      "to go straight to the press"
+    ],
+    "542:text": [
+      "instead of making a wall newspaper?”"
+    ],
+    "544:text": [
+      "Sadao Hino"
+    ],
+    "545:text": [
+      "“You think the press is going to believe"
+    ],
+    "546:text": [
+      "a story from a couple of high school kids?"
+    ],
+    "547:text": [
+      "The story's that hard to believe.”"
+    ],
+    "550:text": [
+      "“But why me?"
+    ],
+    "551:text": [
+      "If it's that big a scoop, wouldn't it be cooler"
+    ],
+    "552:text": [
+      "if you uncovered it yourself?"
+    ],
+    "553:text": [
+      "I don't really see why"
+    ],
+    "554:text": [
+      "you had to tell me about it.”"
+    ],
+    "556:text": [
+      "Hino hesitated, then looked down. He seemed to be having trouble saying it."
+    ],
+    "558:text": [
+      "Sadao Hino"
+    ],
+    "559:text": [
+      "“...I'm scared.”"
+    ],
+    "562:text": [
+      "“Huh?”"
+    ],
+    "564:text": [
+      "Sadao Hino"
+    ],
+    "565:text": [
+      "“Look, the old school building is scary even in broad daylight."
+    ],
+    "566:text": [
+      "You really think I could go in there alone?"
+    ],
+    "567:text": [
+      "Please, ",
+      "."
+    ],
+    "568:text": [
+      "After that conversation, I'm sure"
+    ],
+    "569:text": [
+      "of one thing."
+    ],
+    "570:text": [
+      "You're a lot calmer under pressure than you look."
+    ],
+    "571:text": [
+      "You've got guts."
+    ],
+    "572:text": [
+      "I knew I was right about you."
+    ],
+    "573:text": [
+      "So let's go together."
+    ],
+    "574:text": [
+      "It won't be scary if there are two of us. We can even"
+    ],
+    "575:text": [
+      "ward off the curse.”"
+    ],
+    "577:text": [
+      "So Hino's more of a scaredy-cat than I thought."
+    ],
+    "578:text": [
+      "I don't see how having two of us would ward off a curse... Besides, I don't think"
+    ],
+    "579:text": [
+      "there's a curse in the first place."
+    ],
+    "581:text": [
+      "Still, a curse on the old school building, huh."
+    ],
+    "582:text": [
+      "It does sound interesting."
+    ],
+    "583:text": [
+      "And there's no way we could run a story like that on School Net News."
+    ],
+    "584:text": [
+      "Starting with a wall newspaper might actually be the right call."
+    ],
+    "587:text": [
+      "“All right. If you'll have me,"
+    ],
+    "588:text": [
+      "I'll help.”"
+    ],
+    "590:text": [
+      "Sadao Hino"
+    ],
+    "591:text": [
+      "“Glad to hear it, ",
+      "."
+    ],
+    "592:text": [
+      "I was sure you were going"
+    ],
+    "593:text": [
+      "to say that. What a relief. A real relief.”"
+    ],
+    "606:text": [
+      "Sadao Hino"
+    ],
+    "607:text": [
+      "“Right? That's exactly what I'm saying."
+    ],
+    "608:text": [
+      "I knew you'd get it."
+    ],
+    "609:text": [
+      "I was thinking we could do a special feature on"
+    ],
+    "610:text": [
+      "scary stories in the wall newspaper.”"
+    ],
+    "613:text": [
+      "“Scary stories? That stuff isn't"
+    ],
+    "614:text": [
+      "really my thing, so I can't say"
+    ],
+    "615:text": [
+      "I know much about it.”"
+    ],
+    "617:text": [
+      "Sadao Hino"
+    ],
+    "618:text": [
+      "“Oh, you don't have to know any yourself."
+    ],
+    "619:text": [
+      "We'll collect scary stories from all over the country.”"
+    ],
+    "622:text": [
+      "“From all over the country...?"
+    ],
+    "623:text": [
+      "But if that's the plan, there are tons of sites for that already."
+    ],
+    "624:text": [
+      "I'm not sure we need to go to the trouble"
+    ],
+    "625:text": [
+      "of putting it in a wall newspaper.”"
+    ],
+    "627:text": [
+      "Sadao Hino"
+    ],
+    "628:text": [
+      "“Come on. We're high school students."
+    ],
+    "629:text": [
+      "What should high school students write about"
+    ],
+    "630:text": [
+      "if not school ghost stories?”"
+    ],
+    "633:text": [
+      "“School... ghost stories?”"
+    ],
+    "635:text": [
+      "Sadao Hino"
+    ],
+    "636:text": [
+      "“That's right. We'll ask for stories nationwide, but"
+    ],
+    "637:text": [
+      "only from high school students."
+    ],
+    "638:text": [
+      "School ghost stories by high schoolers, for high schoolers."
+    ],
+    "640:text": [
+      "And the wall newspaper needs a name. Let's see..."
+    ],
+    "641:text": [
+      "How about ‘Scary Stories from School’?”"
+    ],
+    "644:text": [
+      "“Scary Stories from School...?",
+      "That sounds"
+    ],
+    "645:text": [
+      "interesting. I bet that'd be really good.”"
+    ],
+    "647:text": [
+      "Sadao Hino"
+    ],
+    "648:text": [
+      "“Right? Here's how we'll do it."
+    ],
+    "649:text": [
+      "First, we email high schools all over the country."
+    ],
+    "650:text": [
+      "Something like this."
+    ],
+    "652:text": [
+      "‘We're putting together a wall newspaper"
+    ],
+    "653:text": [
+      "called Scary Stories from School."
+    ],
+    "654:text": [
+      "We're looking for ghost stories about high schools"
+    ],
+    "655:text": [
+      "across the country."
+    ],
+    "656:text": [
+      "Would you be willing to share a scary story"
+    ],
+    "657:text": [
+      "from your school?’”"
+    ],
+    "660:text": [
+      "“But do you think anyone will actually send us"
+    ],
+    "661:text": [
+      "scary stories if we email them?"
+    ],
+    "662:text": [
+      "If we send something like that to a school,"
+    ],
+    "663:text": [
+      "won't they just ignore it?”"
+    ],
+    "665:text": [
+      "Sadao Hino"
+    ],
+    "666:text": [
+      "“We'll put out the same call on social media"
+    ],
+    "667:text": [
+      "where high schoolers hang out."
+    ],
+    "668:text": [
+      "And on horror-story sites, too."
+    ],
+    "669:text": [
+      "I'll pick the sites."
+    ],
+    "670:text": [
+      "All you have to do is go through the stories we get"
+    ],
+    "671:text": [
+      "and choose which ones to use.”"
+    ],
+    "674:text": [
+      "“...Okay.”"
+    ],
+    "676:text": [
+      "Sadao Hino"
+    ],
+    "677:text": [
+      "“Listen, ",
+      "."
+    ],
+    "678:text": [
+      "Whether this works or not is all"
+    ],
+    "679:text": [
+      "on you. I'm counting on you.”"
+    ],
+    "682:text": [
+      "“Okay. I'll do my best.”"
+    ],
+    "693:text": [
+      "A month went by."
+    ],
+    "696:text": [
+      "“Whew. Finally done.”"
+    ],
+    "698:text": [
+      "I'd finally finished the wall newspaper Hino had asked me to make."
+    ],
+    "699:text": [
+      "We got all sorts of stories from across the country, more than I'd imagined. I honestly had trouble choosing."
+    ],
+    "701:text": [
+      "I thought about giving our Seven Wonders a theme. Maybe stories about school bathrooms, or about yokai that lurk around schools."
+    ],
+    "702:text": [
+      "But Hino made a good point. Scary stories are more fun when you mix them up. So that's how we picked them."
+    ],
+    "703:text": [
+      "Well, that's how Hino picked most of them."
+    ],
+    "712:text": [
+      "Sadao Hino"
+    ],
+    "713:text": [
+      "“This one's good, don't you think?"
+    ],
+    "714:text": [
+      "And this one, and this one... and this one."
+    ],
+    "715:text": [
+      "We should run this one, too.”"
+    ],
+    "718:text": [
+      "“Right.”"
+    ],
+    "720:text": [
+      "Sadao Hino"
+    ],
+    "721:text": [
+      "“Let's run the stories from Akemi Iwashita, Nozomu Kazama, Makoto Shindo, Shoji Arai, Reiko"
+    ],
+    "722:text": [
+      "Fukuzawa, and Tomoharu Hosoda. That's six."
+    ],
+    "723:text": [
+      "You can pick the seventh yourself.”"
+    ],
+    "725:text": [
+      "And just like that, Hino had made almost all the decisions."
+    ],
+    "726:text": [
+      "Still, every story took a different tack. Maybe this really was the way to go."
+    ],
+    "727:text": [
+      "I should've known Hino would get it right."
+    ],
+    "729:text": [
+      "And I did get to pick the seventh and final story myself."
+    ],
+    "738:text": [
+      "The following week, we put up the wall newspaper."
+    ],
+    "740:text": [
+      "I'd made it at Hino's request, but it didn't exactly get people talking."
+    ],
+    "742:text": [
+      "I watched nervously from the end of the hall as everyone walked right past."
+    ],
+    "743:text": [
+      "Some glanced at it, but they didn't look interested enough",
+      "to stop."
+    ],
+    "745:text": [
+      "Every once in a while somebody stopped to read, but most just gave a little snort or a mocking smile and walked away."
+    ],
+    "747:text": [
+      "So nobody really reads a wall newspaper after all, huh?"
+    ],
+    "748:text": [
+      "I felt like Hino had sweet-talked me into the whole thing."
+    ],
+    "750:text": [
+      "I wasn't all that unhappy about it, though."
+    ],
+    "751:text": [
+      "Putting the paper together was harder than I'd expected, and it felt good to have a real challenge."
+    ],
+    "752:text": [
+      "For the first time since starting high school, I felt like I'd accomplished something. I was pretty satisfied with that."
+    ],
+    "754:text": [
+      "And maybe because it got so little attention, the school didn't complain about it either."
+    ],
+    "755:text": [
+      "At least my homeroom teacher smiled, patted me on the shoulder, and said, ‘This is pretty interesting.’"
+    ],
+    "760:text": [
+      "A few days later, I was packing up to go home.",
+      "All of a sudden, Kurata from the Newspaper Club burst into the classroom."
+    ],
+    "763:text": [
+      "Emi Kurata"
+    ],
+    "764:text": [
+      "“Someone came by the clubroom, ",
+      ", looking"
+    ],
+    "765:text": [
+      "for you.”"
+    ],
+    "768:text": [
+      "“Huh? For me? Who could that be?”"
+    ],
+    "770:text": [
+      "Emi Kurata"
+    ],
+    "771:text": [
+      "“I don't know. I don't think I've seen any of them before."
+    ],
+    "772:text": [
+      "And they were all wearing different uniforms.”"
+    ],
+    "775:text": [
+      "“There's a whole group?”"
+    ],
+    "777:text": [
+      "Emi Kurata"
+    ],
+    "778:text": [
+      "“Um... six? I'm pretty sure there were six of them."
+    ],
+    "779:text": [
+      "So, ",
+      ", they wanted to know if I could"
+    ],
+    "780:text": [
+      "come get you."
+    ],
+    "781:text": [
+      "Any idea who they might be?”"
+    ],
+    "784:text": [
+      "“I don't know. I wasn't expecting anyone"
+    ],
+    "785:text": [
+      "to come all the way to school to see me."
+    ],
+    "786:text": [
+      "Let's go see what they want, anyway.”"
+    ],
+    "788:text": [
+      "Emi Kurata"
+    ],
+    "789:text": [
+      "“Okay.”"
+    ],
+    "791:text": [
+      "We headed for the Newspaper Club room."
+    ],
+    "800:text": [
+      "When we got to the door, Kurata suddenly spoke up."
+    ],
+    "802:text": [
+      "Emi Kurata"
+    ],
+    "803:text": [
+      "“",
+      "."
+    ],
+    "804:text": [
+      "Sorry, but this is where I leave you.”"
+    ],
+    "807:text": [
+      "“Huh? Aren't you coming in with me?”"
+    ],
+    "809:text": [
+      "Emi Kurata"
+    ],
+    "810:text": [
+      "“Well, it sounds like the people in there"
+    ],
+    "811:text": [
+      "want to see you."
+    ],
+    "812:text": [
+      "And I got the feeling I wouldn't be too"
+    ],
+    "813:text": [
+      "comfortable around them...”"
+    ],
+    "816:text": [
+      "“Oh. Okay.”"
+    ],
+    "818:text": [
+      "Emi Kurata"
+    ],
+    "819:text": [
+      "“Sorry, ",
+      ". See you!”"
+    ],
+    "822:text": [
+      "With that, Kurata ran back the way we'd come."
+    ],
+    "824:text": [
+      "What could six people want with me, turning up out of the blue like this?"
+    ],
+    "825:text": [
+      "I couldn't think of anything that would explain it."
+    ],
+    "827:text": [
+      "I'd felt fine when I thought Kurata would be with me, but on my own I was starting to get nervous."
+    ],
+    "828:text": [
+      "Something about what she'd said before she left was bothering me, too."
+    ],
+    "829:text": [
+      "Just who were these people waiting for me?"
+    ],
+    "831:text": [
+      "I put my hand on the doorknob and slowly opened the door."
+    ],
+    "843:text": [
+      "Six people, boys and girls, were sitting around a table in the clubroom."
+    ],
+    "844:text": [
+      "From the look of them, they all went to different schools."
+    ],
+    "845:text": [
+      "I looked around the table. I didn't recognize a single face."
+    ],
+    "846:text": [
+      "What could they possibly want with me?"
+    ],
+    "849:text": [
+      "???"
+    ],
+    "850:text": [
+      "“Are you ",
+      "?”"
+    ],
+    "853:text": [
+      "“Oh, yes. That's me. Um, excuse me, but"
+    ],
+    "854:text": [
+      "you are...?”"
+    ],
+    "856:text": [
+      "Akemi Iwashita"
+    ],
+    "857:text": [
+      "“I'm Akemi Iwashita.”"
+    ],
+    "860:text": [
+      "“Akemi... Iwashita?”"
+    ],
+    "862:text": [
+      "Even after hearing her name, I couldn't remember her."
+    ],
+    "863:text": [
+      "But I'd heard that name somewhere before."
+    ],
+    "864:text": [
+      "Where had I heard it?"
+    ],
+    "868:text": [
+      "Makoto Shindo"
+    ],
+    "869:text": [
+      "“I'm Makoto Shindo. Good to meet you.”"
+    ],
+    "873:text": [
+      "Reiko Fukuzawa"
+    ],
+    "874:text": [
+      "“I'm Reiko Fukuzawa. Nice to meet you, ",
+      ".”"
+    ],
+    "878:text": [
+      "Shoji Arai"
+    ],
+    "879:text": [
+      "“...I'm Shoji Arai.”"
+    ],
+    "882:text": [
+      "Nozomu Kazama"
+    ],
+    "883:text": [
+      "“Hey there. I'm Nozomu Kazama. Hope we get along.”"
+    ],
+    "887:text": [
+      "Tomoharu Hosoda"
+    ],
+    "888:text": [
+      "“Ha ha, it's ",
+      "!"
+    ],
+    "889:text": [
+      "It's really ",
+      "!"
+    ],
+    "890:text": [
+      "I'm Tomoharu Hosoda. Let's be friends! Hee hee"
+    ],
+    "891:text": [
+      "hee hee.”"
+    ],
+    "894:text": [
+      "Akemi Iwashita, Makoto Shindo, Reiko Fukuzawa, Shoji Arai, Nozomu Kazama, Tomoharu Hosoda... Oh!"
+    ],
+    "895:text": [
+      "It took hearing all six of their names"
+    ],
+    "896:text": [
+      "before it finally came back to me."
+    ],
+    "898:text": [
+      "The wall newspaper."
+    ],
+    "899:text": [
+      "Those were the names of the people who'd sent me the scary school stories I put in the wall newspaper."
+    ],
+    "900:text": [
+      "But what were they doing here?"
+    ],
+    "902:text": [
+      "Akemi Iwashita"
+    ],
+    "903:text": [
+      "“Oh... what's wrong? You look pale."
+    ],
+    "904:text": [
+      "What has you so startled?”"
+    ],
+    "907:text": [
+      "“No, it's nothing. Um, are you the people"
+    ],
+    "908:text": [
+      "who sent me those scary stories?”"
+    ],
+    "912:text": [
+      "Makoto Shindo"
+    ],
+    "913:text": [
+      "“That's us. We heard our stories had made it into the wall newspaper,"
+    ],
+    "914:text": [
+      "so we just went to have a look.”"
+    ],
+    "917:text": [
+      "“Huh? How did you"
+    ],
+    "918:text": [
+      "find out about that?”"
+    ],
+    "921:text": [
+      "Tomoharu Hosoda"
+    ],
+    "922:text": [
+      "“Ha ha, ",
+      ", you're a riot."
+    ],
+    "923:text": [
+      "You sent me an email saying my story had made it into the paper"
+    ],
+    "924:text": [
+      "and asking me to come see it, remember?"
+    ],
+    "925:text": [
+      "I was so happy! I was looking forward to today so much"
+    ],
+    "926:text": [
+      "that I was too excited to sleep last night.”"
+    ],
+    "929:text": [
+      "“I sent you an email?”"
+    ],
+    "933:text": [
+      "Nozomu Kazama"
+    ],
+    "934:text": [
+      "“Hey, hey, what are you talking about?"
+    ],
+    "935:text": [
+      "You said you wanted to celebrate finishing the paper"
+    ],
+    "936:text": [
+      "by getting everyone whose story made it in together"
+    ],
+    "937:text": [
+      "to hear a few more scary stories. Those were your words,"
+    ],
+    "938:text": [
+      "weren't they?"
+    ],
+    "939:text": [
+      "So I went out of my way to show up"
+    ],
+    "940:text": [
+      "right when you asked me to."
+    ],
+    "942:text": [
+      "You could've at least put out some snacks and drinks."
+    ],
+    "943:text": [
+      "Honestly.”"
+    ],
+    "946:text": [
+      "“Huh? I asked you all to come here...?”"
+    ],
+    "950:text": [
+      "Reiko Fukuzawa"
+    ],
+    "951:text": [
+      "“Whaaat?!"
+    ],
+    "952:text": [
+      "Come on, ",
+      ", what's with that face?"
+    ],
+    "953:text": [
+      "I can't believe you'd drag us all here on a whim."
+    ],
+    "954:text": [
+      "What's your deal?”"
+    ],
+    "957:text": [
+      "“No, I... I have no idea what's going on either.”"
+    ],
+    "960:text": [
+      "Shoji Arai"
+    ],
+    "961:text": [
+      "“Well, everyone has already gone to the trouble"
+    ],
+    "962:text": [
+      "of coming here."
+    ],
+    "963:text": [
+      "We got a look at the paper a moment ago, so why don't we"
+    ],
+    "964:text": [
+      "tell some scary stories?”"
+    ],
+    "968:text": [
+      "Akemi Iwashita"
+    ],
+    "969:text": [
+      "“Yes. That does seem to be what we were all"
+    ],
+    "970:text": [
+      "called here to do in the first place."
+    ],
+    "971:text": [
+      "That's all right with you, isn't it, ",
+      "?”"
+    ],
+    "974:text": [
+      "“Well... uh...”"
+    ],
+    "976:text": [
+      "What on earth was going on?"
+    ],
+    "977:text": [
+      "I'd emailed them and asked them to meet here?"
+    ],
+    "978:text": [
+      "I didn't remember doing anything like that."
+    ],
+    "979:text": [
+      "And why did I have to sit here and listen to them tell scary stories in person?"
+    ],
+    "982:text": [
+      "Makoto Shindo"
+    ],
+    "983:text": [
+      "“So when's the seventh person getting here?”"
+    ],
+    "986:text": [
+      "“The seventh person?”"
+    ],
+    "988:text": [
+      "Makoto Shindo"
+    ],
+    "989:text": [
+      "“Yeah. It's the Seven Wonders of the school, right?"
+    ],
+    "990:text": [
+      "There's only six of us here."
+    ],
+    "991:text": [
+      "When's the other one coming?"
+    ],
+    "992:text": [
+      "You sent the seventh person an email too, didn't"
+    ],
+    "993:text": [
+      "you?”"
+    ],
+    "996:text": [
+      "Seventh person or anyone else, I didn't remember sending a single email like that."
+    ],
+    "997:text": [
+      "I had no idea what to say. I could only stammer."
+    ],
+    "1000:text": [
+      "Shoji Arai"
+    ],
+    "1001:text": [
+      "“Perhaps the seventh person isn't coming."
+    ],
+    "1002:text": [
+      "If that's the case, ",
+      ", you'll have to take"
+    ],
+    "1003:text": [
+      "responsibility. But shall we get started?"
+    ],
+    "1004:text": [
+      "With the Seven Wonders Gathering, I mean.”"
+    ],
+    "1008:text": [
+      "Tomoharu Hosoda"
+    ],
+    "1009:text": [
+      "“Yeah. I've been saving an especially good"
+    ],
+    "1010:text": [
+      "school ghost story for today."
+    ],
+    "1011:text": [
+      "I've been dying to tell it to you myself."
+    ],
+    "1012:text": [
+      "I can barely sit still."
+    ],
+    "1013:text": [
+      "Come on, let's get started, ",
+      "!”"
+    ],
+    "1016:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1017:text": [
+      "“Yeah! Let's start already.”"
+    ],
+    "1021:text": [
+      "Akemi Iwashita"
+    ],
+    "1022:text": [
+      "“In that case, ",
+      ","
+    ],
+    "1023:text": [
+      "there's no point waiting for the seventh person."
+    ],
+    "1024:text": [
+      "Let's start without them."
+    ],
+    "1025:text": [
+      "You invited all of us here so that each of us"
+    ],
+    "1026:text": [
+      "could tell you one scary story. That's why we're here,"
+    ],
+    "1027:text": [
+      "after all."
+    ],
+    "1028:text": [
+      "Now, whose story would you like to hear first?"
+    ],
+    "1029:text": [
+      "Choose.”"
+    ],
+    "1031:text": [
+      "Everything was moving ahead, and I still had no idea what was going on."
+    ],
+    "1032:text": [
+      "It looked like I'd have to listen to their scary stories after all."
+    ],
+    "1033:text": [
+      "For now, I should..."
+    ],
+    "1045:glink.text.1": [
+      "1. Go along and hear them out."
+    ],
+    "1047:glink.text.1": [
+      "1. Go along and hear them out."
+    ],
+    "1051:glink.text.1": [
+      "2. Explain what's going on."
+    ],
+    "1054:glink.text.1": [
+      "2. Explain what's going on."
+    ],
+    "1068:text": [
+      "“Excuse me."
+    ],
+    "1069:text": [
+      "Um... I'm sorry to say this when you've all gone out of your way,"
+    ],
+    "1070:text": [
+      "but I really didn't send"
+    ],
+    "1071:text": [
+      "that email."
+    ],
+    "1072:text": [
+      "Would you mind showing it"
+    ],
+    "1073:text": [
+      "to me?”"
+    ],
+    "1075:text": [
+      "When I said that, the six of them looked"
+    ],
+    "1076:text": [
+      "at each other."
+    ],
+    "1079:text": [
+      "Reiko Fukuzawa"
+    ],
+    "1080:text": [
+      "“I don't keep every little email"
+    ],
+    "1081:text": [
+      "I get.”"
+    ],
+    "1084:text": [
+      "Nozomu Kazama"
+    ],
+    "1085:text": [
+      "“Neither do I.",
+      " You've got some nerve saying that"
+    ],
+    "1086:text": [
+      "after you called us all here."
+    ],
+    "1087:text": [
+      "You've really offended me.”"
+    ],
+    "1091:text": [
+      "Makoto Shindo"
+    ],
+    "1092:text": [
+      "“Well, can't be helped. I'm leaving, then.”"
+    ],
+    "1096:text": [
+      "Shoji Arai"
+    ],
+    "1097:text": [
+      "“In that case, I'll be going too.”"
+    ],
+    "1101:text": [
+      "Akemi Iwashita"
+    ],
+    "1102:text": [
+      "“What a pity. I'll see myself out.”"
+    ],
+    "1106:text": [
+      "Tomoharu Hosoda"
+    ],
+    "1107:text": [
+      "“I'm so disappointed, ",
+      "."
+    ],
+    "1108:text": [
+      "I was really, really looking forward to today,"
+    ],
+    "1109:text": [
+      "and now this. I'm disappointed. I'm really disappointed.”"
+    ],
+    "1112:text": [
+      "With that, the six of them left the clubroom."
+    ],
+    "1114:text": [
+      "Once they were gone, I went over it all again."
+    ],
+    "1115:text": [
+      "I really hadn't sent them"
+    ],
+    "1116:text": [
+      "any emails."
+    ],
+    "1117:text": [
+      "But if they were telling the truth,"
+    ],
+    "1118:text": [
+      "who had?"
+    ],
+    "1120:text": [
+      "Who could've done that...? Hino?!"
+    ],
+    "1121:text": [
+      "Come to think of it, Hino was the one who picked their stories for the wall newspaper."
+    ],
+    "1122:text": [
+      "Of course. Hino had to be the one who called them here."
+    ],
+    "1124:text": [
+      "When I compiled the information they'd sent, I included contact details wherever I had them."
+    ],
+    "1126:text": [
+      "Right... It had to be Hino who got them together."
+    ],
+    "1127:text": [
+      "That's why the seventh person, the one I'd picked, hadn't been invited."
+    ],
+    "1129:text": [
+      "But why?"
+    ],
+    "1130:text": [
+      "What was the point of getting them together just to tell scary stories?"
+    ],
+    "1131:text": [
+      "I went home and decided to ask Hino himself the next day."
+    ],
+    "1141:text": [
+      "That night, I was studying in my room when Hino called."
+    ],
+    "1143:text": [
+      "Sadao Hino"
+    ],
+    "1144:text": [
+      "“Hey, ",
+      "."
+    ],
+    "1145:text": [
+      "I've got another favor to ask. There's a section"
+    ],
+    "1146:text": [
+      "in the next wall newspaper I'd like you to handle."
+    ],
+    "1147:text": [
+      "It's a little early, but I wanted to talk it over"
+    ],
+    "1148:text": [
+      "with you now."
+    ],
+    "1149:text": [
+      "What do you say? Can you come out"
+    ],
+    "1150:text": [
+      "to the park nearby?”"
+    ],
+    "1153:text": [
+      "“Sure, I can do that.”"
+    ],
+    "1155:text": [
+      "Sadao Hino"
+    ],
+    "1156:text": [
+      "“Great. Let's meet at the park"
+    ],
+    "1157:text": [
+      "in half an hour.”"
+    ],
+    "1159:text": [
+      "Hino had called at just the right time."
+    ],
+    "1160:text": [
+      "I wanted to ask him about those six people anyway."
+    ],
+    "1161:text": [
+      "I said yes without a second thought and rushed out of the house."
+    ],
+    "1167:text": [
+      "“Oh, Hino! Thanks for waiting.”"
+    ],
+    "1169:text": [
+      "I spotted Hino and jogged over to him."
+    ],
+    "1174:text": [
+      "“Ah!”"
+    ],
+    "1176:text": [
+      "A sudden, sharp pain hit the back of my head. I crumpled on the spot."
+    ],
+    "1177:text": [
+      "Had someone struck me from behind?"
+    ],
+    "1178:text": [
+      "That bright red liquid dripping onto the ground... was it my blood?"
+    ],
+    "1180:text": [
+      "Sadao Hino"
+    ],
+    "1181:text": [
+      "“Sorry, ",
+      ". It ends today.”"
+    ],
+    "1183:text": [
+      "It ends today?"
+    ],
+    "1184:text": [
+      "I didn't know what Hino meant."
+    ],
+    "1185:text": [
+      "I tried to work out what he meant, but I couldn't think at all anymore."
+    ],
+    "1187:text": [
+      "I felt myself slipping away, and I fell into a sleep I'd never wake from."
+    ],
+    "1200:text": [
+      "I'd better go along with them."
+    ],
+    "1201:text": [
+      "I decided to listen to their stories."
+    ]
+  }
+}

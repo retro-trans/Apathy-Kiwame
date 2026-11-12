@@ -1,0 +1,428 @@
+{
+  "status": "Copy and native image fixture checks passed; actual route/timing integration pending",
+  "width": 960,
+  "height": 690,
+  "invariants": "Exact originals are SHA-guarded. Photographic clean plates enter only precise clipped lettering-and-halo regions; outside pixels and prop borders remain original. No scenario controls, timing, audio or prose are changed here. Intentional warning spelling errors are prop-only.",
+  "assets": {
+    "title": {
+      "source": "bgimage/title/title_百点塾.png",
+      "source_sha256": "015a711c9ef35d0d77e587a1084fc4258fd6d6387ae4010d092e702422f4dd78",
+      "map": "backgrounds",
+      "groups": [
+        {
+          "fill": "white",
+          "font-family": "Georgia,serif",
+          "font-weight": "bold",
+          "text-anchor": "middle",
+          "font-size": 44,
+          "texts": [
+            {
+              "x": 470,
+              "y": 317,
+              "text": "Perfect Score"
+            },
+            {
+              "x": 470,
+              "y": 366,
+              "text": "Cram School"
+            }
+          ]
+        }
+      ]
+    },
+    "stamp": {
+      "source": "bgimage/title/title_百点塾C.png",
+      "source_sha256": "4d15e7dcf9be4eaa68488dcc88320b76cc82a83be5f8c37e450d6965ae04be97",
+      "map": "backgrounds",
+      "groups": [
+        {
+          "fill": "white",
+          "font-family": "Georgia,serif",
+          "font-weight": "bold",
+          "text-anchor": "middle",
+          "font-size": 31,
+          "texts": [
+            {
+              "x": 470,
+              "y": 325,
+              "text": "Perfect Score"
+            },
+            {
+              "x": 470,
+              "y": 363,
+              "text": "Cram School"
+            }
+          ]
+        },
+        {
+          "fill": "#e60000",
+          "font-family": "Segoe Print,Comic Sans MS,cursive",
+          "font-weight": "bold",
+          "text-anchor": "middle",
+          "font-size": 25,
+          "texts": [
+            {
+              "x": 470,
+              "y": 284,
+              "text": "Excellent"
+            },
+            {
+              "x": 470,
+              "y": 414,
+              "text": "Work!"
+            }
+          ]
+        }
+      ]
+    },
+    "door": {
+      "source": "bgimage/sindo/塾入口.jpg",
+      "source_sha256": "567ad75df989e5a59d20d21f1a09a9faf5483dbecb46995782064d5e74240483",
+      "map": "backgrounds",
+      "erase_svg": "<rect x=\"365\" y=\"342\" width=\"275\" height=\"35\" fill=\"white\"/>",
+      "defs": "<defs><filter id=\"door-soft\"><feGaussianBlur stdDeviation=\"0.65\"/></filter></defs>",
+      "groups": [
+        {
+          "fill": "#242424",
+          "font-family": "Arial,sans-serif",
+          "font-size": 16,
+          "font-weight": "bold",
+          "text-anchor": "middle",
+          "filter": "url(#door-soft)",
+          "texts": [
+            {
+              "x": 502,
+              "y": 353,
+              "text": "Cram School for World"
+            },
+            {
+              "x": 502,
+              "y": 373,
+              "text": "Happiness and Peace"
+            }
+          ]
+        }
+      ],
+      "accuracy_note": "Original blurred character order cannot be certified from pixels; approved native door-quote variant from line3928 supplies copy."
+    },
+    "mail": {
+      "source": "bgimage/sindo/CG/メール.jpg",
+      "source_sha256": "55dbbbaab3c539d863b5b812fd2c8679de305f5e6da091926c28e1c0977c310e",
+      "map": "backgrounds",
+      "clean": "work/ui/art/jyuku-mail-clean.png",
+      "clean_sha256": "ba377d066a80ac1d3d628f96599707f01204018590120170b04f869159ff1811",
+      "patch_polygons": [
+        "518,58 608,136 580,168 490,90",
+        "479,112 567,189 528,235 440,158",
+        "444,148 723,391 635,494 350,249",
+        "726,248 760,277 741,300 706,271",
+        "379,202 406,224 390,242 363,220",
+        "359,222 383,241 368,259 344,240",
+        "379,207 397,207 397,229 379,229",
+        "359,222 376,222 376,241 359,241"
+      ],
+      "defs": "<defs><filter id=\"mail-soft\"><feGaussianBlur stdDeviation=\"0.3\"/></filter></defs>",
+      "groups": [
+        {
+          "transform": "translate(522,66) rotate(41)",
+          "fill": "#242424",
+          "font-family": "Arial,sans-serif",
+          "filter": "url(#mail-soft)",
+          "texts": [
+            {
+              "x": 0,
+              "y": 26,
+              "font-size": 17,
+              "font-weight": "bold",
+              "text": "Makoto Shindo"
+            },
+            {
+              "x": 0,
+              "y": 81,
+              "font-size": 16,
+              "font-weight": "bold",
+              "text": "No Subject"
+            },
+            {
+              "x": 0,
+              "y": 101,
+              "font-size": 14,
+              "fill": "#929292",
+              "text": "Today 17:51"
+            },
+            {
+              "x": 284,
+              "y": 24,
+              "font-size": 15,
+              "fill": "#75a5c6",
+              "text": "Edit"
+            }
+          ]
+        },
+        {
+          "transform": "translate(522,66) rotate(41)",
+          "fill": "#333333",
+          "font-family": "Arial,sans-serif",
+          "font-size": 15,
+          "filter": "url(#mail-soft)",
+          "texts": [
+            {
+              "x": 0,
+              "y": 141,
+              "text": "Ã‰Â¬Â§Ã¼ ¤Â¢Â¶Ã‰ ¬Ã³Â¦Â¥"
+            },
+            {
+              "x": 0,
+              "y": 161,
+              "text": "Â¿ÃŸÂµ¤ Ã©Â²Â¢ > Â¶Ã¼? Ã‰Â¤"
+            },
+            {
+              "x": 0,
+              "y": 181,
+              "text": "Ã¸Â£Ã¤Â¬ Â¢Ã¼Â§ ¬Â£ÃŸÃ‰"
+            },
+            {
+              "x": 0,
+              "y": 201,
+              "text": "Â¶Ã³Â¢Â£ ¤Â¿ÂµÃ‰ > Â¤Â¶Â¥?"
+            },
+            {
+              "x": 0,
+              "y": 221,
+              "text": "Ã©Â£Â¦Ã¼ ¬Â¤Â¢Âµ ÃŸÃ¸Â£Â¤"
+            }
+          ]
+        }
+      ],
+      "accuracy_note": "Body intentionally remains unreadable corruption, never the decoded pushlog warning. Original raster17:51 retained despite comment00:00. Edit is a tentative reading of soft blue source pixels."
+    },
+    "paper": {
+      "source": "bgimage/sindo/CG/紙.jpg",
+      "source_sha256": "470755faace9aa0b76107376dec3ce5fd536946e246fa67fd7976dd654055dce",
+      "map": "backgrounds",
+      "clean": "work/ui/art/jyuku-paper-clean-v2.png",
+      "clean_sha256": "1ce835daf653e05db2c5fe745634ecce7407bcd2635371f94153b3dd1c8d0530",
+      "patch_polygons": [
+        "306,207 632,118 648,172 320,259",
+        "399,316 614,251 638,307 418,364",
+        "510.20,374.55 568.28,358.82 582.80,410.19 524.72,427.35",
+        "619.84,373.36 673.96,358.84 687.16,411.64 633.04,426.16",
+        "684.00,437.08 735.48,422.56 750.00,485.92 698.52,500.44",
+        "651.84,504.72 704.64,490.20 719.16,548.28 666.36,562.80",
+        "539.32,529.62 585.52,517.75 602.68,581.22 556.48,594.41",
+        "480.84,492.40 532.32,477.88 548.16,538.60 496.68,553.12",
+        "455.80,449.04 500.68,437.16 515.20,489.96 470.32,501.84",
+        "480.68,404.72 533.48,390.20 549.32,448.28 496.52,462.80"
+      ],
+      "groups": [
+        {
+          "transform": "translate(309,224) rotate(-15.5)",
+          "fill": "#344775",
+          "font-family": "Segoe Print,Comic Sans MS,cursive",
+          "font-size": 22,
+          "texts": [
+            {
+              "x": 0,
+              "y": 0,
+              "text": "NO LEEKS / NO COPPYING"
+            }
+          ]
+        },
+        {
+          "transform": "translate(416,342) rotate(-16)",
+          "fill": "#344775",
+          "font-family": "Segoe Print,Comic Sans MS,cursive",
+          "font-size": 19,
+          "texts": [
+            {
+              "x": 0,
+              "y": 0,
+              "text": "Instructor: AYUMU GOTTO"
+            }
+          ]
+        },
+        {
+          "fill": "#344775",
+          "font-family": "Segoe Print,Comic Sans MS,cursive",
+          "font-size": 31,
+          "text-anchor": "middle",
+          "texts": [
+            {
+              "x": 542,
+              "y": 399,
+              "transform": "rotate(-16,542,399)",
+              "text": "1"
+            },
+            {
+              "x": 649,
+              "y": 402,
+              "transform": "rotate(-14,649,402)",
+              "text": "2"
+            },
+            {
+              "x": 718,
+              "y": 472,
+              "transform": "rotate(-16,718,472)",
+              "text": "3"
+            },
+            {
+              "x": 686,
+              "y": 537,
+              "transform": "rotate(-16,686,537)",
+              "text": "4"
+            },
+            {
+              "x": 572,
+              "y": 565,
+              "transform": "rotate(-16,572,565)",
+              "text": "5"
+            },
+            {
+              "x": 516,
+              "y": 526,
+              "transform": "rotate(-16,516,526)",
+              "text": "6"
+            },
+            {
+              "x": 484,
+              "y": 483,
+              "transform": "rotate(-16,484,483)",
+              "text": "7"
+            },
+            {
+              "x": 513,
+              "y": 438,
+              "transform": "rotate(-16,513,438)",
+              "text": "8"
+            }
+          ]
+        }
+      ],
+      "accuracy_note": "Intentional phonetic/orthographic mistakes adapt poor literacy and copied instructor-name errors. No extra box around4: source square belongs to the original numeral glyph.",
+      "patch_rgb_offsets": [
+        [
+          38.0,
+          41.0,
+          41.0
+        ],
+        [
+          40.0,
+          42.0,
+          41.0
+        ],
+        [
+          45.0,
+          47.0,
+          47.0
+        ],
+        [
+          44.0,
+          47.0,
+          45.0
+        ],
+        [
+          48.0,
+          51.0,
+          50.0
+        ],
+        [
+          40.0,
+          43.0,
+          42.0
+        ],
+        [
+          36.0,
+          38.0,
+          38.0
+        ],
+        [
+          37.0,
+          40.0,
+          40.0
+        ],
+        [
+          39.0,
+          43.0,
+          43.0
+        ],
+        [
+          37.0,
+          40.0,
+          39.0
+        ]
+      ],
+      "color_calibration": "Per-patch source median minus resized generated-plate median, RGB additive SVG component transfer. Generated pixels remain inside clipped feathered lettering regions."
+    },
+    "call": {
+      "source": "bgimage/sindo/CG/着信.jpg",
+      "source_sha256": "fa02e98ff7e24eebcf5fd91985299aebcdcc0428a13d5edb6683862665fe559a",
+      "map": "backgrounds",
+      "erase_svg": "<defs><mask id=\"call-protected-button\" maskUnits=\"userSpaceOnUse\" x=\"0\" y=\"0\" width=\"960\" height=\"690\"><rect width=\"960\" height=\"690\" fill=\"white\"/><circle cx=\"418\" cy=\"576\" r=\"49.5\" fill=\"black\"/></mask></defs><g mask=\"url(#call-protected-button)\"><g transform=\"translate(568,131) rotate(41)\"><rect x=\"-20\" y=\"-40\" width=\"220\" height=\"85\" fill=\"black\"/></g><g transform=\"translate(219,486) rotate(41)\"><rect x=\"-27\" y=\"-16\" width=\"68\" height=\"27\" fill=\"black\"/></g><g transform=\"translate(376,625) rotate(41)\"><rect x=\"-29\" y=\"-18\" width=\"65\" height=\"27\" fill=\"black\"/></g><g transform=\"translate(458,499) rotate(41)\"><rect x=\"-30\" y=\"-20\" width=\"115\" height=\"65\" fill=\"black\"/></g></g>",
+      "defs": "<defs><filter id=\"call-soft\"><feGaussianBlur stdDeviation=\"0.6\"/></filter></defs>",
+      "groups": [
+        {
+          "transform": "translate(568,131) rotate(41)",
+          "fill": "#ededed",
+          "font-family": "Arial,sans-serif",
+          "font-size": 26,
+          "filter": "url(#call-soft)",
+          "texts": [
+            {
+              "x": 0,
+              "y": 29,
+              "text": "Makoto Shindo"
+            }
+          ]
+        },
+        {
+          "fill": "#b6b6b6",
+          "font-family": "Arial,sans-serif",
+          "font-size": 16,
+          "text-anchor": "middle",
+          "filter": "url(#call-soft)",
+          "texts": [
+            {
+              "x": 219,
+              "y": 493,
+              "transform": "rotate(41,219,493)",
+              "text": "Decline"
+            },
+            {
+              "x": 376,
+              "y": 632,
+              "transform": "rotate(41,376,632)",
+              "text": "Accept"
+            },
+            {
+              "x": 481,
+              "y": 518,
+              "transform": "rotate(41,481,518)",
+              "text": "Message"
+            }
+          ]
+        }
+      ]
+    },
+    "accusation": {
+      "source": "fgimage/shindo/hitogoroshi.png",
+      "source_sha256": "d23e31a4ab185bc0114835c295e3a1a89e01edc6d71738c24b161cdf5a66b836",
+      "map": "images",
+      "groups": [
+        {
+          "fill": "black",
+          "font-family": "Georgia,serif",
+          "font-size": 38,
+          "text-anchor": "middle",
+          "texts": [
+            {
+              "x": 480,
+              "y": 363,
+              "text": "From today on, you're a murderer."
+            }
+          ]
+        }
+      ],
+      "accuracy_note": "Transparent overlay remains transparent; no opaque full-frame background."
+    }
+  }
+}

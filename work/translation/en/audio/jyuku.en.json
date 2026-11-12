@@ -1,0 +1,14 @@
+{
+  "language": "en",
+  "scenario": "jyuku.ks",
+  "status": "Accuracy/editorial/proofreading complete; native playback and caption fit pending",
+  "evidence": "work/source/audio-language-evidence-review.json: source comment and bounded local ASR agree on the telephone greeting. No speaker identity inferred.",
+  "cues": [
+    {"line":5023,"storage":"もしもし.ogg","start":0,"end":2.323625,"text":"Hello?","audio_sha256":"508f45bed397f8ff3e2d97f97102579bee3770dc3126d15b7a9502e516f23212"}
+  ],
+  "review": {
+    "accuracy":"Unattributed telephone greeting; caller identity remains unresolved.",
+    "editorial":"Natural telephone English. Preserve the existing whole-clip wait.",
+    "proofreading":"Exact source event, audio hash, duration and punctuation checked."
+  }
+}

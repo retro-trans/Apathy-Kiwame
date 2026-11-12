@@ -1,0 +1,1024 @@
+{
+  "language": "en",
+  "scope": "Revenge Site (site.ks). Existing core cast locks remain authoritative.",
+  "source": {
+    "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+    "sha256": "cee111c93c8ddb367523b68aa00b452ea3eadd02d43d8861195c3c33d366bec0",
+    "physical_lines": 2554,
+    "extractable_fields": 1453
+  },
+  "read_in_full": "work/source/site-glossary-candidates.json",
+  "existing_locks_consulted": [
+    "work/glossary/core.json",
+    "work/glossary/fukuzawa.json",
+    "work/glossary/hosoda.json",
+    "work/glossary/iwashita.json",
+    "work/glossary/kazama.json",
+    "work/glossary/burying_the_lie.json",
+    "work/glossary/arai.json",
+    "work/glossary/shindo.json"
+  ],
+  "decision_summary": {
+    "title": "Revenge Site",
+    "title_status": "locked: Revenge Site",
+    "geography": "Chiba spelling verified by primary geographic source; city/prefecture remains unspecified in translation.",
+    "new_named_people": 0,
+    "proposed_recurring_place_terms": 15,
+    "existing_cast_references": 9
+  },
+  "entries": [
+    {
+      "id": "site_route_title",
+      "ja": "復讐サイト",
+      "kind": "route title / website title",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            397,
+            408,
+            809,
+            820,
+            827,
+            864,
+            2486,
+            2500,
+            2507,
+            2533
+          ]
+        }
+      ],
+      "usage": "Use identically for named website, route/title artwork, PC screen and ED059. Window title follows Apathy Kiwame - Revenge Site; generic website/site stays lowercase. No corpus conflict found.",
+      "en": "Revenge Site"
+    },
+    {
+      "id": "chiba",
+      "ja": "千葉",
+      "kind": "place",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            1041
+          ]
+        },
+        {
+          "type": "primary_geographic",
+          "authority": "City of Chiba",
+          "title": "About Chiba City — Geography",
+          "url": "https://www.city.chiba.jp/shimin/shimin/kokusai/prfindex-en.html",
+          "section": "Geography / Location",
+          "verified": "Municipal source uses Chiba City and Chiba Prefecture as distinct geographical entities."
+        },
+        {
+          "type": "primary_government",
+          "authority": "Chiba Prefectural Government",
+          "title": "Introduction of Chiba",
+          "url": "https://www.pref.chiba.lg.jp/english/introduction/index.html",
+          "verified": "Official English prefecture website corroborates Chiba spelling."
+        }
+      ],
+      "usage": "Primary municipal geography source verifies Chiba spelling and distinguishes city from prefecture. Source1041 says only Chiba; retain bare place name, no residence or administrative-level inference.",
+      "en": "Chiba"
+    },
+    {
+      "id": "japan",
+      "ja": "日本",
+      "kind": "country",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            2150
+          ]
+        }
+      ],
+      "usage": "Literal country reference in Hino’s status boast, not a verified future national role.",
+      "en": "Japan"
+    },
+    {
+      "id": "clubhouse_building",
+      "ja": "クラブハウス棟",
+      "kind": "location term",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            87,
+            339,
+            346,
+            385,
+            428,
+            429,
+            451,
+            2350,
+            2436,
+            2444
+          ]
+        }
+      ],
+      "usage": "Use descriptive lower case. Distinguish prefabricated cultural club building from separate sports club building across the school building beside gym; do not collapse locations.",
+      "en": "club building"
+    },
+    {
+      "id": "room_205",
+      "ja": "２０５号室",
+      "kind": "specific room",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            339,
+            346,
+            354,
+            359,
+            428,
+            451,
+            454,
+            2436
+          ]
+        }
+      ],
+      "usage": "Capital Room, space before 205. Former unused sports-club room, second floor far right; not Newspaper Club room.",
+      "en": "Room 205"
+    },
+    {
+      "id": "revenge_service",
+      "ja": "復讐代行",
+      "kind": "advertised service",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            966,
+            967,
+            985,
+            986,
+            987,
+            988,
+            990,
+            991
+          ]
+        }
+      ],
+      "usage": "Advertised service. Kurata’s investigation and advance-payment scam explanation are Hino’s cover; do not mistake them for confirmed actual site mechanics.",
+      "en": "revenge service"
+    },
+    {
+      "id": "site_administrator",
+      "ja": "管理人",
+      "kind": "website role",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            864,
+            901,
+            928,
+            1065,
+            1640,
+            2100,
+            2517,
+            2527
+          ]
+        }
+      ],
+      "usage": "Website/chat role; admin allowed in distinctly casual dialogue. Founder is a different claim. Never building manager here.",
+      "en": "administrator"
+    },
+    {
+      "id": "site_coadministrator",
+      "ja": "共同管理人",
+      "kind": "website role",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            870,
+            872,
+            876,
+            1065,
+            2095,
+            2159
+          ]
+        }
+      ],
+      "usage": "Shared website administrator, distinct from ordinary user or member. Preserve Hino’s incomplete named list.",
+      "en": "co-administrator"
+    },
+    {
+      "id": "revenge_exchange",
+      "ja": "交換条件",
+      "kind": "site rule",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            821,
+            822,
+            823,
+            824,
+            825,
+            826,
+            898,
+            899,
+            900,
+            1030,
+            1031,
+            1032,
+            1037,
+            1039
+          ]
+        }
+      ],
+      "usage": "Natural spoken in return can express the rule: requesting another user kill your target entails killing someone else’s target. Submission, receipt/acceptance and assigned-target email remain separate.",
+      "en": "exchange arrangement"
+    },
+    {
+      "id": "precursor_chat",
+      "ja": "チャット",
+      "kind": "online venue",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            1066,
+            1067,
+            1637,
+            1638,
+            1639,
+            1640,
+            1642,
+            2098,
+            2099,
+            2100
+          ]
+        }
+      ],
+      "usage": "Unnamed online precursor administered by Arai; chat for activity/conversation. Do not invent a service/platform name or conflate chat administration with founding the website.",
+      "en": "chat room"
+    },
+    {
+      "id": "reportage_journalist",
+      "ja": "ルポライター",
+      "kind": "aspiration",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            971,
+            972,
+            973,
+            974
+          ]
+        }
+      ],
+      "usage": "Natural English for Kurata’s future reportage-writing ambition. Do not turn aspiration into current professional employment or add a specialized beat.",
+      "en": "reporter"
+    },
+    {
+      "id": "utility_knife",
+      "ja": "カッター",
+      "kind": "weapon term",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            1478,
+            1487,
+            1488,
+            1776,
+            1777,
+            1804,
+            1827,
+            1839,
+            2197,
+            2297,
+            2303,
+            2313
+          ]
+        }
+      ],
+      "usage": "Matches Hosoda export. Preserve initial knife-like appearance and tentative recognition1488 before direct identification; keep distinct from Hino’s knife.",
+      "en": "utility knife"
+    },
+    {
+      "id": "stun_gun",
+      "ja": "スタンガン",
+      "kind": "possible weapon",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            2213,
+            2214
+          ]
+        }
+      ],
+      "usage": "Only a possible identification of Arai’s black device. No confirmed make/model or discharge inferred.",
+      "en": "stun gun"
+    },
+    {
+      "id": "water_flea_insult",
+      "ja": "ミジンコ",
+      "kind": "repeated insult/comparison",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            1542,
+            1555,
+            1608,
+            1628
+          ]
+        }
+      ],
+      "usage": "Repeat as dehumanizing comparison and thrown-back insult. Preserve Reiko’s microorganism wording without correcting fictional dialogue’s biology; not a proper nickname/person.",
+      "en": "water flea"
+    },
+    {
+      "id": "police_box",
+      "ja": "交番",
+      "kind": "location term",
+      "status": "locked; preserve contextual qualifications in usage",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            2374,
+            2375,
+            2393,
+            2442
+          ]
+        }
+      ],
+      "usage": "Small neighborhood police post, not a named station/headquarters. Officer’s skepticism does not establish corruption.",
+      "en": "police box"
+    }
+  ],
+  "existing_cast_references": [
+    {
+      "en_locked": "Akemi Iwashita",
+      "ja": "岩下明美",
+      "kind": "existing cast",
+      "gender_locked": "female",
+      "reading_locked": "いわした あけみ",
+      "native_kana_here": "いわしたあけみ",
+      "local_reading_line": 120,
+      "existing_lock": "core.json / iwashita.json",
+      "role_here": "One of the six visiting storytellers and part of the revenge-site group. Receives the call directing them to Room205; later leads resistance to Hino and proposes a replacement member in one branch.",
+      "caution": "Her hostile mistaken-recognition line1485 and unnamed betrayer at2300–2301 do not establish a reincarnation, possession, prior named assailant or a gender for that unnamed person. Preserve branch-specific speech rather than importing another route's culprit.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            120,
+            325,
+            338,
+            339,
+            870,
+            1131,
+            1484,
+            1688,
+            1690,
+            1699,
+            1771,
+            1780,
+            2193,
+            2300
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "iwashita",
+          "references": [
+            "https://w.atwiki.jp/allmiccore/pages/42.html",
+            "https://w.atwiki.jp/allmiccore/pages/313.html"
+          ]
+        }
+      ]
+    },
+    {
+      "en_locked": "Tomoharu Hosoda",
+      "ja": "細田友晴",
+      "kind": "existing cast",
+      "gender_locked": "male",
+      "reading_locked": "ほそだ ともはる",
+      "native_kana_here": "ほそだともはる",
+      "local_reading_line": 138,
+      "existing_lock": "core.json / hosoda.json",
+      "role_here": "Sixth storyteller; participates with the revenge-site group, supports the replacement proposal, restrains Sakagami in one branch and panics during the later fight.",
+      "caution": "Hino's explicit co-administrator name list870–872 omits Hosoda, despite Hosoda's participation. Do not remove him from the scene, invent a separate identity or silently add him to the quoted list. Existing visiting-student continuity remains in force.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            138,
+            246,
+            1367,
+            1648,
+            1728,
+            1913,
+            1919,
+            2236,
+            2240
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "hosoda",
+          "references": [
+            "https://w.atwiki.jp/allmiccore/pages/83.html",
+            "https://w.atwiki.jp/allmiccore/pages/313.html"
+          ]
+        }
+      ]
+    },
+    {
+      "en_locked": "Makoto Shindo",
+      "ja": "新堂誠",
+      "kind": "existing cast",
+      "gender_locked": "male",
+      "reading_locked": "しんどう まこと",
+      "native_kana_here": "しんどうまこと",
+      "local_reading_line": 146,
+      "existing_lock": "core.json / shindo.json",
+      "role_here": "Storyteller/co-administrator; physically restrains people and claims boxing experience.",
+      "caution": "Boxing is explicit at2202–2203. Do not turn it into a school team, rank or professional occupation without further source evidence.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            146,
+            870,
+            1654,
+            1681,
+            1810,
+            1889,
+            1895,
+            2201,
+            2202,
+            2267
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "shindo",
+          "references": [
+            "https://w.atwiki.jp/allmiccore/pages/64.html",
+            "https://w.atwiki.jp/allmiccore/pages/313.html"
+          ]
+        }
+      ]
+    },
+    {
+      "en_locked": "Nozomu Kazama",
+      "ja": "風間望",
+      "kind": "existing cast",
+      "gender_locked": "male",
+      "reading_locked": "かざま のぞむ",
+      "native_kana_here": null,
+      "local_reading_line": null,
+      "existing_lock": "core.json / kazama.json",
+      "role_here": "Storyteller/co-administrator; challenges Hino's rule-breaking, is intimidated, and later opposes him. His earlier Kokkuri-san story is referenced at1746.",
+      "caution": "Hino claims he killed a romantic rival for Kazama at1059–1062. Neither rival nor romantic partner is named; do not assign the rival a gender or import a named partner from another version. Travel to Chiba is explicit, not proof Kazama resides there.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            151,
+            870,
+            1024,
+            1041,
+            1058,
+            1059,
+            1061,
+            1067,
+            1077,
+            1618,
+            1744,
+            1746,
+            2081,
+            2218
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "kazama",
+          "references": [
+            "https://w.atwiki.jp/allmiccore/pages/66.html",
+            "https://w.atwiki.jp/allmiccore/pages/313.html"
+          ]
+        }
+      ]
+    },
+    {
+      "en_locked": "Reiko Fukuzawa",
+      "ja": "福沢玲子",
+      "kind": "existing cast",
+      "gender_locked": "female",
+      "reading_locked": "ふくざわ れいこ",
+      "native_kana_here": null,
+      "local_reading_line": null,
+      "existing_lock": "core.json / fukuzawa.json",
+      "role_here": "Storyteller/co-administrator; calls Hino the original site founder, treats violence as entertainment and frees Kurata under threat in the escape branch.",
+      "caution": "Same-age remark1739 concerns recruiting Sakagami; do not use this script to overwrite her existing visiting-school/Gifu continuity or infer all participants attend one school.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            159,
+            870,
+            909,
+            915,
+            1361,
+            1625,
+            1737,
+            1937,
+            1940,
+            2055,
+            2130,
+            2228
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "fukuzawa",
+          "references": [
+            "https://w.atwiki.jp/allmiccore/pages/42.html",
+            "https://w.atwiki.jp/allmiccore/pages/313.html"
+          ]
+        }
+      ]
+    },
+    {
+      "en_locked": "Shoji Arai",
+      "ja": "荒井昭二",
+      "kind": "existing cast",
+      "gender_locked": "male",
+      "reading_locked": "あらい しょうじ",
+      "native_kana_here": null,
+      "local_reading_line": null,
+      "existing_lock": "core.json / arai.json",
+      "role_here": "Storyteller/co-administrator; says he administered the earlier chat that led to the revenge site. Carries a black device Sakagami thinks may be a stun gun.",
+      "caution": "Chat administrator and revenge-site founder are distinct roles. The possible stun gun is a narrator inference, not a confirmed make/model or weapon use.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            164,
+            870,
+            1374,
+            1634,
+            1637,
+            1640,
+            2093,
+            2098,
+            2100,
+            2209,
+            2213,
+            2214
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "arai",
+          "references": [
+            "https://w.atwiki.jp/allmiccore/pages/97.html",
+            "https://w.atwiki.jp/allmiccore/pages/313.html"
+          ]
+        }
+      ]
+    },
+    {
+      "en_locked": "Sadao Hino",
+      "ja": "日野貞夫",
+      "kind": "existing cast",
+      "gender_locked": "male",
+      "reading_locked": "ひの さだお",
+      "native_kana_here": null,
+      "local_reading_line": null,
+      "existing_lock": "core.json",
+      "role_here": "Newspaper Club vice president in existing lock; presents himself as revenge-site founder/administrator, manipulates Kurata's investigation and targets both younger club members. Others dispute his conduct and his sole-credit claim.",
+      "caution": "Sakagami briefly wonders whether this is really Hino at617–621; the text gives no separate impostor/body-occupant reveal. Hino denies a sincere confession after Kurata says she rejected him; Sakagami interprets his anger as revenge for rejection. Keep these viewpoints distinct. His elite future and status claims2147–2158 are self-aggrandizing speech; combat training2321 is only speculation.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            106,
+            111,
+            533,
+            617,
+            630,
+            773,
+            798,
+            864,
+            870,
+            915,
+            1008,
+            1058,
+            1064,
+            1182,
+            1207,
+            1231,
+            1637,
+            2098,
+            2145,
+            2150,
+            2321
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "hino",
+          "references": [
+            "Steam scenario op.ks",
+            "https://w.atwiki.jp/allmiccore/pages/69.html"
+          ]
+        }
+      ]
+    },
+    {
+      "en_locked": "Emi Kurata",
+      "ja": "倉田恵美",
+      "kind": "existing cast",
+      "gender_locked": "female",
+      "reading_locked": "くらた えみ",
+      "native_kana_here": null,
+      "local_reading_line": null,
+      "existing_lock": "core.json",
+      "role_here": "First-year Newspaper Club member; abducted/bound, framed through an assigned website investigation and endangered alongside Sakagami. Aspires to reportage journalism.",
+      "caution": "A submitted murder request is acknowledged, but Kurata says Hino told her to use Sakagami's name as part of investigating an advertised revenge service. Do not make her a willing murderous client by dropping that explanation. Hino alleges she and Sakagami are dating; Sakagami denies knowing of such a relationship. Normal club friendship is explicitly retained at2468–2469.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            487,
+            490,
+            513,
+            799,
+            803,
+            830,
+            923,
+            961,
+            964,
+            971,
+            981,
+            985,
+            994,
+            1003,
+            1182,
+            1196,
+            1241,
+            1250,
+            2469
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "kurata",
+          "references": [
+            "https://w.atwiki.jp/allmiccore/pages/51.html",
+            "https://w.atwiki.jp/allmiccore/pages/301.html"
+          ]
+        }
+      ]
+    },
+    {
+      "en_locked": "Shuichi Sakagami",
+      "ja": "坂上修一",
+      "kind": "runtime-named protagonist",
+      "gender_locked": "male",
+      "reading_locked": "さかがみ しゅういち",
+      "native_kana_here": null,
+      "local_reading_line": null,
+      "existing_lock": "core.json",
+      "role_here": "Listener/narrator and intended victim; branch choices determine his actions and fate.",
+      "caution": "Preserve sf.yourname1/sf.yourname2 runtime expansions. Do not replace customizable names with the default or flatten the narrator's change from respectful Hino-senpai to Hino at773 into a continued deferential attitude.",
+      "sources": [
+        {
+          "type": "native_corpus",
+          "path": "work/debug/kiwame-base/package.nw/data/scenario/site.ks",
+          "lines": [
+            97,
+            103,
+            107,
+            111,
+            139,
+            923,
+            964,
+            1239,
+            1289,
+            1295,
+            1414,
+            1420,
+            1428
+          ]
+        },
+        {
+          "type": "existing_glossary",
+          "path": "work/glossary/core.json",
+          "id": "sakagami",
+          "references": [
+            "Steam scenario op.ks, first.ks",
+            "https://w.atwiki.jp/allmiccore/pages/301.html"
+          ]
+        }
+      ]
+    }
+  ],
+  "existing_terms_to_reuse": [
+    {
+      "ja": "新聞部",
+      "en_locked": "Newspaper Club",
+      "existing_lock": "core.json",
+      "source_lines": [
+        1190
+      ],
+      "note": ""
+    },
+    {
+      "ja": "壁新聞",
+      "en_locked": "wall newspaper",
+      "existing_lock": "core.json",
+      "source_lines": [
+        107
+      ],
+      "note": ""
+    },
+    {
+      "ja": "七不思議の集会",
+      "en_locked": "Seven Wonders Gathering",
+      "existing_lock": "core.json",
+      "source_lines": [],
+      "note": "Use existing event terminology where the script refers to the gathering; seventh person and seventh story are distinct concepts."
+    },
+    {
+      "ja": "語り部",
+      "en_locked": "storyteller",
+      "existing_lock": "core.json",
+      "source_lines": [
+        365,
+        553,
+        565,
+        877,
+        1386
+      ],
+      "note": ""
+    },
+    {
+      "ja": "こっくりさん",
+      "en_locked": "Kokkuri-san",
+      "existing_lock": "kazama.json",
+      "source_lines": [
+        1746
+      ],
+      "note": "Explicit reference to Kazama's earlier story, not a new practice/name to romanize differently."
+    }
+  ],
+  "unnamed_references": [
+    {
+      "en": "Police Officer",
+      "gender": "male adult supported by source ojisan2377/2387",
+      "source_lines": [
+        2374,
+        2377,
+        2387,
+        2389,
+        2390,
+        2442
+      ],
+      "caution": "No personal name, rank, corruption or site affiliation confirmed."
+    },
+    {
+      "en": "teachers / security guards / security company personnel",
+      "gender": "unspecified",
+      "source_lines": [
+        83,
+        2442,
+        2444
+      ],
+      "caution": "No named company or individual; do not import another route’s organization."
+    },
+    {
+      "en": "Kazama’s romantic rival/partner; Iwashita’s betrayer",
+      "gender": "unspecified",
+      "source_lines": [
+        1059,
+        1061,
+        1485,
+        2300,
+        2301
+      ],
+      "caution": "Claims and hostile references, not corroborated new named characters or evidence of possession/reincarnation."
+    }
+  ],
+  "source_inconsistencies_to_preserve": [
+    {
+      "id": "seven_people_six_bodies",
+      "source_lines": [
+        1957,
+        2436,
+        2437,
+        2439,
+        2517,
+        2527
+      ],
+      "evidence": "Hino plus six storytellers are present; 1957 explicitly counts seven surrounding Sakagami in one branch. Escape branch2437 reports six bodies. Later administrator survival is questioned.",
+      "instruction": "Keep source seven and six. Do not repair arithmetic, choose a surviving person or remove Hosoda."
+    },
+    {
+      "id": "hosoda_omitted_from_coadmin_list",
+      "source_lines": [
+        138,
+        246,
+        864,
+        870,
+        871,
+        872,
+        1367,
+        1648,
+        1728,
+        1913,
+        2236
+      ],
+      "evidence": "Hino names Arai, Iwashita, Fukuzawa, Kazama and Shindo as co-administrators, omitting present and participating Hosoda.",
+      "instruction": "Keep the five-name quoted list as written. Do not silently add Hosoda or invent another identity/absence."
+    }
+  ],
+  "uncertainties_and_guardrails": [
+    {
+      "topic": "Geographic granularity",
+      "source_line": 1041,
+      "decision": "Bare Chiba. Primary source verifies spelling, not which administrative entity the fictional line means."
+    },
+    {
+      "topic": "Site ownership",
+      "source_lines": [
+        864,
+        915,
+        1064,
+        1065,
+        1066,
+        1067,
+        1637,
+        1640,
+        2098,
+        2100
+      ],
+      "decision": "Hino site-founder claim and Arai precursor-chat administration stay distinct; no ruling on sole authorship."
+    },
+    {
+      "topic": "Kurata request and intent",
+      "source_lines": [
+        961,
+        966,
+        971,
+        981,
+        985,
+        990,
+        994,
+        1037,
+        1039
+      ],
+      "decision": "Investigation submission under Hino’s instructions is not independent willing murderous intent. Preserve cover story and missing assigned-target email."
+    },
+    {
+      "topic": "Murder Club false positive",
+      "source_lines": [
+        1513,
+        2028
+      ],
+      "decision": "Murder Club appears as music asset/alias, not established network name. Keep separate from Revenge Site."
+    },
+    {
+      "topic": "Weapons and speaker beliefs",
+      "source_lines": [
+        1478,
+        1487,
+        1488,
+        2213,
+        2214
+      ],
+      "decision": "Initial utility-knife recognition and possible stun gun remain qualified."
+    },
+    {
+      "topic": "Names and school continuity",
+      "decision": "Existing kana/readings/genders remain locked; no new character readings needed. Visiting students are not all Narugami pupils; Chiba travel proves no home address. Default Sakagami name must not replace runtime name fragments."
+    },
+    {
+      "topic": "Fate and apparent identity",
+      "source_lines": [
+        617,
+        621,
+        1499,
+        1853,
+        1985,
+        2539
+      ],
+      "decision": "No impostor reveal established. Keep ending-specific actions separate and loss of consciousness/imminent torture distinct from confirmed death."
+    }
+  ],
+  "title_asset_followup": {
+    "approved_text_proposed": "Revenge Site",
+    "window_title_proposed": "Apathy Kiwame - Revenge Site",
+    "locators": [
+      {
+        "line": 397,
+        "type": "title.name"
+      },
+      {
+        "line": 408,
+        "type": "alias background",
+        "asset": "data/bgimage/title/title_hukusyusite.jpg"
+      },
+      {
+        "line": 2486,
+        "type": "PC screen background",
+        "asset": "data/bgimage/site/PC画面.jpg"
+      },
+      {
+        "ending": "ED059",
+        "source": "settei/teisu.ks:545"
+      }
+    ],
+    "note": "Proposal only; no image/script modification."
+  },
+  "native_qa_notes": [
+    {
+      "source_lines": [
+        1289,
+        1295,
+        1301,
+        1302
+      ],
+      "note": "First decision has native wait of eight seconds/jump; comment-only affinity check is not executable evidence."
+    },
+    {
+      "source_lines": [
+        1414,
+        1420,
+        1425,
+        1428,
+        1434
+      ],
+      "note": "Second decision creates third grab-Hino option after native wait of eight seconds; preserve reveal/timing."
+    }
+  ],
+  "validation": {
+    "candidate_file_read_in_full": true,
+    "source_sha_verified": true,
+    "source_scan_counts_verified": true,
+    "all15term_evidence_locators_checked": true,
+    "chiba_verified_from_primary_geographic_source": true,
+    "new_character_readings_invented": false,
+    "translations_written": false,
+    "shared_glossary_changed": false,
+    "exports_builds_or_steam_changed": false
+  }
+}

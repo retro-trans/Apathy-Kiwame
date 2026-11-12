@@ -1,0 +1,892 @@
+{
+  "canvas": {
+    "width": 960,
+    "height": 690
+  },
+  "source_directory": "data/bgimage/game/arai",
+  "scenario": "data/scenario/game.ks",
+  "glossary": "work/glossary/mountains_of_madness.json",
+  "coordinates": "Approximate source-pixel bounds measured from the top left. Cover rectangles include the old glyph edges and glow. Lettering areas allow wider English where needed.",
+  "hud": {
+    "template": "game-mountain-hud.svg",
+    "template_values": {
+      "__BACKGROUND_JPEG__": "Base64 of the original JPEG",
+      "__STAGE_COVER_WIDTH__": "assets[].stage.cover.width",
+      "__STAGE_TEXT__": "XML-escaped assets[].stage.en",
+      "__STAGE_FONT_SIZE__": "assets[].stage.font_size",
+      "__ELEVATION_M__": "assets[].status.elevation_m"
+    },
+    "shared_labels": [
+      {
+        "id": "game-title",
+        "cover": {
+          "x": 704,
+          "y": 66,
+          "width": 160,
+          "height": 35
+        },
+        "ja": "蒼天の白き神の座",
+        "en": "The White Throne of the Gods"
+      },
+      {
+        "id": "team-name",
+        "cover": {
+          "x": 707,
+          "y": 121,
+          "width": 74,
+          "height": 23
+        },
+        "ja": "小野里隊",
+        "en": "Onozato Team"
+      },
+      {
+        "id": "elevation",
+        "cover": {
+          "x": 781,
+          "y": 121,
+          "width": 77,
+          "height": 23
+        },
+        "ja": "{elevation_m}m 付近",
+        "en": "Near {elevation_m} m"
+      },
+      {
+        "id": "manage-team",
+        "cover": {
+          "x": 779,
+          "y": 162,
+          "width": 77,
+          "height": 22
+        },
+        "ja": "隊員管理",
+        "en": "Manage Team"
+      },
+      {
+        "id": "map",
+        "cover": {
+          "x": 779,
+          "y": 197,
+          "width": 77,
+          "height": 22
+        },
+        "ja": "地図",
+        "en": "Map"
+      },
+      {
+        "id": "pause",
+        "cover": {
+          "x": 779,
+          "y": 298,
+          "width": 77,
+          "height": 22
+        },
+        "ja": "一旦停止",
+        "en": "Pause"
+      },
+      {
+        "id": "fast-forward",
+        "cover": {
+          "x": 779,
+          "y": 333,
+          "width": 77,
+          "height": 22
+        },
+        "ja": "早送り",
+        "en": "Fast Forward"
+      },
+      {
+        "id": "settings",
+        "cover": {
+          "x": 779,
+          "y": 368,
+          "width": 77,
+          "height": 22
+        },
+        "ja": "設定",
+        "en": "Settings"
+      },
+      {
+        "id": "save",
+        "cover": {
+          "x": 779,
+          "y": 403,
+          "width": 77,
+          "height": 22
+        },
+        "ja": "記録",
+        "en": "Save"
+      },
+      {
+        "id": "load",
+        "cover": {
+          "x": 779,
+          "y": 438,
+          "width": 77,
+          "height": 22
+        },
+        "ja": "読み込み",
+        "en": "Load"
+      }
+    ],
+    "preserve": [
+      "Compass rose and its Latin cardinal directions, including the central question mark on Mountains of Madness screens.",
+      "Original mountain artwork and empty dialogue area.",
+      "All elevation digits. The narration's 8,000 m marks entry into the Death Zone."
+    ],
+    "assets": [
+      {
+        "asset": "ゲーム画面_オリンポス.jpg",
+        "game_ks_lines": [
+          2826
+        ],
+        "stage": {
+          "id": "stage",
+          "cover": {
+            "x": 116,
+            "y": 66,
+            "width": 135,
+            "height": 35
+          },
+          "ja": "オリンポス山",
+          "en": "Mount Olympus",
+          "lettering_area": {
+            "x": 124,
+            "y": 66,
+            "width": 338,
+            "height": 35
+          },
+          "font_size": 20
+        },
+        "status": {
+          "ja": "小野里隊 1970m 付近",
+          "en": "Onozato Team · Near 1970 m",
+          "elevation_m": 1970
+        },
+        "compass": "northeast"
+      },
+      {
+        "asset": "ゲーム画面_マヌ.jpg",
+        "game_ks_lines": [
+          2910,
+          3101
+        ],
+        "stage": {
+          "id": "stage",
+          "cover": {
+            "x": 116,
+            "y": 66,
+            "width": 226,
+            "height": 35
+          },
+          "ja": "マヌーツェ山脈 南西口",
+          "en": "Manutse Range — Southwest Approach",
+          "lettering_area": {
+            "x": 124,
+            "y": 66,
+            "width": 338,
+            "height": 35
+          },
+          "font_size": 17
+        },
+        "status": {
+          "ja": "小野里隊 6987m 付近",
+          "en": "Onozato Team · Near 6987 m",
+          "elevation_m": 6987
+        },
+        "compass": "southwest"
+      },
+      {
+        "asset": "ゲーム画面_エベ.jpg",
+        "game_ks_lines": [
+          2913
+        ],
+        "stage": {
+          "id": "stage",
+          "cover": {
+            "x": 116,
+            "y": 66,
+            "width": 110,
+            "height": 35
+          },
+          "ja": "エベレスト",
+          "en": "Everest",
+          "lettering_area": {
+            "x": 124,
+            "y": 66,
+            "width": 338,
+            "height": 35
+          },
+          "font_size": 20
+        },
+        "status": {
+          "ja": "小野里隊 5432m 付近",
+          "en": "Onozato Team · Near 5432 m",
+          "elevation_m": 5432
+        },
+        "compass": "north"
+      },
+      {
+        "asset": "ゲーム画面_エベ2.jpg",
+        "game_ks_lines": [
+          3018
+        ],
+        "stage": {
+          "id": "stage",
+          "cover": {
+            "x": 116,
+            "y": 66,
+            "width": 110,
+            "height": 35
+          },
+          "ja": "エベレスト",
+          "en": "Everest",
+          "lettering_area": {
+            "x": 124,
+            "y": 66,
+            "width": 338,
+            "height": 35
+          },
+          "font_size": 20
+        },
+        "status": {
+          "ja": "小野里隊 8323m 付近",
+          "en": "Onozato Team · Near 8323 m",
+          "elevation_m": 8323
+        },
+        "compass": "north"
+      },
+      {
+        "asset": "ゲーム画面_エベ山頂.jpg",
+        "game_ks_lines": [
+          3031
+        ],
+        "stage": {
+          "id": "stage",
+          "cover": {
+            "x": 116,
+            "y": 66,
+            "width": 151,
+            "height": 35
+          },
+          "ja": "エベレスト山頂",
+          "en": "Everest Summit",
+          "lettering_area": {
+            "x": 124,
+            "y": 66,
+            "width": 338,
+            "height": 35
+          },
+          "font_size": 20
+        },
+        "status": {
+          "ja": "小野里隊 8848m 付近",
+          "en": "Onozato Team · Near 8848 m",
+          "elevation_m": 8848
+        },
+        "compass": "north"
+      },
+      {
+        "asset": "ゲーム画面_狂気.jpg",
+        "game_ks_lines": [
+          3114,
+          3208,
+          3237
+        ],
+        "stage": {
+          "id": "stage",
+          "cover": {
+            "x": 116,
+            "y": 66,
+            "width": 94,
+            "height": 35
+          },
+          "ja": "狂気山脈",
+          "en": "Mountains of Madness",
+          "lettering_area": {
+            "x": 124,
+            "y": 66,
+            "width": 338,
+            "height": 35
+          },
+          "font_size": 20
+        },
+        "status": {
+          "ja": "小野里隊 6734m 付近",
+          "en": "Onozato Team · Near 6734 m",
+          "elevation_m": 6734
+        },
+        "compass": "?"
+      },
+      {
+        "asset": "ゲーム画面_狂気2.jpg",
+        "game_ks_lines": [
+          3161,
+          3226
+        ],
+        "stage": {
+          "id": "stage",
+          "cover": {
+            "x": 116,
+            "y": 66,
+            "width": 94,
+            "height": 35
+          },
+          "ja": "狂気山脈",
+          "en": "Mountains of Madness",
+          "lettering_area": {
+            "x": 124,
+            "y": 66,
+            "width": 338,
+            "height": 35
+          },
+          "font_size": 20
+        },
+        "status": {
+          "ja": "小野里隊 6734m 付近",
+          "en": "Onozato Team · Near 6734 m",
+          "elevation_m": 6734
+        },
+        "compass": "?",
+        "preserve": "The blood splatter is part of this still."
+      },
+      {
+        "asset": "ゲーム画面_狂気3.jpg",
+        "game_ks_lines": [
+          3264,
+          3342,
+          3400
+        ],
+        "stage": {
+          "id": "stage",
+          "cover": {
+            "x": 116,
+            "y": 66,
+            "width": 94,
+            "height": 35
+          },
+          "ja": "狂気山脈",
+          "en": "Mountains of Madness",
+          "lettering_area": {
+            "x": 124,
+            "y": 66,
+            "width": 338,
+            "height": 35
+          },
+          "font_size": 20
+        },
+        "status": {
+          "ja": "小野里隊 8943m 付近",
+          "en": "Onozato Team · Near 8943 m",
+          "elevation_m": 8943
+        },
+        "compass": "?"
+      }
+    ]
+  },
+  "stage_select": {
+    "shared_labels": [
+      {
+        "id": "game-title",
+        "cover": {
+          "x": 116,
+          "y": 123,
+          "width": 245,
+          "height": 56
+        },
+        "ja": "蒼天の白き神の座",
+        "en": "The White Throne of the Gods",
+        "lettering_area": {
+          "x": 118,
+          "y": 120,
+          "width": 269,
+          "height": 60
+        }
+      },
+      {
+        "id": "mckinley",
+        "cover": {
+          "x": 298,
+          "y": 224,
+          "width": 63,
+          "height": 19
+        },
+        "ja": "マッキンリー",
+        "en": "McKinley",
+        "lettering_area": {
+          "x": 234,
+          "y": 224,
+          "width": 124,
+          "height": 19
+        }
+      },
+      {
+        "id": "olympus",
+        "cover": {
+          "x": 486,
+          "y": 140,
+          "width": 50,
+          "height": 21
+        },
+        "ja": "オリンポス",
+        "en": "Olympus",
+        "lettering_area": {
+          "x": 405,
+          "y": 140,
+          "width": 128,
+          "height": 21
+        }
+      },
+      {
+        "id": "everest",
+        "cover": {
+          "x": 655,
+          "y": 219,
+          "width": 54,
+          "height": 20
+        },
+        "ja": "エベレスト",
+        "en": "Everest",
+        "lettering_area": {
+          "x": 578,
+          "y": 219,
+          "width": 128,
+          "height": 20
+        }
+      },
+      {
+        "id": "tupungato",
+        "cover": {
+          "x": 337,
+          "y": 366,
+          "width": 75,
+          "height": 21
+        },
+        "ja": "トゥプンガート",
+        "en": "Tupungato",
+        "lettering_area": {
+          "x": 281,
+          "y": 366,
+          "width": 129,
+          "height": 21
+        }
+      },
+      {
+        "id": "other",
+        "cover": {
+          "x": 664,
+          "y": 370,
+          "width": 16,
+          "height": 16
+        },
+        "ja": "他",
+        "en": "Other",
+        "lettering_area": {
+          "x": 552,
+          "y": 370,
+          "width": 127,
+          "height": 19
+        }
+      }
+    ],
+    "preserve": [
+      {
+        "text": "STAGE SELECT",
+        "area": {
+          "x": 610,
+          "y": 117,
+          "width": 182,
+          "height": 39
+        }
+      },
+      {
+        "text": "CLEAR!",
+        "occurrences": 5,
+        "asset": "選択画面.jpg"
+      },
+      {
+        "text": "NEW",
+        "area": {
+          "x": 448,
+          "y": 471,
+          "width": 44,
+          "height": 33
+        },
+        "asset": "選択画面.jpg"
+      }
+    ],
+    "assets": [
+      {
+        "asset": "ゲーム画面_選択.jpg",
+        "game_ks_lines": [
+          2803
+        ]
+      },
+      {
+        "asset": "選択画面.jpg",
+        "game_ks_lines": [
+          3059
+        ],
+        "additional_labels": [
+          {
+            "id": "mountains-of-madness",
+            "cover": {
+              "x": 495,
+              "y": 491,
+              "width": 38,
+              "height": 20
+            },
+            "ja": "狂気山脈",
+            "en": "Mountains of Madness",
+            "lettering_area": {
+              "x": 403,
+              "y": 491,
+              "width": 130,
+              "height": 20
+            }
+          }
+        ]
+      }
+    ],
+    "art_note": "Each location is printed over a tilted photo. Clean the glyphs locally and align the replacement lettering to the photo angle. Keep the paper and photo textures."
+  },
+  "credits": {
+    "asset": "ゲーム画面_ED.jpg",
+    "game_ks_lines": [
+      3047
+    ],
+    "template": "game-mountain-credits.svg",
+    "labels": [
+      {
+        "id": "production-role",
+        "cover": {
+          "x": 560,
+          "y": 476,
+          "width": 43,
+          "height": 26
+        },
+        "ja": null,
+        "en": "Production",
+        "possible_ja": [
+          "製作",
+          "制作"
+        ],
+        "source_legibility": "blurred"
+      },
+      {
+        "id": "producer",
+        "cover": {
+          "x": 560,
+          "y": 502,
+          "width": 168,
+          "height": 23
+        },
+        "ja": null,
+        "en": "World Happy Mountain Association",
+        "legible_parts": [
+          "ワールド・ハッピー・山",
+          "協会"
+        ],
+        "glossary_ja": "ワールド・ハッピー・山脈協会",
+        "source_legibility": "blurred"
+      }
+    ],
+    "indistinct": [
+      {
+        "area": {
+          "x": 503,
+          "y": 201,
+          "width": 69,
+          "height": 97
+        },
+        "description": "Small upper-left credit column."
+      },
+      {
+        "area": {
+          "x": 616,
+          "y": 201,
+          "width": 73,
+          "height": 55
+        },
+        "description": "Small upper-right credit column."
+      }
+    ],
+    "art_note": "Use subdued lettering for the verified production credit. The upper credit names are blurred in the source artwork and too indistinct to transcribe."
+  },
+  "newspaper": {
+    "asset": "新聞.jpg",
+    "game_ks_lines": [
+      3449
+    ],
+    "template": "game-mountain-newspaper.svg",
+    "labels": [
+      {
+        "id": "headline",
+        "cover": {
+          "x": 184,
+          "y": 187,
+          "width": 603,
+          "height": 224
+        },
+        "ja": "17歳少年、孤独死",
+        "en": "17-Year-Old Boy Dies Alone",
+        "cover_polygon": [
+          [
+            185,
+            334
+          ],
+          [
+            760,
+            191
+          ],
+          [
+            778,
+            264
+          ],
+          [
+            203,
+            408
+          ]
+        ],
+        "angle_degrees": -14,
+        "script_text_field": "3453:text"
+      }
+    ],
+    "indistinct": [
+      {
+        "area": {
+          "x": 59,
+          "y": 372,
+          "width": 466,
+          "height": 318
+        },
+        "description": "Blurred left article body."
+      },
+      {
+        "area": {
+          "x": 500,
+          "y": 275,
+          "width": 460,
+          "height": 415
+        },
+        "description": "Blurred right article body and surrounding columns."
+      }
+    ],
+    "art_note": "Follow the headline's diagonal baseline and preserve the surrounding photo and out-of-focus body columns. Line 3453 adds a spoken trailing ellipsis."
+  },
+  "unused_variants": [
+    {
+      "asset": "ゲーム画面_タイトル.jpg",
+      "game_ks_lines": [],
+      "labels": [
+        {
+          "id": "game-title",
+          "cover": {
+            "x": 226,
+            "y": 225,
+            "width": 482,
+            "height": 121
+          },
+          "ja": "蒼天の白き神の座",
+          "en": "The White Throne of the Gods"
+        },
+        {
+          "id": "start",
+          "cover": {
+            "x": 234,
+            "y": 506,
+            "width": 104,
+            "height": 44
+          },
+          "ja": "はじめる",
+          "en": "Start"
+        },
+        {
+          "id": "continue",
+          "cover": {
+            "x": 372,
+            "y": 504,
+            "width": 135,
+            "height": 48
+          },
+          "ja": "つづきから",
+          "en": "Continue"
+        },
+        {
+          "id": "settings",
+          "cover": {
+            "x": 536,
+            "y": 505,
+            "width": 65,
+            "height": 45
+          },
+          "ja": "設定",
+          "en": "Settings"
+        },
+        {
+          "id": "quit",
+          "cover": {
+            "x": 646,
+            "y": 505,
+            "width": 59,
+            "height": 45
+          },
+          "ja": "終了",
+          "en": "Quit"
+        }
+      ],
+      "note": "The title screen is mentioned at game.ks line 3464. That line retains the newspaper background."
+    },
+    {
+      "asset": "選択画面.gif",
+      "game_ks_lines": [],
+      "frames": 60,
+      "labels_first_frame": [
+        {
+          "id": "game-title",
+          "cover": {
+            "x": 102,
+            "y": 72,
+            "width": 466,
+            "height": 114
+          },
+          "ja": "蒼天の白き神の座",
+          "en": "The White Throne of the Gods"
+        },
+        {
+          "id": "stage",
+          "cover": {
+            "x": 470,
+            "y": 430,
+            "width": 103,
+            "height": 35
+          },
+          "ja": "狂気山脈",
+          "en": "Mountains of Madness"
+        }
+      ],
+      "preserve_first_frame": [
+        "STAGE SELECT",
+        "CLEAR",
+        "Blood markings over the cleared tiles."
+      ],
+      "note": "Unused animated alternate stage-select layout. Placement is measured on the first frame."
+    },
+    {
+      "asset": "狂気.jpg",
+      "game_ks_lines": [],
+      "labels": [
+        {
+          "id": "stage",
+          "cover": {
+            "x": 48,
+            "y": 0,
+            "width": 127,
+            "height": 37
+          },
+          "ja": "狂気山脈",
+          "en": "Mountains of Madness"
+        },
+        {
+          "id": "game-title",
+          "cover": {
+            "x": 9,
+            "y": 409,
+            "width": 284,
+            "height": 76
+          },
+          "ja": "蒼天の白き神の座",
+          "en": "The White Throne of the Gods"
+        },
+        {
+          "id": "supplies",
+          "cover": {
+            "x": 872,
+            "y": 306,
+            "width": 49,
+            "height": 16
+          },
+          "ja": "物資",
+          "en": "Supplies"
+        },
+        {
+          "id": "management",
+          "cover": {
+            "x": 872,
+            "y": 320,
+            "width": 49,
+            "height": 17
+          },
+          "ja": "管理",
+          "en": "Management"
+        },
+        {
+          "id": "weather",
+          "cover": {
+            "x": 872,
+            "y": 334,
+            "width": 49,
+            "height": 17
+          },
+          "ja": "天気",
+          "en": "Weather"
+        },
+        {
+          "id": "wind-speed",
+          "cover": {
+            "x": 872,
+            "y": 348,
+            "width": 49,
+            "height": 19
+          },
+          "ja": "風速",
+          "en": "Wind Speed"
+        },
+        {
+          "id": "manage-team",
+          "cover": {
+            "x": 830,
+            "y": 493,
+            "width": 103,
+            "height": 36
+          },
+          "ja": "隊員管理",
+          "en": "Manage Team"
+        },
+        {
+          "id": "settings",
+          "cover": {
+            "x": 877,
+            "y": 543,
+            "width": 56,
+            "height": 32
+          },
+          "ja": "設定",
+          "en": "Settings"
+        },
+        {
+          "id": "save",
+          "cover": {
+            "x": 878,
+            "y": 589,
+            "width": 54,
+            "height": 34
+          },
+          "ja": "記録",
+          "en": "Save"
+        },
+        {
+          "id": "load",
+          "cover": {
+            "x": 830,
+            "y": 638,
+            "width": 104,
+            "height": 37
+          },
+          "ja": "読み込み",
+          "en": "Load"
+        }
+      ],
+      "note": "Alternate interface with a full-frame map. The small statistics words are separated in the artwork."
+    }
+  ]
+}

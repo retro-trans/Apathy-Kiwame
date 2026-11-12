@@ -1,0 +1,5027 @@
+{
+  "scenario": "data/scenario/kazama.ks",
+  "source_sha256": "b61c20363f570f1d1597c84f190104735411fc6672a6fc9a01d48aaf1b5fe960",
+  "rows": {
+    "86:text": [
+      "Nozomu Kazama"
+    ],
+    "87:text": [
+      "“Picking me first shows you've got a good eye"
+    ],
+    "88:text": [
+      "for talent! Now, let me introduce myself again.”"
+    ],
+    "94:text": [
+      "Nozomu Kazama"
+    ],
+    "95:text": [
+      "“My turn! So what's going on with our seventh"
+    ],
+    "96:text": [
+      "storyteller, ",
+      "?"
+    ],
+    "97:text": [
+      "Well, even if they show up, their story won't"
+    ],
+    "98:text": [
+      "come close to the one I'm about to tell!"
+    ],
+    "99:text": [
+      "Ha ha ha! Now, let me introduce"
+    ],
+    "100:text": [
+      "myself again.”"
+    ],
+    "106:text": [
+      "Nozomu Kazama"
+    ],
+    "107:text": [
+      "“My story's so scary you might want to go"
+    ],
+    "108:text": [
+      "home halfway through. Don't say I didn't warn you."
+    ],
+    "109:text": [
+      "Now, let me introduce myself again.”"
+    ],
+    "119:text": [
+      "Nozomu Kazama"
+    ],
+    "120:text": [
+      "“I'm Nozomu Kazama. I'm a third-year high school"
+    ],
+    "121:text": [
+      "student in Kumamoto."
+    ],
+    "123:text": [
+      "Have you all heard"
+    ],
+    "124:text": [
+      "of ‘Kokkuri-san’?"
+    ],
+    "125:text": [
+      "‘Cupid-san,’ ‘Angel-sama’... There are all sorts"
+    ],
+    "126:text": [
+      "of names for it, but they all basically work"
+    ],
+    "127:text": [
+      "the same way."
+    ],
+    "129:text": [
+      "On a sheet of paper, write out the Japanese syllabary,"
+    ],
+    "130:text": [
+      "‘yes’ and ‘no,’ and the digits 0 through 9."
+    ],
+    "131:text": [
+      "Then draw a torii gate in the middle."
+    ],
+    "132:text": [
+      "Put a ten-yen coin on the torii gate. Then at least"
+    ],
+    "133:text": [
+      "two people put their index fingers on the coin."
+    ],
+    "135:text": [
+      "Then summon Kokkuri-san and ask"
+    ],
+    "136:text": [
+      "whatever you want to know."
+    ],
+    "138:text": [
+      "Kokkuri-san will answer your questions through the ten-yen coin."
+    ],
+    "140:text": [
+      "When you've asked all your questions, ask Kokkuri-san to return. You have to get rid of the coin and paper right away, either by using them or throwing them away."
+    ],
+    "141:text": [
+      "That's the basic way to play Kokkuri-san."
+    ],
+    "143:text": [
+      "You're fine if it's Kokkuri-san, a higher spirit. Sometimes a nasty lower spirit comes through instead."
+    ],
+    "144:text": [
+      "If that happens, you could end up possessed, so be careful."
+    ],
+    "146:text": [
+      "Of course, I'm a Kokkuri-san pro. You've got nothing to worry about."
+    ],
+    "148:text": [
+      "Oh, right. They have something similar"
+    ],
+    "149:text": [
+      "in the West."
+    ],
+    "150:text": [
+      "They call it a ‘Witch Board.’"
+    ],
+    "151:text": [
+      "They even sell equipment made just for it."
+    ],
+    "152:text": [
+      "I guess some things are the same the world over."
+    ],
+    "154:text": [
+      "...So the story I wanted to tell you",
+      "is about Kokkuri-san."
+    ],
+    "155:text": [
+      "Though ‘story’ is the wrong word."
+    ],
+    "156:text": [
+      "Anyway, it'll be way more fun than some half-baked story."
+    ],
+    "157:text": [
+      "It'll be worth your time, I promise."
+    ],
+    "159:text": [
+      "The truth is, I can summon the real Kokkuri-san."
+    ],
+    "160:text": [
+      "Huh? Anyone can do that? ...You're naive. You're way too naive."
+    ],
+    "162:text": [
+      "The Kokkuri-san I summon is real. I can summon the real Kokkuri-san."
+    ],
+    "163:text": [
+      "You've never seen Kokkuri-san, have you?"
+    ],
+    "164:text": [
+      "Heh heh... When I summon Kokkuri-san, you can actually see the spirit."
+    ],
+    "165:text": [
+      "Oh, I can tell you doubt me."
+    ],
+    "166:text": [
+      "Well, just wait and see. That's part of the fun."
+    ],
+    "167:text": [
+      "By the way, ",
+      ", do you believe in Kokkuri-san?”"
+    ],
+    "179:glink.text.1": [
+      "1. I do"
+    ],
+    "181:glink.text.1": [
+      "1. I do"
+    ],
+    "185:glink.text.1": [
+      "2. I don't"
+    ],
+    "187:glink.text.1": [
+      "2. I don't"
+    ],
+    "191:glink.text.1": [
+      "3. I'm not sure"
+    ],
+    "193:glink.text.1": [
+      "3. I'm not sure"
+    ],
+    "204:text": [
+      "Nozomu Kazama"
+    ],
+    "205:text": [
+      "“Well, well. You're a young man"
+    ],
+    "206:text": [
+      "with potential."
+    ],
+    "207:text": [
+      "Believing is what matters, you know."
+    ],
+    "208:text": [
+      "And I take it you also believe"
+    ],
+    "209:text": [
+      "that I can summon Kokkuri-san?”"
+    ],
+    "219:text": [
+      "Nozomu Kazama"
+    ],
+    "220:text": [
+      "“You don't believe, huh."
+    ],
+    "221:text": [
+      "Probably because you've never seen anyone"
+    ],
+    "222:text": [
+      "who can really summon Kokkuri-san."
+    ],
+    "223:text": [
+      "Well, watch closely. I'm about to show you"
+    ],
+    "224:text": [
+      "something amazing."
+    ],
+    "225:text": [
+      "Here, look at this sheet. I'll use it to summon"
+    ],
+    "226:text": [
+      "the real... Kokkuri-san."
+    ],
+    "227:text": [
+      "Then I'll tell your fortune. I can look into all sorts of things."
+    ],
+    "228:text": [
+      "Well? Want to give it a try?”"
+    ],
+    "238:text": [
+      "Nozomu Kazama"
+    ],
+    "239:text": [
+      "“It might be fake, or it might be real... That's what"
+    ],
+    "240:text": [
+      "you're thinking, isn't it?"
+    ],
+    "241:text": [
+      "Well, pay close attention to what I'm about"
+    ],
+    "242:text": [
+      "to do."
+    ],
+    "243:text": [
+      "We'll do Kokkuri-san right here, and I'll tell you"
+    ],
+    "244:text": [
+      "all sorts of things about your fortune."
+    ],
+    "245:text": [
+      "When I do Kokkuri-san, you won't get"
+    ],
+    "246:text": [
+      "some run-of-the-mill fake."
+    ],
+    "247:text": [
+      "Try it once and I guarantee you'll believe."
+    ],
+    "248:text": [
+      "Well? Want to give it a try?”"
+    ],
+    "267:glink.text.1": [
+      "1. I believe you"
+    ],
+    "269:glink.text.1": [
+      "1. I believe you"
+    ],
+    "273:glink.text.1": [
+      "2. I don't believe you"
+    ],
+    "275:glink.text.1": [
+      "2. I don't believe you"
+    ],
+    "279:glink.text.1": [
+      "3. I can't say"
+    ],
+    "281:glink.text.1": [
+      "3. I can't say"
+    ],
+    "299:glink.text.1": [
+      "1. Give it a try"
+    ],
+    "301:glink.text.1": [
+      "1. Give it a try"
+    ],
+    "305:glink.text.1": [
+      "2. Pass"
+    ],
+    "307:glink.text.1": [
+      "2. Pass"
+    ],
+    "318:text": [
+      "Nozomu Kazama"
+    ],
+    "319:text": [
+      "“Well, you're going places!"
+    ],
+    "320:text": [
+      "Your guardian spirit must be someone"
+    ],
+    "321:text": [
+      "pretty incredible, don't you think?"
+    ],
+    "322:text": [
+      "I can tell. I get the feeling"
+    ],
+    "323:text": [
+      "there's a halo shining around you."
+    ],
+    "324:text": [
+      "So I thought we could do Kokkuri-san for real,"
+    ],
+    "325:text": [
+      "right here. What do you say?"
+    ],
+    "326:text": [
+      "Want to give it a try?"
+    ],
+    "327:text": [
+      "Just for you, I'll tell you"
+    ],
+    "328:text": [
+      "all sorts of things about your fortune.”"
+    ],
+    "338:text": [
+      "Nozomu Kazama"
+    ],
+    "339:text": [
+      "“What?! You believe in Kokkuri-san, but you don't"
+    ],
+    "340:text": [
+      "believe I can summon the spirit?"
+    ],
+    "341:text": [
+      "I won't stand for that. I absolutely won't."
+    ],
+    "342:text": [
+      "I can summon the real Kokkuri-san, you know."
+    ],
+    "343:text": [
+      "I'm the most powerful psychic"
+    ],
+    "344:text": [
+      "in this room."
+    ],
+    "345:text": [
+      "If that's how you're going to treat me, I'll ask"
+    ],
+    "346:text": [
+      "Kokkuri-san to put a curse on you.”"
+    ],
+    "356:text": [
+      "Nozomu Kazama"
+    ],
+    "357:text": [
+      "“I see... Well, I'll summon the real"
+    ],
+    "358:text": [
+      "Kokkuri-san for you right now."
+    ],
+    "359:text": [
+      "You can decide whether to believe me then."
+    ],
+    "360:text": [
+      "I'll even give you a special fortune reading."
+    ],
+    "362:text": [
+      "Now, when ordinary people do Kokkuri-san,"
+    ],
+    "363:text": [
+      "the answers are usually all over the place."
+    ],
+    "364:text": [
+      "Some come true and some don't."
+    ],
+    "365:text": [
+      "That's because they often summon lower spirits."
+    ],
+    "367:text": [
+      "But an expert on Kokkuri-san like me"
+    ],
+    "368:text": [
+      "has done a fair amount of research, you see."
+    ],
+    "369:text": [
+      "And I've found a surefire way to summon"
+    ],
+    "370:text": [
+      "the higher spirit Kokkuri-san."
+    ],
+    "372:text": [
+      "First off, don't be a cheapskate"
+    ],
+    "373:text": [
+      "and say ten yen ought to do it."
+    ],
+    "375:text": [
+      "You use a 500-yen coin."
+    ],
+    "376:text": [
+      "That way, you get a better Kokkuri-san."
+    ],
+    "377:text": [
+      "Come on, ",
+      "."
+    ],
+    "378:text": [
+      "Hand over a 500-yen coin.”"
+    ],
+    "394:glink.text.1": [
+      "1. Apologize"
+    ],
+    "396:glink.text.1": [
+      "1. Apologize"
+    ],
+    "400:glink.text.1": [
+      "2. Don't apologize"
+    ],
+    "402:glink.text.1": [
+      "2. Don't apologize"
+    ],
+    "439:glink.text.1": [
+      "1. Hand over the 500-yen coin"
+    ],
+    "441:glink.text.1": [
+      "1. Hand over the 500-yen coin"
+    ],
+    "445:glink.text.1": [
+      "2. Keep the 500-yen coin"
+    ],
+    "447:glink.text.1": [
+      "2. Keep the 500-yen coin"
+    ],
+    "451:glink.text.1": [
+      "3. Say I don't have one on me"
+    ],
+    "453:glink.text.1": [
+      "3. Say I don't have one on me"
+    ],
+    "464:glink.text.1": [
+      "1. Hand over the 500-yen coin"
+    ],
+    "466:glink.text.1": [
+      "1. Hand over the 500-yen coin"
+    ],
+    "470:glink.text.1": [
+      "2. Keep the 500-yen coin"
+    ],
+    "472:glink.text.1": [
+      "2. Keep the 500-yen coin"
+    ],
+    "476:glink.text.1": [
+      "3. Say I don't have one on me"
+    ],
+    "478:glink.text.1": [
+      "3. Say I don't have one on me"
+    ],
+    "490:text": [
+      "Nozomu Kazama"
+    ],
+    "491:text": [
+      "“Good. We're fine as long as you understand."
+    ],
+    "492:text": [
+      "I'll forgive you. You didn't mean any harm, right?"
+    ],
+    "493:text": [
+      "I like people who can own up and apologize"
+    ],
+    "494:text": [
+      "when they need to."
+    ],
+    "495:text": [
+      "It shows they've got"
+    ],
+    "496:text": [
+      "some real character."
+    ],
+    "498:text": [
+      "Besides, I can see"
+    ],
+    "499:text": [
+      "where you're coming from."
+    ],
+    "500:text": [
+      "Kokkuri-san exists, but there aren't many people"
+    ],
+    "501:text": [
+      "who can actually summon the spirit."
+    ],
+    "503:text": [
+      "Seeing is believing. I'll show you."
+    ],
+    "504:text": [
+      "If you want to summon the real Kokkuri-san,"
+    ],
+    "505:text": [
+      "you have to choose your medium carefully."
+    ],
+    "507:text": [
+      "Too complicated? Look, you know how people use"
+    ],
+    "508:text": [
+      "a ten-yen coin to summon Kokkuri-san?"
+    ],
+    "509:text": [
+      "Well, that's actually wrong."
+    ],
+    "511:text": [
+      "Listen. You use a 500-yen coin."
+    ],
+    "512:text": [
+      "If you're going to summon the real Kokkuri-san,"
+    ],
+    "513:text": [
+      "you need a coin worthy of the spirit."
+    ],
+    "515:text": [
+      "Now watch, I'm about to... Huh? That's"
+    ],
+    "516:text": [
+      "odd."
+    ],
+    "517:text": [
+      "I could've sworn I brought a 500-yen coin."
+    ],
+    "518:text": [
+      "It's not here."
+    ],
+    "519:text": [
+      "Where did I put it?"
+    ],
+    "521:text": [
+      "...It's gone! I put it in my pocket and everything."
+    ],
+    "522:text": [
+      "Well, this is a problem. I can't go on like this."
+    ],
+    "524:text": [
+      "I know. You wouldn't happen to have a 500-yen coin, would you?"
+    ],
+    "525:text": [
+      "Without one, I can't summon"
+    ],
+    "526:text": [
+      "Kokkuri-san.”"
+    ],
+    "536:text": [
+      "Kazama gave me a dissatisfied look."
+    ],
+    "537:text": [
+      "Then, without a word, he reached into his pocket",
+      " and pulled out a sheet of paper, which he laid on the desk."
+    ],
+    "539:text": [
+      "Nozomu Kazama"
+    ],
+    "540:text": [
+      "“I'll use this sheet to summon Kokkuri-san."
+    ],
+    "541:text": [
+      "I'll do you a special favor and tell your fortune."
+    ],
+    "542:text": [
+      "And when we're done with the reading, I'll have"
+    ],
+    "543:text": [
+      "Kokkuri-san possess you.”"
+    ],
+    "545:text": [
+      "Kazama pulled out a ten-yen coin stained dark brown with finger grime and smirked."
+    ],
+    "546:text": [
+      "This guy... What kind of person"
+    ],
+    "547:text": [
+      "was he, anyway?"
+    ],
+    "548:text": [
+      "He'd claimed he could summon the real Kokkuri-san. Now he was talking about putting a curse on me..."
+    ],
+    "550:text": [
+      "Nozomu Kazama"
+    ],
+    "551:text": [
+      "“Now, ",
+      ", put your finger on the ten-yen coin.”"
+    ],
+    "553:text": [
+      "Kazama's words sounded like"
+    ],
+    "554:text": [
+      "some kind of formal verdict."
+    ],
+    "555:text": [
+      "The closest thing I could think of... was a death sentence."
+    ],
+    "557:text": [
+      "Nozomu Kazama"
+    ],
+    "558:text": [
+      "“",
+      ", put your finger down.”"
+    ],
+    "560:text": [
+      "Kazama repeated it in a commanding tone."
+    ],
+    "561:text": [
+      "I looked around, feeling oddly close to tears. I couldn't believe he meant to curse me."
+    ],
+    "562:text": [
+      "Surely the others wouldn't just sit there and watch."
+    ],
+    "564:text": [
+      "Nozomu Kazama"
+    ],
+    "565:text": [
+      "“",
+      ", hurry up and put your finger down.”"
+    ],
+    "567:text": [
+      "Kazama grabbed my arm."
+    ],
+    "570:text": [
+      "“Please stop!!”"
+    ],
+    "572:text": [
+      "I wrenched my arm free with all my strength."
+    ],
+    "573:text": [
+      "Then..."
+    ],
+    "574:text": [
+      "I heard something fall with a soft rustle."
+    ],
+    "576:text": [
+      "Oh."
+    ],
+    "577:text": [
+      "The sheet for summoning Kokkuri-san had fallen to the floor."
+    ],
+    "579:text": [
+      "Nozomu Kazama"
+    ],
+    "580:text": [
+      "“Aah!”"
+    ],
+    "582:text": [
+      "Kazama cried out."
+    ],
+    "584:text": [
+      "Nozomu Kazama"
+    ],
+    "585:text": [
+      "“How could you drop the ritual sheet? You'll be cursed!"
+    ],
+    "586:text": [
+      "Mark my words, ",
+      ", you're going to be cursed!!”"
+    ],
+    "588:text": [
+      "Everyone in the clubroom held their breath and glared at me."
+    ],
+    "590:text": [
+      "Nozomu Kazama"
+    ],
+    "591:text": [
+      "“...But listen, ",
+      ".”"
+    ],
+    "593:text": [
+      "Kazama stared at me, dead serious, and spoke slowly under his breath."
+    ],
+    "595:text": [
+      "Nozomu Kazama"
+    ],
+    "596:text": [
+      "“There's only one way to save yourself."
+    ],
+    "597:text": [
+      "You have to... keep this charm"
+    ],
+    "598:text": [
+      "on you."
+    ],
+    "599:text": [
+      "Just for you, I'll sell it for 1,000 yen.”"
+    ],
+    "601:text": [
+      "Kazama held an eraser, the kind you can buy anywhere for about 50 yen."
+    ],
+    "604:text": [
+      "“...Um.”"
+    ],
+    "606:text": [
+      "Nozomu Kazama"
+    ],
+    "607:text": [
+      "“Hm? What is it? You want to buy it?”"
+    ],
+    "609:text": [
+      "Kazama's expression changed in an instant. Now he was grinning."
+    ],
+    "610:text": [
+      "...This was way too fishy."
+    ],
+    "613:text": [
+      "“Um, isn't that just an ordinary"
+    ],
+    "614:text": [
+      "eraser?”"
+    ],
+    "616:text": [
+      "When I asked, Kazama put on an exaggerated show of looking hurt."
+    ],
+    "617:text": [
+      "It was painfully obvious he was faking it."
+    ],
+    "619:text": [
+      "Nozomu Kazama"
+    ],
+    "620:text": [
+      "“How could you say such a thing?"
+    ],
+    "621:text": [
+      "I purified this eraser with water flowing down"
+    ],
+    "622:text": [
+      "a sacred mountain. It's a powerful, blessed"
+    ],
+    "623:text": [
+      "charm, you know!”"
+    ],
+    "625:text": [
+      "I was still reeling when he doubled down, launching straight into an impassioned pitch."
+    ],
+    "627:text": [
+      "Nozomu Kazama"
+    ],
+    "628:text": [
+      "“The water I purified this eraser with came from a waterfall"
+    ],
+    "629:text": [
+      "where many mountain ascetics stand under the torrent to train."
+    ],
+    "630:text": [
+      "If you purify even an ordinary eraser in that water overnight,"
+    ],
+    "631:text": [
+      "spiritual power will dwell inside it"
+    ],
+    "632:text": [
+      "and turn it into a blessed charm."
+    ],
+    "634:text": [
+      "You can use any object you like"
+    ],
+    "635:text": [
+      "to purify and turn into a charm."
+    ],
+    "636:text": [
+      "Something you can wear every day will do,"
+    ],
+    "637:text": [
+      "or even a keychain."
+    ],
+    "638:text": [
+      "What matters is purifying it"
+    ],
+    "639:text": [
+      "with water from that waterfall."
+    ],
+    "641:text": [
+      "I picked an eraser because it's easy"
+    ],
+    "642:text": [
+      "to bring to school."
+    ],
+    "643:text": [
+      "Do you have any idea how hard it is"
+    ],
+    "644:text": [
+      "to get to those falls?"
+    ],
+    "646:text": [
+      "Normally, it'd be unthinkable"
+    ],
+    "647:text": [
+      "to let it go for 1,000 yen."
+    ],
+    "648:text": [
+      "I made a point of bringing it"
+    ],
+    "649:text": [
+      "this time, just in case"
+    ],
+    "650:text": [
+      "something bad happened."
+    ],
+    "651:text": [
+      "And I'm offering to let you have it"
+    ],
+    "652:text": [
+      "as a special favor.”"
+    ],
+    "662:glink.text.1": [
+      "1. I've got to buy it"
+    ],
+    "664:glink.text.1": [
+      "1. I've got to buy it"
+    ],
+    "668:glink.text.1": [
+      "2. I wish he'd knock it off"
+    ],
+    "670:glink.text.1": [
+      "2. I wish he'd knock it off"
+    ],
+    "682:text": [
+      "“Kazama, I'm sorry."
+    ],
+    "683:text": [
+      "I doubted you, and I called your charm"
+    ],
+    "684:text": [
+      "an ordinary eraser.”"
+    ],
+    "686:text": [
+      "When I apologized, Kazama handed me the eraser and forgave me, saying we were fine as long as I understood."
+    ],
+    "687:text": [
+      "I thanked Kazama and handed him a 1,000-yen bill."
+    ],
+    "689:text": [
+      "Nozomu Kazama"
+    ],
+    "690:text": [
+      "“Hee hee. You listen well. You're a good kid."
+    ],
+    "691:text": [
+      "You really are a good kid.”"
+    ],
+    "693:text": [
+      "Kazama giggled."
+    ],
+    "695:text": [
+      "Wait... Something really was off, wasn't it?"
+    ],
+    "696:text": [
+      "But it was already too late."
+    ],
+    "697:text": [
+      "Kazama pocketed the 1,000-yen bill and hurried away from me."
+    ],
+    "699:text": [
+      "Wh-What a piece of work."
+    ],
+    "700:text": [
+      "He said he could summon the real Kokkuri-san, that he'd show me the spirit, that he'd put a curse on me... Had he said all that just to trick me, scare me, and sell me an eraser?"
+    ],
+    "702:text": [
+      "Oh... But why had the ritual sheet fallen to the floor earlier?"
+    ],
+    "703:text": [
+      "Now that I thought about it, I was pretty sure neither Kazama nor I had touched the sheet."
+    ],
+    "704:text": [
+      "I was still puzzling over it, but Kazama paid me no mind and started speaking again, looking pleased with himself."
+    ],
+    "706:text": [
+      "Nozomu Kazama"
+    ],
+    "707:text": [
+      "“I was all set to show you the real"
+    ],
+    "708:text": [
+      "Kokkuri-san, but now that the ritual sheet"
+    ],
+    "709:text": [
+      "has fallen, I can't do it anymore."
+    ],
+    "710:text": [
+      "If you try to summon Kokkuri-san"
+    ],
+    "711:text": [
+      "with a sheet that's fallen, the spirit will get angry."
+    ],
+    "712:text": [
+      "Ah, it really is a shame.”"
+    ],
+    "734:text": [
+      "“Kazama...”"
+    ],
+    "736:text": [
+      "I couldn't believe this guy."
+    ],
+    "737:text": [
+      "Everything he said sounded way too fishy."
+    ],
+    "740:text": [
+      "“...That's enough.”"
+    ],
+    "742:text": [
+      "Kazama started muttering."
+    ],
+    "744:text": [
+      "Nozomu Kazama"
+    ],
+    "745:text": [
+      "“You're sure? Really sure?"
+    ],
+    "746:text": [
+      "You know you'll be cursed, right? Oh, I'll take 500 yen."
+    ],
+    "747:text": [
+      "Come on, buy the charm.”"
+    ],
+    "749:text": [
+      "Now it sounded even fishier."
+    ],
+    "750:text": [
+      "I glared at him. Kazama got flustered and blurted this out."
+    ],
+    "752:text": [
+      "Nozomu Kazama"
+    ],
+    "753:text": [
+      "“W-Well, suit yourself."
+    ],
+    "754:text": [
+      "Here I was trying to do you a favor"
+    ],
+    "755:text": [
+      "by offering you the charm."
+    ],
+    "756:text": [
+      "Don't blame me if you get into an accident."
+    ],
+    "758:text": [
+      "Still, it really is a shame."
+    ],
+    "759:text": [
+      "I was all set to show you the real"
+    ],
+    "760:text": [
+      "Kokkuri-san, but now that the ritual sheet"
+    ],
+    "761:text": [
+      "has fallen, I can't do it anymore."
+    ],
+    "762:text": [
+      "If you try to summon Kokkuri-san"
+    ],
+    "763:text": [
+      "with a sheet that's fallen, the spirit will get angry.”"
+    ],
+    "786:text": [
+      "Nozomu Kazama"
+    ],
+    "787:text": [
+      "“Oh well. I guess we'll just have to hear"
+    ],
+    "788:text": [
+      "what the next person has to say...”"
+    ],
+    "790:text": [
+      "A chill ran through me for a second."
+    ],
+    "791:text": [
+      "Come to think of it... why had the ritual sheet fallen to the floor earlier?"
+    ],
+    "792:text": [
+      "Now that I thought about it, I was pretty sure neither Kazama nor I had touched the sheet."
+    ],
+    "794:text": [
+      "Kazama seemed fishy, but maybe some kind of spirit really had come into the room."
+    ],
+    "795:text": [
+      "I felt a cold sweat coming on as I turned to the others."
+    ],
+    "798:text": [
+      "“Well, let's move on to the next story...”"
+    ],
+    "815:text": [
+      "Nozomu Kazama"
+    ],
+    "816:text": [
+      "“That's more like it. Mm-hm."
+    ],
+    "817:text": [
+      "Now, when ordinary people do Kokkuri-san,"
+    ],
+    "818:text": [
+      "the answers are usually all over the place."
+    ],
+    "819:text": [
+      "Some come true and some don't."
+    ],
+    "820:text": [
+      "That's because they often summon lower spirits."
+    ],
+    "822:text": [
+      "But an expert on Kokkuri-san like me"
+    ],
+    "823:text": [
+      "has done a fair amount of research, you see."
+    ],
+    "824:text": [
+      "And I've found a surefire way to summon"
+    ],
+    "825:text": [
+      "the higher spirit Kokkuri-san."
+    ],
+    "827:text": [
+      "First off, don't be a cheapskate"
+    ],
+    "828:text": [
+      "and try to get by with a ten-yen coin."
+    ],
+    "829:text": [
+      "You use a 500-yen coin."
+    ],
+    "830:text": [
+      "That way, you get a better Kokkuri-san."
+    ],
+    "831:text": [
+      "Come on, ",
+      ". Hand over a 500-yen coin.”"
+    ],
+    "841:text": [
+      "Nozomu Kazama"
+    ],
+    "842:text": [
+      "“What are you saying? You want to hear"
+    ],
+    "843:text": [
+      "a scary story, don't you?"
+    ],
+    "844:text": [
+      "It'd be a shame to pass up your chance"
+    ],
+    "845:text": [
+      "to see the real Kokkuri-san."
+    ],
+    "847:text": [
+      "I hear that when ordinary people get Kokkuri-san wrong,"
+    ],
+    "848:text": [
+      "they can end up possessed"
+    ],
+    "849:text": [
+      "by lower spirits."
+    ],
+    "850:text": [
+      "But an expert on Kokkuri-san like me"
+    ],
+    "851:text": [
+      "has done a fair amount of research, you see."
+    ],
+    "852:text": [
+      "And I know a surefire way to summon"
+    ],
+    "853:text": [
+      "the higher spirit Kokkuri-san."
+    ],
+    "855:text": [
+      "So relax. Leave it to me"
+    ],
+    "856:text": [
+      "and nothing can go wrong."
+    ],
+    "857:text": [
+      "Got it? Then let's get started."
+    ],
+    "859:text": [
+      "Listen. If you're going to summon the real Kokkuri-san,"
+    ],
+    "860:text": [
+      "a higher spirit, you can't be a cheapskate"
+    ],
+    "861:text": [
+      "and try to get by with a ten-yen coin."
+    ],
+    "862:text": [
+      "That's right, you use a 500-yen coin."
+    ],
+    "863:text": [
+      "That way, you get"
+    ],
+    "864:text": [
+      "a better Kokkuri-san."
+    ],
+    "865:text": [
+      "Come on, ",
+      ". Hand over a 500-yen coin.”"
+    ],
+    "875:text": [
+      "Nozomu Kazama"
+    ],
+    "876:text": [
+      "“You're a really decent person, you know that?"
+    ],
+    "877:text": [
+      "I think we'll get along."
+    ],
+    "878:text": [
+      "I won't forget you."
+    ],
+    "879:text": [
+      "Now I'll use this 500-yen coin"
+    ],
+    "880:text": [
+      "to summon Kokkuri-san.”"
+    ],
+    "890:text": [
+      "Nozomu Kazama"
+    ],
+    "891:text": [
+      "“Good. That's more like it."
+    ],
+    "892:text": [
+      "Now I'll use this 500-yen coin"
+    ],
+    "893:text": [
+      "to summon Kokkuri-san.”"
+    ],
+    "903:text": [
+      "Nozomu Kazama"
+    ],
+    "904:text": [
+      "“What?! You won't give me the 500-yen coin?"
+    ],
+    "905:text": [
+      "...I hope I heard you wrong."
+    ],
+    "906:text": [
+      "Listen. I'm only going to say this one more time."
+    ],
+    "907:text": [
+      "Hand over a 500-yen coin."
+    ],
+    "908:text": [
+      "If you refuse... you're going to regret it.”"
+    ],
+    "918:glink.text.1": [
+      "1. Do as he says"
+    ],
+    "920:glink.text.1": [
+      "1. Do as he says"
+    ],
+    "924:glink.text.1": [
+      "2. Refuse"
+    ],
+    "926:glink.text.1": [
+      "2. Refuse"
+    ],
+    "937:text": [
+      "Nozomu Kazama"
+    ],
+    "938:text": [
+      "“Looks like you've come around."
+    ],
+    "939:text": [
+      "Now I'll use this 500-yen coin"
+    ],
+    "940:text": [
+      "to summon Kokkuri-san.”"
+    ],
+    "951:text": [
+      "“No, thank you.”"
+    ],
+    "953:text": [
+      "When I said that..."
+    ],
+    "954:text": [
+      "Kazama started sulking."
+    ],
+    "957:text": [
+      "“Kazama?”"
+    ],
+    "959:text": [
+      "He wouldn't answer."
+    ],
+    "962:text": [
+      "“Um, Kazama?”"
+    ],
+    "964:text": [
+      "Nozomu Kazama"
+    ],
+    "965:text": [
+      "“............”"
+    ],
+    "968:text": [
+      "“I'd like to move things along.”"
+    ],
+    "970:text": [
+      "Nozomu Kazama"
+    ],
+    "971:text": [
+      "“............”"
+    ],
+    "974:text": [
+      "“Well, I guess there's no helping it... In that case...”"
+    ],
+    "976:text": [
+      "When I tried to move on, Kazama silently",
+      "tugged on my shirt."
+    ],
+    "977:text": [
+      "...What was with this guy?"
+    ],
+    "980:text": [
+      "“L-Let go, please.”"
+    ],
+    "982:text": [
+      "Kazama looked at me",
+      "with sad eyes."
+    ],
+    "983:text": [
+      "...Great. We're getting nowhere like this."
+    ],
+    "994:glink.text.1": [
+      "1. Give in and hand over the 500-yen coin"
+    ],
+    "996:glink.text.1": [
+      "1. Give in and hand over the 500-yen coin"
+    ],
+    "1000:glink.text.1": [
+      "2. Still refuse to pay"
+    ],
+    "1002:glink.text.1": [
+      "2. Still refuse to pay"
+    ],
+    "1013:text": [
+      "I reluctantly took out the 500-yen coin, and Kazama broke into a huge grin."
+    ],
+    "1015:text": [
+      "Nozomu Kazama"
+    ],
+    "1016:text": [
+      "“Yes! Now we can play Kokkuri-san!"
+    ],
+    "1017:text": [
+      "Right, right. Let's get started.”"
+    ],
+    "1019:text": [
+      "His attitude sure changes fast..."
+    ],
+    "1020:text": [
+      "Kazama set down the 500-yen coin to summon Kokkuri-san. Then he spoke."
+    ],
+    "1030:text": [
+      "Kazama was giving me a resentful look."
+    ],
+    "1031:text": [
+      "I still refused to hand over the 500-yen coin."
+    ],
+    "1032:text": [
+      "I turned away from Kazama and spoke to everyone else."
+    ],
+    "1035:text": [
+      "“Well, then, I guess that wraps up Kazama's story"
+    ],
+    "1036:text": [
+      "...”"
+    ],
+    "1038:text": [
+      "Just then something came flying at me and hit me"
+    ],
+    "1039:text": [
+      "in the head."
+    ],
+    "1042:text": [
+      "“Ow!”"
+    ],
+    "1044:text": [
+      "An eraser?"
+    ],
+    "1045:text": [
+      "It was one of the Newspaper Club's supplies."
+    ],
+    "1046:text": [
+      "...That couldn't have been a spirit, could it?"
+    ],
+    "1048:text": [
+      "I had a feeling it came from Kazama's direction."
+    ],
+    "1049:text": [
+      "I couldn't very well check."
+    ],
+    "1050:text": [
+      "Oh, give me a break."
+    ],
+    "1052:text": [
+      "Still, what kind of Kokkuri-san was Kazama planning to do with a 500-yen coin?"
+    ],
+    "1053:text": [
+      "He said he'd show me the real Kokkuri-san..."
+    ],
+    "1055:text": [
+      "Well, never mind."
+    ],
+    "1056:text": [
+      "Something about Kazama feels off. His Kokkuri-san ritual sounds like a sure way to get cursed."
+    ],
+    "1084:text": [
+      "Nozomu Kazama"
+    ],
+    "1085:text": [
+      "“Now, put your index finger on this."
+    ],
+    "1086:text": [
+      "...All right. Ready?"
+    ],
+    "1088:text": [
+      "Kokkuri-san, Kokkuri-san, please come"
+    ],
+    "1089:text": [
+      "to us. Please come."
+    ],
+    "1090:text": [
+      "...Honnyara maka, honnyara maka,"
+    ],
+    "1091:text": [
+      "honnyanira maka."
+    ],
+    "1093:text": [
+      "...It's here, it's here, it's heeere!"
+    ],
+    "1094:text": [
+      "Kaaaaaah!"
+    ],
+    "1096:text": [
+      "...And there you have it. Kokkuri-san's here."
+    ],
+    "1097:text": [
+      "Now, what do you want to ask?”"
+    ],
+    "1109:text": [
+      "Nozomu Kazama"
+    ],
+    "1110:text": [
+      "“What are you doing? Come on, hand over"
+    ],
+    "1111:text": [
+      "the 500-yen coin."
+    ],
+    "1112:text": [
+      "...You're not planning to keep it, are you?"
+    ],
+    "1113:text": [
+      "Good grief. You won't get another chance"
+    ],
+    "1114:text": [
+      "like this."
+    ],
+    "1115:text": [
+      "I'm offering to summon the real Kokkuri-san,"
+    ],
+    "1116:text": [
+      "a higher spirit, just for you."
+    ],
+    "1117:text": [
+      "Do you actually want to hear a scary story?”"
+    ],
+    "1127:text": [
+      "Nozomu Kazama"
+    ],
+    "1128:text": [
+      "“If you don't have one, I guess we'll have to make do."
+    ],
+    "1129:text": [
+      "Why don't we try with the ten-yen coin"
+    ],
+    "1130:text": [
+      "I've got on me?"
+    ],
+    "1131:text": [
+      "A ten-yen coin might not do the trick,"
+    ],
+    "1132:text": [
+      "though."
+    ],
+    "1133:text": [
+      "All right, let's get started"
+    ],
+    "1134:text": [
+      "with Kokkuri-san."
+    ],
+    "1135:text": [
+      "Could you put your index finger"
+    ],
+    "1136:text": [
+      "on the ten-yen coin?”"
+    ],
+    "1148:text": [
+      "Nozomu Kazama"
+    ],
+    "1149:text": [
+      "“...Kokkuri-san, Kokkuri-san, please come"
+    ],
+    "1150:text": [
+      "to us. Please come into this ten-yen coin."
+    ],
+    "1151:text": [
+      "Fundara datta, fundara datta,"
+    ],
+    "1152:text": [
+      "fundara datta. Kwaaaah!"
+    ],
+    "1153:text": [
+      "...Kokkuri-san has arrived."
+    ],
+    "1154:text": [
+      "Let's start the reading. Which will it be?”"
+    ],
+    "1191:glink.text.1": [
+      "1. My luck with women"
+    ],
+    "1193:glink.text.1": [
+      "1. My luck with women"
+    ],
+    "1197:glink.text.1": [
+      "2. Money matters"
+    ],
+    "1199:glink.text.1": [
+      "2. Money matters"
+    ],
+    "1203:glink.text.1": [
+      "3. School or work"
+    ],
+    "1205:glink.text.1": [
+      "3. School or work"
+    ],
+    "1209:glink.text.1": [
+      "4. My future"
+    ],
+    "1211:glink.text.1": [
+      "4. My future"
+    ],
+    "1223:glink.text.1": [
+      "1. My luck with women"
+    ],
+    "1225:glink.text.1": [
+      "1. My luck with women"
+    ],
+    "1229:glink.text.1": [
+      "2. Money matters"
+    ],
+    "1231:glink.text.1": [
+      "2. Money matters"
+    ],
+    "1235:glink.text.1": [
+      "3. School or work"
+    ],
+    "1237:glink.text.1": [
+      "3. School or work"
+    ],
+    "1241:glink.text.1": [
+      "4. My future"
+    ],
+    "1243:glink.text.1": [
+      "4. My future"
+    ],
+    "1247:glink.text.1": [
+      "5. Who are you?"
+    ],
+    "1249:glink.text.1": [
+      "5. Who are you?"
+    ],
+    "1259:text": [
+      "Nozomu Kazama"
+    ],
+    "1260:text": [
+      "“All right. Let's do your reading."
+    ],
+    "1261:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "1262:text": [
+      "tell me how ",
+      " will fare with women...”"
+    ],
+    "1272:text": [
+      "Nozomu Kazama"
+    ],
+    "1273:text": [
+      "“All right. Let's do your reading."
+    ],
+    "1274:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "1275:text": [
+      "tell me how ",
+      " will fare with money...”"
+    ],
+    "1285:text": [
+      "Nozomu Kazama"
+    ],
+    "1286:text": [
+      "“All right. Let's do your reading."
+    ],
+    "1287:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "1288:text": [
+      "tell me how ",
+      " will fare at school or work...”"
+    ],
+    "1298:text": [
+      "Nozomu Kazama"
+    ],
+    "1299:text": [
+      "“All right. Let's do your reading."
+    ],
+    "1300:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "1301:text": [
+      "tell me what the future holds for ",
+      "...”"
+    ],
+    "1311:text": [
+      "Nozomu Kazama"
+    ],
+    "1312:text": [
+      "“Aaah! K-Kokkuri-san, I'm so terribly"
+    ],
+    "1313:text": [
+      "sorry!!"
+    ],
+    "1314:text": [
+      "A t-ten-yen coin isn't good enough, is it?!"
+    ],
+    "1315:text": [
+      "I-I understand. Please return...!"
+    ],
+    "1316:text": [
+      "............................................................"
+    ],
+    "1317:text": [
+      "...................................................."
+    ],
+    "1326:text": [
+      "Well, ",
+      ", this isn't working."
+    ],
+    "1327:text": [
+      "I knew a ten-yen coin wouldn't do it."
+    ],
+    "1328:text": [
+      "Kokkuri-san, a higher spirit, did come"
+    ],
+    "1329:text": [
+      "to us just now, but..."
+    ],
+    "1330:text": [
+      "The spirit was angry that we did the ritual"
+    ],
+    "1331:text": [
+      "with a ten-yen coin as a stand-in."
+    ],
+    "1333:text": [
+      "No, we can't try this again with a ten-yen coin."
+    ],
+    "1334:text": [
+      "If we'd had a 500-yen coin, I could've given you"
+    ],
+    "1335:text": [
+      "a definite answer to that question."
+    ],
+    "1337:text": [
+      "Are you sure you don't have a 500-yen coin?"
+    ],
+    "1338:text": [
+      "Check one more time."
+    ],
+    "1339:text": [
+      "If you find one, I'll do your reading right away.”"
+    ],
+    "1349:glink.text.1": [
+      "1. Take out my hidden 500-yen coin"
+    ],
+    "1351:glink.text.1": [
+      "1. Take out my hidden 500-yen coin"
+    ],
+    "1355:glink.text.1": [
+      "2. Don't hand it over"
+    ],
+    "1357:glink.text.1": [
+      "2. Don't hand it over"
+    ],
+    "1368:text": [
+      "Nozomu Kazama"
+    ],
+    "1369:text": [
+      "“Oh! You did have a 500-yen coin!"
+    ],
+    "1370:text": [
+      "That's great. Really great."
+    ],
+    "1371:text": [
+      "Now I'll use this 500-yen coin"
+    ],
+    "1372:text": [
+      "to summon Kokkuri-san.”"
+    ],
+    "1382:text": [
+      "I couldn't do what he asked."
+    ],
+    "1385:text": [
+      "“I'm sorry, Kazama."
+    ],
+    "1386:text": [
+      "I really don't have a 500-yen coin."
+    ],
+    "1387:text": [
+      "Could we do Kokkuri-san another time?”"
+    ],
+    "1389:text": [
+      "Kazama's shoulders slumped when I said that."
+    ],
+    "1390:text": [
+      "Then he came out with this."
+    ],
+    "1392:text": [
+      "Nozomu Kazama"
+    ],
+    "1393:text": [
+      "“You can't even come up with one little 500-yen coin?"
+    ],
+    "1394:text": [
+      "At this rate, girls won't give you a second look.”"
+    ],
+    "1396:text": [
+      "...W-What's with this guy?!"
+    ],
+    "1398:text": [
+      "Nozomu Kazama"
+    ],
+    "1399:text": [
+      "“Still, it's a shame, ",
+      "."
+    ],
+    "1400:text": [
+      "If you'd only had a 500-yen coin, I could've"
+    ],
+    "1401:text": [
+      "shown you the real Kokkuri-san"
+    ],
+    "1402:text": [
+      "and told your fortune."
+    ],
+    "1403:text": [
+      "I'd gone to the trouble of preparing a good"
+    ],
+    "1404:text": [
+      "bit, too..."
+    ],
+    "1405:text": [
+      "Oh, I shouldn't call Kokkuri-san, a higher spirit,"
+    ],
+    "1406:text": [
+      "a bit, should I?"
+    ],
+    "1407:text": [
+      "Tut, tut... mumble, mumble...”"
+    ],
+    "1409:text": [
+      "Kazama was mumbling to himself."
+    ],
+    "1410:text": [
+      "What a strange guy."
+    ],
+    "1411:text": [
+      "He must've noticed me staring in silence, because he met my eyes and spoke."
+    ],
+    "1413:text": [
+      "Nozomu Kazama"
+    ],
+    "1414:text": [
+      "“Huh? What is it, ",
+      "?"
+    ],
+    "1415:text": [
+      "My story's already over.”"
+    ],
+    "1445:text": [
+      "Nozomu Kazama"
+    ],
+    "1446:text": [
+      "“I see. So you want to know your luck with women?"
+    ],
+    "1447:text": [
+      "You're a bit of a perv, aren't you? Heh heh heh heh heh heh heh heh"
+    ],
+    "1448:text": [
+      "..."
+    ],
+    "1449:text": [
+      "So, is there anyone you like right now?”"
+    ],
+    "1459:glink.text.1": [
+      "1. Yes"
+    ],
+    "1461:glink.text.1": [
+      "1. Yes"
+    ],
+    "1465:glink.text.1": [
+      "2. No"
+    ],
+    "1467:glink.text.1": [
+      "2. No"
+    ],
+    "1478:text": [
+      "Nozomu Kazama"
+    ],
+    "1479:text": [
+      "“Oh, so there is someone."
+    ],
+    "1480:text": [
+      "Are you dating them?”"
+    ],
+    "1490:text": [
+      "Nozomu Kazama"
+    ],
+    "1491:text": [
+      "“Oh, so there's no one."
+    ],
+    "1492:text": [
+      "Well then... I know. I'll ask if you're going"
+    ],
+    "1493:text": [
+      "to meet someone special soon."
+    ],
+    "1502:text": [
+      "Kokkuri-san, Kokkuri-san, please answer us."
+    ],
+    "1503:text": [
+      "Will love come into ",
+      "'s life in the near future?”"
+    ],
+    "1536:text": [
+      "Nozomu Kazama"
+    ],
+    "1537:text": [
+      "“Well, well! Who would've thought? You sly dog."
+    ],
+    "1538:text": [
+      "If you're going to meet someone, we'd better"
+    ],
+    "1539:text": [
+      "find out how things will go between you two."
+    ],
+    "1541:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "1542:text": [
+      "please answer us."
+    ],
+    "1543:text": [
+      "How will this person come to feel about ",
+      "?”"
+    ],
+    "1579:text": [
+      "Nozomu Kazama"
+    ],
+    "1580:text": [
+      "“Life has its ups and downs."
+    ],
+    "1581:text": [
+      "Cheer up. Shall we move on?”"
+    ],
+    "1607:text": [
+      "Nozomu Kazama"
+    ],
+    "1608:text": [
+      "“Oh! Looks like you've got a shot! Now you've"
+    ],
+    "1609:text": [
+      "got to tell them how you feel."
+    ],
+    "1610:text": [
+      "Good luck. So, shall we move on?”"
+    ],
+    "1636:text": [
+      "Nozomu Kazama"
+    ],
+    "1637:text": [
+      "“Hmm, sounds like they don't feel much for you."
+    ],
+    "1638:text": [
+      "Well, it's better than having them dislike you,"
+    ],
+    "1639:text": [
+      "right? So, shall we move on?”"
+    ],
+    "1663:text": [
+      "Nozomu Kazama"
+    ],
+    "1664:text": [
+      "“Life has its ups and downs."
+    ],
+    "1665:text": [
+      "Cheer up. Shall we move on?”"
+    ],
+    "1683:glink.text.1": [
+      "1. We're dating"
+    ],
+    "1685:glink.text.1": [
+      "1. We're dating"
+    ],
+    "1689:glink.text.1": [
+      "2. We're not dating"
+    ],
+    "1691:glink.text.1": [
+      "2. We're not dating"
+    ],
+    "1703:text": [
+      "Nozomu Kazama"
+    ],
+    "1704:text": [
+      "“Well, well. You don't look the type,"
+    ],
+    "1705:text": [
+      "but you know how to make a move when it counts."
+    ],
+    "1706:text": [
+      "Heh heh heh..."
+    ],
+    "1707:text": [
+      "Let me read your fortune and see"
+    ],
+    "1708:text": [
+      "if things will go well with your girlfriend."
+    ],
+    "1717:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "1718:text": [
+      "please answer us."
+    ],
+    "1719:text": [
+      "Will things go well for the two of them from now on?”"
+    ],
+    "1753:text": [
+      "Nozomu Kazama"
+    ],
+    "1754:text": [
+      "“Oh! That's good news!"
+    ],
+    "1755:text": [
+      "Now, just for fun, let's see how she"
+    ],
+    "1756:text": [
+      "feels about you."
+    ],
+    "1758:text": [
+      "Kokkuri-san, Kokkuri-san, does her heart"
+    ],
+    "1759:text": [
+      "belong to him?”"
+    ],
+    "1793:text": [
+      "Nozomu Kazama"
+    ],
+    "1794:text": [
+      "“Did you two have a fight recently?"
+    ],
+    "1795:text": [
+      "Looks like you're destined to get dumped."
+    ],
+    "1796:text": [
+      "I feel for you, but there's nothing you can do."
+    ],
+    "1798:text": [
+      "...I know. Why don't we ask about something else?"
+    ],
+    "1799:text": [
+      "Go on, which one do you want?”"
+    ],
+    "1823:text": [
+      "Nozomu Kazama"
+    ],
+    "1824:text": [
+      "“Wow. You're all giddy, huh?"
+    ],
+    "1826:text": [
+      "So, what should we ask about next?”"
+    ],
+    "1853:text": [
+      "Nozomu Kazama"
+    ],
+    "1854:text": [
+      "“Wow. You're really worked up, huh?"
+    ],
+    "1856:text": [
+      "So, what should we ask about next?”"
+    ],
+    "1866:text": [
+      "Nozomu Kazama"
+    ],
+    "1867:text": [
+      "“Oh, so it's one-sided. That's rough."
+    ],
+    "1868:text": [
+      "Right! That's exactly when you need Kokkuri-san."
+    ],
+    "1877:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "1878:text": [
+      "please answer us. Will ",
+      "'s feelings be returned?”"
+    ],
+    "1912:text": [
+      "Nozomu Kazama"
+    ],
+    "1913:text": [
+      "“Yes! Look at you, you did it!"
+    ],
+    "1914:text": [
+      "Go make your move on her right away."
+    ],
+    "1915:text": [
+      "Now let's see what the fortune says"
+    ],
+    "1916:text": [
+      "about how you should approach her."
+    ],
+    "1918:text": [
+      "Kokkuri-san, Kokkuri-san,",
+      "please answer us."
+    ],
+    "1919:text": [
+      " hopes to win her heart. How should he approach her?”"
+    ],
+    "1956:text": [
+      "Nozomu Kazama"
+    ],
+    "1957:text": [
+      "“Sounds like if you're warm to her,"
+    ],
+    "1958:text": [
+      "the rest will fall into place."
+    ],
+    "1960:text": [
+      "Honestly, you're making me blush. So, what should"
+    ],
+    "1961:text": [
+      "we ask about next?”"
+    ],
+    "1986:text": [
+      "Nozomu Kazama"
+    ],
+    "1987:text": [
+      "“Looks like you'd do better to act"
+    ],
+    "1988:text": [
+      "a little cold toward her."
+    ],
+    "1990:text": [
+      "I guess if pushing doesn't work, you try pulling back."
+    ],
+    "1991:text": [
+      "So, what should we ask about next?”"
+    ],
+    "2014:text": [
+      "Nozomu Kazama"
+    ],
+    "2015:text": [
+      "“Life has its ups and downs."
+    ],
+    "2017:text": [
+      "Let's shake it off and move on, shall we?”"
+    ],
+    "2050:glink.text.1": [
+      "1. My luck with women"
+    ],
+    "2052:glink.text.1": [
+      "1. My luck with women"
+    ],
+    "2056:glink.text.1": [
+      "2. Money matters"
+    ],
+    "2058:glink.text.1": [
+      "2. Money matters"
+    ],
+    "2062:glink.text.1": [
+      "3. School or work"
+    ],
+    "2064:glink.text.1": [
+      "3. School or work"
+    ],
+    "2068:glink.text.1": [
+      "4. My future"
+    ],
+    "2070:glink.text.1": [
+      "4. My future"
+    ],
+    "2074:glink.text.1": [
+      "5. Stop the reading"
+    ],
+    "2076:glink.text.1": [
+      "5. Stop the reading"
+    ],
+    "2126:text": [
+      "Nozomu Kazama"
+    ],
+    "2127:text": [
+      "“We already did a reading for that. Why don't you"
+    ],
+    "2128:text": [
+      "ask about something else?”"
+    ],
+    "2146:text": [
+      "Nozomu Kazama"
+    ],
+    "2147:text": [
+      "“Money matters, huh."
+    ],
+    "2148:text": [
+      "If you're worried about money, does that mean"
+    ],
+    "2149:text": [
+      "you're a big spender?”"
+    ],
+    "2160:glink.text.1": [
+      "1. Yes"
+    ],
+    "2162:glink.text.1": [
+      "1. Yes"
+    ],
+    "2166:glink.text.1": [
+      "2. No"
+    ],
+    "2168:glink.text.1": [
+      "2. No"
+    ],
+    "2179:text": [
+      "Nozomu Kazama"
+    ],
+    "2180:text": [
+      "“I see... a big spender."
+    ],
+    "2181:text": [
+      "Don't you ever want to save up to buy something,"
+    ],
+    "2182:text": [
+      "take a trip, or sign up for a class?"
+    ],
+    "2183:text": [
+      "Isn't there anything you want to do?”"
+    ],
+    "2194:glink.text.1": [
+      "1. I do have something in mind"
+    ],
+    "2196:glink.text.1": [
+      "1. I do have something in mind"
+    ],
+    "2200:glink.text.1": [
+      "2. I haven't really thought about it"
+    ],
+    "2202:glink.text.1": [
+      "2. I haven't really thought about it"
+    ],
+    "2213:text": [
+      "Nozomu Kazama"
+    ],
+    "2214:text": [
+      "“In that case, you can't keep"
+    ],
+    "2215:text": [
+      "throwing money away."
+    ],
+    "2216:text": [
+      "Still... why don't I do a reading"
+    ],
+    "2217:text": [
+      "to see if you'll reach that goal?"
+    ],
+    "2226:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "2227:text": [
+      "please answer us."
+    ],
+    "2228:text": [
+      "'s goal... will he reach it?”"
+    ],
+    "2261:text": [
+      "Nozomu Kazama"
+    ],
+    "2262:text": [
+      "“Oh, it came out well. That's good,"
+    ],
+    "2263:text": [
+      "that's good."
+    ],
+    "2264:text": [
+      "Starting today, make a plan"
+    ],
+    "2265:text": [
+      "for how you spend your money."
+    ],
+    "2269:text": [
+      "So, what should we ask about next?”"
+    ],
+    "2292:text": [
+      "Nozomu Kazama"
+    ],
+    "2293:text": [
+      "“Oh, boy... Well, don't take it"
+    ],
+    "2294:text": [
+      "too hard."
+    ],
+    "2296:text": [
+      "I'll read something else for you. Come on,"
+    ],
+    "2297:text": [
+      "what'll it be?”"
+    ],
+    "2307:text": [
+      "Nozomu Kazama"
+    ],
+    "2308:text": [
+      "“You're hopeless, you know that?"
+    ],
+    "2309:text": [
+      "You waste money and you don't have a goal. What do you"
+    ],
+    "2310:text": [
+      "expect me to tell you about your finances?"
+    ],
+    "2311:text": [
+      "All right, fine. I'll see whether you're"
+    ],
+    "2312:text": [
+      "lucky with money right now."
+    ],
+    "2321:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "2322:text": [
+      "please answer us."
+    ],
+    "2323:text": [
+      "At the moment, is ",
+      " lucky with money?”"
+    ],
+    "2356:text": [
+      "Nozomu Kazama"
+    ],
+    "2357:text": [
+      "“Huh. Good for you."
+    ],
+    "2358:text": [
+      "Since you've got luck on your side,"
+    ],
+    "2359:text": [
+      "why not plan your spending a little better?"
+    ],
+    "2361:text": [
+      "So, what should we ask about next?”"
+    ],
+    "2384:text": [
+      "Nozomu Kazama"
+    ],
+    "2385:text": [
+      "“Oh, boy... Well, don't take it"
+    ],
+    "2386:text": [
+      "too hard."
+    ],
+    "2388:text": [
+      "I'll read something else for you. Come on,"
+    ],
+    "2389:text": [
+      "what'll it be?”"
+    ],
+    "2399:text": [
+      "Nozomu Kazama"
+    ],
+    "2400:text": [
+      "“So you're not a big spender."
+    ],
+    "2401:text": [
+      "Does that mean you like"
+    ],
+    "2402:text": [
+      "saving money?"
+    ],
+    "2403:text": [
+      "Or are you just broke?”"
+    ],
+    "2414:glink.text.1": [
+      "1. I like saving money"
+    ],
+    "2416:glink.text.1": [
+      "1. I like saving money"
+    ],
+    "2420:glink.text.1": [
+      "2. I'm just broke"
+    ],
+    "2422:glink.text.1": [
+      "2. I'm just broke"
+    ],
+    "2433:text": [
+      "Nozomu Kazama"
+    ],
+    "2434:text": [
+      "“Right, then let's see"
+    ],
+    "2435:text": [
+      "if you'll ever be rich."
+    ],
+    "2444:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "2445:text": [
+      "please answer us."
+    ],
+    "2446:text": [
+      "Will he become rich"
+    ],
+    "2447:text": [
+      "one day?”"
+    ],
+    "2481:text": [
+      "Nozomu Kazama"
+    ],
+    "2482:text": [
+      "“Good for you!"
+    ],
+    "2483:text": [
+      "Sounds like you should keep"
+    ],
+    "2484:text": [
+      "saving money like you've been doing."
+    ],
+    "2486:text": [
+      "So, shall we move on?”"
+    ],
+    "2509:text": [
+      "Nozomu Kazama"
+    ],
+    "2510:text": [
+      "“Oh, boy... Well, don't take it"
+    ],
+    "2511:text": [
+      "too hard."
+    ],
+    "2513:text": [
+      "I'll read something else for you. Come on,"
+    ],
+    "2514:text": [
+      "what'll it be?”"
+    ],
+    "2524:text": [
+      "Nozomu Kazama"
+    ],
+    "2525:text": [
+      "“Broke, huh... That's no fun."
+    ],
+    "2526:text": [
+      "Well, you may be broke now, but you might"
+    ],
+    "2527:text": [
+      "make it big someday. Shall we"
+    ],
+    "2528:text": [
+      "see what your fortune says?"
+    ],
+    "2537:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "2538:text": [
+      "please answer us."
+    ],
+    "2539:text": [
+      "—will he have a chance to become rich someday?”"
+    ],
+    "2573:text": [
+      "Nozomu Kazama"
+    ],
+    "2574:text": [
+      "“You may be broke now, but apparently you'll be rich"
+    ],
+    "2575:text": [
+      "someday, so keep at it."
+    ],
+    "2577:text": [
+      "So, shall we move on?”"
+    ],
+    "2600:text": [
+      "Nozomu Kazama"
+    ],
+    "2601:text": [
+      "“Oh, boy... Well, don't take it"
+    ],
+    "2602:text": [
+      "too hard."
+    ],
+    "2604:text": [
+      "I'll read something else for you. Come on,"
+    ],
+    "2605:text": [
+      "what'll it be?”"
+    ],
+    "2616:text": [
+      "Nozomu Kazama"
+    ],
+    "2617:text": [
+      "“So that's what you want a reading about."
+    ],
+    "2618:text": [
+      "Hmm, have you got a particular job in mind"
+    ],
+    "2619:text": [
+      "for the future?”"
+    ],
+    "2630:glink.text.1": [
+      "1. Nod"
+    ],
+    "2632:glink.text.1": [
+      "1. Nod"
+    ],
+    "2636:glink.text.1": [
+      "2. Don't nod"
+    ],
+    "2638:glink.text.1": [
+      "2. Don't nod"
+    ],
+    "2648:text": [
+      "Nozomu Kazama"
+    ],
+    "2649:text": [
+      "“I see. You've already given your future"
+    ],
+    "2650:text": [
+      "quite a bit of thought."
+    ],
+    "2651:text": [
+      "Are you studying anything"
+    ],
+    "2652:text": [
+      "to help you get there?”"
+    ],
+    "2663:glink.text.1": [
+      "1. I am"
+    ],
+    "2665:glink.text.1": [
+      "1. I am"
+    ],
+    "2669:glink.text.1": [
+      "2. I haven't started yet"
+    ],
+    "2671:glink.text.1": [
+      "2. I haven't started yet"
+    ],
+    "2682:text": [
+      "Nozomu Kazama"
+    ],
+    "2683:text": [
+      "“So you're working hard at it."
+    ],
+    "2684:text": [
+      "Well then, I'll see if your studies will pay off"
+    ],
+    "2685:text": [
+      "and you'll be able to get"
+    ],
+    "2686:text": [
+      "the job you're hoping for."
+    ],
+    "2695:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "2696:text": [
+      "please answer us."
+    ],
+    "2697:text": [
+      "I'm told ",
+      " has a job he'd like to do."
+    ],
+    "2698:text": [
+      "Will his efforts bear fruit?”"
+    ],
+    "2732:text": [
+      "Nozomu Kazama"
+    ],
+    "2733:text": [
+      "“It says your efforts will pay off. That's right,"
+    ],
+    "2734:text": [
+      "keep at it."
+    ],
+    "2735:text": [
+      "Now I'll tell your fortune and see"
+    ],
+    "2736:text": [
+      "whether you'll succeed in that job."
+    ],
+    "2738:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "2739:text": [
+      "please answer us."
+    ],
+    "2740:text": [
+      "If he gets that job, will he"
+    ],
+    "2741:text": [
+      "succeed? Please tell us.”"
+    ],
+    "2778:text": [
+      "Nozomu Kazama"
+    ],
+    "2779:text": [
+      "“Just as I expected!"
+    ],
+    "2780:text": [
+      "I knew right from the start"
+    ],
+    "2781:text": [
+      "that you were a man with potential."
+    ],
+    "2783:text": [
+      "So, what should we ask about next?”"
+    ],
+    "2809:text": [
+      "Nozomu Kazama"
+    ],
+    "2810:text": [
+      "“Hmm. The world isn't that kind."
+    ],
+    "2811:text": [
+      "Still, you mustn't give up trying."
+    ],
+    "2813:text": [
+      "Shall we put that behind us and ask about"
+    ],
+    "2814:text": [
+      "something else?”"
+    ],
+    "2837:text": [
+      "Nozomu Kazama"
+    ],
+    "2838:text": [
+      "“Maybe the way you study isn't working."
+    ],
+    "2839:text": [
+      "Or maybe you should pick a different line of work."
+    ],
+    "2840:text": [
+      "...Don't let it get you down."
+    ],
+    "2842:text": [
+      "I know. Is there anything else you'd like to ask?"
+    ],
+    "2843:text": [
+      "Come on, take your pick.”"
+    ],
+    "2853:text": [
+      "Nozomu Kazama"
+    ],
+    "2854:text": [
+      "“Get studying, then."
+    ],
+    "2855:text": [
+      "Girls don't go for lazy guys."
+    ],
+    "2856:text": [
+      "Well, I'll see if you can get that job"
+    ],
+    "2857:text": [
+      "in the future, but with an attitude like that,"
+    ],
+    "2858:text": [
+      "the result might not be what you'd hope for."
+    ],
+    "2867:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "2868:text": [
+      "please answer us."
+    ],
+    "2869:text": [
+      "Will he be able to get"
+    ],
+    "2870:text": [
+      "the job he wants?”"
+    ],
+    "2904:text": [
+      "Nozomu Kazama"
+    ],
+    "2905:text": [
+      "“Just as I expected!"
+    ],
+    "2906:text": [
+      "I knew right from the start"
+    ],
+    "2907:text": [
+      "that you were a man with potential."
+    ],
+    "2909:text": [
+      "So, what should we ask about next?”"
+    ],
+    "2931:text": [
+      "Nozomu Kazama"
+    ],
+    "2932:text": [
+      "“Hmm. The world isn't that kind."
+    ],
+    "2933:text": [
+      "Still, you mustn't give up trying."
+    ],
+    "2935:text": [
+      "Shall we put that behind us and ask about"
+    ],
+    "2936:text": [
+      "something else?”"
+    ],
+    "2945:text": [
+      "Nozomu Kazama"
+    ],
+    "2946:text": [
+      "“If you don't have a job in mind yet,"
+    ],
+    "2947:text": [
+      "let's just ask about your studies."
+    ],
+    "2948:text": [
+      "......Would you like to ask about entrance exams"
+    ],
+    "2949:text": [
+      "or your school tests?”"
+    ],
+    "2960:glink.text.1": [
+      "1. Entrance exams"
+    ],
+    "2962:glink.text.1": [
+      "1. Entrance exams"
+    ],
+    "2966:glink.text.1": [
+      "2. School tests"
+    ],
+    "2968:glink.text.1": [
+      "2. School tests"
+    ],
+    "2979:text": [
+      "Nozomu Kazama"
+    ],
+    "2980:text": [
+      "“I see. Of course you're worried about"
+    ],
+    "2981:text": [
+      "entrance exams."
+    ],
+    "2982:text": [
+      "All right, let's see whether you get the result"
+    ],
+    "2983:text": [
+      "you want on your next entrance exams."
+    ],
+    "2992:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "2993:text": [
+      "please answer us."
+    ],
+    "2994:text": [
+      "Will he get into his first-choice school"
+    ],
+    "2995:text": [
+      "in the next round of entrance exams?”"
+    ],
+    "3029:text": [
+      "Nozomu Kazama"
+    ],
+    "3030:text": [
+      "“Just as I expected!"
+    ],
+    "3031:text": [
+      "I knew right from the start"
+    ],
+    "3032:text": [
+      "that you were a man with potential."
+    ],
+    "3034:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3056:text": [
+      "Nozomu Kazama"
+    ],
+    "3057:text": [
+      "“Hmm. The world isn't that kind."
+    ],
+    "3058:text": [
+      "Still, you mustn't give up trying."
+    ],
+    "3060:text": [
+      "Shall we put that behind us and ask about"
+    ],
+    "3061:text": [
+      "something else?”"
+    ],
+    "3071:text": [
+      "Nozomu Kazama"
+    ],
+    "3072:text": [
+      "“I see. You're more concerned about the school tests"
+    ],
+    "3073:text": [
+      "coming up than your entrance exams."
+    ],
+    "3074:text": [
+      "All right, let's see how you do"
+    ],
+    "3075:text": [
+      "on your next end-of-term exams."
+    ],
+    "3084:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "3085:text": [
+      "please answer us."
+    ],
+    "3086:text": [
+      "Will he get good grades"
+    ],
+    "3087:text": [
+      "on his next end-of-term exams?”"
+    ],
+    "3120:text": [
+      "Nozomu Kazama"
+    ],
+    "3121:text": [
+      "“Wow! So you're smart, huh? Or are you"
+    ],
+    "3122:text": [
+      "a hard worker?"
+    ],
+    "3124:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3150:text": [
+      "Nozomu Kazama"
+    ],
+    "3151:text": [
+      "“Hmm. The world isn't that kind."
+    ],
+    "3152:text": [
+      "Still, you mustn't give up trying."
+    ],
+    "3154:text": [
+      "Shall we put that behind us and ask about"
+    ],
+    "3155:text": [
+      "something else?”"
+    ],
+    "3165:text": [
+      "Nozomu Kazama"
+    ],
+    "3166:text": [
+      "“Let me warn you first."
+    ],
+    "3167:text": [
+      "The answers here concern a more distant future"
+    ],
+    "3168:text": [
+      "than the other questions do."
+    ],
+    "3169:text": [
+      "Life takes all sorts of turns."
+    ],
+    "3170:text": [
+      "You might break up with someone you're dating,"
+    ],
+    "3171:text": [
+      "make money, lose money..."
+    ],
+    "3172:text": [
+      "Things are always changing, day by day."
+    ],
+    "3173:text": [
+      "Even if the other readings turn out badly, if this one"
+    ],
+    "3174:text": [
+      "is good, all's well that ends well."
+    ],
+    "3176:text": [
+      "On the other hand, even if all the other readings"
+    ],
+    "3177:text": [
+      "are good, a bad one here means a rough future"
+    ],
+    "3178:text": [
+      "for you."
+    ],
+    "3179:text": [
+      "...Still want me to read your fortune in this area?”"
+    ],
+    "3190:glink.text.1": [
+      "1. Get a reading"
+    ],
+    "3192:glink.text.1": [
+      "1. Get a reading"
+    ],
+    "3196:glink.text.1": [
+      "2. Hold off for now"
+    ],
+    "3198:glink.text.1": [
+      "2. Hold off for now"
+    ],
+    "3209:text": [
+      "Nozomu Kazama"
+    ],
+    "3210:text": [
+      "“All right, let's do your reading."
+    ],
+    "3211:text": [
+      "...Do you have a dream for the future?”"
+    ],
+    "3222:glink.text.1": [
+      "1. I do"
+    ],
+    "3224:glink.text.1": [
+      "1. I do"
+    ],
+    "3228:glink.text.1": [
+      "2. Nothing in particular yet"
+    ],
+    "3230:glink.text.1": [
+      "2. Nothing in particular yet"
+    ],
+    "3241:text": [
+      "Nozomu Kazama"
+    ],
+    "3242:text": [
+      "“I see. Then what would you like a reading on?”"
+    ],
+    "3252:text": [
+      "Nozomu Kazama"
+    ],
+    "3253:text": [
+      "“Can you make that dream come true on your own?"
+    ],
+    "3254:text": [
+      "Or is it something you couldn't do alone?”"
+    ],
+    "3264:glink.text.1": [
+      "1. I can do it on my own"
+    ],
+    "3266:glink.text.1": [
+      "1. I can do it on my own"
+    ],
+    "3270:glink.text.1": [
+      "2. I can't do it alone"
+    ],
+    "3272:glink.text.1": [
+      "2. I can't do it alone"
+    ],
+    "3283:text": [
+      "Nozomu Kazama"
+    ],
+    "3284:text": [
+      "“So your dream comes down to your own effort,"
+    ],
+    "3285:text": [
+      "does it?"
+    ],
+    "3286:text": [
+      "Then let's do a reading."
+    ],
+    "3287:text": [
+      "Now, focus your mind"
+    ],
+    "3288:text": [
+      "on what I'm about to say."
+    ],
+    "3289:text": [
+      "Picture your dream."
+    ],
+    "3298:text": [
+      "...Kokkuri-san, Kokkuri-san,"
+    ],
+    "3299:text": [
+      "please answer us."
+    ],
+    "3300:text": [
+      "Will the dream he's picturing in his mind now"
+    ],
+    "3301:text": [
+      "come true someday?”"
+    ],
+    "3335:text": [
+      "Nozomu Kazama"
+    ],
+    "3336:text": [
+      "“...Good for you. I don't know what your dream is,"
+    ],
+    "3337:text": [
+      "but it seems it'll come true someday, so keep at it."
+    ],
+    "3338:text": [
+      "Next... let's ask about the obstacles"
+    ],
+    "3339:text": [
+      "you'll have to overcome to make it happen."
+    ],
+    "3341:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "3342:text": [
+      "please answer us."
+    ],
+    "3343:text": [
+      "Could you tell us what will get in his way"
+    ],
+    "3344:text": [
+      "as he works to make his dream come true?”"
+    ],
+    "3383:text": [
+      "Nozomu Kazama"
+    ],
+    "3384:text": [
+      "“Ah, it says you'll be torn between love"
+    ],
+    "3385:text": [
+      "and your dream."
+    ],
+    "3386:text": [
+      "Do you put your partner first, or your dream?"
+    ],
+    "3387:text": [
+      "That's a tough one."
+    ],
+    "3388:text": [
+      "But it does say your dream will come true."
+    ],
+    "3389:text": [
+      "I wonder where that leaves your partner..."
+    ],
+    "3391:text": [
+      "Well, it'd be nice if you could have"
+    ],
+    "3392:text": [
+      "both love and your dream."
+    ],
+    "3394:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3419:text": [
+      "Nozomu Kazama"
+    ],
+    "3420:text": [
+      "“Looks like you'll have a hard time getting"
+    ],
+    "3421:text": [
+      "the people around you to understand."
+    ],
+    "3422:text": [
+      "But your dream will come true in the end,"
+    ],
+    "3423:text": [
+      "so keep at it and never give up."
+    ],
+    "3425:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3451:text": [
+      "Nozomu Kazama"
+    ],
+    "3452:text": [
+      "“It says a friend will stand in your way."
+    ],
+    "3453:text": [
+      "You might even be betrayed"
+    ],
+    "3454:text": [
+      "by a close friend."
+    ],
+    "3455:text": [
+      "But it says your dream will come true,"
+    ],
+    "3456:text": [
+      "so keep believing in yourself and don't give up."
+    ],
+    "3458:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3485:text": [
+      "Nozomu Kazama"
+    ],
+    "3486:text": [
+      "“Life has mountains, valleys, rivers, forests,"
+    ],
+    "3487:text": [
+      "woods, birds, flowers, butterflies... all sorts of things."
+    ],
+    "3488:text": [
+      "You don't understand what I'm saying?"
+    ],
+    "3490:text": [
+      "Well, never mind. So, what should we ask about next?”"
+    ],
+    "3500:text": [
+      "Nozomu Kazama"
+    ],
+    "3501:text": [
+      "“There are all kinds of dreams, like starting a business"
+    ],
+    "3502:text": [
+      "with some friends or marrying the person you love."
+    ],
+    "3503:text": [
+      "Then let's do a reading."
+    ],
+    "3504:text": [
+      "Now, focus your mind"
+    ],
+    "3505:text": [
+      "on what I'm about to say."
+    ],
+    "3506:text": [
+      "Picture your dream."
+    ],
+    "3515:text": [
+      "...Kokkuri-san, Kokkuri-san,"
+    ],
+    "3516:text": [
+      "please answer us."
+    ],
+    "3517:text": [
+      "Will the dream he's picturing in his mind now"
+    ],
+    "3518:text": [
+      "come true someday?”"
+    ],
+    "3552:text": [
+      "Nozomu Kazama"
+    ],
+    "3553:text": [
+      "“Good for you. I don't know what your dream is,"
+    ],
+    "3554:text": [
+      "but it seems it'll come true someday, so keep"
+    ],
+    "3555:text": [
+      "at it."
+    ],
+    "3556:text": [
+      "Next... let's ask about the people"
+    ],
+    "3557:text": [
+      "who'll help make that dream come true."
+    ],
+    "3559:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "3560:text": [
+      "please answer us."
+    ],
+    "3561:text": [
+      "Just who will help him"
+    ],
+    "3562:text": [
+      "make his dream come true?”"
+    ],
+    "3598:text": [
+      "Nozomu Kazama"
+    ],
+    "3599:text": [
+      "“Looks like you'll have people helping you everywhere."
+    ],
+    "3600:text": [
+      "Friends, a partner, neighbors..."
+    ],
+    "3601:text": [
+      "It says all sorts of people will support you"
+    ],
+    "3602:text": [
+      "because of who you are. Keep at it."
+    ],
+    "3604:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3630:text": [
+      "Nozomu Kazama"
+    ],
+    "3631:text": [
+      "“Looks like your friends will help you."
+    ],
+    "3632:text": [
+      "Make sure you always value your friends."
+    ],
+    "3634:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3643:text": [
+      "Nozomu Kazama"
+    ],
+    "3644:text": [
+      "“You don't have a dream, but you want to know your future... Hmm."
+    ],
+    "3645:text": [
+      "If you ask a question that's too vague,"
+    ],
+    "3646:text": [
+      "Kokkuri-san will get angry, you know."
+    ],
+    "3647:text": [
+      "Could you be a little clearer"
+    ],
+    "3648:text": [
+      "about what you want?"
+    ],
+    "3649:text": [
+      "What kind of life do you want to lead in the future?”"
+    ],
+    "3663:glink.text.1": [
+      "1. I want a life full of fun"
+    ],
+    "3665:glink.text.1": [
+      "1. I want a life full of fun"
+    ],
+    "3669:glink.text.1": [
+      "2. I want a turbulent life"
+    ],
+    "3671:glink.text.1": [
+      "2. I want a turbulent life"
+    ],
+    "3675:glink.text.1": [
+      "3. I want a steady life, even if it's ordinary"
+    ],
+    "3677:glink.text.1": [
+      "3. I want a steady life, even if it's ordinary"
+    ],
+    "3681:glink.text.1": [
+      "4. It's... a... secret"
+    ],
+    "3683:glink.text.1": [
+      "4. It's... a... secret"
+    ],
+    "3693:text": [
+      "Nozomu Kazama"
+    ],
+    "3694:text": [
+      "“Right, then let me read your fortune."
+    ],
+    "3703:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "3704:text": [
+      "please answer us."
+    ],
+    "3705:text": [
+      "Will he be able to live"
+    ],
+    "3706:text": [
+      "a life full of fun in the future?”"
+    ],
+    "3740:text": [
+      "Nozomu Kazama"
+    ],
+    "3741:text": [
+      "“Good for you. It looks like"
+    ],
+    "3742:text": [
+      "your wish will come true."
+    ],
+    "3744:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3767:text": [
+      "Nozomu Kazama"
+    ],
+    "3768:text": [
+      "“Well, that was a sad answer."
+    ],
+    "3769:text": [
+      "If you'll settle for me, you can come cry in my arms."
+    ],
+    "3770:text": [
+      "...Don't give me such a scary look."
+    ],
+    "3771:text": [
+      "I was joking. I don't want some guy crying on my chest."
+    ],
+    "3773:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3782:text": [
+      "Nozomu Kazama"
+    ],
+    "3783:text": [
+      "“Hmm, then let me read your fortune."
+    ],
+    "3792:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "3793:text": [
+      "please answer us."
+    ],
+    "3794:text": [
+      "Will he get to live a turbulent life"
+    ],
+    "3795:text": [
+      "in the future?”"
+    ],
+    "3829:text": [
+      "Nozomu Kazama"
+    ],
+    "3830:text": [
+      "“Good for you. It looks like"
+    ],
+    "3831:text": [
+      "your wish will come true."
+    ],
+    "3833:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3842:text": [
+      "Nozomu Kazama"
+    ],
+    "3843:text": [
+      "“You're awfully young"
+    ],
+    "3844:text": [
+      "to be thinking of such a dull life."
+    ],
+    "3845:text": [
+      "Well, that's fine."
+    ],
+    "3846:text": [
+      "Then let me read your fortune."
+    ],
+    "3855:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "3856:text": [
+      "please answer us."
+    ],
+    "3857:text": [
+      "Will he be able to live a steady life in the future,"
+    ],
+    "3858:text": [
+      "even if it's an ordinary one?”"
+    ],
+    "3892:text": [
+      "Nozomu Kazama"
+    ],
+    "3893:text": [
+      "“Good for you. It looks like"
+    ],
+    "3894:text": [
+      "your wish will come true."
+    ],
+    "3896:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3905:text": [
+      "Nozomu Kazama"
+    ],
+    "3906:text": [
+      "“......A secret? How naughty."
+    ],
+    "3907:text": [
+      "Well, if you don't want to tell me, that's fine."
+    ],
+    "3908:text": [
+      "Then you can ask Kokkuri-san"
+    ],
+    "3909:text": [
+      "yourself."
+    ],
+    "3918:text": [
+      "Kokkuri-san, Kokkuri-san,"
+    ],
+    "3919:text": [
+      "please answer us."
+    ],
+    "3920:text": [
+      "Will the wish he's about to make come true?"
+    ],
+    "3921:text": [
+      "Now, ",
+      ", tell the spirit your wish."
+    ],
+    "3922:text": [
+      "Just whisper it under your breath"
+    ],
+    "3923:text": [
+      "so no one else can hear.”"
+    ],
+    "3926:text": [
+      "“............................................................"
+    ],
+    "3927:text": [
+      "............................................................"
+    ],
+    "3928:text": [
+      "...............”"
+    ],
+    "3962:text": [
+      "Nozomu Kazama"
+    ],
+    "3963:text": [
+      "“Good for you. It looks like"
+    ],
+    "3964:text": [
+      "your wish will come true."
+    ],
+    "3966:text": [
+      "So, what should we ask about next?”"
+    ],
+    "3982:text": [
+      "Nozomu Kazama"
+    ],
+    "3983:text": [
+      "“What? You're stopping already? And Kokkuri-san"
+    ],
+    "3984:text": [
+      "went to the trouble of coming here."
+    ],
+    "3985:text": [
+      "What a shame."
+    ],
+    "3986:text": [
+      "Well, I suppose it can't be helped."
+    ],
+    "3988:text": [
+      "So, did you get to see"
+    ],
+    "3989:text": [
+      "Kokkuri-san?"
+    ],
+    "3990:text": [
+      "You didn't?"
+    ],
+    "3991:text": [
+      "What are you talking about? The spirit's still"
+    ],
+    "3992:text": [
+      "right here."
+    ],
+    "3994:text": [
+      "Take a good look. See... the others must be bored."
+    ],
+    "3995:text": [
+      "They've started nodding off."
+    ],
+    "3996:text": [
+      "Nod... nod... Kokkuri-san, the nodding spirit."
+    ],
+    "3997:text": [
+      "See? You've seen Kokkuri-san, haven't you?"
+    ],
+    "3998:text": [
+      "And that's the end of my story.”"
+    ],
+    "4011:text": [
+      "Nozomu Kazama"
+    ],
+    "4012:text": [
+      "“Next storyteller, please.”"
+    ],
+    "4014:text": [
+      "....................................."
+    ],
+    "4015:text": [
+      "What was that? What was this Kazama guy trying to say?"
+    ],
+    "4017:text": [
+      "...Oh! He'd just pocketed the 500-yen coin I gave him."
+    ],
+    "4018:text": [
+      "Some nerve, shaking down someone younger than him."
+    ],
+    "4020:text": [
+      "Kazama was looking at me and smiling."
+    ],
+    "4021:text": [
+      "Just ignore him."
+    ],
+    "4022:text": [
+      "I should probably stay away from this guy from now on."
+    ],
+    "4052:glink.text.1": [
+      "1. Kazama's luck with women"
+    ],
+    "4054:glink.text.1": [
+      "1. Kazama's luck with women"
+    ],
+    "4058:glink.text.1": [
+      "2. Kazama's money matters"
+    ],
+    "4060:glink.text.1": [
+      "2. Kazama's money matters"
+    ],
+    "4064:glink.text.1": [
+      "3. Kazama's school or work"
+    ],
+    "4066:glink.text.1": [
+      "3. Kazama's school or work"
+    ],
+    "4070:glink.text.1": [
+      "4. Kazama's future"
+    ],
+    "4072:glink.text.1": [
+      "4. Kazama's future"
+    ],
+    "4076:glink.text.1": [
+      "5. Stop the reading"
+    ],
+    "4078:glink.text.1": [
+      "5. Stop the reading"
+    ],
+    "4089:text": [
+      "Nozomu Kazama"
+    ],
+    "4090:text": [
+      "“Give it a rest. You don't need to ask"
+    ],
+    "4091:text": [
+      "about me."
+    ],
+    "4092:text": [
+      "Isn't there anything else"
+    ],
+    "4093:text": [
+      "you want to ask?”"
+    ],
+    "4099:glink.text.1": [
+      "1. Kazama's luck with women"
+    ],
+    "4101:glink.text.1": [
+      "1. Kazama's luck with women"
+    ],
+    "4105:glink.text.1": [
+      "2. Kazama's money matters"
+    ],
+    "4107:glink.text.1": [
+      "2. Kazama's money matters"
+    ],
+    "4111:glink.text.1": [
+      "3. Kazama's school or work"
+    ],
+    "4113:glink.text.1": [
+      "3. Kazama's school or work"
+    ],
+    "4117:glink.text.1": [
+      "4. Kazama's future"
+    ],
+    "4119:glink.text.1": [
+      "4. Kazama's future"
+    ],
+    "4123:glink.text.1": [
+      "5. Stop the reading"
+    ],
+    "4125:glink.text.1": [
+      "5. Stop the reading"
+    ],
+    "4138:text": [
+      "Nozomu Kazama"
+    ],
+    "4139:text": [
+      "“Give it a rest. You don't need to ask"
+    ],
+    "4140:text": [
+      "about me."
+    ],
+    "4141:text": [
+      "Isn't there anything else"
+    ],
+    "4142:text": [
+      "you want to ask?”"
+    ],
+    "4148:glink.text.1": [
+      "1. Kazama's luck with women"
+    ],
+    "4150:glink.text.1": [
+      "1. Kazama's luck with women"
+    ],
+    "4154:glink.text.1": [
+      "2. Kazama's money matters"
+    ],
+    "4156:glink.text.1": [
+      "2. Kazama's money matters"
+    ],
+    "4160:glink.text.1": [
+      "3. Kazama's school or work"
+    ],
+    "4162:glink.text.1": [
+      "3. Kazama's school or work"
+    ],
+    "4166:glink.text.1": [
+      "4. Kazama's future"
+    ],
+    "4168:glink.text.1": [
+      "4. Kazama's future"
+    ],
+    "4172:glink.text.1": [
+      "5. Stop the reading"
+    ],
+    "4174:glink.text.1": [
+      "5. Stop the reading"
+    ],
+    "4193:text": [
+      "Nozomu Kazama"
+    ],
+    "4194:text": [
+      "“You really don't know when to quit, do you?"
+    ],
+    "4195:text": [
+      "I told you to leave my business alone."
+    ],
+    "4196:text": [
+      "People who keep nagging don't get dates, you know."
+    ],
+    "4197:text": [
+      "Seems you're out of questions, so let's ask"
+    ],
+    "4198:text": [
+      "Kokkuri-san to return. Yes, that's a good idea!"
+    ],
+    "4207:text": [
+      "Kokkuri-san, Kokkuri-san, thank you"
+    ],
+    "4208:text": [
+      "very much."
+    ],
+    "4209:text": [
+      "Circle the torii gate three times and return.”"
+    ],
+    "4236:text": [
+      "Nozomu Kazama"
+    ],
+    "4237:text": [
+      "“There! Kokkuri-san has gone back!"
+    ],
+    "4238:text": [
+      "Huh? I sent Kokkuri-san back before you could"
+    ],
+    "4239:text": [
+      "see the spirit?"
+    ],
+    "4240:text": [
+      "...You can't see it?"
+    ],
+    "4241:text": [
+      "What are you talking about? Of course you can!"
+    ],
+    "4242:text": [
+      "Take a good look. See... the others must be bored."
+    ],
+    "4243:text": [
+      "They've started nodding off."
+    ],
+    "4244:text": [
+      "Nod... nod... Kokkuri-san, the nodding spirit."
+    ],
+    "4245:text": [
+      "See? You've seen Kokkuri-san, haven't you?"
+    ],
+    "4246:text": [
+      "And that's the end of my story.”"
+    ],
+    "4275:text": [
+      "Nozomu Kazama"
+    ],
+    "4276:text": [
+      "“Huh? ‘No’? W-What's going on"
+    ],
+    "4277:text": [
+      "here?"
+    ],
+    "4278:text": [
+      "T-This has never happened"
+    ],
+    "4279:text": [
+      "before..."
+    ],
+    "4281:text": [
+      "No choice. I'll try again."
+    ],
+    "4282:text": [
+      "Kokkuri-san, Kokkuri-san, thank you"
+    ],
+    "4283:text": [
+      "very much."
+    ],
+    "4284:text": [
+      "Circle the torii gate three times and return.”"
+    ],
+    "4318:text": [
+      "Nozomu Kazama"
+    ],
+    "4319:text": [
+      "“This can't be... Kokkuri-san won't go back..."
+    ],
+    "4320:text": [
+      "Why...?”"
+    ],
+    "4323:text": [
+      "“Um... The way I heard it, after you summon Kokkuri-san,"
+    ],
+    "4324:text": [
+      "you check by asking, ‘Are you"
+    ],
+    "4325:text": [
+      "Kokkuri-san?’...”"
+    ],
+    "4327:text": [
+      "Nozomu Kazama"
+    ],
+    "4328:text": [
+      "“What are you trying to say?”"
+    ],
+    "4331:text": [
+      "“M-Maybe what you summoned"
+    ],
+    "4332:text": [
+      "wasn't Kokkuri-san...”"
+    ],
+    "4341:text": [
+      "Nozomu Kazama"
+    ],
+    "4342:text": [
+      "“That's impossible! I'm a Kokkuri-san"
+    ],
+    "4343:text": [
+      "specialist!!"
+    ],
+    "4344:text": [
+      "I've never failed"
+    ],
+    "4345:text": [
+      "even once!”"
+    ],
+    "4347:text": [
+      "That's a little different from what he said before... Well, I guess I'll..."
+    ],
+    "4358:glink.text.1": [
+      "1. Ask it a question"
+    ],
+    "4360:glink.text.1": [
+      "1. Ask it a question"
+    ],
+    "4364:glink.text.1": [
+      "2. Trust Kazama"
+    ],
+    "4366:glink.text.1": [
+      "2. Trust Kazama"
+    ],
+    "4385:text": [
+      "“Are you Kokkuri-san?”"
+    ],
+    "4387:text": [
+      "Nozomu Kazama"
+    ],
+    "4388:text": [
+      "“Hey! Who said you could do that?!”"
+    ],
+    "4390:text": [
+      "I plucked up my courage and addressed the 500-yen coin, ignoring Kazama."
+    ],
+    "4391:text": [
+      "Then the 500-yen coin glided across the paper... and..."
+    ],
+    "4395:text": [
+      "Nozomu Kazama"
+    ],
+    "4396:text": [
+      "“It... it's not Kokkuri-san?!”"
+    ],
+    "4400:text": [
+      "“Then I'd like to ask you something."
+    ],
+    "4401:text": [
+      "Who are you?”"
+    ],
+    "4403:text": [
+      "...All right. The 500-yen coin started moving."
+    ],
+    "4404:text": [
+      "I just had to keep going like this."
+    ],
+    "4426:text": [
+      "Nozomu Kazama"
+    ],
+    "4427:text": [
+      "“Huh? ‘Who do you think?’”"
+    ],
+    "4443:glink.text.1": [
+      "1. Angel-sama"
+    ],
+    "4445:glink.text.1": [
+      "1. Angel-sama"
+    ],
+    "4449:glink.text.1": [
+      "2. Cupid-san"
+    ],
+    "4451:glink.text.1": [
+      "2. Cupid-san"
+    ],
+    "4455:glink.text.1": [
+      "3. Ask more questions"
+    ],
+    "4457:glink.text.1": [
+      "3. Ask more questions"
+    ],
+    "4469:text": [
+      "Nozomu Kazama"
+    ],
+    "4470:text": [
+      "“All right, I'll use a spell to send it back!"
+    ],
+    "4471:text": [
+      "Unnyahara unyarahara... mumumumumu..."
+    ],
+    "4472:text": [
+      "Kishaaaaaa! There, now...”"
+    ],
+    "4477:text": [
+      "“K-Kazama?!”"
+    ],
+    "4479:text": [
+      "Nozomu Kazama"
+    ],
+    "4480:text": [
+      "“Heh heh... It seems today's Kokkuri-san"
+    ],
+    "4481:text": [
+      "was a mischievous one."
+    ],
+    "4482:text": [
+      "It threw a little tantrum"
+    ],
+    "4483:text": [
+      "just to give us a scare."
+    ],
+    "4484:text": [
+      "But it really went the extra mile to entertain us."
+    ],
+    "4485:text": [
+      "It even showed us that impressive trick"
+    ],
+    "4486:text": [
+      "of conjuring a bucket out of thin air..."
+    ],
+    "4487:text": [
+      "Ow, ow... Well? After all that, surely"
+    ],
+    "4488:text": [
+      "no one could still doubt Kokkuri-san exists, right?”"
+    ],
+    "4491:text": [
+      "“Y... yes.”"
+    ],
+    "4493:text": [
+      "I nodded without thinking, but had the spirit really been trying to entertain us? Hadn't it thrown that bucket at Kazama because it was angry?"
+    ],
+    "4495:text": [
+      "Nozomu Kazama"
+    ],
+    "4496:text": [
+      "“Right, that's the end of my story.”"
+    ],
+    "4533:text": [
+      "Nozomu Kazama"
+    ],
+    "4534:text": [
+      "“You mean Angel-sama?"
+    ],
+    "4535:text": [
+      "But... I called Kokkuri-san..."
+    ],
+    "4536:text": [
+      "Does that mean I messed up?"
+    ],
+    "4537:text": [
+      "Oh well... Angel-sama, Angel-sama, thank you"
+    ],
+    "4538:text": [
+      "very much."
+    ],
+    "4539:text": [
+      "Circle the torii gate three times and return.”"
+    ],
+    "4575:text": [
+      "Nozomu Kazama"
+    ],
+    "4576:text": [
+      "“You mean Cupid-san?"
+    ],
+    "4577:text": [
+      "But... I called Kokkuri-san..."
+    ],
+    "4578:text": [
+      "Does that mean I messed up?"
+    ],
+    "4579:text": [
+      "Oh well... Cupid-san, Cupid-san,"
+    ],
+    "4580:text": [
+      "thank you very much."
+    ],
+    "4581:text": [
+      "Circle the torii gate three times and return.”"
+    ],
+    "4605:text": [
+      "Nozomu Kazama"
+    ],
+    "4606:text": [
+      "“You're right. You have a point."
+    ],
+    "4607:text": [
+      "Let's ask, then. Just who"
+    ],
+    "4608:text": [
+      "are you?”"
+    ],
+    "4612:text": [
+      "Nozomu Kazama"
+    ],
+    "4613:text": [
+      "“Huh? It's just moving around at random."
+    ],
+    "4614:text": [
+      "Could it be some nameless stray spirit?”"
+    ],
+    "4625:glink.text.1": [
+      "1. Ask more questions"
+    ],
+    "4627:glink.text.1": [
+      "1. Ask more questions"
+    ],
+    "4631:glink.text.1": [
+      "2. Ask it to return"
+    ],
+    "4633:glink.text.1": [
+      "2. Ask it to return"
+    ],
+    "4650:text": [
+      "Nozomu Kazama"
+    ],
+    "4651:text": [
+      "“Well, we had a little mishap,"
+    ],
+    "4652:text": [
+      "but Angel-sama has gone home now!"
+    ],
+    "4653:text": [
+      "What? Was I lying about"
+    ],
+    "4654:text": [
+      "showing you Kokkuri-san?"
+    ],
+    "4655:text": [
+      "Well, it seems we got Angel-sama this time"
+    ],
+    "4656:text": [
+      "instead of Kokkuri-san, but you are"
+    ],
+    "4657:text": [
+      "looking at Kokkuri-san right now!"
+    ],
+    "4658:text": [
+      "Can't you see it?"
+    ],
+    "4659:text": [
+      "What are you talking about? Of course you can."
+    ],
+    "4661:text": [
+      "Take a good look. See... the others must be bored."
+    ],
+    "4662:text": [
+      "They've started nodding off."
+    ],
+    "4663:text": [
+      "Nod... nod... Kokkuri-san, the nodding spirit."
+    ],
+    "4664:text": [
+      "See? You've seen Kokkuri-san, haven't you?"
+    ],
+    "4665:text": [
+      "And that's the end of my story.”"
+    ],
+    "4701:text": [
+      "Nozomu Kazama"
+    ],
+    "4702:text": [
+      "“What?! You're saying you won't go back?"
+    ],
+    "4703:text": [
+      "Maybe Angel-sama has to go back"
+    ],
+    "4704:text": [
+      "a different way from Kokkuri-san?"
+    ],
+    "4705:text": [
+      "It'll be quicker to ask."
+    ],
+    "4706:text": [
+      "Anyway, unless we get Angel-sama to go back,"
+    ],
+    "4707:text": [
+      "we're going to have to stay like this"
+    ],
+    "4708:text": [
+      "forever."
+    ],
+    "4709:text": [
+      "We'll be cursed if we take our fingers off"
+    ],
+    "4710:text": [
+      "halfway through, you know."
+    ],
+    "4712:text": [
+      "Right! Angel-sama, Angel-sama, please"
+    ],
+    "4713:text": [
+      "tell us how to send you back."
+    ],
+    "4714:text": [
+      "What do we have to do to get you"
+    ],
+    "4715:text": [
+      "to go back?”"
+    ],
+    "4734:text": [
+      "Nozomu Kazama"
+    ],
+    "4735:text": [
+      "“Your...?”"
+    ],
+    "4753:text": [
+      "Nozomu Kazama"
+    ],
+    "4754:text": [
+      "“Life... Your life?! Y-You're joking, right?”"
+    ],
+    "4770:text": [
+      "Nozomu Kazama"
+    ],
+    "4771:text": [
+      "“Wha—”"
+    ],
+    "4793:text": [
+      "Nozomu Kazama"
+    ],
+    "4794:text": [
+      "“N-No! The 500-yen coin won't stop!”"
+    ],
+    "4815:text": [
+      "Nozomu Kazama"
+    ],
+    "4816:text": [
+      "“Aaaaaaaah!!”"
+    ],
+    "4828:text": [
+      "Nozomu Kazama"
+    ],
+    "4829:text": [
+      "“Ah...!”"
+    ],
+    "4831:text": [
+      "I could hear the blood draining from both Kazama's face and mine."
+    ],
+    "4832:text": [
+      "‘If you take your finger off before we're done, you'll be cursed.’"
+    ],
+    "4833:text": [
+      "Kazama was the one who'd said that."
+    ],
+    "4834:text": [
+      "But more importantly..."
+    ],
+    "4836:text": [
+      "Nozomu Kazama"
+    ],
+    "4837:text": [
+      "“Y-You're good, ",
+      "!”"
+    ],
+    "4840:text": [
+      "“Huh?”"
+    ],
+    "4842:text": [
+      "Nozomu Kazama"
+    ],
+    "4843:text": [
+      "“You did that on purpose, didn't you?"
+    ],
+    "4844:text": [
+      "After I sent Kokkuri-san back, you moved"
+    ],
+    "4845:text": [
+      "the 500-yen coin yourself"
+    ],
+    "4846:text": [
+      "and made it look like Angel-sama was here, didn't you?"
+    ],
+    "4848:text": [
+      "Well, well! To think that even I"
+    ],
+    "4849:text": [
+      "could be taken in like that!"
+    ],
+    "4850:text": [
+      "Wouldn't you make a better magician or actor"
+    ],
+    "4851:text": [
+      "than a Newspaper Club member?"
+    ],
+    "4853:text": [
+      "Ahh, you gave me quite a fright!"
+    ],
+    "4854:text": [
+      "Well, that was a bit of a surprise, but my story"
+    ],
+    "4855:text": [
+      "ends here.”"
+    ],
+    "4857:text": [
+      "Huh? Did Kazama think",
+      "I'd done that?"
+    ],
+    "4858:text": [
+      "I hadn't done anything!"
+    ],
+    "4860:text": [
+      "But what was that look on Kazama's face?"
+    ],
+    "4861:text": [
+      "His smile made it look like he really thought I'd done it... But had Kazama been acting at the end? What on earth..."
+    ],
+    "4890:text": [
+      "Nozomu Kazama"
+    ],
+    "4891:text": [
+      "“Well, we had a little mishap,"
+    ],
+    "4892:text": [
+      "but it looks like Cupid-san"
+    ],
+    "4893:text": [
+      "has gone home now!"
+    ],
+    "4894:text": [
+      "Since it wasn't Kokkuri-san, I don't know"
+    ],
+    "4895:text": [
+      "if any of those readings were true, but hey,"
+    ],
+    "4896:text": [
+      "it's all in how you look at it! Yep!"
+    ],
+    "4897:text": [
+      "Next time we get the chance, let's invite"
+    ],
+    "4898:text": [
+      "Kokkuri-san over"
+    ],
+    "4899:text": [
+      "and find out the real truth!"
+    ],
+    "4901:text": [
+      "What? Was I lying about"
+    ],
+    "4902:text": [
+      "showing you Kokkuri-san?"
+    ],
+    "4903:text": [
+      "Well, it seems we got Cupid-san this time"
+    ],
+    "4904:text": [
+      "instead of Kokkuri-san, but you are"
+    ],
+    "4905:text": [
+      "looking at Kokkuri-san right now!"
+    ],
+    "4907:text": [
+      "Can't you see it? Of course you can."
+    ],
+    "4908:text": [
+      "Take a good look. See... the others must be bored."
+    ],
+    "4909:text": [
+      "They've started nodding off."
+    ],
+    "4910:text": [
+      "Nod... nod... Kokkuri-san, the nodding spirit."
+    ],
+    "4911:text": [
+      "See? You've seen Kokkuri-san, haven't you?"
+    ],
+    "4912:text": [
+      "And that's the end of my story.”"
+    ],
+    "4949:text": [
+      "Nozomu Kazama"
+    ],
+    "4950:text": [
+      "“What?! You're not leaving?"
+    ],
+    "4951:text": [
+      "Maybe Kokkuri-san and Cupid-san"
+    ],
+    "4952:text": [
+      "need different ways to go home?"
+    ],
+    "4953:text": [
+      "It'd be quicker just to ask."
+    ],
+    "4954:text": [
+      "Anyway, unless we get Cupid-san to leave,"
+    ],
+    "4955:text": [
+      "we'll have to stay like this"
+    ],
+    "4956:text": [
+      "forever."
+    ],
+    "4957:text": [
+      "If we take our fingers off before we're done,"
+    ],
+    "4958:text": [
+      "we'll be cursed."
+    ],
+    "4960:text": [
+      "All right! Cupid-san, Cupid-san,"
+    ],
+    "4961:text": [
+      "please tell us how to send you home."
+    ],
+    "4962:text": [
+      "What must we do"
+    ],
+    "4963:text": [
+      "to make you leave?”"
+    ],
+    "4981:text": [
+      "Nozomu Kazama"
+    ],
+    "4982:text": [
+      "“Your...?”"
+    ],
+    "4997:text": [
+      "Nozomu Kazama"
+    ],
+    "4998:text": [
+      "“Tama? Balls? ...Well, well, Cupid-san must be"
+    ],
+    "4999:text": [
+      "quite the lecher! I'm being"
+    ],
+    "5000:text": [
+      "teased...”"
+    ],
+    "5016:text": [
+      "Nozomu Kazama"
+    ],
+    "5017:text": [
+      "“Shii? ...Huh? Your... tama... shii...?"
+    ],
+    "5018:text": [
+      "Your soul?! You want my life?!”"
+    ],
+    "5031:text": [
+      "Nozomu Kazama"
+    ],
+    "5032:text": [
+      "“Wha?!”"
+    ],
+    "5056:text": [
+      "Nozomu Kazama"
+    ],
+    "5057:text": [
+      "“Red... sheep for... sacrifice... baa... baa..."
+    ],
+    "5058:text": [
+      "which child's head shall I... take...? The"
+    ],
+    "5059:text": [
+      "500-yen coin won't stop... Hey, ",
+      "..."
+    ],
+    "5060:text": [
+      "cut it out already.”"
+    ],
+    "5063:text": [
+      "“Huh?”"
+    ],
+    "5065:text": [
+      "Nozomu Kazama"
+    ],
+    "5066:text": [
+      "“Don't ‘huh’ me... After I went to all the trouble"
+    ],
+    "5067:text": [
+      "of having Kokkuri-san tell your fortune,"
+    ],
+    "5068:text": [
+      "you pull a stupid prank like this?"
+    ],
+    "5069:text": [
+      "I don't care. Just stop making it move"
+    ],
+    "5070:text": [
+      "like that right now!”"
+    ],
+    "5072:text": [
+      "B-But I'm not moving it!!"
+    ],
+    "5075:text": [
+      "“I—!”"
+    ],
+    "5077:text": [
+      "Nozomu Kazama"
+    ],
+    "5078:text": [
+      "“Whoa!”"
+    ],
+    "5082:text": [
+      "Nozomu Kazama"
+    ],
+    "5083:text": [
+      "“W-What is this...?!”"
+    ],
+    "5085:text": [
+      "I could almost hear the blood draining from both our faces."
+    ],
+    "5086:text": [
+      "‘If you take your finger off before we're done, you'll be cursed.’ Kazama was the one who'd said that."
+    ],
+    "5087:text": [
+      "But more importantly..."
+    ],
+    "5089:text": [
+      "Nozomu Kazama"
+    ],
+    "5090:text": [
+      "“Th-The paper caught fire?”"
+    ],
+    "5092:text": [
+      "The Kokkuri-san sheet on the desk suddenly burst into flames, leaving scorched patches"
+    ],
+    "5093:text": [
+      "all over it."
+    ],
+    "5095:text": [
+      "Nozomu Kazama"
+    ],
+    "5096:text": [
+      "“...What...?”"
+    ],
+    "5115:text": [
+      "Nozomu Kazama"
+    ],
+    "5116:text": [
+      "“Who did this?! Who pulled a prank like this?!"
+    ],
+    "5117:text": [
+      "Oh, you've ruined my scary story!"
+    ],
+    "5118:text": [
+      "That's the end of my story!”"
+    ],
+    "5141:text": [
+      "Nozomu Kazama"
+    ],
+    "5142:text": [
+      "“All right, who's next?!”"
+    ],
+    "5150:text": [
+      "Nozomu Kazama"
+    ],
+    "5151:text": [
+      "“Who are you?”"
+    ],
+    "5163:text": [
+      "Nozomu Kazama"
+    ],
+    "5164:text": [
+      "“Whoa!!”"
+    ],
+    "5166:text": [
+      "I could almost hear the blood draining from both our faces."
+    ],
+    "5167:text": [
+      "‘If you take your finger off before we're done, you'll be cursed.’"
+    ],
+    "5168:text": [
+      "Right, one of the warnings about playing Kokkuri-san..."
+    ],
+    "5169:text": [
+      "But more importantly..."
+    ],
+    "5171:text": [
+      "Nozomu Kazama"
+    ],
+    "5172:text": [
+      "“Th-The paper caught fire?”"
+    ],
+    "5174:text": [
+      "The Kokkuri-san sheet on the desk had suddenly burst into flames."
+    ],
+    "5176:text": [
+      "Nozomu Kazama"
+    ],
+    "5177:text": [
+      "“Oh, no... My paper's scorched... What's this...?”"
+    ],
+    "5181:text": [
+      "Nozomu Kazama"
+    ],
+    "5182:text": [
+      "“...What was that...? A-Anyway, that's"
+    ],
+    "5183:text": [
+      "the e-end of my story!"
+    ],
+    "5184:text": [
+      "The finale was a bit like a magic trick,"
+    ],
+    "5185:text": [
+      "but that just shows you a little of"
+    ],
+    "5186:text": [
+      "what makes Kokkuri-san so amazing!”"
+    ],
+    "5188:text": [
+      "Didn't it say it wasn't Kokkuri-san...? Why did the paper catch fire?"
+    ],
+    "5209:text": [
+      "Nozomu Kazama"
+    ],
+    "5210:text": [
+      "“Oh! These are letters! This 500-yen coin"
+    ],
+    "5211:text": [
+      "is writing letters!"
+    ],
+    "5212:text": [
+      "Yes, yes! I'm a sharp one!"
+    ],
+    "5213:text": [
+      "Let's see, this says... Aim-san!"
+    ],
+    "5214:text": [
+      "That's right! It's Aim-san who's here!"
+    ],
+    "5215:text": [
+      "Aim-san, Aim-san, thank you"
+    ],
+    "5216:text": [
+      "very much."
+    ],
+    "5217:text": [
+      "Circle the torii gate three times and return.”"
+    ],
+    "5228:text": [
+      "Nozomu Kazama"
+    ],
+    "5229:text": [
+      "“Well, we had a little mishap,"
+    ],
+    "5230:text": [
+      "but Aim-san has gone back!"
+    ],
+    "5231:text": [
+      "Still, I've never heard of Aim-san before..."
+    ],
+    "5232:text": [
+      "Is this the latest fad?"
+    ],
+    "5233:text": [
+      "But when it comes to accuracy, no spirit"
+    ],
+    "5234:text": [
+      "can beat Kokkuri-san!"
+    ],
+    "5236:text": [
+      "It's a shame, ",
+      "."
+    ],
+    "5237:text": [
+      "It wasn't Kokkuri-san this time, so who knows whether those predictions, good or bad, will come true!"
+    ],
+    "5239:text": [
+      "Well, if you're interested another time, just let me know."
+    ],
+    "5240:text": [
+      "For you, I'll summon Kokkuri-san as often as you like!"
+    ],
+    "5242:text": [
+      "What's wrong? You don't look happy."
+    ],
+    "5243:text": [
+      "Huh? Are you asking if I lied about letting you meet Kokkuri-san?"
+    ],
+    "5244:text": [
+      "Well, it seems this wasn't Kokkuri-san, but you've seen Kokkuri-san, haven't you?"
+    ],
+    "5246:text": [
+      "...You can't see it?"
+    ],
+    "5247:text": [
+      "What are you talking about? Of course you can!"
+    ],
+    "5248:text": [
+      "Take a good look. See... the others must be bored. They've started nodding off."
+    ],
+    "5249:text": [
+      "Nod... nod... Kokkuri-san, the nodding spirit."
+    ],
+    "5250:text": [
+      "See? You've seen Kokkuri-san, haven't you?"
+    ],
+    "5251:text": [
+      "And that's the end of my story.”"
+    ],
+    "5289:text": [
+      "Behind?"
+    ],
+    "5324:text": [
+      "“Aaaaaaaaaaah!!”"
+    ],
+    "5326:text": [
+      "...What was that just now? Was I seeing things?"
+    ],
+    "5327:text": [
+      "I glanced at Kazama. He was staring at the window too, looking stunned, a cold sweat on his forehead."
+    ],
+    "5328:text": [
+      "When our eyes met, Kazama gave a dry laugh and said,"
+    ],
+    "5331:text": [
+      "Nozomu Kazama"
+    ],
+    "5332:text": [
+      "“Ahaha... I seem to be a little off"
+    ],
+    "5333:text": [
+      "my game today."
+    ],
+    "5334:text": [
+      "An ordinary person like you might not understand,"
+    ],
+    "5335:text": [
+      "but when someone has spiritual powers as strong as mine,"
+    ],
+    "5336:text": [
+      "their spiritual vibrations sometimes become"
+    ],
+    "5337:text": [
+      "unstable."
+    ],
+    "5338:text": [
+      "Maintaining such noble energy"
+    ],
+    "5339:text": [
+      "is no easy feat, you know."
+    ],
+    "5340:text": [
+      "Yes, just like the ebb and flow of the tides,"
+    ],
+    "5341:text": [
+      "I seem to be a little off my game today."
+    ],
+    "5343:text": [
+      "Well, ",
+      ", it's a shame. Such a terrible shame."
+    ],
+    "5344:text": [
+      "Really, at this point, I'd say it's your fault"
+    ],
+    "5345:text": [
+      "more than mine."
+    ],
+    "5346:text": [
+      "Your mundane wavelength and my noble wavelength"
+    ],
+    "5347:text": [
+      "just didn't line up."
+    ],
+    "5348:text": [
+      "That's why Kokkuri-san wouldn't come for us,"
+    ],
+    "5349:text": [
+      "it seems. Ah, what a shame.”"
+    ],
+    "5351:text": [
+      "After this theatrical speech, Kazama hurriedly put the ritual sheet away."
+    ],
+    "5353:text": [
+      "Nozomu Kazama"
+    ],
+    "5354:text": [
+      "“Right, that's the end of my story.”"
+    ],
+    "5356:text": [
+      "Kazama sat in a chair, propped his cheek on one hand, and turned away."
+    ],
+    "5357:text": [
+      "What was this guy's problem?"
+    ],
+    "5358:text": [
+      "After going on and on about being some kind of Kokkuri-san expert, he'd failed to summon the spirit after all."
+    ],
+    "5360:text": [
+      "And hadn't he just blamed me for it?"
+    ],
+    "5361:text": [
+      "He really was unbelievable."
+    ],
+    "5363:text": [
+      "Oh! And I'd given him a 500-yen coin. He still hadn't given it back!"
+    ],
+    "5364:text": [
+      "I looked over at Kazama, but he kept facing away. He wouldn't even turn toward me."
+    ],
+    "5366:text": [
+      "...Forget it."
+    ],
+    "5367:text": [
+      "I was tired of dealing with Kazama."
+    ],
+    "5368:text": [
+      "I'd be better off avoiding him from now on."
+    ],
+    "5397:text": [
+      "When I asked that question aloud, Kazama cut in with a displeased look."
+    ],
+    "5399:text": [
+      "Nozomu Kazama"
+    ],
+    "5400:text": [
+      "“You're asking who it is?"
+    ],
+    "5401:text": [
+      "You want to know the true identity"
+    ],
+    "5402:text": [
+      "of what I summoned?"
+    ],
+    "5403:text": [
+      "I've told you over and over. It's the real"
+    ],
+    "5404:text": [
+      "Kokkuri-san."
+    ],
+    "5405:text": [
+      "A genuine higher spirit, a cut above"
+    ],
+    "5406:text": [
+      "all those generic Kokkuri-san knockoffs...”"
+    ],
+    "5408:text": [
+      "Kazama broke off."
+    ],
+    "5409:text": [
+      "The coin had begun gliding across the paper."
+    ],
+    "5425:text": [
+      "Nozomu Kazama"
+    ],
+    "5426:text": [
+      "“W-Why? Why did it move"
+    ],
+    "5427:text": [
+      "on its own?!”"
+    ],
+    "5429:text": [
+      "Kazama's voice shot up into a squeak. Then he cleared his throat."
+    ],
+    "5432:text": [
+      "Nozomu Kazama"
+    ],
+    "5433:text": [
+      "“...No, I mean... J-Just now, ",
+      ","
+    ],
+    "5434:text": [
+      "you moved it, didn't you?"
+    ],
+    "5435:text": [
+      "You mustn't do that. You'll make Kokkuri-san"
+    ],
+    "5436:text": [
+      "angry, and the spirit will go back.”"
+    ],
+    "5439:text": [
+      "“No, I didn't move it.”"
+    ],
+    "5441:text": [
+      "Nozomu Kazama"
+    ],
+    "5442:text": [
+      "“Oh, come on. You can admit it."
+    ],
+    "5443:text": [
+      "You did move it, didn't you? It could never"
+    ],
+    "5444:text": [
+      "give a ‘No’ answer. This is the real"
+    ],
+    "5445:text": [
+      "Kokkuri-san, after all.”"
+    ],
+    "5461:text": [
+      "Nozomu Kazama"
+    ],
+    "5462:text": [
+      "“I-It moved again?!”"
+    ],
+    "5464:text": [
+      "Kazama gaped at the coin, which had moved back to “No” again."
+    ],
+    "5466:text": [
+      "I'd had my suspicions, but it seemed Kazama really was a fraud."
+    ],
+    "5467:text": [
+      "Otherwise, he wouldn't have been so shocked at the coin moving on its own."
+    ],
+    "5469:text": [
+      "But that wasn't what mattered. Judging by his reaction, Kazama hadn't moved it."
+    ],
+    "5470:text": [
+      "And I certainly wasn't putting any force on it."
+    ],
+    "5471:text": [
+      "Which meant..."
+    ],
+    "5473:text": [
+      "Nozomu Kazama"
+    ],
+    "5474:text": [
+      "“",
+      ", that's quite enough."
+    ],
+    "5475:text": [
+      "Pretending to be Kokkuri-san to deceive people"
+    ],
+    "5476:text": [
+      "is sure to bring a curse...”"
+    ],
+    "5479:text": [
+      "“If you aren't Kokkuri-san, then who"
+    ],
+    "5480:text": [
+      "are you? What's your name?”"
+    ],
+    "5482:text": [
+      "Nozomu Kazama"
+    ],
+    "5483:text": [
+      "“Hey! Don't ignore me!”"
+    ],
+    "5503:text": [
+      "“You don't know..."
+    ],
+    "5504:text": [
+      "You don't know who you are?”"
+    ],
+    "5527:text": [
+      "Nozomu Kazama"
+    ],
+    "5528:text": [
+      "“...Did something really come?"
+    ],
+    "5529:text": [
+      "Here?”"
+    ],
+    "5531:text": [
+      "Kazama had just claimed, “I've summoned the real Kokkuri-san.”",
+      " Now he muttered in a low voice and swallowed hard."
+    ],
+    "5532:text": [
+      "The farce had relaxed the atmosphere in the clubroom,",
+      "but in an instant it turned tense."
+    ],
+    "5535:text": [
+      "“It seems that way."
+    ],
+    "5536:text": [
+      "Um... it doesn't seem to be the real Kokkuri-san,"
+    ],
+    "5537:text": [
+      "but if something came here for us,"
+    ],
+    "5538:text": [
+      "wouldn't you call that a success?”"
+    ],
+    "5540:text": [
+      "Nozomu Kazama"
+    ],
+    "5541:text": [
+      "“Huh? Oh, right... of course."
+    ],
+    "5542:text": [
+      "My extraordinary abilities must have attracted"
+    ],
+    "5543:text": [
+      "a spirit!”"
+    ],
+    "5545:text": [
+      "Akemi Iwashita"
+    ],
+    "5546:text": [
+      "“...I hope it isn't something nasty.”"
+    ],
+    "5548:text": [
+      "Iwashita, who'd been quietly watching, murmured to herself."
+    ],
+    "5550:text": [
+      "She had a point."
+    ],
+    "5551:text": [
+      "If something unpleasant had taken advantage of Kazama's phony ritual to come here, we might be in trouble."
+    ],
+    "5554:text": [
+      "“U-Um, what should we do? Maybe we should"
+    ],
+    "5555:text": [
+      "send it home now...”"
+    ],
+    "5557:text": [
+      "Nozomu Kazama"
+    ],
+    "5558:text": [
+      "“Since it's here, go ahead and ask it something."
+    ],
+    "5559:text": [
+      "If you accidentally press the server call button"
+    ],
+    "5560:text": [
+      "at a family restaurant, it'd be awkward"
+    ],
+    "5561:text": [
+      "not to order anything, right?"
+    ],
+    "5562:text": [
+      "You pretend you needed something, even if it's a lie."
+    ],
+    "5563:text": [
+      "That's just good manners.”"
+    ],
+    "5565:text": [
+      "I wasn't sure whether Kazama was making sense."
+    ],
+    "5566:text": [
+      "But saying that right in front of the very being we'd summoned seemed rude to begin with..."
+    ],
+    "5569:text": [
+      "“O... Okay."
+    ],
+    "5570:text": [
+      "Well, then... Will this interview"
+    ],
+    "5571:text": [
+      "go well?”"
+    ],
+    "5573:text": [
+      "I'd meant to ask whether I could turn the storytellers' accounts into a good article."
+    ],
+    "5574:text": [
+      "But—"
+    ],
+    "5598:text": [
+      "“...Danger?”"
+    ],
+    "5617:text": [
+      "“Run...”"
+    ],
+    "5619:text": [
+      "Then I noticed the coin quivering under my finger."
+    ],
+    "5620:text": [
+      "Like a tiny animal terrified out of its wits."
+    ],
+    "5623:text": [
+      "“What does that mean...?”"
+    ],
+    "5625:text": [
+      "Before I could finish, the coin began to move."
+    ],
+    "5626:text": [
+      "It shot left and right, as if something were chasing it."
+    ],
+    "5628:text": [
+      "I stared hard, desperately following the letters it pointed to."
+    ],
+    "5629:text": [
+      "The air in the clubroom grew tenser. I could tell all the storytellers were watching with bated breath."
+    ],
+    "5634:text": [
+      "“That ",
+      "child ",
+      "has ",
+      "a",
+      "wa",
+      "ke",
+      "ne",
+      "d.”"
+    ],
+    "5636:text": [
+      "“They",
+      "'ll ",
+      "come ",
+      "when ",
+      "night ",
+      "f",
+      "a",
+      "ll",
+      "s.”"
+    ],
+    "5638:text": [
+      "—Those were the messages",
+      "the coin's movements spelled out."
+    ],
+    "5640:text": [
+      "Nozomu Kazama"
+    ],
+    "5641:text": [
+      "“That child has awakened? They'll come when night falls..."
+    ],
+    "5642:text": [
+      "...? What child?”"
+    ],
+    "5644:text": [
+      "Just as Kazama tilted his head at the ominous message—"
+    ],
+    "5646:text": [
+      "Nozomu Kazama"
+    ],
+    "5647:text": [
+      "“W-What?!”"
+    ],
+    "5649:text": [
+      "The coin shook more and more violently."
+    ],
+    "5650:text": [
+      "The friction grew so intense that my fingertip burned, until—"
+    ],
+    "5652:text": [
+      "—POP!"
+    ],
+    "5655:text": [
+      "“Wha?!”"
+    ],
+    "5657:text": [
+      "Nozomu Kazama"
+    ],
+    "5658:text": [
+      "“Eek!”"
+    ],
+    "5660:text": [
+      "A dry crack rang out."
+    ],
+    "5661:text": [
+      "I'd reflexively squeezed my eyes shut at the sharp sound. I opened them cautiously."
+    ],
+    "5663:text": [
+      "Nozomu Kazama"
+    ],
+    "5664:text": [
+      "“W-What was that just now?”"
+    ],
+    "5666:text": [
+      "Kazama was looking frantically around the room."
+    ],
+    "5667:text": [
+      "Apparently, the sound had startled him into taking his finger off."
+    ],
+    "5668:text": [
+      "He was shrinking back in fear."
+    ],
+    "5677:text": [
+      "Nozomu Kazama"
+    ],
+    "5678:text": [
+      "“Y... you, ",
+      ". Nicely done."
+    ],
+    "5679:text": [
+      "That was a splendid magic trick. If possible, I'd like"
+    ],
+    "5680:text": [
+      "you to tell me how you did it...”"
+    ],
+    "5682:text": [
+      "Kazama still hadn't learned his lesson. Over his shoulder, I saw Arai pick something up off the floor."
+    ],
+    "5683:text": [
+      "As he set it on the desk, he murmured."
+    ],
+    "5685:text": [
+      "Shoji Arai"
+    ],
+    "5686:text": [
+      "“...No human could do that.”"
+    ],
+    "5688:text": [
+      "What Arai put down was a coin—or rather,",
+      "what used to be a coin."
+    ],
+    "5689:text": [
+      "It was split in two along a jagged diagonal crack, like a bolt of lightning."
+    ],
+    "5691:text": [
+      "I couldn't imagine what force could do that, or how you could apply it."
+    ],
+    "5692:text": [
+      "This time, the clubroom went utterly silent."
+    ],
+    "5694:text": [
+      "Nozomu Kazama"
+    ],
+    "5695:text": [
+      "“...Haha. Well? Impressive, isn't it?"
+    ],
+    "5696:text": [
+      "The truth is, I set all of that"
+    ],
+    "5697:text": [
+      "up myself."
+    ],
+    "5698:text": [
+      "‘No human could do that’?"
+    ],
+    "5699:text": [
+      "I'm honored. You have to be able to do this much"
+    ],
+    "5700:text": [
+      "to call yourself a proper Kokkuri-san researcher.”"
+    ],
+    "5702:text": [
+      "I didn't think anyone was really listening to Kazama",
+      "now that he'd started talking nonstop again."
+    ],
+    "5704:text": [
+      "—Danger. Run."
+    ],
+    "5705:text": [
+      "—That child has awakened."
+    ],
+    "5706:text": [
+      "—They'll come when night falls."
+    ],
+    "5708:text": [
+      "The more Kazama talked to cover things up, the heavier those warnings sat in my chest, filling me with dread."
+    ],
+    "5723:text": [
+      "Worst of all, it was already completely dark outside the window."
+    ],
+    "5724:text": [
+      "By the time we'd reached Kazama, our sixth storyteller, even dusk had passed. ‘Night’ was about to fall."
+    ],
+    "5726:text": [
+      "If that warning was true, then ‘that child’ was already—"
+    ],
+    "5736:text": [
+      "Should I stop this here?"
+    ],
+    "5737:text": [
+      "But the storytellers were staring at me as if waiting for an answer."
+    ],
+    "5738:text": [
+      "After that argument when I first met them, I doubted they'd let me stop over anything minor."
+    ],
+    "5740:text": [
+      "...We just had to finish everyone's stories before night fell."
+    ],
+    "5741:text": [
+      "I fed myself that flimsy excuse and called on the next storyteller."
+    ],
+    "5794:text": [
+      "Nozomu Kazama"
+    ],
+    "5795:text": [
+      "“Come on, come on! Let's hear the next story!”"
+    ],
+    "5804:text": [
+      "Nozomu Kazama"
+    ],
+    "5805:text": [
+      "“My story's over, but our seventh storyteller still hasn't"
+    ],
+    "5806:text": [
+      "shown up, ",
+      "?"
+    ],
+    "5807:text": [
+      "What are you going to do?”"
+    ],
+    "5817:text": [
+      "Nozomu Kazama"
+    ],
+    "5818:text": [
+      "“Phew, it looks like there's only one storyteller"
+    ],
+    "5819:text": [
+      "left now, ",
+      "."
+    ],
+    "5820:text": [
+      "And the last one is... that mysterious woman."
+    ],
+    "5821:text": [
+      "She said her name was Akemi Iwashita."
+    ],
+    "5822:text": [
+      "Heh heh, once I've heard a beautiful woman's name,"
+    ],
+    "5823:text": [
+      "I never forget it."
+    ],
+    "5824:text": [
+      "Naturally, I remember all the girls' names here"
+    ],
+    "5825:text": [
+      "perfectly."
+    ],
+    "5826:text": [
+      "Ah, what sort of scary story will she tell"
+    ],
+    "5827:text": [
+      "just for me? I can hardly wait.”"
+    ],
+    "5838:text": [
+      "Nozomu Kazama"
+    ],
+    "5839:text": [
+      "“Um, once we've heard the next one, everyone here"
+    ],
+    "5840:text": [
+      "will have told a story, right?"
+    ],
+    "5841:text": [
+      "Next is... that guy? He looks awfully unfriendly."
+    ],
+    "5842:text": [
+      "That won't do. Girls won't go for him unless he"
+    ],
+    "5843:text": [
+      "learns to smile like me. Ha ha ha ha ha"
+    ],
+    "5844:text": [
+      "..."
+    ],
+    "5845:text": [
+      "Well, let's hear his story.”"
+    ],
+    "5855:text": [
+      "Nozomu Kazama"
+    ],
+    "5856:text": [
+      "“That's my story finished, ",
+      "."
+    ],
+    "5857:text": [
+      "Who's next again? ...Oh, that gloomy-looking"
+    ],
+    "5858:text": [
+      "guy over there!"
+    ],
+    "5859:text": [
+      "Arai, was it?"
+    ],
+    "5860:text": [
+      "He really looks like the sort who'd know"
+    ],
+    "5861:text": [
+      "all sorts of scary stories, doesn't he? Pfft."
+    ],
+    "5862:text": [
+      "Well, let's hear what sort of story"
+    ],
+    "5863:text": [
+      "he's got.”"
+    ],
+    "5873:text": [
+      "Nozomu Kazama"
+    ],
+    "5874:text": [
+      "“There's only one person left now."
+    ],
+    "5875:text": [
+      "Next is... him? What was his name again?"
+    ],
+    "5876:text": [
+      "Fatso, was it? Just looking at him"
+    ],
+    "5877:text": [
+      "makes me feel hot and stuffy."
+    ],
+    "5878:text": [
+      "I hope he gets his story over with quickly.”"
+    ],
+    "5888:text": [
+      "Nozomu Kazama"
+    ],
+    "5889:text": [
+      "“There's only one person who hasn't told a story yet."
+    ],
+    "5890:text": [
+      "...That girl, Reiko Fukuzawa."
+    ],
+    "5891:text": [
+      "Heh heh, once I hear a beautiful woman's name,"
+    ],
+    "5892:text": [
+      "I never forget it."
+    ],
+    "5893:text": [
+      "I really can't wait to hear what sort of story"
+    ],
+    "5894:text": [
+      "she'll tell just for me.”"
+    ]
+  }
+}

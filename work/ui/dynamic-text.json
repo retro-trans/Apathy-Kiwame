@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "scope": "Display-only mapping of canonical saved values; never rewrite state or save bytes.",
+  "mappings": {
+    "f.sindo306": {
+      "スポーツ": "sports",
+      "ゲーム": "games",
+      "女": "girls"
+    }
+  },
+  "source": {
+    "scenario": "data/scenario/jyuku.ks",
+    "source_sha256": "3bdd87178c25156dca599da8cbe5aa110939b7fd961b96b3741ace3fb259e637",
+    "assignment_lines": [3222, 3241, 3262],
+    "display_line": 3752,
+    "display_tag": "emb",
+    "expression": "f.sindo306"
+  },
+  "change_log": [
+    {
+      "date": "2026-11-11",
+      "change": "Added the three verified hobby values for root's emb display wrapper and old-state tests. No aliases or legacy RPG ending values added."
+    }
+  ]
+}

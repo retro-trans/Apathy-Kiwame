@@ -1,0 +1,447 @@
+{
+  "scenario": "data/scenario/settei/teisu.ks",
+  "source_sha256": "14628031ce7727ab5fbeb88021a57d69a466292db01d7d4c06c3bbffba2a4187",
+  "rows": {
+    "487:ending_title": [
+      "It Ends Today"
+    ],
+    "488:ending_title": [
+      "The Man Who Could See"
+    ],
+    "489:ending_title": [
+      "The Fourth-Dimensional Boy"
+    ],
+    "490:ending_title": [
+      "The Aftermath of a Handshake"
+    ],
+    "491:ending_title": [
+      "Ghosts Come to Those Who Laugh"
+    ],
+    "492:ending_title": [
+      "Grim Reaper Joker"
+    ],
+    "493:ending_title": [
+      "Hell Without End"
+    ],
+    "494:ending_title": [
+      "Poker for Souls"
+    ],
+    "495:ending_title": [
+      "My Savior"
+    ],
+    "496:ending_title": [
+      "A Contract for Life"
+    ],
+    "497:ending_title": [
+      "Rustle, Rustle"
+    ],
+    "498:ending_title": [
+      "Kirara the Magical Girl"
+    ],
+    "499:ending_title": [
+      "Who Wrote “Goodbye”?"
+    ],
+    "500:ending_title": [
+      "Where Madness Leads"
+    ],
+    "501:ending_title": [
+      "The Monster on the Roof"
+    ],
+    "502:ending_title": [
+      "The Ideal Way to Die"
+    ],
+    "503:ending_title": [
+      "Suicide with You"
+    ],
+    "504:ending_title": [
+      "Dragged Down by Love"
+    ],
+    "505:ending_title": [
+      "The Hungry Soil"
+    ],
+    "506:ending_title": [
+      "One Guest, Right This Way"
+    ],
+    "507:ending_title": [
+      "Shopping with Kazama"
+    ],
+    "508:ending_title": [
+      "Kazama the Salesman"
+    ],
+    "509:ending_title": [
+      "Let Sleeping Kazama Lie"
+    ],
+    "510:ending_title": [
+      "Kokkuri-san: The Premium Package"
+    ],
+    "511:ending_title": [
+      "Adding Kazama to Injury"
+    ],
+    "512:ending_title": [
+      "The Truth About Kokkuri-san"
+    ],
+    "513:ending_title": [
+      "Special Kokkuri-san"
+    ],
+    "514:ending_title": [
+      "Be... hind..."
+    ],
+    "515:ending_title": [
+      "The Curse"
+    ],
+    "516:ending_title": [
+      "???"
+    ],
+    "517:ending_title": [
+      "The Answer Before Your Eyes"
+    ],
+    "518:ending_title": [
+      "Sleeping Beauties"
+    ],
+    "519:ending_title": [
+      "Red She..."
+    ],
+    "520:ending_title": [
+      "The Price of Summoning"
+    ],
+    "521:ending_title": [
+      "The Haunted Restroom"
+    ],
+    "522:ending_title": [
+      "The Neighbor"
+    ],
+    "523:ending_title": [
+      "The Truth Behind the Smiles"
+    ],
+    "524:ending_title": [
+      "The Bloody Stall"
+    ],
+    "525:ending_title": [
+      "Ignorance Is Bliss"
+    ],
+    "526:ending_title": [
+      "Nothing Costs More Than Free"
+    ],
+    "527:ending_title": [
+      "The Elusive Sambra Tree"
+    ],
+    "528:ending_title": [
+      "The Red Mark of Fate"
+    ],
+    "529:ending_title": [
+      "That Unforgettable Taste"
+    ],
+    "530:ending_title": [
+      "A Shared Diary in Heaven"
+    ],
+    "531:ending_title": [
+      "The Shadow of Regret"
+    ],
+    "532:ending_title": [
+      "A Corpse’s Cry"
+    ],
+    "533:ending_title": [
+      "Lying Is the First Step to Execution"
+    ],
+    "534:ending_title": [
+      "Eternal Atonement"
+    ],
+    "535:ending_title": [
+      "The Promise"
+    ],
+    "536:ending_title": [
+      "The Spirits’ Test"
+    ],
+    "537:ending_title": [
+      "Ant Hell"
+    ],
+    "538:ending_title": [
+      "Goodbye, World"
+    ],
+    "539:ending_title": [
+      "Where Is the Truth?"
+    ],
+    "540:ending_title": [
+      "Orange Juice Just for Me"
+    ],
+    "541:ending_title": [
+      "What's in the Treasure Chest?"
+    ],
+    "542:ending_title": [
+      "Out of Reach"
+    ],
+    "543:ending_title": [
+      "The Die Is Cast"
+    ],
+    "544:ending_title": [
+      "The Feast Begins"
+    ],
+    "545:ending_title": [
+      "Revenge Site"
+    ],
+    "546:ending_title": [
+      "Burying the Lie"
+    ],
+    "547:ending_title": [
+      "The Star of Dinner"
+    ],
+    "548:ending_title": [
+      "I'm the Hero"
+    ],
+    "549:ending_title": [
+      "Eaten with Relish"
+    ],
+    "550:ending_title": [
+      "Everyone Wants a Taste of Human Flesh"
+    ],
+    "551:ending_title": [
+      "Farewell, Humanity"
+    ],
+    "552:ending_title": [
+      "Who's to Blame?"
+    ],
+    "553:ending_title": [
+      "I'm an Urban Legend Too"
+    ],
+    "554:ending_title": [
+      "Cannibal Buddies"
+    ],
+    "555:ending_title": [
+      "At the Famed Bavarois Cat"
+    ],
+    "556:ending_title": [
+      "We Are the Okuri-inu"
+    ],
+    "557:ending_title": [
+      "The Wonderful World of Self-Harm"
+    ],
+    "558:ending_title": [
+      "Strangers in the Next Life"
+    ],
+    "559:ending_title": [
+      "The New Newspaper Club"
+    ],
+    "560:ending_title": [
+      "Let Sleeping Dogs Lie"
+    ],
+    "561:ending_title": [
+      "What Matters Most"
+    ],
+    "562:ending_title": [
+      "Welcome to Perfect Score Cram School"
+    ],
+    "563:ending_title": [
+      "Sweet Temptation"
+    ],
+    "564:ending_title": [
+      "Sensing Danger"
+    ],
+    "565:ending_title": [
+      "The Right-Hand Neighbor"
+    ],
+    "566:ending_title": [
+      "All That Apologizing for Nothing"
+    ],
+    "567:ending_title": [
+      "The Truth Remains Hidden"
+    ],
+    "568:ending_title": [
+      "A Call to the Underworld"
+    ],
+    "569:ending_title": [
+      "Too Late"
+    ],
+    "570:ending_title": [
+      "Fated Love"
+    ],
+    "571:ending_title": [
+      "Emi's Advice"
+    ],
+    "572:ending_title": [
+      "Farewell, Humanity: Part II"
+    ],
+    "573:ending_title": [
+      "A New Life"
+    ],
+    "574:ending_title": [
+      "All's Well That Ends Well"
+    ],
+    "575:ending_title": [
+      "The Mirror of Escape"
+    ],
+    "576:ending_title": [
+      "Another Me"
+    ],
+    "577:ending_title": [
+      "Who Died?"
+    ],
+    "578:ending_title": [
+      "The World in the Mirror"
+    ],
+    "579:ending_title": [
+      "Rainbow Valley"
+    ],
+    "580:ending_title": [
+      "The Madness of Sagittarius"
+    ],
+    "581:ending_title": [
+      "An Infested Life"
+    ],
+    "582:ending_title": [
+      "Whiteout"
+    ],
+    "583:ending_title": [
+      "Satan's True Face"
+    ],
+    "584:ending_title": [
+      "The Pitfall of Kindness"
+    ],
+    "585:ending_title": [
+      "Legendary Horror Stream"
+    ],
+    "586:ending_title": [
+      "We Won't Let You Get Away"
+    ],
+    "587:ending_title": [
+      "Wiped Out"
+    ],
+    "588:ending_title": [
+      "An Offering to the Dead"
+    ],
+    "589:ending_title": [
+      "Not Alone"
+    ],
+    "590:ending_title": [
+      "Good Night"
+    ],
+    "591:ending_title": [
+      "Rest in Peace"
+    ],
+    "592:ending_title": [
+      "A Soldier's Last Letter"
+    ],
+    "593:ending_title": [
+      "Hosoda Loses His Lump"
+    ],
+    "594:ending_title": [
+      "Rupture"
+    ],
+    "595:ending_title": [
+      "Welcome to Narukami Park"
+    ],
+    "596:ending_title": [
+      "The Tanuki of Mount Narugami"
+    ],
+    "597:ending_title": [
+      "My Summer Vacation"
+    ],
+    "598:ending_title": [
+      "The Red Room"
+    ],
+    "599:ending_title": [
+      "Love's Purgatory"
+    ],
+    "600:ending_title": [
+      "The Red Figure in the Woods"
+    ],
+    "601:ending_title": [
+      "The Snowless Stone"
+    ],
+    "602:ending_title": [
+      "Haunted Cabin 13"
+    ],
+    "603:ending_title": [
+      "Boats and Breakups"
+    ],
+    "604:ending_title": [
+      "The Bloodstained Boat"
+    ],
+    "605:ending_title": [
+      "Bound Spirits on the Lakebed"
+    ],
+    "606:ending_title": [
+      "The Weight of Life"
+    ],
+    "607:ending_title": [
+      "Body Rental"
+    ],
+    "608:ending_title": [
+      "Listen to the Tape"
+    ],
+    "609:ending_title": [
+      "Seto the Swimmer"
+    ],
+    "610:ending_title": [
+      "Left Waiting in the Cave"
+    ],
+    "611:ending_title": [
+      "Please Come Again"
+    ],
+    "612:ending_title": [
+      "Underground Kingdom Mystery"
+    ],
+    "613:ending_title": [
+      "That Girl Is Happy"
+    ],
+    "614:ending_title": [
+      "Loyalty"
+    ],
+    "615:ending_title": [
+      "True Feelings"
+    ],
+    "616:ending_title": [
+      "A Decaying Body"
+    ],
+    "617:ending_title": [
+      "On the Brink of Madness"
+    ],
+    "618:ending_title": [
+      "The Depths of Malice"
+    ],
+    "619:ending_title": [
+      "Under Its Spell"
+    ],
+    "620:ending_title": [
+      "Nightfall"
+    ],
+    "621:ending_title": [
+      "The Last Light"
+    ],
+    "622:ending_title": [
+      "The Devil's Melody"
+    ],
+    "623:ending_title": [
+      "Lost Time"
+    ],
+    "624:ending_title": [
+      "Dreamworld Tour"
+    ],
+    "625:ending_title": [
+      "The Silver Key Beyond Time and Space"
+    ],
+    "626:ending_title": [
+      "Twilight Ritual"
+    ],
+    "627:ending_title": [
+      "Glory and Ruin"
+    ],
+    "628:ending_title": [
+      "Until We Meet Again"
+    ],
+    "629:ending_title": [
+      "In Mother's Arms"
+    ],
+    "630:ending_title": [
+      "Proof of Life"
+    ],
+    "631:ending_title": [
+      "Mountains of Madness"
+    ],
+    "632:ending_title": [
+      "An Ominous Presence"
+    ],
+    "633:ending_title": [
+      "Return to the Sea"
+    ]
+  }
+}

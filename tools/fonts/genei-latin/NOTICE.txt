@@ -1,0 +1,8 @@
+Copyright (c) 2014-2018, o_tamon, with Reserved Font Name 'GenEi'. | Copyright © 2014, 2015 Adobe Systems Incorporated (http://www.adobe.com/), with Reserved Font Name 'Source'. | Copyright (C) FONT 910 | Copyright (c) 2003-2012, Philipp H. Poll | Copyright (c) 2008-2014, Classical Letter Project | Copyright 2013 Google Inc. | Font Awesome
+
+Unmodified GenEi LateGo P v2, version 2.1.
+Source: https://okoneya.jp/font/genei-latin.html
+Archive: https://okoneya.jp/font/GenEiLatin-Separate_v2.1.zip
+Archive SHA256: 2e0bf6f454b10fd668fe420ef947b7e6a46284f728baa66501b7b6107ac68279
+Font SHA256: 39926aadea7b19df8dfc1d529d87a7304d6515f0767de8687c9ca58415d89afb
+License: SIL Open Font License 1.1; see LICENSE.txt.

@@ -1,0 +1,18 @@
+{
+  "language": "en",
+  "scope": "Makoto Shindo's game-streaming story in game.ks.",
+  "entries": [
+    {"id": "game_streamers_ghost_story", "ja": "ゲーム実況怪談", "en": "The Game Streamer's Ghost Story", "kind": "route title", "sources": ["Steam scenario game.ks", "https://w.atwiki.jp/allmiccore/pages/155.html"]},
+    {"id": "majiru", "ja": "マジル", "en": "Majiru", "kind": "character alias", "gender": "male", "role": "Horror-game streamer whom Shindo knows through a friend of a friend", "voice": "Conversational and unusually hard to scare. Uses his interest in cursed games as part of his persona.", "note": "Project spelling. The alias blends Masaru with majinai, meaning a spell or charm.", "sources": ["Steam scenario game.ks, lines 211–212", "https://w.atwiki.jp/allmiccore/pages/155.html"]},
+    {"id": "masaru", "ja": "マサル", "en": "Masaru", "kind": "character name", "note": "Majiru's given name in this scenario.", "sources": ["Steam scenario game.ks", "https://w.atwiki.jp/allmiccore/pages/155.html"]},
+    {"id": "cursed_game_streamer", "ja": "呪いのゲーム実況者", "en": "Cursed Game Streamer", "kind": "epithet", "sources": ["Steam scenario game.ks and Majiru's business card", "https://w.atwiki.jp/allmiccore/pages/155.html"]},
+    {"id": "criminal_kids", "ja": "クリミナル・キッズ", "en": "Criminal Kids", "kind": "fictional game title", "sources": ["Steam scenario game.ks", "https://w.atwiki.jp/allmiccore/pages/155.html"]},
+    {"id": "kagatoshi", "ja": "カガトシ", "en": "Kagatoshi", "kind": "name trigger", "note": "Project spelling. Keep Kagatoshi-kun where the script specifically refers to the variant with the suffix.", "sources": ["Steam scenario game.ks, lines 416–422"]},
+    {"id": "majiru_stream_title", "ja": "マジマジ呪われゲーム実況", "en": "Majiru's Seriously Cursed Game Stream", "kind": "stream title", "note": "Preserves the wordplay on his handle and the distinction between uploaded videos and the live broadcast.", "sources": ["Steam scenario game.ks, line 580"]},
+    {"id": "famicom", "ja": "ファミコン", "en": "Famicom", "kind": "console name", "sources": ["Steam scenario game.ks, line 735", "https://www.nintendo.co.jp/corporate/release/en/2026/260625.html"]},
+    {"id": "mega_man", "ja": "ロックマン", "en": "Mega Man", "kind": "game title", "sources": ["Steam scenario game.ks, line 736", "https://captown.capcom.com/ja/classic_games"]},
+    {"id": "death_labels", "ja": ["クビキリ", "ハラサキ", "ヒダルマ", "コッパミジン", "ダルマ", "ヤツザキ", "シュジュツ"], "en": ["BEHEADING", "GUTTING", "ABLAZE", "SHATTERED", "DARUMA", "DISMEMBERED", "SURGERY"], "kind": "clue labels", "note": "Use all caps in the art and in dialogue quoting the clues. Take coordinate digits from the actual on-screen art and footage.", "sources": ["Steam scenario game.ks and the red system-room backgrounds"]},
+    {"id": "k_city_o_prefecture", "ja": "Ｏ府、Ｋ市", "en": "K City, O Prefecture", "kind": "anonymized location", "sources": ["Steam scenario game.ks, lines 1694 and 1712"]},
+    {"id": "sun_house_building_a", "ja": "サンハウスＡ棟", "en": "Sun House, Building A", "kind": "location", "sources": ["Steam scenario game.ks, line 1694"]}
+  ]
+}

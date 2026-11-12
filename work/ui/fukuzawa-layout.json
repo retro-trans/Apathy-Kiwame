@@ -1,0 +1,194 @@
+{
+  "scenario": "data/scenario/fukuzawa.ks",
+  "source_sha256": "b4f18161215136fe2307f12231519e7a99497773ce8e5524f6a19c10369033e0",
+  "choices": {
+    "139": 414,
+    "141": 414,
+    "145": 480,
+    "148": 480,
+    "317": 414,
+    "319": 414,
+    "323": 480,
+    "325": 480,
+    "329": 546,
+    "331": 546,
+    "966": 348,
+    "969": 348,
+    "973": 408,
+    "975": 408,
+    "979": 468,
+    "981": 468,
+    "985": 528,
+    "987": 528,
+    "991": 588,
+    "993": 588,
+    "1508": 414,
+    "1510": 414,
+    "1514": 480,
+    "1517": 480,
+    "1688": 414,
+    "1690": 414,
+    "1694": 480,
+    "1697": 480,
+    "1701": 546,
+    "1703": 546,
+    "2476": 414,
+    "2478": 414,
+    "2482": 480,
+    "2484": 480,
+    "2865": 414,
+    "2867": 414,
+    "2871": 480,
+    "2873": 480
+  },
+  "menus": [
+    {
+      "stop": 151,
+      "choices": 2,
+      "lines": [
+        139,
+        141,
+        145,
+        148
+      ]
+    },
+    {
+      "stop": 335,
+      "choices": 3,
+      "lines": [
+        317,
+        319,
+        323,
+        325,
+        329,
+        331
+      ]
+    },
+    {
+      "stop": 997,
+      "choices": 5,
+      "lines": [
+        966,
+        969,
+        973,
+        975,
+        979,
+        981,
+        985,
+        987,
+        991,
+        993
+      ]
+    },
+    {
+      "stop": 1520,
+      "choices": 2,
+      "lines": [
+        1508,
+        1510,
+        1514,
+        1517
+      ]
+    },
+    {
+      "stop": 1707,
+      "choices": 3,
+      "lines": [
+        1688,
+        1690,
+        1694,
+        1697,
+        1701,
+        1703
+      ]
+    },
+    {
+      "stop": 2488,
+      "choices": 2,
+      "lines": [
+        2476,
+        2478,
+        2482,
+        2484
+      ]
+    },
+    {
+      "stop": 2877,
+      "choices": 2,
+      "lines": [
+        2865,
+        2867,
+        2871,
+        2873
+      ]
+    }
+  ],
+  "dialogue": {
+    "font_px": 22,
+    "line_height_px": 27,
+    "narrow_frame": {
+      "left": 0,
+      "width": 312,
+      "margin_left": 10,
+      "margin_right": 55
+    }
+  },
+  "artwork_review": [
+    {
+      "source": "hukuzawa/CG/アリ.png",
+      "width": 960,
+      "height": 690,
+      "action": "preserve original",
+      "review": "No readable Japanese narrative lettering."
+    },
+    {
+      "source": "hukuzawa/CG/手を握る.png",
+      "width": 960,
+      "height": 690,
+      "action": "preserve original",
+      "review": "No readable Japanese narrative lettering."
+    },
+    {
+      "source": "hukuzawa/CG/ミミズ.png",
+      "width": 960,
+      "height": 690,
+      "action": "preserve original",
+      "review": "No readable Japanese narrative lettering."
+    },
+    {
+      "source": "hukuzawa/CG/貯水タンク.png",
+      "width": 960,
+      "height": 690,
+      "action": "preserve original",
+      "review": "No readable Japanese narrative lettering."
+    },
+    {
+      "source": "SNS/携帯.jpg",
+      "width": 960,
+      "height": 690,
+      "action": "preserve original",
+      "review": "No readable Japanese narrative lettering."
+    },
+    {
+      "source": "SNS/携帯2.jpg",
+      "width": 960,
+      "height": 690,
+      "action": "preserve original",
+      "review": "No readable Japanese narrative lettering."
+    },
+    {
+      "source": "SNS/CG/3.png",
+      "width": 960,
+      "height": 690,
+      "action": "preserve original",
+      "review": "No readable Japanese narrative lettering."
+    },
+    {
+      "source": "SNS/CG/4.png",
+      "width": 960,
+      "height": 690,
+      "action": "preserve original",
+      "review": "No readable Japanese narrative lettering."
+    }
+  ]
+}

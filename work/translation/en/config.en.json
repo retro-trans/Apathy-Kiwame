@@ -1,0 +1,9 @@
+{
+  "scenario": "data/scenario/config.ks",
+  "source_sha256": "b3f6fa506e011ae8781168a6ce0fe3407b8f068d23ee037a111256bc21c31400",
+  "rows": {
+    "256:text": [
+      "Text will appear at this speed."
+    ]
+  }
+}

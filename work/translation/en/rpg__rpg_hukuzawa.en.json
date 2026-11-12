@@ -1,0 +1,1256 @@
+{
+  "scenario": "data/scenario/rpg/rpg_hukuzawa.ks",
+  "source_sha256": "613a897ae726f271b6d220cac395e30c869f8c2ef3cd8d1297dc377ca0e9bebe",
+  "rows": {
+    "7:text": [
+      "Hm...?",
+      " Doesn't the dust look disturbed in this spot?"
+    ],
+    "8:text": [
+      "Dust had piled up all along the hallway we'd come through,"
+    ],
+    "9:text": [
+      "but something seemed off about this spot."
+    ],
+    "13:text": [
+      "“Hey, ",
+      ". The boards have come off this window.”"
+    ],
+    "17:text": [
+      "“They have.”"
+    ],
+    "21:text": [
+      "I looked and realized this was where I'd noticed the loose boarding earlier."
+    ],
+    "22:text": [
+      "Broken boards had fallen inside.",
+      " Was that why there was no dust here?"
+    ],
+    "23:text": [
+      "I looked around, but nothing else seemed out of the ordinary."
+    ],
+    "27:text": [
+      "“It doesn't look like there's anything here..."
+    ],
+    "28:text": [
+      "But it's strange that the boards fell inward."
+    ],
+    "29:text": [
+      "Listen, ",
+      ".",
+      " Let's be careful.”"
+    ],
+    "33:text": [
+      "“Okay.”"
+    ],
+    "50:text": [
+      "“Whoa...",
+      " What was that?”"
+    ],
+    "54:text": [
+      "“It's coming from the teacher's desk."
+    ],
+    "55:text": [
+      "I think I can hear someone groaning, too.”"
+    ],
+    "59:text": [
+      "“",
+      ", take a look inside.”"
+    ],
+    "63:text": [
+      "“Why do I have to...”"
+    ],
+    "66:text": [
+      "“W-Well, if there's something scary in there,"
+    ],
+    "67:text": [
+      "someone's got to be ready to hit it, right...?",
+      " Please.”"
+    ],
+    "71:text": [
+      "“Fine... Here I go.",
+      " One, two... three!”"
+    ],
+    "77:text": [
+      "“W-Waaaaah!!”"
+    ],
+    "81:text": [
+      "“..."
+    ],
+    "82:text": [
+      "A-A girl?”"
+    ],
+    "86:text": [
+      "A girl tumbled out from inside the teacher's desk, her hands and feet bound and a gag in her mouth."
+    ],
+    "87:text": [
+      "So she was the one who'd been groaning..."
+    ],
+    "90:text": [
+      "“Mmmph!",
+      " Mm-mmmph!"
+    ],
+    "92:text": [
+      "Mmmph!”"
+    ],
+    "96:text": [
+      "“Oh, s-sorry!"
+    ],
+    "97:text": [
+      "I'll get that off you...”"
+    ],
+    "102:text": [
+      "“...Ah!",
+      " Hah, hah...",
+      " Th-thank you"
+    ],
+    "103:text": [
+      "for helping me...”"
+    ],
+    "107:text": [
+      "“Um...",
+      " More importantly, who are you?”"
+    ],
+    "111:text": [
+      "“I'm Reiko Fukuzawa...",
+      " Who are you two?”"
+    ],
+    "115:text": [
+      "“I'm ",
+      ".”"
+    ],
+    "119:text": [
+      "“I'm Sadao Hino. ",
+      "'s one of the younger members of my club.”"
+    ],
+    "123:text": [
+      "“Fukuzawa, why were you tied up in here?”"
+    ],
+    "127:text": [
+      "“...H-Help me! I...",
+      " A stalker's after me!”"
+    ],
+    "129:text": [
+      "“I ran all the way here,"
+    ],
+    "130:text": [
+      "but they caught me when I came into the building..."
+    ],
+    "131:text": [
+      "Please! Help me!”"
+    ],
+    "135:text": [
+      "“A stalker?”"
+    ],
+    "138:text": [
+      "“What are they like?”"
+    ],
+    "142:text": [
+      "“I don't know... They wear a black robe that hides their face..."
+    ],
+    "143:text": [
+      "And they've got these strange powers.”"
+    ],
+    "145:text": [
+      "“I guess you'd call them psychic powers...?"
+    ],
+    "146:text": [
+      "That's why I couldn't get out from inside the desk...”"
+    ],
+    "150:text": [
+      "“Psychic powers?",
+      " That's ridiculous..."
+    ],
+    "151:text": [
+      "Hang on, I'll call the police... Huh?”"
+    ],
+    "155:text": [
+      "“What's wrong?”"
+    ],
+    "159:text": [
+      "“I'm not getting a signal."
+    ],
+    "160:text": [
+      "That's strange...",
+      " It was working a moment ago.”"
+    ],
+    "163:text": [
+      "“...My phone's no good either.”"
+    ],
+    "167:text": [
+      "“Fukuzawa, let's go to the police."
+    ],
+    "168:text": [
+      "We can't handle this on our own.",
+      " That's okay, isn't it, Hino?”"
+    ],
+    "172:text": [
+      "“It's an emergency. We don't have a choice...",
+      " Let's hurry.”"
+    ],
+    "178:ptext.text.1": [
+      "Reiko Fukuzawa"
+    ],
+    "179:ptext.text.1": [
+      "HP"
+    ],
+    "197:text": [
+      "▶ Reiko Fukuzawa joined the party!"
+    ],
+    "200:text": [
+      "Fukuzawa was still sitting on the floor. I took her hand, and we ran to the entrance."
+    ],
+    "212:text": [
+      "“It won't open?!"
+    ],
+    "213:text": [
+      "But it isn't even locked... Damn it!”"
+    ],
+    "219:text": [
+      "Hino threw himself against the door, but it was as immovable as a rock."
+    ],
+    "220:text": [
+      "I rammed it with him, but all I got for it was a sore shoulder..."
+    ],
+    "224:text": [
+      "“I told you..."
+    ],
+    "225:text": [
+      "What do I do...?",
+      " Is that stalker going to kill me?”"
+    ],
+    "229:text": [
+      "Fukuzawa murmured, sounding close to tears."
+    ],
+    "230:text": [
+      "All I could do was rest a hand gently on her shoulder..."
+    ],
+    "231:text": [
+      "Could some strange power really be at work here...?"
+    ],
+    "235:text": [
+      "“Let's find a way out."
+    ],
+    "236:text": [
+      "There has to be another way outside."
+    ],
+    "237:text": [
+      "It's dangerous to stay here.",
+      " Come on.”"
+    ],
+    "241:text": [
+      "“Okay...”"
+    ],
+    "245:text": [
+      "I followed Hino as he set off."
+    ],
+    "246:text": [
+      "I felt sorry for Fukuzawa, seeing her small shoulders tremble..."
+    ],
+    "250:text": [
+      "“Is there really any way out...?”"
+    ],
+    "254:text": [
+      "I couldn't blame Fukuzawa for being worried."
+    ],
+    "255:text": [
+      "Every window in the old school building seemed to be boarded up..."
+    ],
+    "257:text": [
+      "No, wait."
+    ],
+    "262:text": [
+      "“...I've got it!",
+      " The first-floor restroom!"
+    ],
+    "263:text": [
+      "Hino, weren't the boards missing from the window there?”"
+    ],
+    "267:text": [
+      "“Right!",
+      " Let's go check it out.”"
+    ],
+    "286:text": [
+      "“Th-the hole...”"
+    ],
+    "290:text": [
+      "“It's blocked...”"
+    ],
+    "294:text": [
+      "Hino and I had definitely checked that this opening wasn't boarded up."
+    ],
+    "295:text": [
+      "But... it was now packed solid with something pitch-black."
+    ],
+    "297:text": [
+      "It looked like it wouldn't let a drop of water through,"
+    ],
+    "298:text": [
+      "and it was sealed so tightly I couldn't see even the faintest light from outside..."
+    ],
+    "300:text": [
+      "Hino tried scraping it away with a board he found on the floor,"
+    ],
+    "301:text": [
+      "but it had hardened like concrete."
+    ],
+    "305:text": [
+      "“...No good.",
+      " This won't budge either... Ow.”"
+    ],
+    "309:text": [
+      "“Are you okay?”"
+    ],
+    "313:text": [
+      "“Yeah... This is nothing.”"
+    ],
+    "317:text": [
+      "Holding the board barehanded had scraped his palms red."
+    ],
+    "318:text": [
+      "This was no good.",
+      " We weren't getting anywhere like this."
+    ],
+    "319:text": [
+      "All we'd do was get ourselves hurt for nothing.",
+      " Was there anywhere else we could get out...?"
+    ],
+    "323:text": [
+      "“Ah... ah......”"
+    ],
+    "327:text": [
+      "“Fukuzawa?”"
+    ],
+    "331:text": [
+      "“Look out!”"
+    ],
+    "335:text": [
+      "“Whoa......”"
+    ],
+    "345:text": [
+      "Hino shoved Fukuzawa and me out of the way."
+    ],
+    "346:text": [
+      "The moment we hit the floor, the spot where we'd been standing caved in as if something had smashed it."
+    ],
+    "348:text": [
+      "Lying there were desks and chairs, crushed and twisted,"
+    ],
+    "349:text": [
+      "tangled together into a single lump."
+    ],
+    "351:text": [
+      "Th-this couldn't be happening."
+    ],
+    "352:text": [
+      "It looked like some kind of sculpture...",
+      " Could a person even make something like this?"
+    ],
+    "357:text": [
+      "“Is that the Stalker...?!”"
+    ],
+    "364:text": [
+      "At the far end of the hallway, where Hino was looking, I could see a figure in a black robe."
+    ],
+    "365:text": [
+      "They were coming toward us slowly, muttering something under their breath."
+    ],
+    "369:text": [
+      "Behind them, as if pulled by a magnet,"
+    ],
+    "370:text": [
+      "desks and chairs flew out of the classrooms and piled into a single mass."
+    ],
+    "373:text": [
+      "“Run!",
+      " Hey, ",
+      "!",
+      " Get up!”"
+    ],
+    "377:text": [
+      "“Y-yes...!",
+      " Fukuzawa!”"
+    ],
+    "381:text": [
+      "“",
+      "...!”"
+    ],
+    "385:text": [
+      "“Come on!”"
+    ],
+    "391:text": [
+      "I pulled Fukuzawa up by the arm,"
+    ],
+    "392:text": [
+      "then chased after Hino, who was leading the way."
+    ],
+    "394:text": [
+      "Terrifying sounds rang out behind us, but I didn't have time to look back."
+    ],
+    "395:text": [
+      "We had to do something, fast...!"
+    ],
+    "416:text": [
+      "We were running for our lives."
+    ],
+    "417:text": [
+      "There was no telling when the Stalker might catch up..."
+    ],
+    "418:text": [
+      "We were too terrified to stop."
+    ],
+    "422:text": [
+      "“Eek......”"
+    ],
+    "428:text": [
+      "“Fukuzawa, are you okay?”"
+    ],
+    "432:text": [
+      "“.........",
+      " I'm sorry.",
+      " I'm slowing you down...”"
+    ],
+    "436:text": [
+      "“No, you're not.",
+      " It's okay."
+    ],
+    "437:text": [
+      "You've got to be getting tired after all that running..."
+    ],
+    "438:text": [
+      "Oh, so this is what you tripped over.”"
+    ],
+    "442:text": [
+      "I looked down and saw something like a mop handle lying on the floor."
+    ],
+    "443:text": [
+      "It was old, but one end had broken into a point like a spear."
+    ],
+    "444:text": [
+      "I could use this as a weapon..."
+    ],
+    "447:text": [
+      " obtained “Broken Mop”."
+    ],
+    "451:text": [
+      "“......Hey, I don't think we have time for a break.",
+      " Here they come.”"
+    ],
+    "455:text": [
+      "“What?!”"
+    ],
+    "459:text": [
+      "I looked up just as a chair came flying right at my face."
+    ],
+    "467:text": [
+      " hurled “Broken Mop”!"
+    ],
+    "475:text": [
+      "“No way...!”"
+    ],
+    "479:text": [
+      "Just before the handle hit the Stalker,"
+    ],
+    "480:text": [
+      "it froze in midair as if something invisible had caught it,"
+    ],
+    "481:text": [
+      "then fell to the floor."
+    ],
+    "483:text": [
+      "But maybe that had done something,"
+    ],
+    "484:text": [
+      "because the chairs floating behind the Stalker also crashed to the floor."
+    ],
+    "487:text": [
+      "“Now! Run!”"
+    ],
+    "491:text": [
+      "“Let's go, Fukuzawa!”"
+    ],
+    "495:text": [
+      "I pulled Fukuzawa along by the hand and started running again."
+    ],
+    "510:text": [
+      "“The second floor's too dangerous!",
+      " Shouldn't we try another floor...?”"
+    ],
+    "521:text": [
+      "If we hid in a classroom, we'd be finished the moment that thing found us."
+    ],
+    "522:text": [
+      "We had to find a way outside... A place that led outside..."
+    ],
+    "532:text": [
+      "“The third floor's dangerous... They might still be up there...”"
+    ],
+    "546:text": [
+      "We were nearing our limits...",
+      " We'd been running so long"
+    ],
+    "547:text": [
+      "that my legs were tingling and I kept nearly tripping over my own feet."
+    ],
+    "548:text": [
+      "Hino and Fukuzawa seemed just as exhausted. They were staggering too..."
+    ],
+    "551:text": [
+      "“Hah... hah..."
+    ],
+    "552:text": [
+      "Let's hide somewhere... At this rate, we won't be able to run if we need to...”"
+    ],
+    "556:text": [
+      "“Hah... hah...",
+      " Yeah... Are you okay?”"
+    ],
+    "560:text": [
+      "“Yes... I'm...",
+      " Fukuzawa, are you okay?”"
+    ],
+    "564:text": [
+      "“Y-yeah...",
+      " But... I could use a little... rest... Hah... hah..."
+    ],
+    "565:text": [
+      "Could we rest... in that classroom...?”"
+    ],
+    "569:text": [
+      "“...Yeah.",
+      " Can you make it that far?”"
+    ],
+    "573:text": [
+      "“Yes. I'll manage.”"
+    ],
+    "581:text": [
+      "We went into the nearest classroom and hid beneath the desks, huddled close together."
+    ],
+    "582:text": [
+      "There was no sign of the Stalker... It looked like we could rest here for a bit."
+    ],
+    "586:text": [
+      "“...I'm thirsty.”"
+    ],
+    "590:text": [
+      "“Do you want some?",
+      " It's still ice-cold.”"
+    ],
+    "594:text": [
+      "“...No, thanks. That oshiruko drink would only make me thirstier right now.”"
+    ],
+    "598:text": [
+      "“I'll pass, too...”"
+    ],
+    "602:text": [
+      "“Really?",
+      " Too bad. It's good stuff..."
+    ],
+    "603:text": [
+      "It's pretty tasty, you know."
+    ],
+    "604:text": [
+      "Something sweet works wonders when you're tired.”"
+    ],
+    "608:text": [
+      "Hino looked disappointed as he slipped the can back into his pocket."
+    ],
+    "609:text": [
+      "That was just like him."
+    ],
+    "611:text": [
+      "Still, he'd helped me relax a little..."
+    ],
+    "612:text": [
+      "Fukuzawa was smiling a little, too."
+    ],
+    "615:text": [
+      "'s mental state improved to “Good”."
+    ],
+    "622:text": [
+      "“Eeeek!!!”"
+    ],
+    "626:text": [
+      "“How...?",
+      " I didn't sense a thing...!”"
+    ],
+    "630:text": [
+      "“We have to run!",
+      " Hurry!”"
+    ],
+    "634:text": [
+      "We crawled out from under the desks and took off running again through the seemingly endless old school building."
+    ],
+    "635:text": [
+      "Where were we even supposed to run...?"
+    ],
+    "652:text": [
+      "We ran in circles through the building, and before we knew it,"
+    ],
+    "653:text": [
+      "we were back in front of the first-floor restroom where we'd first run into the Stalker."
+    ],
+    "655:text": [
+      "The desks and chairs that had been slammed down here earlier"
+    ],
+    "656:text": [
+      "had left huge scars that still looked fresh."
+    ],
+    "658:text": [
+      "I wasn't going to doubt Fukuzawa anymore."
+    ],
+    "659:text": [
+      "I'd seen it with my own eyes...",
+      " That terrifying, supernatural power."
+    ],
+    "663:text": [
+      "“Huh...",
+      " There's something glowing over there.”"
+    ],
+    "667:text": [
+      "“Hm?",
+      " ...You're right.",
+      " What is it?”"
+    ],
+    "672:text": [
+      "Where Fukuzawa was pointing, something lay in a corner of the hall, glowing faintly."
+    ],
+    "674:text": [
+      "I went closer for a better look. It was a box cutter."
+    ],
+    "675:text": [
+      "It gave off its own light, the sort of soft glow you get from indirect lighting."
+    ],
+    "677:text": [
+      "I nudged it with my toe.",
+      " Apart from the glow, it didn't seem unusual..."
+    ],
+    "678:text": [
+      "Nervously, I reached out and touched it."
+    ],
+    "679:text": [
+      "It was as cold as if it were still sitting in ice water."
+    ],
+    "683:text": [
+      "“That...”"
+    ],
+    "687:text": [
+      "“I found it on the floor."
+    ],
+    "688:text": [
+      "It's glowing, but... how does that work?”"
+    ],
+    "692:text": [
+      "“...I don't know.",
+      " But it's a valuable weapon.",
+      " Keep it with you.”"
+    ],
+    "696:text": [
+      "Hino sounded serious, as if he wanted to make certain I'd understood."
+    ],
+    "697:text": [
+      "Honestly, a glowing box cutter was creepy..."
+    ],
+    "698:text": [
+      "But if Hino was that insistent,",
+      " maybe I should keep it with me."
+    ],
+    "701:text": [
+      " obtained “Glowing Box Cutter”!"
+    ],
+    "707:text": [
+      "We all took off running again.",
+      " The sound seemed to be coming from the first floor."
+    ],
+    "708:text": [
+      "We raced up flight after flight of stairs, away from the sound."
+    ],
+    "712:text": [
+      "“This way!",
+      " Hurry!”"
+    ],
+    "723:text": [
+      "Hino opened a classroom door on the third floor and pushed Fukuzawa and me under a desk."
+    ],
+    "735:text": [
+      "“...",
+      ", I'll be the decoy.”"
+    ],
+    "739:text": [
+      "“What...?”"
+    ],
+    "743:text": [
+      "“Then you get Fukuzawa out of here.",
+      " You hear me?"
+    ],
+    "744:text": [
+      "Don't worry about me."
+    ],
+    "745:text": [
+      "Even if my body gets hurt, I can deal with that.”"
+    ],
+    "749:text": [
+      "“But...”"
+    ],
+    "753:text": [
+      "“When I run out, get away through the door on the other side of the classroom.”"
+    ],
+    "755:text": [
+      "“",
+      ", look closely.",
+      " The truth goes beyond what you can see.”"
+    ],
+    "756:text": [
+      "“Think it through.",
+      " Humans have wonderful brains, after all.”"
+    ],
+    "760:text": [
+      "“...Hino?”"
+    ],
+    "764:text": [
+      "“See you.”"
+    ],
+    "772:text": [
+      "“...Fukuzawa.",
+      " We have to get out through the other door. Hurry.”"
+    ],
+    "776:text": [
+      "“Y-yeah...",
+      " Let's go, ",
+      ".”"
+    ],
+    "793:ptext.text.1": [
+      "HP"
+    ],
+    "815:ptext.text.1": [
+      "Reiko Fukuzawa"
+    ],
+    "816:ptext.text.1": [
+      "HP"
+    ],
+    "834:text": [
+      "▶ Sadao Hino left the party!"
+    ],
+    "847:text": [
+      "Huh?",
+      " I thought I just heard something strange..."
+    ],
+    "858:text": [
+      "Hm...?",
+      " There's something inside."
+    ],
+    "859:text": [
+      "What... is this?",
+      " It looks like a cell phone, but I've never seen one shaped like this."
+    ],
+    "861:text": [
+      "Could it be a new model?",
+      " But what's something like this doing in the old school building...?"
+    ],
+    "865:text": [
+      "“",
+      ", come on. We have to go.”"
+    ],
+    "869:text": [
+      "“Yeah, I'm coming.”"
+    ],
+    "873:text": [
+      "I might find out what it was for later."
+    ],
+    "874:text": [
+      "For now, I might as well take it with me..."
+    ],
+    "876:text": [
+      " obtained “Strange Device”!"
+    ],
+    "878:text": [
+      "Was Hino all right...?",
+      " No, he had to be."
+    ],
+    "879:text": [
+      "For now, I had to focus on getting out of here alive with Fukuzawa."
+    ],
+    "880:text": [
+      "I'd see him again.",
+      " Right. It would be okay... It had to be..."
+    ],
+    "882:text": [
+      "...Right, I'd try the entrance."
+    ],
+    "883:text": [
+      "Maybe the Stalker's rampage had broken something."
+    ],
+    "884:text": [
+      "...I knew I'd never be that lucky."
+    ],
+    "886:text": [
+      "Still, we couldn't think of anywhere else to go."
+    ],
+    "887:text": [
+      "If we were going to escape, we'd have to find a way out on the first floor anyway..."
+    ],
+    "901:text": [
+      "We ran down the stairs, keeping our footsteps as quiet as we could, and headed for the entrance."
+    ],
+    "906:text": [
+      "I could make out a figure lying in the entrance..."
+    ],
+    "907:text": [
+      "...What was that?"
+    ],
+    "908:text": [
+      "Could it be the Stalker...?"
+    ],
+    "910:text": [
+      "...No.",
+      " That's... That's..."
+    ],
+    "914:text": [
+      "“...Hino!”"
+    ],
+    "918:text": [
+      "Oh, no. This couldn't be happening."
+    ],
+    "919:text": [
+      "As I ran to him, I felt the strength drain from my legs."
+    ],
+    "921:text": [
+      "Even from a distance, I could see that Hino was covered in bright red blood,"
+    ],
+    "922:text": [
+      "his lower body crushed beneath desks and chairs."
+    ],
+    "924:text": [
+      "There was no way he was still alive..."
+    ],
+    "925:text": [
+      "I knew that, but I couldn't stop myself from running to him."
+    ],
+    "927:text": [
+      "Only a moment ago, Hino had been talking with us, laughing, alive,"
+    ],
+    "928:text": [
+      "and because he helped us get away...",
+      " Because of that...",
+      " This was too cruel..."
+    ],
+    "929:text": [
+      "Why did this have to happen to Hino?"
+    ],
+    "931:text": [
+      "Why did we have to go through something this horrible?"
+    ],
+    "933:text": [
+      "The questions welled up and spilled over as tears.",
+      " I put a hand on Hino's back."
+    ],
+    "934:text": [
+      "He was still warm...",
+      " It meant his blood had been flowing just a moment ago."
+    ],
+    "935:text": [
+      "It meant he'd been alive.",
+      " But even that warmth was ebbing away, relentlessly."
+    ],
+    "940:text": [
+      "I looked down. A can of oshiruko drink had rolled out of Hino's clothes."
+    ],
+    "941:text": [
+      "It was still cold, just like he'd said."
+    ],
+    "943:text": [
+      "This is a pretty lame keepsake...",
+      " Hino."
+    ],
+    "947:text": [
+      "“...",
+      "!”"
+    ],
+    "951:text": [
+      "“...There you are.”"
+    ],
+    "954:text": [
+      "I stood up and drew Fukuzawa behind me."
+    ],
+    "955:text": [
+      "I could see the Stalker slowly walking toward us."
+    ],
+    "956:text": [
+      "There was nowhere left to run."
+    ],
+    "957:text": [
+      "No, I didn't want to run anymore.",
+      " I'd run enough."
+    ],
+    "959:text": [
+      "Even if I couldn't hurt them, even if I knew I couldn't win,"
+    ],
+    "960:text": [
+      "I wasn't such a pushover that I'd stand there and let them kill me."
+    ],
+    "963:text": [
+      "“...Come at me.”"
+    ],
+    "978:text": [
+      "“Fukuzawa, do you have any idea who the Stalker could be?”"
+    ],
+    "982:text": [
+      "“Not really... I talked to the police, too,"
+    ],
+    "983:text": [
+      "but there wasn't enough to go on, so they couldn't do anything...”"
+    ],
+    "987:text": [
+      "“I see... Sorry I brought it up."
+    ],
+    "988:text": [
+      "Let's find a way out of here.",
+      " Then I'll go to the police with you."
+    ],
+    "989:text": [
+      "If we all tell them what happened, they'll do something this time.”"
+    ],
+    "993:text": [
+      "“",
+      "... Thank you.”"
+    ],
+    "996:text": [
+      "Good.",
+      " Fukuzawa seemed to have perked up a little."
+    ],
+    "997:text": [
+      "I had to find a way out of here, fast."
+    ],
+    "1008:text": [
+      "“Don't you think school lockers are tiny?"
+    ],
+    "1009:text": [
+      "Mine's always stuffed full.”"
+    ],
+    "1013:text": [
+      "“Really?"
+    ],
+    "1014:text": [
+      "I don't keep much in mine, so it's never bothered me.”"
+    ],
+    "1018:text": [
+      "“Boys and girls don't carry the same amount of stuff, you knooow."
+    ],
+    "1019:text": [
+      "You don't understand girls at all, Hino. Kyahaha!”"
+    ],
+    "1023:text": [
+      "“............”"
+    ],
+    "1027:text": [
+      "Uh-oh.",
+      " Hino looked annoyed."
+    ],
+    "1028:text": [
+      "We'd better look somewhere else."
+    ],
+    "1040:text": [
+      "“You can see the courtyard from here.”"
+    ],
+    "1044:text": [
+      "“No way?!"
+    ],
+    "1045:text": [
+      "Then... then can we get out through here?”"
+    ],
+    "1049:text": [
+      "“...It's no good. It won't budge.",
+      " Just like the front door."
+    ],
+    "1050:text": [
+      "Breaking the glass... Ngh,",
+      " that's no good either...!”"
+    ],
+    "1054:text": [
+      "“Hino, don't push yourself.",
+      " You'll hurt yourself.”"
+    ],
+    "1058:text": [
+      "“...Should we look somewhere else?"
+    ],
+    "1059:text": [
+      "I don't want you getting hurt any more because of me...”"
+    ],
+    "1063:text": [
+      "“...All right.",
+      " Let's move on.”"
+    ],
+    "1076:text": [
+      "“Fukuzawa, did you come in through the opening that was here?”"
+    ],
+    "1080:text": [
+      "“Yeah.",
+      " I never thought they'd follow me all the way here... I'm sorry."
+    ],
+    "1081:text": [
+      ", I put you both in danger...”"
+    ],
+    "1086:text": [
+      "“It's not your fault, Fukuzawa. Don't worry about it.”"
+    ],
+    "1091:text": [
+      "“",
+      "'s right.",
+      " You don't have to blame yourself.”"
+    ],
+    "1095:text": [
+      "“Thank you, ",
+      "... And you too, Hino.”"
+    ],
+    "1099:text": [
+      "“The opening's blocked for now,"
+    ],
+    "1100:text": [
+      "but who knows what might happen later?"
+    ],
+    "1101:text": [
+      "We should probably come back and check it every so often.”"
+    ],
+    "1105:text": [
+      "“Right.",
+      " Let's come back later.”"
+    ],
+    "1115:text": [
+      "“It still won't open.”"
+    ],
+    "1119:text": [
+      "“I can't get a signal either."
+    ],
+    "1120:text": [
+      "My mom must be so worried...”"
+    ],
+    "1124:text": [
+      "“Yeah.",
+      " There's no point in staying here."
+    ],
+    "1125:text": [
+      "Let's move on.”"
+    ],
+    "1129:text": [
+      "“Okaaay...”"
+    ],
+    "1142:text": [
+      "“Wow, what a mess...",
+      " How old do you think this textbook is?”"
+    ],
+    "1146:text": [
+      "“Oh, is this a love letter?"
+    ],
+    "1147:text": [
+      "I really wanna know what's inside!",
+      " Would it be so bad if I read it?”"
+    ],
+    "1151:text": [
+      "“Come on, we don't have time for that...",
+      " Oh."
+    ],
+    "1152:text": [
+      "Now this is a pretty rare find...”"
+    ],
+    "1156:text": [
+      "“Hino, we'll leave you behind.”"
+    ],
+    "1160:text": [
+      "“Hino, hurry, hurry.”"
+    ],
+    "1164:text": [
+      "“...I'm not happy about this.”"
+    ],
+    "1175:text": [
+      "“",
+      ", what's your best subject?”"
+    ],
+    "1179:text": [
+      "“Modern Japanese and social studies, I guess.",
+      " You're good at school, right, Hino?”"
+    ],
+    "1183:text": [
+      "“Well, I'd say I'm about average...",
+      " I can help if you get stuck, though.”"
+    ],
+    "1187:text": [
+      "“Wait, really?",
+      " Yay!”"
+    ],
+    "1191:text": [
+      "“Assuming we make it out of here in one piece."
+    ],
+    "1192:text": [
+      "Come on. Let's keep moving.”"
+    ],
+    "1203:text": [
+      "“This place isn't used anymore, right?”"
+    ],
+    "1208:text": [
+      "“Yeah, that's right.”"
+    ],
+    "1212:text": [
+      "“I see. It's still huge, though..."
+    ],
+    "1213:text": [
+      "Think the Stalker might give up and go home...?”"
+    ],
+    "1225:text": [
+      "“There's plenty of equipment left here..."
+    ],
+    "1226:text": [
+      "I doubt any of it would work against that monster of a Stalker.”"
+    ],
+    "1230:text": [
+      "“What if we splash them with some nasty chemicals?”"
+    ],
+    "1235:text": [
+      "“Uh... I don't know about that...”"
+    ],
+    "1239:text": [
+      "“If we hide here and the Stalker goes on a rampage, we're in trouble."
+    ],
+    "1240:text": [
+      "Let's look somewhere else.”"
+    ],
+    "1252:text": [
+      "“Well, we made it outside, at least...”"
+    ],
+    "1256:text": [
+      "“We can't get down from here, can we...?”"
+    ],
+    "1260:text": [
+      "“Still no signal up here..."
+    ],
+    "1261:text": [
+      "Let's move on."
+    ],
+    "1262:text": [
+      "There has to be a way out somewhere.”"
+    ],
+    "1274:text": [
+      "“Oh, a kitty!",
+      " A book about kitties!”"
+    ],
+    "1275:text": [
+      "“Let's see... The right way to take care of a cat? Who knooows!"
+    ],
+    "1276:text": [
+      "Heehee!”"
+    ],
+    "1280:text": [
+      "“.........”"
+    ],
+    "1284:text": [
+      "Fukuzawa could be pretty odd sometimes..."
+    ],
+    "1288:text": [
+      "“",
+      ", look. A collection of old Newspaper Club articles."
+    ],
+    "1289:text": [
+      "Oh, Pandemic Monthly.",
+      " What?!"
+    ],
+    "1290:text": [
+      "How to kill a stubborn virus?!”"
+    ],
+    "1292:text": [
+      "“Boiling is old-fashioned now, is it...? I see, I see...”"
+    ],
+    "1296:text": [
+      "Hino could be pretty odd sometimes, too...",
+      " We'd better get going."
+    ],
+    "1310:text": [
+      "A few things here looked useful..."
+    ],
+    "1311:text": [
+      "I doubted any of them would do much against that strange power."
+    ],
+    "1315:text": [
+      "“",
+      ", what if we made a loud noise to scare the Stalker?"
+    ],
+    "1316:text": [
+      "I bet we could make a lot of noise with these instruments.”"
+    ],
+    "1320:text": [
+      "“No, I don't think that would do it.”"
+    ],
+    "1324:text": [
+      "“Oh...”"
+    ],
+    "1328:text": [
+      "There was no point staying here."
+    ],
+    "1329:text": [
+      "We had to get out of the building somehow..."
+    ],
+    "1340:text": [
+      "“This is the girls' restroom!",
+      " Hey, ",
+      ", you pervert!”"
+    ],
+    "1344:text": [
+      "“What?!",
+      " Is this really the time?”"
+    ],
+    "1348:text": [
+      "Well, there was no getting out of the building from this restroom..."
+    ],
+    "1349:text": [
+      "Was there another way to get outside...?"
+    ],
+    "1361:text": [
+      "“",
+      ", could we use this as a decoy?”"
+    ],
+    "1365:text": [
+      "“Hmm... It might work..."
+    ],
+    "1366:text": [
+      "But wouldn't it be hard to carry with just the two of us?”"
+    ],
+    "1370:text": [
+      "“...True.",
+      " We'd be better off looking for an exit.”"
+    ],
+    "1374:text": [
+      "“Yeah, let's go.”"
+    ],
+    "1385:text": [
+      "“Yeah, there's no way we could jump down from here...”"
+    ],
+    "1388:text": [
+      "“No way!",
+      " We'd die!”"
+    ],
+    "1392:text": [
+      "“Yeah, you're right...”"
+    ],
+    "1396:text": [
+      "“If we're looking for an exit, let's try the first floor.”"
+    ],
+    "1400:text": [
+      "Fukuzawa was right.",
+      " We needed to head to the first floor."
+    ],
+    "1413:text": [
+      "There were plenty of shelves here."
+    ],
+    "1414:text": [
+      "Lots of blind spots, too.",
+      " It might be the perfect hiding place."
+    ],
+    "1418:text": [
+      "“If these shelves fell on us, we'd be flat as pancakes.”"
+    ],
+    "1422:text": [
+      "...We weren't hiding here."
+    ],
+    "1423:text": [
+      "We needed to find a way out..."
+    ]
+  }
+}

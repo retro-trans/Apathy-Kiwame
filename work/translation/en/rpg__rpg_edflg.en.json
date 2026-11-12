@@ -1,0 +1,9 @@
+{
+  "scenario": "data/scenario/rpg/rpg_edflg.ks",
+  "source_sha256": "7a9b5748a4b1ce36c3547af23d0d78b9a6e5c7b50e6f70063e1faeaba7982dff",
+  "rows": {
+    "35:ED.text.1": [
+      "The End of the Beginning   END"
+    ]
+  }
+}

@@ -1,0 +1,5542 @@
+{
+  "scenario": "data/scenario/game.ks",
+  "source_sha256": "5c3782760166a2de28b80448755a36309eaf7b05447e37bd7f55440cfb5940d0",
+  "rows": {
+    "64:text": [
+      "I picked up the card from the floor and held it out to Shindo."
+    ],
+    "65:text": [
+      "He hadn't noticed, but a single card had slipped out of his hand as he got the deck ready."
+    ],
+    "71:title.name.1": [
+      "Apathy Kiwame - The Game Streamer's Ghost Story"
+    ],
+    "95:text": [
+      "Makoto Shindo"
+    ],
+    "96:text": [
+      "“Huh? What are you doing?"
+    ],
+    "97:text": [
+      "...Oh, I dropped it. My bad.”"
+    ],
+    "99:text": [
+      "Shindo glanced at the card",
+      "and furrowed his brow."
+    ],
+    "100:text": [
+      "He looked as though a bitter taste he'd forgotten had suddenly come back to him."
+    ],
+    "102:text": [
+      "Makoto Shindo"
+    ],
+    "103:text": [
+      "“I never thought I'd run across this thing here."
+    ],
+    "104:text": [
+      "It went missing before I even noticed,"
+    ],
+    "105:text": [
+      "and I never gave it another thought, but..."
+    ],
+    "106:text": [
+      "I didn't expect it to be mixed in with the playing cards."
+    ],
+    "107:text": [
+      "It feels like a weird kind of fate."
+    ],
+    "108:text": [
+      "This thing's got a nasty history of its own,"
+    ],
+    "109:text": [
+      "at least as far as I'm concerned.”"
+    ],
+    "111:text": [
+      "Intrigued, I looked down at the card in my hand."
+    ],
+    "112:text": [
+      "Unlike the bright designs on the playing cards, this looked like a plain business card with black lettering on a white background."
+    ],
+    "114:text": [
+      "Before I could read it, Shindo reached out and took it."
+    ],
+    "115:text": [
+      "He handled it the way you might pick up something filthy."
+    ],
+    "117:text": [
+      "Makoto Shindo"
+    ],
+    "118:text": [
+      "“You touched this thing"
+    ],
+    "119:text": [
+      "instead of one of the cards I laid out."
+    ],
+    "120:text": [
+      "You could say you chose it."
+    ],
+    "121:text": [
+      "Maybe this gathering wants to hear a story"
+    ],
+    "122:text": [
+      "about this card instead of the one I came"
+    ],
+    "123:text": [
+      "prepared to tell."
+    ],
+    "124:text": [
+      "All right. I'll tell you, then."
+    ],
+    "126:text": [
+      "You can see it's just a business card."
+    ],
+    "127:text": [
+      "I said it's got a history, but"
+    ],
+    "128:text": [
+      "there's no weird curse on it."
+    ],
+    "129:text": [
+      "Thing is, whenever I look at it,"
+    ],
+    "130:text": [
+      "there's something I can't help remembering,"
+    ],
+    "131:text": [
+      "and it creeps me out. That's all."
+    ],
+    "133:text": [
+      "...When I first got it, I didn't think anything of it,"
+    ],
+    "134:text": [
+      "but now even that sketchy title"
+    ],
+    "135:text": [
+      "makes my skin crawl."
+    ],
+    "136:text": [
+      "Here. Take a look.”"
+    ],
+    "152:text": [
+      "With a smile I couldn't quite read,",
+      "Shindo turned the front of the card toward me."
+    ],
+    "153:text": [
+      "At a glance, it looked like an ordinary, respectable business card..."
+    ],
+    "155:text": [
+      "“Cursed Game Streamer: Majiru”"
+    ],
+    "157:text": [
+      "That's what the card said,",
+      "right in the middle."
+    ],
+    "177:text": [
+      "Makoto Shindo"
+    ],
+    "178:text": [
+      "“You know those gameplay videos with commentary?"
+    ],
+    "179:text": [
+      "People play a game and say whatever comes to mind,"
+    ],
+    "180:text": [
+      "then put the footage up for others to watch."
+    ],
+    "181:text": [
+      "Lots of developers are fine with people sharing videos these days,"
+    ],
+    "182:text": [
+      "and most of the videos are free to watch,"
+    ],
+    "183:text": [
+      "so for a student without much cash, it's about as good"
+    ],
+    "184:text": [
+      "as entertainment gets."
+    ],
+    "185:text": [
+      "You've probably watched one before,"
+    ],
+    "186:text": [
+      "haven't you?"
+    ],
+    "188:text": [
+      "Most people who make those videos do it for fun,"
+    ],
+    "189:text": [
+      "but more of them are going pro these days,"
+    ],
+    "190:text": [
+      "or so I hear."
+    ],
+    "191:text": [
+      "Making a living just by streaming games"
+    ],
+    "192:text": [
+      "sounds like a dream, but I bet"
+    ],
+    "193:text": [
+      "it's got its own headaches."
+    ],
+    "195:text": [
+      "Anyway, back to the card. It was something"
+    ],
+    "196:text": [
+      "this one game streamer used to hand out."
+    ],
+    "197:text": [
+      "It's got his handle on it"
+    ],
+    "198:text": [
+      "instead of his real name. For contact details,"
+    ],
+    "199:text": [
+      "there's just his social media ID and a URL"
+    ],
+    "200:text": [
+      "that takes you to his list of videos."
+    ],
+    "202:text": [
+      "Yeah, I know. You're wondering why he calls himself"
+    ],
+    "203:text": [
+      "a ‘cursed’ game streamer."
+    ],
+    "204:text": [
+      "It sounds pretty ominous for a business card."
+    ],
+    "205:text": [
+      "Sorry, but that explanation"
+    ],
+    "206:text": [
+      "is gonna have to wait."
+    ],
+    "208:text": [
+      "A friend of a friend passed it along to me. When I first saw it, I had no idea what to make of it."
+    ],
+    "209:text": [
+      "I barely knew what game streaming was back then, and that name and title both sounded sketchy."
+    ],
+    "211:text": [
+      "Like I said, Majiru is his handle. From what I heard,"
+    ],
+    "212:text": [
+      "it's a mix of Masaru, his real name, and majinai, which means a spell or charm."
+    ],
+    "214:text": [
+      "Majiru didn't start out calling himself",
+      "the ‘Cursed Streamer.’"
+    ],
+    "215:text": [
+      "He started out sticking to horror games, which was pretty common for a streamer."
+    ],
+    "224:text": [
+      "Thing is, there are all kinds of horror game streamers."
+    ],
+    "226:text": [
+      "Some get respect because they're good. Others are so bad they're fun to watch."
+    ],
+    "227:text": [
+      "Some people tune in to watch a scaredy-cat freak out,",
+      "and others like streamers who never flinch."
+    ],
+    "228:text": [
+      "Some work hard to get famous. Others do it as a hobby, at their own pace."
+    ],
+    "230:text": [
+      "Majiru was a decent player, but he could handle a scare better than most people."
+    ],
+    "231:text": [
+      "He loved horror but didn't believe in ghosts or anything like that. He was always saying, ‘I'd love for something to really scare me.’"
+    ],
+    "233:text": [
+      "I went back and watched some of his old horror game videos. The guy was so hard to scare,",
+      "I didn't know whether to be impressed or exasperated."
+    ],
+    "235:text": [
+      "Whatever you believe about ghosts,",
+      "a sudden scare still gets you."
+    ],
+    "236:text": [
+      "A monster jumps out of hiding, a woman's bloody face fills the screen out of nowhere... They can be the oldest tricks in the book and you'll still flinch."
+    ],
+    "238:text": [
+      "Those tricks didn't work on Majiru. Either he had no reaction at all or he snorted—"
+    ],
+    "239:text": [
+      "Either way, he kept on playing like nothing happened."
+    ],
+    "241:text": [
+      "People were split on those videos. Some said the way he mocked every scare spoiled the fun. Others liked that they could relax and watch because he never got rattled."
+    ],
+    "252:text": [
+      "Me? ...Let me think."
+    ],
+    "253:text": [
+      "If Majiru had stuck with horror games, I'd have gotten bored and quit watching pretty quick."
+    ],
+    "255:text": [
+      "He barely reacted, didn't say much, and went through the motions. It felt like watching somebody do busywork."
+    ],
+    "256:text": [
+      "Honestly, it made me sleepy."
+    ],
+    "258:text": [
+      "But a fan request sent Majiru in a different direction as a streamer."
+    ],
+    "260:text": [
+      "He was pretty hungry for more views and more fans."
+    ],
+    "261:text": [
+      "So he tried to give people what they asked for whenever he could."
+    ],
+    "263:text": [
+      "He probably figured it was more of what he'd been doing all along. Turned out it made him a whole lot more popular."
+    ],
+    "265:text": [
+      "Yeah, that's right."
+    ],
+    "266:text": [
+      "He went from a plain old ‘game streamer’ to a ‘Cursed",
+      "Game Streamer’."
+    ],
+    "267:text": [
+      "I got my hands on his business card not long after that."
+    ],
+    "269:text": [
+      "Guess it's time I explained that weird title."
+    ],
+    "271:text": [
+      "A ‘cursed game’ is a game with nasty rumors hanging over it."
+    ],
+    "272:text": [
+      "Maybe bad things happened to the people involved, one after another. Maybe there's a glitch that seems to mean something. Or playing the game puts a curse on you."
+    ],
+    "274:text": [
+      "You ever hear a story like that?"
+    ],
+    "275:text": [
+      "A quick search'll turn up all the creepy stories you could want."
+    ],
+    "277:text": [
+      "Funny thing is, people who can handle regular horror games still get creeped out when those rumors start spilling over into real life."
+    ],
+    "279:text": [
+      "Even if it's some harmless game for kids, they'll think twice about playing it."
+    ],
+    "281:text": [
+      "I've got a friend like that. They can't shake the thought that it might actually do something to them."
+    ],
+    "283:text": [
+      "They said just knowing they'd played a cursed game would throw them off, too."
+    ],
+    "284:text": [
+      "Nothing would actually be any different, but they're the type to start blaming every little bit of bad luck on the curse."
+    ],
+    "286:text": [
+      "Hey, what about you?"
+    ],
+    "287:text": [
+      "Suppose there was a game that put a curse on anyone who played it.”"
+    ],
+    "300:glink.text.1": [
+      "1. I'd play it myself"
+    ],
+    "302:glink.text.1": [
+      "1. I'd play it myself"
+    ],
+    "306:glink.text.1": [
+      "2. I'd just watch a video"
+    ],
+    "308:glink.text.1": [
+      "2. I'd just watch a video"
+    ],
+    "312:glink.text.1": [
+      "3. I'm not interested"
+    ],
+    "314:glink.text.1": [
+      "3. I'm not interested"
+    ],
+    "326:text": [
+      "Makoto Shindo"
+    ],
+    "327:text": [
+      "“Huh. You've got guts."
+    ],
+    "328:text": [
+      "Maybe nothing scares you. Maybe you don't buy the stories."
+    ],
+    "329:text": [
+      "Or maybe you want to prove"
+    ],
+    "330:text": [
+      "there's no such thing as a cursed game."
+    ],
+    "331:text": [
+      "Either way, you might get along with Majiru."
+    ],
+    "332:text": [
+      "I wish I had the guts for it."
+    ],
+    "333:text": [
+      "I'm curious what's in those games, sure."
+    ],
+    "334:text": [
+      "But if someone's willing to post a video,"
+    ],
+    "335:text": [
+      "I'm happy just watching it."
+    ],
+    "336:text": [
+      "So I started looking forward"
+    ],
+    "337:text": [
+      "to Majiru's videos.”"
+    ],
+    "346:text": [
+      "Makoto Shindo"
+    ],
+    "347:text": [
+      "“I see."
+    ],
+    "348:text": [
+      "A game that puts a curse on whoever plays it..."
+    ],
+    "349:text": [
+      "Whatever you believe about curses, I can see"
+    ],
+    "350:text": [
+      "why you'd think twice about playing it yourself."
+    ],
+    "351:text": [
+      "Me, I'm hardly that sensitive about it."
+    ],
+    "352:text": [
+      "Mostly I just can't be bothered."
+    ],
+    "353:text": [
+      "I'm curious what's in those games, sure."
+    ],
+    "354:text": [
+      "But if someone's willing to post a video,"
+    ],
+    "355:text": [
+      "I'm happy just watching it."
+    ],
+    "356:text": [
+      "So I started looking forward"
+    ],
+    "357:text": [
+      "to Majiru's videos.”"
+    ],
+    "366:text": [
+      "Makoto Shindo"
+    ],
+    "367:text": [
+      "“You're not interested, huh?"
+    ],
+    "368:text": [
+      "Yeah, some people feel that way."
+    ],
+    "369:text": [
+      "A game that curses you if you play it..."
+    ],
+    "370:text": [
+      "Some people don't believe rumors like that at all. Others"
+    ],
+    "371:text": [
+      "just aren't interested in occult stories."
+    ],
+    "372:text": [
+      "Or maybe you're scared that even watching a video"
+    ],
+    "373:text": [
+      "could have some kind of effect on you."
+    ],
+    "375:text": [
+      "Which is it for you?"
+    ],
+    "376:text": [
+      "...Ah, never mind. I'm the one telling the story here."
+    ],
+    "377:text": [
+      "I'm kind of curious about cursed games,"
+    ],
+    "378:text": [
+      "and if someone's willing to take the risk for me,"
+    ],
+    "379:text": [
+      "I'm more than happy to sit back"
+    ],
+    "380:text": [
+      "and watch."
+    ],
+    "381:text": [
+      "So I started looking forward"
+    ],
+    "382:text": [
+      "to Majiru's videos.”"
+    ],
+    "399:text": [
+      "Makoto Shindo"
+    ],
+    "400:text": [
+      "“I say ‘cursed games’ like it's one thing. There were all kinds"
+    ],
+    "401:text": [
+      "of them."
+    ],
+    "403:text": [
+      "Take the first video I watched, for instance. The game had you"
+    ],
+    "404:text": [
+      "talk to animals and build up a restaurant. It was meant"
+    ],
+    "405:text": [
+      "for kids."
+    ],
+    "406:text": [
+      "It looked cute, but there was a bug that made every"
+    ],
+    "407:text": [
+      "character's head fall off."
+    ],
+    "408:text": [
+      "And all those heads ended up rolling around"
+    ],
+    "409:text": [
+      "in the restaurant kitchen."
+    ],
+    "411:text": [
+      "It was just a bug, so I doubt anyone meant"
+    ],
+    "412:text": [
+      "for it to happen. But if you wanted a cute, cozy"
+    ],
+    "413:text": [
+      "game, seeing that must've been enough"
+    ],
+    "414:text": [
+      "to scar you for life."
+    ],
+    "416:text": [
+      "There was also an RPG that erased all its residents' data if you renamed the hero “Kagatoshi.”"
+    ],
+    "418:text": [
+      "Whether you went into town or to the castle, the place was deserted."
+    ],
+    "419:text": [
+      "There was nobody to talk to, so you couldn't trigger a single event."
+    ],
+    "421:text": [
+      "All Majiru could do was head outside and fight some battles. Then a weird message started scrolling by in nothing but English and numbers."
+    ],
+    "422:text": [
+      "The last thing it said was “Kagatoshi-kun...” Then the game froze on the spot."
+    ],
+    "424:text": [
+      "That was probably a bug, too."
+    ],
+    "425:text": [
+      "I didn't get it, but I guess one of the viewers was a programmer. They explained why it happened."
+    ],
+    "426:text": [
+      "They said something about game switches."
+    ],
+    "427:text": [
+      "There was a clear cause, but if you ran into it without knowing why, it'd feel pretty ominous."
+    ],
+    "429:text": [
+      "Then there was the one that was supposedly “recalled the day it came out.”"
+    ],
+    "430:text": [
+      "Apparently nobody had ever beaten it."
+    ],
+    "432:text": [
+      "Turns out it was “a game that trashed your PC's",
+      "hard drive when you played it.” That's scary in its own way."
+    ],
+    "434:text": [
+      "Along with the buggy ones, Majiru played a few games that were rumored to curse anyone who played them."
+    ],
+    "436:text": [
+      "Those games were pretty ordinary. They didn't even have any especially scary scenes."
+    ],
+    "437:text": [
+      "He played them straight through, and they ended without incident."
+    ],
+    "438:text": [
+      "Still, knowing the stories behind them made them a little creepy."
+    ],
+    "440:text": [
+      "Viewers' comments scrolled from right to left across the screen on Majiru's streaming site,",
+      "and some of them sounded scared out of their minds."
+    ],
+    "442:text": [
+      "“I was watching this when I heard a tap-tap-tap at my window."
+    ],
+    "443:text": [
+      "And I'm on the fourth floor.”"
+    ],
+    "445:text": [
+      "“A dog just started barking at thin air."
+    ],
+    "446:text": [
+      "...I'm too scared to keep watching.”"
+    ],
+    "448:text": [
+      "“Oh crap, this one's real. Everybody needs to"
+    ],
+    "449:text": [
+      "stop watching right now.”"
+    ],
+    "451:text": [
+      "Stuff like that."
+    ],
+    "452:text": [
+      "Majiru had nerves of steel, same as ever. He laughed the whole thing off."
+    ],
+    "455:text": [
+      "“If this game curses anybody, it'll be me,"
+    ],
+    "456:text": [
+      "so you're all going to be fine.”"
+    ],
+    "459:text": [
+      "“Anyway, I've played a few of these games now,"
+    ],
+    "460:text": [
+      "and I haven't been cursed once."
+    ],
+    "462:text": [
+      "Maybe I just haven't noticed"
+    ],
+    "463:text": [
+      "yet, though.”"
+    ],
+    "466:text": [
+      "He sounded like he was having a blast."
+    ],
+    "468:text": [
+      "Majiru kept making cursed game videos, but he didn't get popular overnight."
+    ],
+    "470:text": [
+      "He was doing better than when he was playing horror games, though."
+    ],
+    "471:text": [
+      "His views had always been in double digits. Now he was getting a little over five hundred."
+    ],
+    "473:text": [
+      "To anybody else it might've looked like a small bump, but Majiru took it as a sign he was onto something."
+    ],
+    "474:text": [
+      "Majiru decided to see how far he could take it",
+      "and started thinking about how to get more people to notice."
+    ],
+    "475:text": [
+      "The first thing that caught his eye was the comments on his videos."
+    ],
+    "477:text": [
+      "“Oh, I saw this in so-and-so's video.”"
+    ],
+    "479:text": [
+      "“I remember this feature scaring the hell out of me"
+    ],
+    "480:text": [
+      "the first time I saw it.”"
+    ],
+    "482:text": [
+      "“That's a well-known bug. The latest patch"
+    ],
+    "483:text": [
+      "fixed it, though.”"
+    ],
+    "485:text": [
+      "Most viewers already knew the games Majiru covered and the stories behind them before they hit play."
+    ],
+    "487:text": [
+      "A few people had gotten into streaming cursed games before him. They all had plenty of fans."
+    ],
+    "488:text": [
+      "Fewer people played these than horror games, so he stood out a little. He was still playing catch-up."
+    ],
+    "490:text": [
+      "Like I said, most people tune in to cursed game streams out of curiosity."
+    ],
+    "492:text": [
+      "What stories are there about the game? What kind of things happen",
+      "in it?"
+    ],
+    "493:text": [
+      "Why did that stuff happen?"
+    ],
+    "494:text": [
+      "What would happen if they tried it themselves? That's what they want to know. They aren't there to enjoy the same game over and over."
+    ],
+    "495:text": [
+      "Once an established streamer had shown them what the game was like, why watch Majiru's video?"
+    ],
+    "497:text": [
+      "Even I only picked his videos first because he was a friend of a friend."
+    ],
+    "499:text": [
+      "So here's what Majiru figured."
+    ],
+    "500:text": [
+      "Look at it the other way. He could find a cursed game",
+      "nobody else had covered, stream it himself, and be the first one there."
+    ],
+    "502:text": [
+      "He knew he wouldn't get popular overnight,"
+    ],
+    "503:text": [
+      "but if he kept being the first to stream the most obscure games he could find, he'd build an audience."
+    ],
+    "505:text": [
+      "I'd say he was right."
+    ],
+    "506:text": [
+      "Like I said, curiosity was what brought most of those viewers in."
+    ],
+    "507:text": [
+      "The streamer's likability came second. What mattered was how much juicy information",
+      "they could give people."
+    ],
+    "508:text": [
+      "It was a pretty simple contest."
+    ],
+    "510:text": [
+      "Up to then, Majiru had gotten his leads on cursed games from forums and social media,"
+    ],
+    "511:text": [
+      "but the other streamers seemed to be doing the same thing. He'd have to look somewhere else."
+    ],
+    "513:text": [
+      "Anybody could look things up online. His only shot was to find leads nobody else had access to."
+    ],
+    "515:text": [
+      "Majiru's idea was to follow the “friend of a friend” trail."
+    ],
+    "516:text": [
+      "He turned to real-world connections, the opposite of digging through posts from faceless strangers."
+    ],
+    "520:text": [
+      "Yeah, that's why he made this business card and handed out copies."
+    ],
+    "521:text": [
+      "“Tell me if you've heard any rumors about weird games,"
+    ],
+    "522:text": [
+      "and if you've got a copy of one, send it my way.” That was the idea."
+    ],
+    "524:text": [
+      "Normally, that would've been a long shot."
+    ],
+    "525:text": [
+      "Someone who knew cursed games, hadn't shared what they knew online, and was connected to Majiru through a few people? You don't just find somebody like that."
+    ],
+    "527:text": [
+      "But Majiru got lucky."
+    ],
+    "528:text": [
+      "...Well, after what happened later, I'm not sure I'd call it luck. He did get a chance that hardly ever comes along."
+    ],
+    "530:text": [
+      "Someone had been sorting through their late uncle's belongings and found out he'd collected games with dark histories. They had no idea what to do with them..."
+    ],
+    "531:text": [
+      "That's what one of the people who'd gotten a card told Majiru."
+    ],
+    "533:text": [
+      "The uncle had worked for a game company when he was young and used his contacts to collect games with sinister reputations."
+    ],
+    "535:text": [
+      "Games that never made it to market, games recalled after release, unfinished development files, modified ROMs traded only in private... He could get his hands on rare stuff, illegal stuff, all of it."
+    ],
+    "537:text": [
+      "Back then, the internet wasn't what it is now, so none of those stories had gotten around."
+    ],
+    "538:text": [
+      "So the information wasn't about to leak now, and no other streamer was going to see it and beat him to the punch."
+    ],
+    "540:text": [
+      "Majiru spent almost all the pocket money he'd saved",
+      "to buy the entire collection."
+    ],
+    "541:text": [
+      "Then he started putting up gameplay videos, one game after another."
+    ],
+    "543:text": [
+      "It was a huge hit,",
+      "and Majiru became popular overnight."
+    ],
+    "544:text": [
+      "After all, no other streamer could get their hands on those games or even dig up information about them."
+    ],
+    "546:text": [
+      "Some of the material could get him in trouble over rights, and a few videos did get taken down. That only made all his videos seem like a bigger deal."
+    ],
+    "548:text": [
+      "His viewers were all into weird stuff, after all."
+    ],
+    "549:text": [
+      "The sketchier something was, the more they wanted to see it,"
+    ],
+    "550:text": [
+      "and if it might vanish at any moment, they couldn't put off watching it."
+    ],
+    "551:text": [
+      "The views shot up."
+    ],
+    "561:text": [
+      "Seeing the numbers go up must've convinced him it was working."
+    ],
+    "562:text": [
+      "Then one day, Majiru tried doing a livestream for the first time."
+    ],
+    "564:text": [
+      "You know what a livestream is?"
+    ],
+    "565:text": [
+      "It's just what it sounds like. The streamer broadcasts in real time, and the viewers watch it as it happens."
+    ],
+    "567:text": [
+      "Viewers can send comments and ask him to do things, and the streamer can answer them out loud, right then and there."
+    ],
+    "569:text": [
+      "I happened to open the video site while he was on, so I figured I'd watch."
+    ],
+    "570:text": [
+      "I didn't have much else to do anyway."
+    ],
+    "572:text": [
+      "When I tuned in, he hadn't started playing yet. He was still checking the sound and picture quality."
+    ],
+    "574:text": [
+      "There were maybe three hundred viewers."
+    ],
+    "575:text": [
+      "I don't know if that's a lot, but it seemed pretty good for a first livestream."
+    ],
+    "577:text": [
+      "Oh, but the viewer count just showed the running total, didn't it?"
+    ],
+    "578:text": [
+      "Maybe it counted people who opened the stream and then left, too."
+    ],
+    "580:text": [
+      "The screen said ‘Majiru's Seriously Cursed Game Stream.’"
+    ],
+    "581:text": [
+      "I figured the game would show up there once he got started."
+    ],
+    "583:text": [
+      "There was also a little window in the bottom right showing Majiru's face."
+    ],
+    "584:text": [
+      "That was for people who wanted to watch his expressions and reactions while he played."
+    ],
+    "586:text": [
+      "I'd never met the guy in person."
+    ],
+    "587:text": [
+      "I'd heard his voice plenty of times, but it felt strange to finally see what he looked like."
+    ],
+    "588:text": [
+      "I'd pictured a scrawny beanpole,",
+      "but he looked surprisingly ordinary."
+    ],
+    "589:text": [
+      "He looked like someone you'd see on the baseball team's bench."
+    ],
+    "591:text": [
+      "Once he was ready, Majiru started in a more formal tone."
+    ],
+    "595:text": [
+      "‘Uh, about today's livestream..."
+    ],
+    "596:text": [
+      "This is probably the sketchiest"
+    ],
+    "597:text": [
+      "game I own."
+    ],
+    "599:text": [
+      "Most of the games I've covered"
+    ],
+    "600:text": [
+      "come from one person's collection. Believe it or not,"
+    ],
+    "601:text": [
+      "this one was found sealed up"
+    ],
+    "602:text": [
+      "really tight."
+    ],
+    "604:text": [
+      "It was in a can, and the whole thing"
+    ],
+    "605:text": [
+      "was wrapped around and around with packing tape."
+    ],
+    "606:text": [
+      "I had a hell of a time peeling it off.’”"
+    ],
+    "657:text": [
+      "Makoto Shindo"
+    ],
+    "658:text": [
+      "“Majiru's words set off a sudden flood"
+    ],
+    "659:text": [
+      "of viewer comments scrolling across the screen."
+    ],
+    "661:text": [
+      "...Oh, right."
+    ],
+    "662:text": [
+      "The site where Majiru was streaming"
+    ],
+    "663:text": [
+      "was the kind that, like I said, shows comments"
+    ],
+    "664:text": [
+      "scrolling right across the video."
+    ],
+    "666:text": [
+      "If Majiru saw all that, it'd get in the way of the game,"
+    ],
+    "667:text": [
+      "so apparently the streamer gets the comments"
+    ],
+    "668:text": [
+      "in a different format."
+    ],
+    "670:text": [
+      "There was even a text-to-speech feature"
+    ],
+    "671:text": [
+      "for the comments. That way, he could hear"
+    ],
+    "672:text": [
+      "some of them while he played."
+    ],
+    "674:text": [
+      "Anyway, Majiru took the flood of comments in stride"
+    ],
+    "675:text": [
+      "and started telling us"
+    ],
+    "676:text": [
+      "about the game."
+    ],
+    "679:text": [
+      "‘Uh, I mentioned this briefly in another video,"
+    ],
+    "680:text": [
+      "but the games I'm playing"
+    ],
+    "681:text": [
+      "come from a collection I got"
+    ],
+    "682:text": [
+      "from a collector."
+    ],
+    "685:text": [
+      "Usually, the games come with"
+    ],
+    "686:text": [
+      "notes from the collector."
+    ],
+    "688:text": [
+      "What the story is behind each game, what to do where"
+    ],
+    "689:text": [
+      "if you want to see something creepy, that kind of thing."
+    ],
+    "691:text": [
+      "I just follow those notes"
+    ],
+    "692:text": [
+      "while I play."
+    ],
+    "695:text": [
+      "This game came with no notes, though,"
+    ],
+    "696:text": [
+      "so I have no clue where it came from or what people say about it,"
+    ],
+    "697:text": [
+      "and I couldn't tell you what to do where"
+    ],
+    "698:text": [
+      "or what would happen if you did."
+    ],
+    "700:text": [
+      "Until I find something strange, I've just gotta play it"
+    ],
+    "701:text": [
+      "like a normal stream, so if"
+    ],
+    "702:text": [
+      "things get a little slow,"
+    ],
+    "703:text": [
+      "bear with me, okay?"
+    ],
+    "706:text": [
+      "Anyway, let me show you the game."
+    ],
+    "707:text": [
+      "Uh, it's called Criminal Kids."
+    ],
+    "709:text": [
+      "I played a little of it. It's a side-scrolling"
+    ],
+    "710:text": [
+      "action game with pixel art.’"
+    ],
+    "729:text": [
+      "As he finished explaining, the title screen for Criminal"
+    ],
+    "730:text": [
+      "Kids came up."
+    ],
+    "731:text": [
+      "Maybe it was because they'd canceled it in development, but all it had was ‘START’ in white on a black screen."
+    ],
+    "735:text": [
+      "‘It's got Famicom-style graphics, and it plays"
+    ],
+    "736:text": [
+      "kind of like Mega Man, I guess."
+    ],
+    "737:text": [
+      "It's pretty tough right from the start. I died a ton."
+    ],
+    "740:text": [
+      "One thing caught my eye, though. They put a lot of work"
+    ],
+    "741:text": [
+      "into the ways your character dies."
+    ],
+    "743:text": [
+      "Enemies can kill you all kinds of ways. You can lose your head,"
+    ],
+    "744:text": [
+      "get skewered,"
+    ],
+    "745:text": [
+      "or get your guts ripped out."
+    ],
+    "748:text": [
+      "And when you fall into a pit, you don't just die."
+    ],
+    "749:text": [
+      "The screen scrolls down so you can see"
+    ],
+    "750:text": [
+      "your character all squashed."
+    ],
+    "751:text": [
+      "There's a ridiculous amount of blood, too."
+    ],
+    "754:text": [
+      "It's pixel art, though, so I don't think"
+    ],
+    "755:text": [
+      "it's all that scary."
+    ],
+    "756:text": [
+      "Anyway, here we go... Start game!’"
+    ],
+    "759:text": [
+      "Majiru got right to playing."
+    ],
+    "761:text": [
+      "It was just like he'd said. An action game where you fight enemies as you go."
+    ],
+    "762:text": [
+      "The title screen was bare, but the game itself"
+    ],
+    "763:text": [
+      "and the music were both solid."
+    ],
+    "765:text": [
+      "It dropped you straight in without any story, so I had no idea what the setup was. It looked like it took place in a city, though."
+    ],
+    "766:text": [
+      "There were silhouettes of buildings against the night sky, with a lit window here and there."
+    ],
+    "768:text": [
+      "The main character was a small person in a suit and something like a cape. Going by the title Criminal Kids, maybe it was a kid."
+    ],
+    "770:text": [
+      "They'd run down the street dodging cars, jump from building to building, and shoot beams at enemies who looked like mobsters."
+    ],
+    "772:text": [
+      "I wouldn't know, but people in chat said it looked fun, so I guess it was a pretty well-made game."
+    ],
+    "774:text": [
+      "The big question was what made it a cursed game. I hadn't seen anything that fit."
+    ],
+    "775:text": [
+      "He was right about the deaths being gruesome."
+    ],
+    "776:text": [
+      "They'd gone overboard making different ways for you to die."
+    ],
+    "777:text": [
+      "The pixels were so chunky the deaths just looked surreal. You can find plenty of games like that, and way gorier ones are a dime a dozen."
+    ],
+    "779:text": [
+      "Like Majiru said, he had no hints this time, either."
+    ],
+    "780:text": [
+      "He had to find anything weird himself, and for all he knew there was nothing weird to find."
+    ],
+    "782:text": [
+      "It wasn't the kind of thing that worked well on a live stream."
+    ],
+    "783:text": [
+      "The can sealed with packing tape got my attention, sure, but finding the part that mattered was all guesswork."
+    ],
+    "785:text": [
+      "Majiru was doing his best to keep it interesting, but he wasn't that good at the game."
+    ],
+    "786:text": [
+      "He kept dying, so we had to watch him play the same stage over and over. I was bored in five minutes flat."
+    ],
+    "787:text": [
+      "I'm guessing the viewer count",
+      "plummeted, too.”"
+    ],
+    "844:text": [
+      "Makoto Shindo"
+    ],
+    "845:text": [
+      "“I didn't leave the video running because I was still curious,"
+    ],
+    "846:text": [
+      "or because I felt like I owed a friend of a friend"
+    ],
+    "847:text": [
+      "a favor or anything like that."
+    ],
+    "848:text": [
+      "I got a call from a buddy and we got to talking,"
+    ],
+    "849:text": [
+      "that's all."
+    ],
+    "851:text": [
+      "I completely forgot I had the video"
+    ],
+    "852:text": [
+      "running on my computer."
+    ],
+    "853:text": [
+      "I guess about two hours went by."
+    ],
+    "854:text": [
+      "When I hung up, I finally noticed"
+    ],
+    "855:text": [
+      "the video was still playing."
+    ],
+    "857:text": [
+      "It was getting late, so I walked over to the monitor,"
+    ],
+    "858:text": [
+      "figuring it was about time I went to bed"
+    ],
+    "859:text": [
+      "—"
+    ],
+    "861:text": [
+      "And that's when I heard Majiru's voice."
+    ],
+    "862:text": [
+      "He sounded really excited."
+    ],
+    "865:text": [
+      "‘Oh, oh, oh! I think this wall really can break!"
+    ],
+    "866:text": [
+      "I might've found a hidden route!’"
+    ],
+    "870:text": [
+      "I looked at the screen. The character was in a building,"
+    ],
+    "871:text": [
+      "at the dead end of a hallway, firing beam after beam"
+    ],
+    "872:text": [
+      "at the wall in front of them."
+    ],
+    "873:text": [
+      "Each hit made a hell of a noise,"
+    ],
+    "874:text": [
+      "and bit by bit the cracks spread across the wall.”"
+    ],
+    "933:text": [
+      "Makoto Shindo"
+    ],
+    "934:text": [
+      "“That wall was pretty tough. Even after I started watching again,"
+    ],
+    "935:text": [
+      "he kept blasting it and it still wouldn't break."
+    ],
+    "936:text": [
+      "He must've blasted it another thirty times"
+    ],
+    "937:text": [
+      "or so."
+    ],
+    "939:text": [
+      "Still, we were finally getting somewhere,"
+    ],
+    "940:text": [
+      "and nobody in chat sounded bored anymore."
+    ],
+    "941:text": [
+      "I wanted to know what would happen next, too."
+    ],
+    "942:text": [
+      "I couldn't take my eyes off it."
+    ],
+    "944:text": [
+      "Then... the wall finally broke."
+    ],
+    "945:text": [
+      "Bits of it flew everywhere with a crash,"
+    ],
+    "946:text": [
+      "leaving a wide, pitch-black hole.”"
+    ],
+    "1003:text": [
+      "Makoto Shindo"
+    ],
+    "1004:text": [
+      "“I don't know how many viewers were still around,"
+    ],
+    "1005:text": [
+      "but everyone seemed fired up."
+    ],
+    "1006:text": [
+      "I couldn't blame them."
+    ],
+    "1007:text": [
+      "I'd just forgotten I had the video on. Patience"
+    ],
+    "1008:text": [
+      "had jack shit to do with it. They'd spent the last"
+    ],
+    "1009:text": [
+      "hour staring at the same game screen"
+    ],
+    "1010:text": [
+      "with barely anything changing."
+    ],
+    "1012:text": [
+      "Majiru's face in that little window"
+    ],
+    "1013:text": [
+      "looked pretty happy, too."
+    ],
+    "1014:text": [
+      "He got so excited he punched the air. His fist"
+    ],
+    "1015:text": [
+      "hit the camera and knocked it"
+    ],
+    "1016:text": [
+      "out of place."
+    ],
+    "1018:text": [
+      "So what lay ahead, down that hidden route"
+    ],
+    "1019:text": [
+      "he'd gone through all that to find?"
+    ],
+    "1020:text": [
+      "Majiru straightened the camera, then turned"
+    ],
+    "1021:text": [
+      "his attention back to the game."
+    ],
+    "1023:text": [
+      "The character had been standing there. Now they moved"
+    ],
+    "1024:text": [
+      "into the hole as if it were pulling them in, and the screen went black."
+    ],
+    "1027:text": [
+      "Then, in the next instant—”"
+    ],
+    "1043:text": [
+      "Makoto Shindo"
+    ],
+    "1044:text": [
+      "“The screen turned bright red without warning."
+    ],
+    "1045:text": [
+      "Majiru yelled. I couldn't blame him."
+    ],
+    "1046:text": [
+      "He was leaning in to see what would happen"
+    ],
+    "1047:text": [
+      "when the whole screen went solid red out of nowhere."
+    ],
+    "1048:text": [
+      "It felt like it had burned my eyes, too. I jerked"
+    ],
+    "1049:text": [
+      "my head away without thinking."
+    ],
+    "1053:text": [
+      "‘...What are these words?’"
+    ],
+    "1055:text": [
+      "After a bit, I heard Majiru's puzzled voice"
+    ],
+    "1056:text": [
+      "and looked back at the screen."
+    ],
+    "1058:text": [
+      "The screen was still solid red."
+    ],
+    "1059:text": [
+      "The sudden switch had thrown me at first,"
+    ],
+    "1060:text": [
+      "but once I got used to it, I was fine."
+    ],
+    "1062:text": [
+      "And like Majiru had said, white text"
+    ],
+    "1063:text": [
+      "kept appearing on it, line after line.”"
+    ],
+    "1114:text": [
+      "Makoto Shindo"
+    ],
+    "1115:text": [
+      "“Long strings of numbers. Words in all caps."
+    ],
+    "1116:text": [
+      "I couldn't make sense of the numbers, but the words"
+    ],
+    "1117:text": [
+      "were all pretty grim.”"
+    ],
+    "1178:text": [
+      "Makoto Shindo"
+    ],
+    "1179:text": [
+      "“The chat blew up again."
+    ],
+    "1180:text": [
+      "Well, that's what those folks had come"
+    ],
+    "1181:text": [
+      "to see."
+    ],
+    "1183:text": [
+      "Most of them were freaking out, but a few stayed"
+    ],
+    "1184:text": [
+      "calm and pointed out what the words were."
+    ],
+    "1185:text": [
+      "They figured the words in all caps showed how"
+    ],
+    "1186:text": [
+      "the character died, and the numbers were for the game's internal use."
+    ],
+    "1188:text": [
+      "Majiru was hard to scare himself,"
+    ],
+    "1189:text": [
+      "so it didn't take him long to see what"
+    ],
+    "1190:text": [
+      "they were getting at."
+    ],
+    "1193:text": [
+      "‘Oh, yeah. You're right. These are the ways"
+    ],
+    "1194:text": [
+      "the main character dies."
+    ],
+    "1196:text": [
+      "This BEHEADING one is where the character"
+    ],
+    "1197:text": [
+      "gets their head knocked off, right?"
+    ],
+    "1198:text": [
+      "GUTTING is where their guts get pulled out,"
+    ],
+    "1199:text": [
+      "and we saw ABLAZE too, didn't we?"
+    ],
+    "1200:text": [
+      "That's the one where they get caught in a blast and burn up."
+    ],
+    "1202:text": [
+      "...Yeah, I think I've seen all of them."
+    ],
+    "1205:text": [
+      "So is this some kind of system room they used"
+    ],
+    "1206:text": [
+      "while they were making the game?"
+    ],
+    "1207:text": [
+      "Like a debug mode or something."
+    ],
+    "1209:text": [
+      "The words are pretty gross, sure, but this is standard stuff.’"
+    ],
+    "1212:text": [
+      "Majiru's calm voice seemed to reassure the scared viewers."
+    ],
+    "1213:text": [
+      "Comments agreeing with him scrolled by one after another."
+    ],
+    "1215:text": [
+      "They didn't seem disappointed, though."
+    ],
+    "1216:text": [
+      "There's usually a real explanation for games like this, whether it's a bug or just how the game's built."
+    ],
+    "1217:text": [
+      "I bet a lot of people just want to know what happened so they can relax, even if the answer's boring."
+    ],
+    "1219:text": [
+      "It had gotten to Majiru that his viewers nearly gave up after so long with nothing changing. He seemed relieved he'd managed to turn it around."
+    ],
+    "1223:text": [
+      "‘Uh... Nothing seems to happen on this screen"
+    ],
+    "1224:text": [
+      "when I press the controls."
+    ],
+    "1226:text": [
+      "Sooo, “Criminal Kids” has"
+    ],
+    "1227:text": [
+      "gory death animations and an ominous system room."
+    ],
+    "1228:text": [
+      "It's just an unfinished game!"
+    ],
+    "1231:text": [
+      "Man, it's tough looking for the cursed stuff"
+    ],
+    "1232:text": [
+      "from scratch when you've got no information."
+    ],
+    "1233:text": [
+      "Especially with a game this brutal."
+    ],
+    "1235:text": [
+      "I told you to brace yourselves, but I still"
+    ],
+    "1236:text": [
+      "managed to let the stream drag. Sorry about that!"
+    ],
+    "1237:text": [
+      "I'll use what I learned to do better next time."
+    ],
+    "1239:text": [
+      "All right, then. I'll do another livestream"
+    ],
+    "1240:text": [
+      "or upload another video sometime, so...’"
+    ],
+    "1243:text": [
+      "He tried to wrap up the livestream with that nice, safe sign-off."
+    ],
+    "1244:text": [
+      "I was holding back a yawn and about to close my browser."
+    ],
+    "1245:text": [
+      "But just then...”"
+    ],
+    "1298:text": [
+      "Makoto Shindo"
+    ],
+    "1299:text": [
+      "“That's what scrolled across the screen."
+    ],
+    "1300:text": [
+      "Majiru had been saying his goodbyes in that little window"
+    ],
+    "1301:text": [
+      "when the text-to-speech voice read it out."
+    ],
+    "1302:text": [
+      "He looked puzzled."
+    ],
+    "1306:text": [
+      "‘Latitude and longitude...? You mean coordinates?"
+    ],
+    "1307:text": [
+      "In decimal degrees?’"
+    ],
+    "1309:text": [
+      "As if in reply, what looked like an address"
+    ],
+    "1310:text": [
+      "scrolled past in the chat.”"
+    ],
+    "1365:text": [
+      "Makoto Shindo"
+    ],
+    "1366:text": [
+      "“Apparently, those were the addresses you got"
+    ],
+    "1367:text": [
+      "if you read the numbers as latitude and longitude."
+    ],
+    "1368:text": [
+      "They said decimal degrees would give you"
+    ],
+    "1369:text": [
+      "the same number of digits I mentioned before."
+    ],
+    "1371:text": [
+      "I'll keep the details vague here, but those were"
+    ],
+    "1372:text": [
+      "real places and real addresses."
+    ],
+    "1373:text": [
+      "They'd apparently converted all six rows of numbers,"
+    ],
+    "1374:text": [
+      "and for a while the screen was taken over"
+    ],
+    "1375:text": [
+      "by six addresses."
+    ],
+    "1377:text": [
+      "There was a short pause after that, and then"
+    ],
+    "1378:text": [
+      "the comments came pouring in."
+    ],
+    "1379:text": [
+      "Some people were shocked, some thought it made sense,"
+    ],
+    "1380:text": [
+      "and some asked if it was just a coincidence."
+    ],
+    "1382:text": [
+      "...By the way, the comment I agreed with most was ‘The comments with weird gaps are kind of creepy.’"
+    ],
+    "1384:text": [
+      "Majiru looked half convinced, so he checked their claims himself."
+    ],
+    "1385:text": [
+      "I guess he was using a different monitor from the one we could see."
+    ],
+    "1386:text": [
+      "He seemed to search in silence for a while, then gave a little nod as if satisfied."
+    ],
+    "1390:text": [
+      "‘Oh, this is for real. Every single one points to"
+    ],
+    "1391:text": [
+      "somewhere in Japan."
+    ],
+    "1393:text": [
+      "I don't think they're just random numbers."
+    ],
+    "1394:text": [
+      "They're scattered all over the country, too... What"
+    ],
+    "1395:text": [
+      "could that mean?’"
+    ],
+    "1397:text": [
+      "The viewers must've looked them up too."
+    ],
+    "1398:text": [
+      "A bunch of comments came to the same conclusion."
+    ],
+    "1399:text": [
+      "People were trying to find a pattern. Maybe they were the developers' hometowns or famous landmarks."
+    ],
+    "1400:text": [
+      "Plenty of people still thought it was a coincidence, but most were buzzing over a discovery that seemed to mean something.”"
+    ],
+    "1473:text": [
+      "Makoto Shindo"
+    ],
+    "1474:text": [
+      "“The commenter who typed with those weird gaps"
+    ],
+    "1475:text": [
+      "set off a wave of comments that sounded like screams. Once that died down,"
+    ],
+    "1476:text": [
+      "the people who'd already looked up the incidents or knew something about them"
+    ],
+    "1477:text": [
+      "all started chiming in.”"
+    ],
+    "1559:text": [
+      "Makoto Shindo"
+    ],
+    "1560:text": [
+      "“Majiru had been quietly watching it all unfold."
+    ],
+    "1561:text": [
+      "Now he cut in."
+    ],
+    "1566:text": [
+      "‘Okay, okay, okay. Let's all calm down."
+    ],
+    "1567:text": [
+      "All right? It's probably just a coincidence."
+    ],
+    "1569:text": [
+      "I don't see how anyone could've found that much information"
+    ],
+    "1570:text": [
+      "when the internet was barely a thing."
+    ],
+    "1571:text": [
+      "And it doesn't look like they were going for a retro style on purpose."
+    ],
+    "1573:text": [
+      "So I don't buy that somebody"
+    ],
+    "1574:text": [
+      "put it all in there on purpose."
+    ],
+    "1577:text": [
+      "Still, even if it is a coincidence,"
+    ],
+    "1578:text": [
+      "it's pretty scary how well it all matches."
+    ],
+    "1580:text": [
+      "As cursed games go, this is pretty convincing stuff."
+    ],
+    "1581:text": [
+      "I mean, it was a real find.’"
+    ],
+    "1583:text": [
+      "Majiru sounded as calm as ever. Once he'd talked them down, the chat filled with comments agreeing with him."
+    ],
+    "1584:text": [
+      "They seemed relieved and disappointed at the same time."
+    ],
+    "1586:text": [
+      "Well, I got where they were coming from."
+    ],
+    "1587:text": [
+      "I'd kinda been hoping",
+      "this might be the ‘real thing’ too."
+    ],
+    "1588:text": [
+      "Still, Majiru was right."
+    ],
+    "1590:text": [
+      "That seemed to settle it. This time it looked like the livestream really was going to end."
+    ],
+    "1591:text": [
+      "Before I knew it, it was midnight."
+    ],
+    "1592:text": [
+      "If I didn't get to sleep soon, I'd have a hell of a time getting up the next day."
+    ],
+    "1593:text": [
+      "So I only half-listened to Majiru's goodbyes"
+    ],
+    "1594:text": [
+      "and went to close the video, but...”"
+    ],
+    "1639:text": [
+      "Makoto Shindo"
+    ],
+    "1640:text": [
+      "“Then the game screen changed."
+    ],
+    "1641:text": [
+      "Just like before, a long string of numbers"
+    ],
+    "1642:text": [
+      "and an unsettling label."
+    ],
+    "1643:text": [
+      "A new line had been added at the very bottom."
+    ],
+    "1645:text": [
+      "Development had stopped years ago, and the system room"
+    ],
+    "1646:text": [
+      "wasn't supposed to do anything at this point."
+    ],
+    "1647:text": [
+      "But there it was, right in front of us."
+    ],
+    "1649:text": [
+      "The chat went dead quiet."
+    ],
+    "1650:text": [
+      "Until then, every little thing had brought a flood of comments"
+    ],
+    "1651:text": [
+      "as people hammered their reactions into the chat."
+    ],
+    "1652:text": [
+      "The screams, the wisecracks, the levelheaded observations..."
+    ],
+    "1653:text": [
+      "All of it just stopped."
+    ],
+    "1654:text": [
+      "I guess nobody could make sense of what they'd just seen,"
+    ],
+    "1655:text": [
+      "let alone think of anything to type."
+    ],
+    "1657:text": [
+      "I got that."
+    ],
+    "1658:text": [
+      "I froze right down to my fingertips. All I could do was stare at that stupidly bright red screen."
+    ],
+    "1659:text": [
+      "It was probably the same for everybody else. That was all it was."
+    ],
+    "1661:text": [
+      "Still, the silence scared me."
+    ],
+    "1662:text": [
+      "I'd been watching without posting a thing. It hit me all of a sudden how much the other viewers' reactions had helped."
+    ],
+    "1664:text": [
+      "It was like they were saying what I couldn't find the words for."
+    ],
+    "1665:text": [
+      "When that went away all at once, I started wondering if I was the only one",
+      "still watching that creepy stream..."
+    ],
+    "1666:text": [
+      "I felt like I'd been cut off",
+      "from everybody, all of a sudden."
+    ],
+    "1669:text": [
+      "‘...What is this?’"
+    ],
+    "1672:text": [
+      "Majiru murmured."
+    ],
+    "1673:text": [
+      "His voice didn't shake. He sounded the same as always."
+    ],
+    "1675:text": [
+      "He probably figured there was a perfectly ordinary explanation."
+    ],
+    "1676:text": [
+      "He said maybe the game's internal processing had caught up,"
+    ],
+    "1678:text": [
+      "then started tapping away at his keyboard again."
+    ],
+    "1679:text": [
+      "I figured he was trying the numbers on the new line as latitude and longitude."
+    ],
+    "1681:text": [
+      "I couldn't move. I listened to that beeping that'd been going on a while, like a heart monitor, and the frantic clatter of the keys coming through his mic."
+    ],
+    "1683:text": [
+      "I guess Majiru's explanation made sense."
+    ],
+    "1685:text": [
+      "I don't know much about games."
+    ],
+    "1686:text": [
+      "Sometimes a game does something perfectly normal on its end, and for some reason it looks scary to us."
+    ],
+    "1687:text": [
+      "Hell, pretty much all the weird stuff I'd seen in Majiru's videos had been like that."
+    ],
+    "1689:text": [
+      "That time, though, I had a terrible feeling."
+    ],
+    "1690:text": [
+      "I could hear my heart pounding in my ears."
+    ],
+    "1691:text": [
+      "Don't watch another second. Just close the video. Forget all of it and go to bed. It felt like my gut was whispering all that to me."
+    ],
+    "1694:text": [
+      "‘K City, O Prefecture... 1175. Sun House, Building A..."
+    ],
+    "1695:text": [
+      "...’"
+    ],
+    "1698:text": [
+      "After a moment, Majiru read the result on his screen under his breath."
+    ],
+    "1700:text": [
+      "The next second, even in that little window, I could see the color go out of his face."
+    ],
+    "1704:text": [
+      "‘...No way. What the hell is this?!’"
+    ],
+    "1707:text": [
+      "I'd never heard his voice crack like that before."
+    ],
+    "1708:text": [
+      "Majiru, the ‘bane of horror games,’ who'd either snort or give no reaction at all, whatever happened."
+    ],
+    "1710:text": [
+      "That's when a question came to mind."
+    ],
+    "1711:text": [
+      "What address had come up when he put in the latitude and longitude from that new line?"
+    ],
+    "1712:text": [
+      "K City, O Prefecture. I could've sworn that's what Majiru had muttered..."
+    ],
+    "1714:text": [
+      "My numb brain started working again, slowly, and a scrap of a memory came back to me."
+    ],
+    "1715:text": [
+      "I remembered something the buddy who'd given me Majiru's business card had said."
+    ],
+    "1717:text": [
+      "‘If this were last year, I could've"
+    ],
+    "1718:text": [
+      "introduced you in person."
+    ],
+    "1719:text": [
+      "He moved pretty far away."
+    ],
+    "1720:text": [
+      "He used to live nearby, but his parents got on his case"
+    ],
+    "1721:text": [
+      "whenever he streamed. So he moved out"
+    ],
+    "1722:text": [
+      "and got a place of his own, he said."
+    ],
+    "1723:text": [
+      "Now he's in... K City, O Prefecture, I think.’"
+    ],
+    "1725:text": [
+      "K City, O Prefecture. No matter how many times I went over it, that was what I remembered."
+    ],
+    "1726:text": [
+      "That new line pointed to the city",
+      "Majiru had moved to."
+    ],
+    "1727:text": [
+      "So he knew the place."
+    ],
+    "1729:text": [
+      "Hell, ‘he knew the place’ barely covered it."
+    ],
+    "1730:text": [
+      "And there was Majiru, yelling, all the color gone from his face."
+    ],
+    "1732:text": [
+      "...Really, I'd known from the moment I heard how scared he sounded."
+    ],
+    "1733:text": [
+      "The address he'd just read out had to be an exact match for his own place."
+    ],
+    "1737:text": [
+      "‘N-no, no, no. That's really, really close"
+    ],
+    "1738:text": [
+      "to me...’"
+    ],
+    "1741:text": [
+      "After a pause, I heard Majiru's voice again."
+    ],
+    "1742:text": [
+      "He was trying to joke, but his voice was hoarse."
+    ],
+    "1746:text": [
+      "‘What are the odds? What is this?"
+    ],
+    "1747:text": [
+      "Can this even happen? This stream's gonna"
+    ],
+    "1748:text": [
+      "be legendary."
+    ],
+    "1750:text": [
+      "Hang on. That's private information going out on the stream."
+    ],
+    "1751:text": [
+      "Man, what a mess."
+    ],
+    "1752:text": [
+      "I mean, I could've just kept my mouth shut"
+    ],
+    "1753:text": [
+      "about how close it is."
+    ],
+    "1755:text": [
+      "I was gonna upload this as a video"
+    ],
+    "1756:text": [
+      "so people could watch it later... Hey, if you're watching,"
+    ],
+    "1757:text": [
+      "don't spread this around, okay?’"
+    ],
+    "1760:text": [
+      "His voice caught here and there, but he kept rattling on like he was scared of the silence."
+    ],
+    "1761:text": [
+      "The harder he tried to make a joke of it, the less it seemed to land."
+    ],
+    "1762:text": [
+      "Majiru had a tight, forced smile in that little window. I couldn't stand to look."
+    ],
+    "1764:text": [
+      "Chat was still dead quiet."
+    ],
+    "1765:text": [
+      "Maybe nobody knew what to say. Maybe they all freaked out and closed the browser. Or",
+      "maybe..."
+    ],
+    "1767:text": [
+      "That thought finally broke whatever had me frozen in place."
+    ],
+    "1768:text": [
+      "At the same time, the fear that had felt so far away came rushing in."
+    ],
+    "1770:text": [
+      "I couldn't stay connected. I had to cut the stream, right now. I reached out with my ice-cold hand and touched the mouse."
+    ],
+    "1771:text": [
+      "That's when it happened.”"
+    ],
+    "1819:text": [
+      "Makoto Shindo"
+    ],
+    "1820:text": [
+      "“I caught the comments scrolling"
+    ],
+    "1821:text": [
+      "across the screen. I read every word."
+    ],
+    "1823:text": [
+      "‘We're coming now.’"
+    ],
+    "1824:text": [
+      "‘We're all coming.’"
+    ],
+    "1825:text": [
+      "‘We'll make it hurt real bad.’"
+    ],
+    "1826:text": [
+      "‘Time to eat.’"
+    ],
+    "1828:text": [
+      "The instant I understood what they meant,",
+      "my whole body broke out in goosebumps."
+    ],
+    "1829:text": [
+      "If I'd moved a second sooner, I wouldn't have had to see anything that sickening."
+    ],
+    "1832:text": [
+      "‘W-Wow... nice one,"
+    ],
+    "1833:text": [
+      "you with the weird gaps."
+    ],
+    "1834:text": [
+      "Seriously. You're good at getting people worked up."
+    ],
+    "1836:text": [
+      "But you overdid it a little. Now everyone's"
+    ],
+    "1837:text": [
+      "gone quiet.’"
+    ],
+    "1840:text": [
+      "Maybe his thoughts finally caught up as he rattled on. He started to sound calmer."
+    ],
+    "1841:text": [
+      "He even gave a little laugh when he was done."
+    ],
+    "1843:text": [
+      "It reassured me a little, too, and I was slow to click the mouse."
+    ],
+    "1844:text": [
+      "...I was too late again.”"
+    ],
+    "1887:text": [
+      "Makoto Shindo"
+    ],
+    "1888:text": [
+      "“Right then, I was looking down at my hand."
+    ],
+    "1889:text": [
+      "But I could still sense ‘something’"
+    ],
+    "1890:text": [
+      "on the other side of the screen."
+    ],
+    "1891:text": [
+      "It felt like something was peering out at me"
+    ],
+    "1892:text": [
+      "from the other side of the display.”"
+    ],
+    "1933:text": [
+      "Makoto Shindo"
+    ],
+    "1935:text": [
+      "“Before I could react,"
+    ],
+    "1936:text": [
+      "I suddenly heard a strange sound."
+    ],
+    "1938:text": [
+      "A bunch of noises all tangled up together,"
+    ],
+    "1939:text": [
+      "wet and raw in a way I couldn't make sense of."
+    ],
+    "1941:text": [
+      "A wet squelch, like something being crushed."
+    ],
+    "1942:text": [
+      "A sharp gah, a scream caught in someone's throat."
+    ],
+    "1943:text": [
+      "A pshh, like something watery"
+    ],
+    "1944:text": [
+      "spraying out."
+    ],
+    "1946:text": [
+      "It all came at once."
+    ],
+    "1947:text": [
+      "It was revolting, like a sound that stuck"
+    ],
+    "1948:text": [
+      "deep inside my ears."
+    ],
+    "1950:text": [
+      "I saw it."
+    ],
+    "1953:text": [
+      "Then came a glug, like a half-clogged drainpipe."
+    ],
+    "1954:text": [
+      "In the little window at the bottom right,"
+    ],
+    "1955:text": [
+      "something dark red began dripping"
+    ],
+    "1956:text": [
+      "from Majiru's mouth."
+    ],
+    "1957:text": [
+      "It looked like he was throwing up"
+    ],
+    "1958:text": [
+      "rotten tomato juice."
+    ],
+    "1960:text": [
+      "At the same time, his eyes rolled upward."
+    ],
+    "1961:text": [
+      "His pupils nearly vanished beneath his upper lids,"
+    ],
+    "1962:text": [
+      "and each eye was pointing in a different direction."
+    ],
+    "1963:text": [
+      "I don't think anyone's eyes would do that"
+    ],
+    "1964:text": [
+      "if they were just looking up on purpose."
+    ],
+    "1966:text": [
+      "And then I noticed something coming into view"
+    ],
+    "1967:text": [
+      "at the edge of the screen.”"
+    ],
+    "2028:text": [
+      "Makoto Shindo"
+    ],
+    "2029:text": [
+      "“My finger moved before I even realized it,"
+    ],
+    "2030:text": [
+      "and I closed the browser."
+    ],
+    "2031:text": [
+      "So I didn't have to see all the comments,"
+    ],
+    "2032:text": [
+      "but I'd already managed to read"
+    ],
+    "2033:text": [
+      "some of them."
+    ],
+    "2035:text": [
+      "‘Who should we pick next?’"
+    ],
+    "2036:text": [
+      "‘Anyone will do.’"
+    ],
+    "2037:text": [
+      "‘Even you.’"
+    ],
+    "2039:text": [
+      "I think that was what it said."
+    ],
+    "2040:text": [
+      "Was I the one they meant?"
+    ],
+    "2041:text": [
+      "Did whoever was on the other side know I was watching?"
+    ],
+    "2042:text": [
+      "If they did, what were they planning"
+    ],
+    "2043:text": [
+      "to do to me?"
+    ],
+    "2045:text": [
+      "Was I in danger right then?"
+    ],
+    "2046:text": [
+      "What was going to happen next?"
+    ],
+    "2047:text": [
+      "Those questions kept going around and around in my head,"
+    ],
+    "2048:text": [
+      "and I couldn't sleep.”"
+    ],
+    "2053:text": [
+      "Makoto Shindo"
+    ],
+    "2054:text": [
+      "“I tried like hell to convince myself none of it was real."
+    ],
+    "2055:text": [
+      "Majiru had set the whole thing up."
+    ],
+    "2056:text": [
+      "He had to have."
+    ],
+    "2058:text": [
+      "The creep who typed with those weird gaps had to be helping him,"
+    ],
+    "2059:text": [
+      "posing as a viewer. That shot of Majiru bleeding in the little window"
+    ],
+    "2060:text": [
+      "had to be prerecorded."
+    ],
+    "2061:text": [
+      "I'd just fallen for a clever prank he'd set up,"
+    ],
+    "2062:text": [
+      "hook, line, and sinker. That's what I chose"
+    ],
+    "2063:text": [
+      "to tell myself."
+    ],
+    "2065:text": [
+      "By dawn, that raw fear had started to fade."
+    ],
+    "2066:text": [
+      "It was barely more than a doze,"
+    ],
+    "2067:text": [
+      "but I managed to get a little sleep.”"
+    ],
+    "2072:text": [
+      "Makoto Shindo"
+    ],
+    "2073:text": [
+      "“...I wish I'd been able to keep telling myself that"
+    ],
+    "2074:text": [
+      "after the sun came up."
+    ],
+    "2075:text": [
+      "If Majiru had posted some tasteless video called"
+    ],
+    "2076:text": [
+      "‘Livestream Prank a Huge Success’ or something,"
+    ],
+    "2077:text": [
+      "I'd have cursed him out, sure,"
+    ],
+    "2078:text": [
+      "but I would've been relieved."
+    ],
+    "2080:text": [
+      "Unfortunately, that's not how it went."
+    ],
+    "2082:text": [
+      "A few days later, I heard about a brutal murder in K City, O Prefecture, on the news."
+    ],
+    "2083:text": [
+      "The victim's name was Masaru."
+    ],
+    "2085:text": [
+      "A little while later, the buddy who'd told me about Majiru said that Masaru was definitely him."
+    ],
+    "2087:text": [
+      "Apparently his family went to check on him when they stopped hearing from him. That's how his body was found.",
+      "The scene was so horrific it drove whoever found him out of their mind and landed them in the hospital."
+    ],
+    "2089:text": [
+      "The police didn't release this, but from what I heard, his belly had been cut open, his guts churned to a mess, and the wound sewn back up with rusty wire."
+    ],
+    "2091:text": [
+      "When I heard that, I thought back to Criminal",
+      "Kids and the way its main character died."
+    ],
+    "2093:text": [
+      "Strapped to an operating table, sliced open while still alive. Even as pixel art, it was a hell of a bloody sight."
+    ],
+    "2094:text": [
+      "And along with that last latitude and longitude, there was that word",
+      "‘SURGERY’."
+    ],
+    "2096:text": [
+      "...It's hard to write that off as a coincidence, huh?"
+    ],
+    "2097:text": [
+      "Majiru played a real cursed game and ended up dying one of the ways the main character did."
+    ],
+    "2098:text": [
+      "That's the most straightforward explanation."
+    ],
+    "2100:text": [
+      "Say somebody just happened to attack Majiru midstream, and he died the same horrible way as the character in the game. That'd be a hell of a coincidence."
+    ],
+    "2102:text": [
+      "Either way, it was a real cursed game."
+    ],
+    "2103:text": [
+      "I figure Criminal Kids had been sealed in that can to keep the thing in the game from getting out."
+    ],
+    "2105:text": [
+      "That thing... I should say those things."
+    ],
+    "2106:text": [
+      "Apparently the traces left in Majiru's room showed there were at least ten attackers."
+    ],
+    "2108:text": [
+      "Come to think of it, they'd warned us in chat. ‘We're all coming.’"
+    ],
+    "2110:text": [
+      "What kind of terror did Majiru feel at the end, surrounded by all those people while they performed ‘SURGERY’ on him?"
+    ],
+    "2112:text": [
+      "What really scares me is that I can't find anybody else who says they saw that horrible sight on Majiru's stream."
+    ],
+    "2113:text": [
+      "From what I've seen online, nobody knows Majiru was the murder victim."
+    ],
+    "2115:text": [
+      "Well, I get that."
+    ],
+    "2116:text": [
+      "The police never made it public. It's fairly normal for someone to stop posting and uploading,",
+      "then have their whole account disappear."
+    ],
+    "2117:text": [
+      "Lots of people just vanish when they get bored or busy. They've got their reasons."
+    ],
+    "2119:text": [
+      "A few times I saw people who'd dropped out in the first half asking around. ‘What happened after that?’"
+    ],
+    "2120:text": [
+      "Some thought his first live stream went so badly that he got discouraged and quit making videos."
+    ],
+    "2122:text": [
+      "That much I could live with. But some people went around saying, ‘Majiru never found anything after that. He just quit",
+      "the game.’ That was a whole different story from what I'd seen."
+    ],
+    "2124:text": [
+      "I haven't found a single person who talked about Majiru finding that hidden passage,",
+      "or about him getting to that red screen from there."
+    ],
+    "2125:text": [
+      "Judging by the comments that came in during the stream,",
+      "there should've been plenty of people watching."
+    ],
+    "2136:text": [
+      "I hate to even think it, but there's something I keep wondering."
+    ],
+    "2137:text": [
+      "How many of the people who watched the second half of that stream were actually human?"
+    ],
+    "2139:text": [
+      "Majiru had played a bunch of games that supposedly put a curse on you."
+    ],
+    "2140:text": [
+      "Nothing strange ever happened in his life, so he just assumed curses weren't real."
+    ],
+    "2142:text": [
+      "But was he right?"
+    ],
+    "2143:text": [
+      "Maybe the curses really had been winding themselves around his soul, one by one, and he just hadn't noticed."
+    ],
+    "2145:text": [
+      "Then he played Criminal Kids live, and those little curses met something far more malevolent. They gained enough power to kill him..."
+    ],
+    "2146:text": [
+      "Am I overthinking it? I hope so."
+    ],
+    "2148:text": [
+      "I just get the feeling there was something strange mixed in with the chat on that stream."
+    ],
+    "2149:text": [
+      "The stream never went up as a video, so I can't go back and watch it again."
+    ],
+    "2151:text": [
+      "Either way, I'll be scared for the rest of my life."
+    ],
+    "2152:text": [
+      "‘They’ haven't come for me yet. I don't feel safe at all."
+    ],
+    "2154:text": [
+      "If my hunch is right, they're already loose."
+    ],
+    "2155:text": [
+      "Stream chat, social media posts... I can't look at that stuff anymore and assume it all comes from humans."
+    ],
+    "2157:text": [
+      "I'll have to live scared, wondering when ‘they’ might remember me and figure out the latitude and longitude of wherever I am."
+    ],
+    "2159:text": [
+      "Hey. What do you think of the story I just told you?"
+    ],
+    "2160:text": [
+      "What do you think I saw?"
+    ],
+    "2161:text": [
+      "Do I have a reason to be scared?"
+    ],
+    "2162:text": [
+      "Do you believe me?”"
+    ],
+    "2171:glink.text.1": [
+      "1. I believe you"
+    ],
+    "2173:glink.text.1": [
+      "1. I believe you"
+    ],
+    "2177:glink.text.1": [
+      "2. I don't believe you"
+    ],
+    "2179:glink.text.1": [
+      "2. I don't believe you"
+    ],
+    "2188:text": [
+      "Makoto Shindo"
+    ],
+    "2189:text": [
+      "“I see. Honestly, having you believe me"
+    ],
+    "2190:text": [
+      "doesn't do a damn thing for me. It still beats"
+    ],
+    "2191:text": [
+      "hearing you don't believe me."
+    ],
+    "2192:text": [
+      "Thanks."
+    ],
+    "2194:text": [
+      "That's it for my story."
+    ],
+    "2195:text": [
+      "...Man, I'm beat all of a sudden."
+    ],
+    "2196:text": [
+      "It's been a while since I dredged up those ugly memories."
+    ],
+    "2197:text": [
+      "Maybe that's why."
+    ],
+    "2198:text": [
+      "Maybe I should've just played it safe"
+    ],
+    "2199:text": [
+      "and told a different story."
+    ],
+    "2200:text": [
+      "So, who's next?”"
+    ],
+    "2215:text": [
+      "Makoto Shindo"
+    ],
+    "2216:text": [
+      "“Oh, is that so."
+    ],
+    "2217:text": [
+      "You're supposed to be here as a ‘reporter.’"
+    ],
+    "2218:text": [
+      "You sure that's the attitude you wanna take?"
+    ],
+    "2219:text": [
+      "Well, whatever."
+    ],
+    "2220:text": [
+      "You're gonna be a big shot someday."
+    ],
+    "2222:text": [
+      "That's it for my story."
+    ],
+    "2223:text": [
+      "...Man, I'm beat all of a sudden."
+    ],
+    "2224:text": [
+      "It's been a"
+    ],
+    "2247:text": [
+      "while since I dredged up those ugly memories."
+    ],
+    "2248:text": [
+      "Maybe that's why."
+    ],
+    "2249:text": [
+      "Maybe I should've just played it safe"
+    ],
+    "2250:text": [
+      "and told a different story."
+    ],
+    "2251:text": [
+      "So, who's up next?”"
+    ],
+    "2343:text": [
+      "Shoji Arai"
+    ],
+    "2344:text": [
+      "“I never thought I'd hear the story about Majiru here..."
+    ],
+    "2345:text": [
+      "Yes, I've actually heard the story"
+    ],
+    "2346:text": [
+      "before."
+    ],
+    "2347:text": [
+      "I play games myself, you see... Majiru's story"
+    ],
+    "2348:text": [
+      "is fairly well known"
+    ],
+    "2349:text": [
+      "among gamers."
+    ],
+    "2351:text": [
+      ", may I tell a story about a game while we're on the subject?"
+    ],
+    "2352:text": [
+      "I'm sure you'll find it quite satisfying..."
+    ],
+    "2358:title.name.1": [
+      "Apathy Kiwame - Mountains of Madness"
+    ],
+    "2392:text": [
+      "Before I begin, why don't we take a photo to mark the occasion?"
+    ],
+    "2393:text": [
+      "There won't be another chance for students from different prefectures to get together like this and tell ghost stories."
+    ],
+    "2395:text": [
+      "...Now, everyone, please smile."
+    ],
+    "2396:text": [
+      "I'm afraid those smiles will freeze once you hear my story..."
+    ],
+    "2416:text": [
+      "...Thank you."
+    ],
+    "2417:text": [
+      "It came out quite well, thanks to all of you."
+    ],
+    "2419:text": [
+      "Now then, let's begin... Allow me to introduce myself again."
+    ],
+    "2420:text": [
+      "My name is Shoji Arai."
+    ],
+    "2421:text": [
+      "I'm a second-year student at a high school in Toyama. It's a pleasure..."
+    ],
+    "2422:text": [
+      "To start with, ",
+      ", do you like mountain climbing?”"
+    ],
+    "2435:glink.text.1": [
+      "1. I like the mountains"
+    ],
+    "2437:glink.text.1": [
+      "1. I like the mountains"
+    ],
+    "2441:glink.text.1": [
+      "2. I'm the indoors type"
+    ],
+    "2443:glink.text.1": [
+      "2. I'm the indoors type"
+    ],
+    "2447:glink.text.1": [
+      "3. I prefer the ocean"
+    ],
+    "2449:glink.text.1": [
+      "3. I prefer the ocean"
+    ],
+    "2460:text": [
+      "Shoji Arai"
+    ],
+    "2461:text": [
+      "“I see."
+    ],
+    "2462:text": [
+      "So, ",
+      ", you like the mountains, too?"
+    ],
+    "2463:text": [
+      "As it happens, I like the mountains, too."
+    ],
+    "2464:text": [
+      "I've gone mountain climbing a few times."
+    ],
+    "2465:text": [
+      "I've only climbed small mountains good for beginners,"
+    ],
+    "2466:text": [
+      "taking a cable car partway up"
+    ],
+    "2467:text": [
+      "and climbing from there."
+    ],
+    "2469:text": [
+      "Even so, to climb a mountain, you need stamina,"
+    ],
+    "2470:text": [
+      "the judgment to choose which route to take,"
+    ],
+    "2471:text": [
+      "and an understanding of the terrain, the weather,"
+    ],
+    "2472:text": [
+      "and sometimes wildlife. All of it is"
+    ],
+    "2473:text": [
+      "essential."
+    ],
+    "2474:text": [
+      "Some people even make a career"
+    ],
+    "2475:text": [
+      "out of climbing mountains."
+    ],
+    "2477:text": [
+      "Well, ",
+      ", I'm relieved you like the mountains."
+    ],
+    "2478:text": [
+      "I'm sure the story I'm about to tell will be"
+    ],
+    "2479:text": [
+      "to your liking...”"
+    ],
+    "2489:text": [
+      "Shoji Arai"
+    ],
+    "2490:text": [
+      "“Yes, I thought you might be."
+    ],
+    "2491:text": [
+      "There's plenty to be said for staying indoors."
+    ],
+    "2492:text": [
+      "Since I play games myself, I can hardly"
+    ],
+    "2493:text": [
+      "argue with that."
+    ],
+    "2494:text": [
+      "There are plenty of ways to enjoy yourself indoors"
+    ],
+    "2495:text": [
+      "these days, after all."
+    ],
+    "2497:text": [
+      "It's a shame mountain climbing doesn't interest you,"
+    ],
+    "2498:text": [
+      "but there's no need to worry."
+    ],
+    "2499:text": [
+      "I'm sure you'll take an interest"
+    ],
+    "2500:text": [
+      "once you've heard my story...”"
+    ],
+    "2510:text": [
+      "Shoji Arai"
+    ],
+    "2511:text": [
+      "“",
+      ", so you prefer the ocean?"
+    ],
+    "2512:text": [
+      "Chiba Prefecture has Moriya, for a start,"
+    ],
+    "2513:text": [
+      "then Katakai, Okinoshima, Shirosaki, Kazusa-Minato and Katsuura."
+    ],
+    "2514:text": [
+      "There are plenty of beaches to swim at here."
+    ],
+    "2515:text": [
+      "I suppose you're more familiar with"
+    ],
+    "2516:text": [
+      "the sea."
+    ],
+    "2518:text": [
+      "My home prefecture is Toyama, ‘rich in mountains,’"
+    ],
+    "2519:text": [
+      "and the mountains really do dominate the landscape."
+    ],
+    "2528:text": [
+      "There are plenty of haunted places in the mountains, too."
+    ],
+    "2530:text": [
+      "A well-known example would be Ushikubi Tunnel, right on the border between Toyama and Ishikawa."
+    ],
+    "2531:text": [
+      "They say a man once tried to take his own life by setting himself on fire there. A statue of Jizo stands inside, perhaps to lay his spirit to rest."
+    ],
+    "2533:text": [
+      "They say tears of blood well up in the statue's eyes from time to time..."
+    ],
+    "2534:text": [
+      "And sometimes the statue's head goes missing. It might be somebody's idea of a prank..."
+    ],
+    "2536:text": [
+      "Even now it's known for frequent hauntings. They say that if you stand still in the tunnel, something paranormal is bound to happen."
+    ],
+    "2537:text": [
+      "Please don't ever go near it just for fun."
+    ],
+    "2546:text": [
+      "Oh, I've gone off on a tangent."
+    ],
+    "2547:text": [
+      ", you do seem to prefer the ocean, which is a shame. My story might change your mind...”"
+    ],
+    "2566:text": [
+      "Shoji Arai"
+    ],
+    "2567:text": [
+      "“A friend of mine, Junya Onozato,"
+    ],
+    "2568:text": [
+      "is fond of climbing mountains."
+    ],
+    "2569:text": [
+      "My school in Toyama has a mountaineering club,"
+    ],
+    "2570:text": [
+      "and he's climbed all kinds of mountains"
+    ],
+    "2571:text": [
+      "with the other members."
+    ],
+    "2573:text": [
+      "Sometimes he'd show me photographs he'd taken"
+    ],
+    "2574:text": [
+      "on his climbs. The scenery was always wonderful."
+    ],
+    "2575:text": [
+      "His summit photographs in particular"
+    ],
+    "2576:text": [
+      "captured views so grand and striking"
+    ],
+    "2577:text": [
+      "they could put a professional to shame."
+    ],
+    "2579:text": [
+      "He loved climbing so much that when the club wasn't meeting,"
+    ],
+    "2580:text": [
+      "he spent his weekends and longer school breaks"
+    ],
+    "2581:text": [
+      "climbing all sorts of mountains."
+    ],
+    "2590:text": [
+      "It's been half a century since people first stood on the summit of Everest."
+    ],
+    "2591:text": [
+      "Yet there are still mountains no one has climbed."
+    ],
+    "2593:text": [
+      "Even with all the advances in science, isn't it strange that there are still summits where no human has ever set foot?"
+    ],
+    "2594:text": [
+      "He always said he dreamed of climbing one of those mountains and taking in a magnificent view no one had ever seen."
+    ],
+    "2596:text": [
+      "I had a feeling that if anyone could make that dream come true, it was him."
+    ],
+    "2597:text": [
+      "That's how deep his passion for the mountains ran, and how remarkable it was."
+    ],
+    "2598:text": [
+      "But life was cruel. He would soon face the most brutal mountain",
+      "he'd ever have to climb."
+    ],
+    "2602:text": [
+      "That mountain was called ‘Illness’."
+    ],
+    "2603:text": [
+      "He'd just started his second year when he developed a serious heart condition."
+    ],
+    "2605:text": [
+      "Fortunately, his life was in no immediate danger. But his condition was serious enough to require surgery and a long hospital stay, and he'd been told he could never go mountain climbing again."
+    ],
+    "2606:text": [
+      "Going somewhere as high up as a mountain would put a great strain on his heart."
+    ],
+    "2608:text": [
+      "Strenuous exercise was forbidden, too. He'd never be able to do anything physically active again, let alone climb."
+    ],
+    "2610:text": [
+      "When I went to see him, he smiled at me, but I could tell at once he was forcing it."
+    ],
+    "2612:text": [
+      "To him, being unable to climb mountains was as good as being dead..."
+    ],
+    "2613:text": [
+      "I knew that whatever I said to him would only hurt him."
+    ],
+    "2615:text": [
+      "If having me there meant he had to force a smile,"
+    ],
+    "2616:text": [
+      "he'd be better off if I left him alone."
+    ],
+    "2617:text": [
+      "I decided to leave his hospital room right away."
+    ],
+    "2621:text": [
+      "As I left his room, I ran into his mother,"
+    ],
+    "2622:text": [
+      "who had just arrived to visit him."
+    ],
+    "2624:text": [
+      "We said a quick hello, and I was about to go home"
+    ],
+    "2625:text": [
+      "when I heard Onozato shouting"
+    ],
+    "2626:text": [
+      "behind me."
+    ],
+    "2627:text": [
+      "I stopped in my tracks"
+    ],
+    "2628:text": [
+      "and listened.”"
+    ],
+    "2630:text": [
+      "Junya Onozato"
+    ],
+    "2631:text": [
+      "“You go and buy me a game like this... Are you trying"
+    ],
+    "2632:text": [
+      "to rub it in that I'll never climb again?!"
+    ],
+    "2633:text": [
+      "Are you fucking kidding me?!”"
+    ],
+    "2635:text": [
+      "Mother"
+    ],
+    "2636:text": [
+      "“I didn't mean it like that... I just thought it might"
+    ],
+    "2637:text": [
+      "take your mind off things a little.”"
+    ],
+    "2639:text": [
+      "Junya Onozato"
+    ],
+    "2640:text": [
+      "“Shut up!!"
+    ],
+    "2641:text": [
+      "Throw that damn game away already!"
+    ],
+    "2642:text": [
+      "Just go home!!”"
+    ],
+    "2644:text": [
+      "Shoji Arai"
+    ],
+    "2645:text": [
+      "“Apparently, Onozato's mother"
+    ],
+    "2646:text": [
+      "had bought him some sort of game."
+    ],
+    "2647:text": [
+      "Unfortunately, it seemed the game"
+    ],
+    "2648:text": [
+      "wasn't to Onozato's liking."
+    ],
+    "2649:text": [
+      "I heard what sounded like his mother sobbing inside the room,"
+    ],
+    "2650:text": [
+      "so I hurried away, keeping my footsteps"
+    ],
+    "2651:text": [
+      "as quiet as I could."
+    ],
+    "2655:text": [
+      "I thought I'd probably never go back to see him."
+    ],
+    "2656:text": [
+      "As I said before, there was nothing I could do for him, even if I did go."
+    ],
+    "2657:text": [
+      "I doubted he'd want to see me anyway."
+    ],
+    "2659:text": [
+      "But what kind of game could make him fly into a rage and yell at his mother like that? I couldn't stop wondering."
+    ],
+    "2661:text": [
+      "I wanted to burst into his room and find out then and there. Of course I couldn't do that, so I decided to come back another day."
+    ],
+    "2662:text": [
+      "By then, satisfying my curiosity mattered more to me than how he felt..."
+    ],
+    "2668:text": [
+      "A few days later, I went back to see Onozato."
+    ],
+    "2670:text": [
+      "I could hear music from inside his room."
+    ],
+    "2671:text": [
+      "I forgot all about knocking and",
+      " opened",
+      "the door.”"
+    ],
+    "2680:text": [
+      "Junya Onozato"
+    ],
+    "2681:text": [
+      "“Hey, Arai. You came back?"
+    ],
+    "2682:text": [
+      "Thanks, man.”"
+    ],
+    "2684:text": [
+      "Shoji Arai"
+    ],
+    "2685:text": [
+      "“He didn't even turn to look at me."
+    ],
+    "2686:text": [
+      "His voice sounded just as it had when he was well."
+    ],
+    "2687:text": [
+      "His eyes were fixed on the television"
+    ],
+    "2688:text": [
+      "that came with the room. On the screen,"
+    ],
+    "2689:text": [
+      "I could see a magnificent mountain."
+    ],
+    "2701:text": [
+      ", have you ever heard of a game called ‘The White Throne of the Gods’?"
+    ],
+    "2702:text": [
+      "It's a game about mountain climbing. It's out of print and so rare that you hardly ever see a secondhand copy..."
+    ],
+    "2704:text": [
+      "Apparently, the game his mother had bought him"
+    ],
+    "2705:text": [
+      "was ‘The White Throne of the Gods’."
+    ],
+    "2707:text": [
+      "When you think about how Onozato must have felt, you can see why he might have wanted to yell at her."
+    ],
+    "2708:text": [
+      "After all, she'd given him that game when he could never climb a mountain himself again."
+    ],
+    "2709:text": [
+      "I'm sure he didn't even want to look at another mountain."
+    ],
+    "2711:text": [
+      "But in her own way, she was probably hoping to give him back a little of the joy he'd felt when he could still climb."
+    ],
+    "2712:text": [
+      "I understand why she'd want to do something for her son when he was so down."
+    ],
+    "2713:text": [
+      ", what do you think of what his mother did?”"
+    ],
+    "2728:glink.text.1": [
+      "1. I think it was insensitive"
+    ],
+    "2730:glink.text.1": [
+      "1. I think it was insensitive"
+    ],
+    "2734:glink.text.1": [
+      "2. I understand his mother's concern"
+    ],
+    "2736:glink.text.1": [
+      "2. I understand his mother's concern"
+    ],
+    "2747:text": [
+      "Shoji Arai"
+    ],
+    "2748:text": [
+      "“Yes, if I'd been in Onozato's position,"
+    ],
+    "2749:text": [
+      "I'm sure I would've felt the same."
+    ],
+    "2750:text": [
+      "It's cruel, like going out of your way to eat"
+    ],
+    "2751:text": [
+      "in front of a starving animal on a chain..."
+    ],
+    "2753:text": [
+      "But when I got to his hospital room, Onozato"
+    ],
+    "2754:text": [
+      "was completely absorbed in the game."
+    ],
+    "2755:text": [
+      "After how angry he'd been... Aren't you"
+    ],
+    "2756:text": [
+      "curious why?"
+    ],
+    "2757:text": [
+      "Hee hee... Don't worry. I'm going to tell"
+    ],
+    "2758:text": [
+      "you what happened...”"
+    ],
+    "2768:text": [
+      "Shoji Arai"
+    ],
+    "2769:text": [
+      "“",
+      ", that's how you see it."
+    ],
+    "2770:text": [
+      "Of course, I understand how his mother felt, too."
+    ],
+    "2771:text": [
+      "Her beloved son was terribly ill. She had no idea"
+    ],
+    "2772:text": [
+      "when he might die, and even that cheerful disposition"
+    ],
+    "2773:text": [
+      "of his had changed."
+    ],
+    "2774:text": [
+      "It's only natural that she'd want to do"
+    ],
+    "2775:text": [
+      "something for him."
+    ],
+    "2777:text": [
+      "Maybe heaven heard"
+    ],
+    "2778:text": [
+      "her wishes."
+    ],
+    "2779:text": [
+      "When I visited his hospital room the next day,"
+    ],
+    "2780:text": [
+      "there was Onozato, completely absorbed in the game."
+    ],
+    "2782:text": [
+      "Onozato sounded much livelier"
+    ],
+    "2783:text": [
+      "while he was playing than he had"
+    ],
+    "2784:text": [
+      "on my first visit."
+    ],
+    "2786:text": [
+      "He'd been so angry... So why?"
+    ],
+    "2787:text": [
+      "You'd wonder why, too, ",
+      "?"
+    ],
+    "2788:text": [
+      "Yes, there is a reason."
+    ],
+    "2789:text": [
+      "Don't worry. I'll tell you... Hee hee"
+    ],
+    "2790:text": [
+      "hee.”"
+    ],
+    "2808:text": [
+      "Shoji Arai"
+    ],
+    "2809:text": [
+      "“Onozato kept his attention fixed on the game"
+    ],
+    "2810:text": [
+      "even after I came in."
+    ],
+    "2811:text": [
+      "I asked if I could watch. He was happy to let me,"
+    ],
+    "2812:text": [
+      "so I decided to stay a while"
+    ],
+    "2813:text": [
+      "and watch him play."
+    ],
+    "2815:text": [
+      "I'd come to see what kind of game it was"
+    ],
+    "2816:text": [
+      "in the first place, so it suited me just fine"
+    ],
+    "2817:text": [
+      "that he was so absorbed in it."
+    ],
+    "2819:text": [
+      "After watching for a while, I realized"
+    ],
+    "2820:text": [
+      "how beautiful the mountain scenery in the game was."
+    ],
+    "2821:text": [
+      "Calling it ‘beautiful graphics’ hardly does it justice."
+    ],
+    "2822:text": [
+      "The scenery stretched across the whole screen"
+    ],
+    "2823:text": [
+      "and took my breath away, even just watching"
+    ],
+    "2824:text": [
+      "from the side."
+    ],
+    "2828:text": [
+      "The scenery on the screen was animated, moving with the player. It could almost make you believe you were actually climbing the mountain."
+    ],
+    "2830:text": [
+      "The landscape photos Onozato had shown me were beautiful, of course. The game was in a league of its own."
+    ],
+    "2832:text": [
+      "Can you see now why Onozato got so absorbed in it?"
+    ],
+    "2834:text": [
+      "He could see those sweeping landscapes he'd thought he'd never see again."
+    ],
+    "2835:text": [
+      "That was all the reason Onozato needed to play."
+    ],
+    "2837:text": [
+      "You put a team together, balancing each climber's abilities, and decide which route to take."
+    ],
+    "2838:text": [
+      "You set up camp, haul supplies, and so on"
+    ],
+    "2839:text": [
+      "as you work your way up the mountain. The system is quite simple, but it's been worked out in remarkable detail..."
+    ],
+    "2840:text": [
+      "That was another reason he got so absorbed in the game."
+    ],
+    "2842:text": [
+      "First, the time of year affects",
+      "how hard the climb is."
+    ],
+    "2843:text": [
+      "As a rule, climbing is easier in warmer seasons."
+    ],
+    "2845:text": [
+      "July and August are monsoon season, though. The strong seasonal winds bring a greater risk of bad weather and avalanches, making the climbs harder."
+    ],
+    "2847:text": [
+      "Winter is the hardest season of all, of course."
+    ],
+    "2848:text": [
+      "Air pressure changes with altitude, of course. Add subzero temperatures, snowfall, and blizzards, and cold-weather climbing can cost you your life."
+    ],
+    "2850:text": [
+      "The team has to open up its own route, and that takes a lot of supplies."
+    ],
+    "2852:text": [
+      "The six main supplies are food, oxygen cylinders, tents, climbing kits, wall-climbing kits, and ground preparation kits. Carrying them alone takes a big bite out of your stamina, or HP in game terms."
+    ],
+    "2853:text": [
+      "You also have to keep an eye on any climbers who start feeling unwell as a result."
+    ],
+    "2855:text": [
+      "There are six climbers to a team."
+    ],
+    "2856:text": [
+      "Their status can show injuries and illness, or even starvation when food runs short."
+    ],
+    "2858:text": [
+      "The worst problem of all is frostbite from the bitter cold."
+    ],
+    "2860:text": [
+      "Frostbite has three stages. It's that detailed. It lowers base stamina and slows a climber's work,",
+      "and if they start seeing or hearing things, that can affect the rest of the team too. Those are just some of the effects."
+    ],
+    "2862:text": [
+      "Even in those conditions, the team has to set up several camps and start preparing the route from there."
+    ],
+    "2864:text": [
+      "Route preparation means fixing ropes along the climb and putting up flags as markers.",
+      "It keeps the climbers from getting lost or falling and lets them climb faster."
+    ],
+    "2866:text": [
+      "The team can't even start climbing without it, so you can't let them rest, however bad things get."
+    ],
+    "2867:text": [
+      "Push them harder or let them rest, and they can be doomed either way. It happens"
+    ],
+    "2868:text": [
+      "all the time."
+    ],
+    "2870:text": [
+      "From what I've told you so far, I think you can see how seriously",
+      "this game takes mountaineering."
+    ],
+    "2871:text": [
+      "The scariest part is that once a climber dies, they never come back. You can't use them again."
+    ],
+    "2873:text": [
+      "Usually, when you get a Game Over, you can try again. Here you can't."
+    ],
+    "2874:text": [
+      "When you lose a team member, you never get a replacement."
+    ],
+    "2876:text": [
+      "Onozato made steady progress through the game."
+    ],
+    "2878:text": [
+      "All the early stages took place on famous mountains, ",
+      ". You might have heard of them yourself."
+    ],
+    "2879:text": [
+      "They weren't all that difficult, either. With everything Onozato knew about mountaineering, it might have felt like a walk in the park."
+    ],
+    "2881:text": [
+      "He'd climbed about three mountains that day when it was time for lights out."
+    ],
+    "2882:text": [
+      "I remember a nurse coming by on their rounds and telling me it was time to go home."
+    ],
+    "2889:text": [
+      "I suppose they felt for Onozato, given his situation."
+    ],
+    "2890:text": [
+      "All the nurses seemed to be looking out for him."
+    ],
+    "2891:text": [
+      "Maybe that was why I only got a mild warning for staying so late."
+    ],
+    "2894:text": [
+      "‘Onozato, can I come back and watch again tomorrow?’"
+    ],
+    "2895:text": [
+      "I asked."
+    ],
+    "2896:text": [
+      "He answered without looking at me, still staring up at the ceiling."
+    ],
+    "2898:text": [
+      "His mind was probably miles away by then, already climbing another mountain."
+    ],
+    "2899:text": [
+      "It had taken just one day for Onozato to get hooked on the game."
+    ],
+    "2905:text": [
+      "I went back to see Onozato the next day."
+    ],
+    "2907:text": [
+      "Breakfast was already over by the time I got to his room, but his food was untouched. He seemed to have forgotten to eat while he played."
+    ],
+    "2911:text": [
+      "He'd made quite a bit of progress since the day before. The warmer climbing seasons had given way to colder ones, and the mountains kept getting higher."
+    ],
+    "2912:text": [
+      "The game seemed to be getting harder and harder, too."
+    ],
+    "2914:text": [
+      "And then the first climber died."
+    ],
+    "2916:text": [
+      "They were climbing Everest, the last mountain in the game, when one of the climbers got frostbite"
+    ],
+    "2917:text": [
+      "and died without ever recovering."
+    ],
+    "2919:text": [
+      "The game was hard enough already,"
+    ],
+    "2920:text": [
+      "but at the final stage, on Everest, even Onozato couldn't hope to reach the summit with a shorthanded team."
+    ],
+    "2922:text": [
+      "They managed to climb a little higher with the climbers they had left, but eventually the whole team died."
+    ],
+    "2924:text": [
+      "With none of the original team left, there was no way to keep playing."
+    ],
+    "2925:text": [
+      "I figured that was it, too, and got up to leave."
+    ],
+    "2933:text": [
+      "Lively chatter filled the hospital room."
+    ],
+    "2934:text": [
+      "Some of Onozato's friends had come to visit."
+    ],
+    "2935:text": [
+      "From the sound of their conversation, they were in the mountaineering club with him.”"
+    ],
+    "2939:text": [
+      "Friend A"
+    ],
+    "2940:text": [
+      "“Hey, Onozato. What game is that?”"
+    ],
+    "2942:text": [
+      "Junya Onozato"
+    ],
+    "2943:text": [
+      "“Oh, it's a mountain-climbing game."
+    ],
+    "2944:text": [
+      "But all my climbers are... Wait, I've got it!"
+    ],
+    "2945:text": [
+      "Hey, everybody. How about you all come climbing"
+    ],
+    "2946:text": [
+      "with me again?”"
+    ],
+    "2948:text": [
+      "Shoji Arai"
+    ],
+    "2949:text": [
+      "“His friends murmured in surprise."
+    ],
+    "2950:text": [
+      "They knew, too, that Onozato would never"
+    ],
+    "2951:text": [
+      "climb another mountain."
+    ],
+    "2952:text": [
+      "I wanted to hear where this was going,"
+    ],
+    "2953:text": [
+      "so I decided to stay."
+    ],
+    "2954:text": [
+      "Onozato opened a drawer"
+    ],
+    "2955:text": [
+      "and took a little device out of the game's case."
+    ],
+    "2956:text": [
+      "He held it up for everyone to see, grinning from ear to ear.”"
+    ],
+    "2973:text": [
+      "Junya Onozato"
+    ],
+    "2974:text": [
+      "“Looks like I can use this to put your faces"
+    ],
+    "2975:text": [
+      "into the game."
+    ],
+    "2976:text": [
+      "Then I can make characters and use them on the team."
+    ],
+    "2978:text": [
+      "I'm doing Everest right now."
+    ],
+    "2979:text": [
+      "You'd make one hell of a team,"
+    ],
+    "2980:text": [
+      "wouldn't you?"
+    ],
+    "2982:text": [
+      "And the graphics in this game"
+    ],
+    "2983:text": [
+      "are gorgeous."
+    ],
+    "2984:text": [
+      "If I make it to the summit, I'll text you a photo."
+    ],
+    "2985:text": [
+      "Sounds fun, right?”"
+    ],
+    "2987:text": [
+      "Shoji Arai"
+    ],
+    "2988:text": [
+      "“Nobody in the room objected"
+    ],
+    "2989:text": [
+      "to his idea."
+    ],
+    "2990:text": [
+      "They were probably glad to go climbing with Onozato again,"
+    ],
+    "2991:text": [
+      "even if it was in a game."
+    ],
+    "2993:text": [
+      "When Onozato pointed the device at them,"
+    ],
+    "2994:text": [
+      "climbers with their faces started appearing one after another"
+    ],
+    "2995:text": [
+      "on the previously empty team roster."
+    ],
+    "2997:text": [
+      "The room erupted in cheers."
+    ],
+    "2998:text": [
+      "Their stats looked great, too. Onozato could"
+    ],
+    "2999:text": [
+      "pick up right where he'd left off."
+    ],
+    "3001:text": [
+      "But something always seems to get in the way just as you're about to get started."
+    ],
+    "3002:text": [
+      "The sky outside the window was already turning red. It was time for dinner."
+    ],
+    "3004:text": [
+      "We did as the nurse asked and left Onozato's room."
+    ],
+    "3005:text": [
+      "On our way out, I saw the nurse from behind, telling Onozato how nice it was that so many of his friends had come to see him."
+    ],
+    "3007:text": [
+      "Yesterday I'd asked if I could come back. This time I left without asking."
+    ],
+    "3008:text": [
+      "I doubted it made any difference to him whether I was there."
+    ],
+    "3014:text": [
+      "I went back to his room again the next day."
+    ],
+    "3015:text": [
+      "We exchanged a quick hello, then both of us were glued to the screen."
+    ],
+    "3020:text": [
+      "Onozato played more cautiously than he had the day before."
+    ],
+    "3021:text": [
+      "He used the bare minimum of supplies and wasted none of them, checking the climbers' stats and the weather closely as they climbed."
+    ],
+    "3023:text": [
+      "The scenery had been colorful the last time I watched. Now the white of the snow, the black of the rock, and the piercing blue of the sky were the only three colors left."
+    ],
+    "3025:text": [
+      "It was the highest mountain in the world, after all."
+    ],
+    "3026:text": [
+      "It wouldn't let him reach the summit that easily."
+    ],
+    "3028:text": [
+      "About two hours in... Onozato set down the controller and took a long, deep breath."
+    ],
+    "3029:text": [
+      "The way you would at the summit."
+    ],
+    "3033:text": [
+      "Yes, he'd finally made it to the top of Everest."
+    ],
+    "3035:text": [
+      "The view from Everest's summit filled the screen."
+    ],
+    "3036:text": [
+      "It was breathtaking... These days, you can easily see that view on TV",
+      "or online, but it's different from seeing it with your own eyes."
+    ],
+    "3038:text": [
+      "Yet somehow, even through the screen, I felt the air as if I were really there."
+    ],
+    "3039:text": [
+      "The temperature in the hospital room should have been steady, but the air felt cold... More than cold. It felt as if ice had been pressed right against my core."
+    ],
+    "3041:text": [
+      "My imagination... Yes, perhaps it was."
+    ],
+    "3042:text": [
+      "But in that moment, I could feel the air at the top of Everest."
+    ],
+    "3045:text": [
+      "If even I could feel it, it must have been stronger for Onozato, who was playing the game."
+    ],
+    "3046:text": [
+      "He stared at the view from the summit, forgetting even to blink."
+    ],
+    "3049:text": [
+      "Even if he could never climb a mountain again, perhaps this view would be enough for him... The game's credits began to roll."
+    ],
+    "3051:text": [
+      "Onozato looked relieved and a little disappointed. Then he remembered I was there"
+    ],
+    "3052:text": [
+      "and gave me a faint smile."
+    ],
+    "3054:text": [
+      "All I could manage was an uncertain smile in return. I could feel, almost painfully, how much he wanted to climb again.”"
+    ],
+    "3074:text": [
+      "Junya Onozato"
+    ],
+    "3075:text": [
+      "“...Huh?”"
+    ],
+    "3077:text": [
+      "Shoji Arai"
+    ],
+    "3078:text": [
+      "“The credits had finished. He was putting the game"
+    ],
+    "3079:text": [
+      "away when he let out a brief, startled"
+    ],
+    "3080:text": [
+      "sound."
+    ],
+    "3081:text": [
+      "There was a mountain he hadn't climbed yet"
+    ],
+    "3082:text": [
+      "on the stage select screen."
+    ],
+    "3084:text": [
+      "It was called the Mountains of Madness."
+    ],
+    "3085:text": [
+      "I'd never heard of the range, and neither"
+    ],
+    "3086:text": [
+      "had Onozato."
+    ],
+    "3087:text": [
+      "The range swept across Antarctica in a great arc,"
+    ],
+    "3088:text": [
+      "some 34,000 feet high, or about 10,363"
+    ],
+    "3089:text": [
+      "meters. An immense mountain range."
+    ],
+    "3090:text": [
+      "Even Everest, at about 8,848 meters,"
+    ],
+    "3091:text": [
+      "couldn't match it."
+    ],
+    "3093:text": [
+      "I could see Onozato trembling with excitement."
+    ],
+    "3095:text": [
+      "He picked up the controller again and turned back to the screen."
+    ],
+    "3096:text": [
+      "The team was made up of the friends who'd reached the summit of Everest."
+    ],
+    "3097:text": [
+      "They were the people Onozato most wanted to climb with."
+    ],
+    "3099:text": [
+      "And so their grueling climb began..."
+    ],
+    "3103:text": [
+      "Up to then, Onozato had used the polar method,",
+      "also known as expedition style."
+    ],
+    "3104:text": [
+      "A large crew of staff and guides secures supplies and prepares the route, then a small group of climbers makes the summit attempt."
+    ],
+    "3106:text": [
+      "For the Mountains of Madness, though, he seemed to be using alpine style."
+    ],
+    "3108:text": [
+      "In alpine style, climbers receive no help from a support team and use as little equipment as possible. Above all, they rely entirely on their own strength."
+    ],
+    "3110:text": [
+      "That's how Onozato had climbed when he was well. I suppose it was how he wanted to tackle the Mountains of Madness..."
+    ],
+    "3112:text": [
+      ", remember how I described the view on Everest in three colors?"
+    ],
+    "3115:text": [
+      "The Mountains of Madness were solid white."
+    ],
+    "3116:text": [
+      "Yes. You couldn't even see the rocks or the sky."
+    ],
+    "3117:text": [
+      "Just snow... The whole screen was filled with white snow."
+    ],
+    "3119:text": [
+      "Do you see what that means?"
+    ],
+    "3120:text": [
+      "There were no trees to use as landmarks."
+    ],
+    "3121:text": [
+      "You couldn't see the sun to get your bearings."
+    ],
+    "3122:text": [
+      "You couldn't tell what was underfoot."
+    ],
+    "3124:text": [
+      "Imagine how terrifying that is... One wrong step can kill you. That's where they had to climb."
+    ],
+    "3126:text": [
+      "Of course, I'm only talking about the game."
+    ],
+    "3127:text": [
+      "Don't worry... Hee hee hee."
+    ],
+    "3129:text": [
+      "Onozato's mountaineering knowledge seemed to serve him well in the game. The team made slow, steady progress."
+    ],
+    "3131:text": [
+      "They started the climb at around 7,000 meters."
+    ],
+    "3132:text": [
+      "On Everest, you'd already be nearing the summit. In the Mountains of Madness, they still had a long way to go, and death was closer than ever."
+    ],
+    "3134:text": [
+      "How far had they climbed by then, I wonder... A nurse came in to check on Onozato.”"
+    ],
+    "3137:text": [
+      "Nurse"
+    ],
+    "3138:text": [
+      "“Onozato, let me take your temperature. You need"
+    ],
+    "3139:text": [
+      "to spend a little less time gaming. It's bad for your eyes, you know.”"
+    ],
+    "3141:text": [
+      "Junya Onozato"
+    ],
+    "3142:text": [
+      "“Could you do it later?"
+    ],
+    "3143:text": [
+      "I can't stop right now.”"
+    ],
+    "3145:text": [
+      "Nurse"
+    ],
+    "3146:text": [
+      "“No, it can't wait. Come on, put the game down!”"
+    ],
+    "3148:text": [
+      "Shoji Arai"
+    ],
+    "3149:text": [
+      "“The nurse snatched the controller from his hands,"
+    ],
+    "3150:text": [
+      "then drew the curtain around his bed"
+    ],
+    "3151:text": [
+      "in one quick motion."
+    ],
+    "3152:text": [
+      "All the while, time in the game"
+    ],
+    "3153:text": [
+      "went on without mercy."
+    ],
+    "3155:text": [
+      "I don't think it was even five minutes before the nurse left the room."
+    ],
+    "3156:text": [
+      "Onozato hurried to look at the TV screen."
+    ],
+    "3162:text": [
+      "There was his friend, sprawled on the ground."
+    ],
+    "3163:text": [
+      "While Onozato was looking away, his friend stepped onto a rock hidden under the snow. As he fell, the ice axe he was holding drove into his neck."
+    ],
+    "3165:text": [
+      "Onozato was speechless."
+    ],
+    "3166:text": [
+      "Even if it was a game, he'd just lost a close friend..."
+    ],
+    "3168:text": [
+      "He couldn't abandon the rest of the team, though."
+    ],
+    "3169:text": [
+      "On a snowy mountain, stopping in your tracks is as good as suicide."
+    ],
+    "3171:text": [
+      "Onozato decided to climb a little farther that day, then pitch a tent and let everyone rest so he could make a new plan with one fewer climber."
+    ],
+    "3175:text": [
+      "Before I knew it, it was evening. The nurses had been warning me about staying too late, so I decided to leave early that day."
+    ],
+    "3183:text": [
+      "The moment I stepped out of the hospital room, a bright red stretcher went right past me."
+    ],
+    "3186:text": [
+      "And there on the stretcher was Onozato's friend."
+    ],
+    "3187:text": [
+      "The one who'd died in the game..."
+    ],
+    "3189:text": [
+      "Bright red blood ran between the fingers of the nurse pressing on his neck, drawing a line down the hall."
+    ],
+    "3190:text": [
+      "To me, that line down the middle of the hall was the boundary between life and death."
+    ],
+    "3192:text": [
+      "And Onozato's friend had crossed that line."
+    ],
+    "3197:text": [
+      "His death was announced at school the next day."
+    ],
+    "3199:text": [
+      "He'd tripped on the school stairs and crashed headfirst into a window. The broken glass severed his carotid artery, and he bled to death."
+    ],
+    "3200:text": [
+      "Strangely enough, his cause of death was the same as in the game."
+    ],
+    "3203:text": [
+      "Word of his death reached Onozato right away."
+    ],
+    "3204:text": [
+      "Onozato had expected to be the first one to die, so his friend's death seemed to hit him especially hard."
+    ],
+    "3206:text": [
+      "What made it worse was that the cause of death matched the one in the game Onozato was playing."
+    ],
+    "3207:text": [
+      "Standing by the coffin, Onozato promised his friend he'd show him the finest view."
+    ],
+    "3209:text": [
+      "He threw himself into the game more than ever, climbing the mountain with great care."
+    ],
+    "3211:text": [
+      "The team had lost just one person, but that one loss made the climb many times harder."
+    ],
+    "3212:text": [
+      "Onozato used everything he knew about climbing and read up on it in books and online as he went."
+    ],
+    "3214:text": [
+      "But the Mountains of Madness lived up to their name."
+    ],
+    "3216:text": [
+      "They were nearing 8,000 meters, and everything was white",
+      "until a black shape came into view."
+    ],
+    "3218:text": [
+      "There couldn't be any trees up there."
+    ],
+    "3219:text": [
+      "It wasn't the sort of place a living thing could survive, either."
+    ],
+    "3220:text": [
+      "Then what could it have been...?"
+    ],
+    "3222:text": [
+      "Thinking it might be dangerous, Onozato ordered the team to leave the area."
+    ],
+    "3223:text": [
+      "The climbers changed course and moved around the black shape."
+    ],
+    "3225:text": [
+      "The view should have gone back to solid white..."
+    ],
+    "3227:text": [
+      "Then that wretched red spread",
+      "across the screen again."
+    ],
+    "3229:text": [
+      "Onozato hurried to check. One climber's abdomen was soaked red,",
+      "and they'd collapsed, bent double."
+    ],
+    "3231:text": [
+      "Behind the climber, a jet-black mass of slime writhed with an iridescent sheen. Countless eyes floated on its surface, and a tentacle-like part of its body was stained red."
+    ],
+    "3232:text": [
+      "Nothing like it had ever appeared on any of the other mountains."
+    ],
+    "3234:text": [
+      "The climbers' sanity stats plummeted."
+    ],
+    "3235:text": [
+      "At this rate, their minds would break before their bodies did."
+    ],
+    "3236:text": [
+      "Onozato ordered them to retreat."
+    ],
+    "3238:text": [
+      "The climbers fled all at once."
+    ],
+    "3239:text": [
+      "Luckily, the monster seemed to move slowly, and the gap between them widened."
+    ],
+    "3241:text": [
+      "But up ahead, they could see the black object from before."
+    ],
+    "3243:text": [
+      "They'd ended up back on the route they'd avoided earlier... The monster was still after them... There was no time to hesitate."
+    ],
+    "3245:text": [
+      "Fortunately, the black dot up ahead hadn't so much as twitched."
+    ],
+    "3246:text": [
+      "They steeled themselves to run past the black dot..."
+    ],
+    "3248:text": [
+      "And yes, the black dot stayed perfectly still as they ran past."
+    ],
+    "3250:text": [
+      "It was dead, you see."
+    ],
+    "3251:text": [
+      "It was the carcass of some creature. It looked like a huge bat, or a deep-sea fish, or even a plant."
+    ],
+    "3253:text": [
+      "A thick layer of something like tar from the monster behind them had frozen to the carcass."
+    ],
+    "3255:text": [
+      "As I looked at it, a thought came to me."
+    ],
+    "3257:text": [
+      "Had the monster left the corpse there on purpose?"
+    ],
+    "3258:text": [
+      "To lure the climbers to the place where it was hiding..."
+    ],
+    "3260:text": [
+      "If so, the monster was frighteningly intelligent."
+    ],
+    "3261:text": [
+      "And if there were many more like it..."
+    ],
+    "3262:text": [
+      "I could see that Onozato had broken into a clammy sweat."
+    ],
+    "3265:text": [
+      "They'd been fleeing for about an hour when the monster finally disappeared."
+    ],
+    "3267:text": [
+      "Where were they now? What shape were they in? And how would they make up for losing another climber?"
+    ],
+    "3268:text": [
+      "Onozato had to take stock and revise the plan."
+    ],
+    "3270:text": [
+      "It was one step forward and one step back on the mountain,",
+      "and Onozato seemed to grow more frustrated."
+    ],
+    "3272:text": [
+      "But time passed all the same, without mercy."
+    ],
+    "3273:text": [
+      "Once again, the nurse all but forced him to stop playing for the day."
+    ],
+    "3275:text": [
+      "I suggested we go down to the convenience store on the first floor of the hospital and get something to drink."
+    ],
+    "3277:text": [
+      "Sometimes a little distraction helps you think of a better strategy."
+    ],
+    "3278:text": [
+      "Onozato must have thought so too. He came along without a fuss."
+    ],
+    "3281:text": [
+      "We got our drinks and decided to take a short walk through the garden."
+    ],
+    "3282:text": [
+      "With the soft breeze on our skin,",
+      "what had just happened in the game felt even more unreal."
+    ],
+    "3284:text": [
+      "There was no snow out here, and no monster."
+    ],
+    "3285:text": [
+      "The fresh air seemed to cool us down. We hadn't realized how worked up we'd gotten.”"
+    ],
+    "3288:text": [
+      "“Hey, Onozato!”"
+    ],
+    "3290:text": [
+      "Shoji Arai"
+    ],
+    "3291:text": [
+      "“Just then, I heard someone calling Onozato's name"
+    ],
+    "3292:text": [
+      "from a distance."
+    ],
+    "3293:text": [
+      "Right across the road, the friend from the mountaineering club"
+    ],
+    "3294:text": [
+      "I'd seen in the hospital room earlier"
+    ],
+    "3295:text": [
+      "was waving to us."
+    ],
+    "3297:text": [
+      "He must have come to visit Onozato"
+    ],
+    "3298:text": [
+      "on his way home from club practice."
+    ],
+    "3299:text": [
+      "He smiled broadly as he started running"
+    ],
+    "3300:text": [
+      "toward us."
+    ],
+    "3306:text": [
+      "A truck hit him. Like a copier"
+    ],
+    "3307:text": [
+      "drawing in a sheet of paper, it pulled him"
+    ],
+    "3308:text": [
+      "under its wheels."
+    ],
+    "3310:text": [
+      "Maybe it was a mercy that the brakes had squealed so loudly."
+    ],
+    "3311:text": [
+      "Otherwise, I would have heard a sound I'd never forget."
+    ],
+    "3313:text": [
+      "With a loud clunk, the truck bed lurched. I could see Onozato's friend underneath."
+    ],
+    "3314:text": [
+      "The tires had caught him across the abdomen and ripped it wide open. He lay there, folded almost in half."
+    ],
+    "3316:text": [
+      "When his face slowly turned toward us, I couldn't help crying out."
+    ],
+    "3317:text": [
+      "He was the friend the monster had killed in the game earlier."
+    ],
+    "3319:text": [
+      "People poured out of the hospital, one after another. Within moments I could no longer see him through the crowd."
+    ],
+    "3321:text": [
+      "As I stood staring at the crowd, Onozato suddenly bolted from beside me."
+    ],
+    "3322:text": [
+      "He left his friend where he lay and ran for the hospital."
+    ],
+    "3323:text": [
+      "I hurried after him."
+    ],
+    "3325:text": [
+      "Onozato rushed into his room and started up the game right away."
+    ],
+    "3326:text": [
+      "Then he started climbing again."
+    ],
+    "3328:text": [
+      ", do you think it was a coincidence?"
+    ],
+    "3329:text": [
+      "That his friend died in the game and then died the same way in real life."
+    ],
+    "3331:text": [
+      "Onozato must have noticed it, too."
+    ],
+    "3332:text": [
+      "He kept playing anyway."
+    ],
+    "3333:text": [
+      "He cared more about the game than the friend he'd just seen get hit."
+    ],
+    "3335:text": [
+      "The nurse who normally came to tell him to stop never showed up that day. Perhaps the accident had kept them busy."
+    ],
+    "3336:text": [
+      "From that day on, Onozato teetered on the brink of madness."
+    ],
+    "3338:text": [
+      "When I came to see him, he no longer so much as said hello."
+    ],
+    "3340:text": [
+      "He did the bare minimum when it came to things like eating. He spent almost all his time playing the game, climbing ever higher."
+    ],
+    "3343:text": [
+      "With only four climbers left, he gave them careful instructions until they finally reached 8,000 meters... the place they call the ‘Death Zone’."
+    ],
+    "3345:text": [
+      "It's an altitude where the human body struggles to survive. There's only a third as much oxygen as at ground level, and even trained mountaineers are said to last no more than",
+      "48 hours."
+    ],
+    "3346:text": [
+      "And that's where they met their deaths, just as the name suggests."
+    ],
+    "3348:text": [
+      "The first fell into a coma from lack of oxygen while tending the campfire. They toppled into the fire and went up in flames. One..."
+    ],
+    "3350:text": [
+      "The next couldn't tell where the ground dropped away in the whiteout. They fell off a cliff and were smashed to pieces... Two."
+    ],
+    "3352:text": [
+      "A monster attacked another climber, ripping off their limbs before devouring them. Three."
+    ],
+    "3354:text": [
+      "The last climber fled to a spot where another monster was lying in wait. It attacked them. Four..."
+    ],
+    "3356:text": [
+      "As if in answer, his friends died one after another in the real world, too."
+    ],
+    "3357:text": [
+      "A fire, a train accident, a random attack in the street, a murder..."
+    ],
+    "3358:text": [
+      "In the end, all six were dead."
+    ],
+    "3360:text": [
+      "...Oh, those deaths do sound rather familiar, don't they? Right, Shindo...?"
+    ],
+    "3361:text": [
+      "Heh heh heh... Excuse me."
+    ],
+    "3362:text": [
+      "Back to the story."
+    ],
+    "3364:text": [
+      "With all six dead, Onozato had lost his whole team again."
+    ],
+    "3365:text": [
+      "He needed new climbers. This time he set his sights on the women who were always interrupting him.”"
+    ],
+    "3367:text": [
+      "Nurse"
+    ],
+    "3368:text": [
+      "“Onozato, are you playing that game again?"
+    ],
+    "3369:text": [
+      "You really need to take it easy or you'll make your condition worse."
+    ],
+    "3370:text": [
+      "Come on, put it down. I need to take your temperature.”"
+    ],
+    "3372:text": [
+      "Shoji Arai"
+    ],
+    "3373:text": [
+      "“Yes, the nurses."
+    ],
+    "3374:text": [
+      "Did you know nurses have a surprising amount"
+    ],
+    "3375:text": [
+      "of strength and stamina?"
+    ],
+    "3376:text": [
+      "They're always rushing about, working day and night."
+    ],
+    "3377:text": [
+      "They support patients and lift them up, too."
+    ],
+    "3378:text": [
+      "They're stronger"
+    ],
+    "3379:text": [
+      "than most people."
+    ],
+    "3380:text": [
+      "They also have medical know-how, which is"
+    ],
+    "3381:text": [
+      "invaluable in harsh conditions."
+    ],
+    "3382:text": [
+      "That's what caught Onozato's attention.”"
+    ],
+    "3384:text": [
+      "Junya Onozato"
+    ],
+    "3385:text": [
+      "“Nurse, I've had one friend after another die"
+    ],
+    "3386:text": [
+      "lately, and I'm really down about it... It hurts to know"
+    ],
+    "3387:text": [
+      "I'll never get to take another picture with them."
+    ],
+    "3388:text": [
+      "Would you take one with me?”"
+    ],
+    "3390:text": [
+      "Nurse"
+    ],
+    "3391:text": [
+      "“Oh... that must be lonely. Of course."
+    ],
+    "3392:text": [
+      "I'd love to take a picture with you. Hee hee.”"
+    ],
+    "3394:text": [
+      "Shoji Arai"
+    ],
+    "3395:text": [
+      "“The nurse felt sorry for him, so she agreed"
+    ],
+    "3396:text": [
+      "without a moment's hesitation."
+    ],
+    "3397:text": [
+      "Onozato had thought up a clever excuse..."
+    ],
+    "3398:text": [
+      "He didn't care anymore"
+    ],
+    "3399:text": [
+      "that his friends were dead."
+    ],
+    "3401:text": [
+      "He went on making up excuses to get pictures of the other nurses, then put their photos into the game and got right back to playing."
+    ],
+    "3403:text": [
+      "Like the mountaineering club members, the nurses died one after another..."
+    ],
+    "3405:text": [
+      "Word soon spread through the hospital that the nurses Onozato had photographed were dead. Everyone was so unnerved that they kept their distance."
+    ],
+    "3407:text": [
+      "Even the nurses who had been so sympathetic now treated him like someone they wanted nothing to do with."
+    ],
+    "3408:text": [
+      "They started neglecting things like taking his temperature, and his condition kept getting worse."
+    ],
+    "3410:text": [
+      "Seeing Onozato in that state alarmed his doctor."
+    ],
+    "3411:text": [
+      "I did say his condition wasn't immediately life-threatening. Left untreated, though, it was serious enough to kill him."
+    ],
+    "3413:text": [
+      "The doctor decided to operate at once."
+    ],
+    "3415:text": [
+      "The idea that anyone Onozato photographed would die was just a rumor, after all."
+    ],
+    "3416:text": [
+      "Onozato had never harmed anyone directly, and each of the nurses had died in a different place and from a different cause."
+    ],
+    "3417:text": [
+      "Nobody could say for certain that he was responsible."
+    ],
+    "3419:text": [
+      "The doctor was one of the people who saw it that way."
+    ],
+    "3420:text": [
+      "So he had no hesitation about proceeding with Onozato's operation."
+    ],
+    "3425:text": [
+      "On the day of Onozato's surgery, I went to see him in his room as usual."
+    ],
+    "3427:text": [
+      "From the doorway, I could see the doctor explaining the procedure to him."
+    ],
+    "3428:text": [
+      "And I saw quite clearly that Onozato had that little device clutched in his hand."
+    ],
+    "3430:text": [
+      "A bystander probably wouldn't have realized right away that it was a camera."
+    ],
+    "3431:text": [
+      "It wouldn't have occurred to the doctor that Onozato was taking his picture while he explained the procedure."
+    ],
+    "3433:text": [
+      "Then it happened, just before the operation was due to begin."
+    ],
+    "3434:text": [
+      "The doctor was getting ready for surgery when he suffered a heart attack and died suddenly."
+    ],
+    "3436:text": [
+      "The hospital went into something of a panic."
+    ],
+    "3437:text": [
+      "In the end, the hospital threw Onozato out and sent him home."
+    ],
+    "3439:text": [
+      "I'd been able to observe the game while visiting him in the hospital. I couldn't very well go to his house every day."
+    ],
+    "3441:text": [
+      "I did try going over, actually. Onozato's mother turned me away."
+    ],
+    "3442:text": [
+      "I couldn't force my way in. It pained me, but I tried to put the whole thing out of my mind."
+    ],
+    "3444:text": [
+      "At school, too, the mountaineering club had lost one member after another. Nobody wanted anything to do with Onozato anymore."
+    ],
+    "3445:text": [
+      "Without anyone noticing, Onozato faded from everyone's mind, as slowly as you descend a mountain..."
+    ],
+    "3452:text": [
+      "Six months later, Onozato's family made it",
+      "into the local paper."
+    ],
+    "3453:text": [
+      "17-Year-Old Boy Dies Alone..."
+    ],
+    "3454:text": [
+      "Yes, Onozato was found dead."
+    ],
+    "3456:text": [
+      "A neighbor called the police about the stench coming from Onozato's house. Apparently, they found his parents inside. Each had stabbed the other with a blade."
+    ],
+    "3458:text": [
+      "It later came out that they'd each eaten parts of the other's body. That caused quite a stir."
+    ],
+    "3459:text": [
+      "Apparently the police concluded it had started as an argument over their son's illness. I think they'd touched the abyss within that mountain of madness."
+    ],
+    "3461:text": [
+      "As for Onozato himself... He was found dead in his room, sitting in front of the television with the controller in his hands."
+    ],
+    "3462:text": [
+      "He died of cardiac arrest. Apparently his heart had been under tremendous strain."
+    ],
+    "3464:text": [
+      "The TV in front of him was showing the game's title screen, and apparently all the save data was gone."
+    ],
+    "3475:text": [
+      "Do you think he completed the game?"
+    ],
+    "3476:text": [
+      "If he did, the reason his heart stopped"
+    ],
+    "3477:text": [
+      "was that he'd seen the view from the Mountains of Madness..."
+    ],
+    "3478:text": [
+      "I wonder what that view could be like.”"
+    ],
+    "3480:text": [
+      "Arai gazed out the window, looking entranced."
+    ],
+    "3481:text": [
+      "It was already getting dark. All there was to see was a jumble of houses. It would have been generous to call the view pretty."
+    ],
+    "3483:text": [
+      "He stared out the window so intently that I almost thought he could see something else."
+    ],
+    "3486:text": [
+      "“...Arai, why didn't Onozato ever"
+    ],
+    "3487:text": [
+      "take a picture of you?”"
+    ],
+    "3489:text": [
+      "Shoji Arai"
+    ],
+    "3490:text": [
+      "“Ah... So you wondered about that too.”"
+    ],
+    "3492:text": [
+      "At my question, he lowered his gaze and laughed, his shoulders trembling slightly."
+    ],
+    "3493:text": [
+      "He seemed to be holding back the laugh. In the quiet clubroom, I heard it all too well."
+    ],
+    "3495:text": [
+      "Shoji Arai"
+    ],
+    "3496:text": [
+      "“I'd been wondering the same thing."
+    ],
+    "3497:text": [
+      "He never pointed the camera at me, though."
+    ],
+    "3499:text": [
+      "I think the reason was... he wanted"
+    ],
+    "3500:text": [
+      "to show me the view."
+    ],
+    "3501:text": [
+      "He'd always liked to show me his photos"
+    ],
+    "3502:text": [
+      "and brag about them. If I'd died, there would have been no one"
+    ],
+    "3503:text": [
+      "left to prove that Onozato had seen"
+    ],
+    "3504:text": [
+      "that view..."
+    ],
+    "3506:text": [
+      "I wouldn't have minded if he'd taken"
+    ],
+    "3507:text": [
+      "my picture, though..."
+    ],
+    "3509:text": [
+      "A view beautiful enough to stop your heart... ",
+      ", wouldn't you like to see it?"
+    ],
+    "3510:text": [
+      "I'd like to see it. A view so beautiful it could kill me. What lies beyond the madness...”"
+    ],
+    "3596:text": [
+      "Akemi Iwashita"
+    ],
+    "3597:text": [
+      "“",
+      ", you seem to like games a great deal."
+    ],
+    "3598:text": [
+      "You listened so intently to both their stories."
+    ],
+    "3599:text": [
+      "I don't mean to make fun of you"
+    ],
+    "3600:text": [
+      "for liking games."
+    ],
+    "3601:text": [
+      "I rather like games myself."
+    ],
+    "3602:text": [
+      "Books, films, things like that can be lovely,"
+    ],
+    "3603:text": [
+      "but games let you move things along yourself."
+    ],
+    "3604:text": [
+      "That's so much fun you can get a little too"
+    ],
+    "3605:text": [
+      "wrapped up in them..."
+    ],
+    "3606:text": [
+      "So there's nothing strange about it at all.”"
+    ],
+    "3608:text": [
+      "Shindo had told his story, and Arai had just finished his. Iwashita, who'd been listening quietly the whole time, suddenly spoke to me."
+    ],
+    "3610:text": [
+      "Her voice made its way into me slowly, sinking in with a gentle warmth."
+    ],
+    "3611:text": [
+      "And yet it was as cold as meltwater. It was as if everything it touched began to freeze."
+    ],
+    "3612:text": [
+      "It was a strange, beautiful voice."
+    ],
+    "3614:text": [
+      "My eyes turned toward her as if drawn by the Pied Piper of Hamelin."
+    ],
+    "3616:text": [
+      "The first thing I caught out of the corner of my eye was her flowing",
+      "black hair."
+    ],
+    "3617:text": [
+      "Her hair was as smooth as a lady's dress, swaying with a rustle I couldn't hear each time she spoke."
+    ],
+    "3619:text": [
+      "A beautifully shaped ear peeked out from beneath it."
+    ],
+    "3620:text": [
+      "Then her long, narrow eyes, black as obsidian and framed by long lashes."
+    ],
+    "3622:text": [
+      "I could see myself reflected in that clear, unbroken black."
+    ],
+    "3623:text": [
+      "How beautiful she was. I'd never imagined someone could be so beautiful..."
+    ],
+    "3625:text": [
+      "Akemi Iwashita"
+    ],
+    "3626:text": [
+      "“",
+      ", may I tell the next story?”"
+    ],
+    "3629:text": [
+      "“Oh... yes, of course. Please"
+    ],
+    "3630:text": [
+      "go ahead.”"
+    ],
+    "3632:text": [
+      "Iwashita must have noticed me staring, spellbound."
+    ],
+    "3633:text": [
+      "She said nothing about it. Her lips, the pale pink of cherry blossoms, moved slowly as she began to speak."
+    ],
+    "3639:title.name.1": [
+      "Apathy Kiwame - Love's Purgatory"
+    ],
+    "3672:text": [
+      "Akemi Iwashita"
+    ],
+    "3673:text": [
+      "“Let me introduce myself again... I'm Akemi Iwashita."
+    ],
+    "3674:text": [
+      "I'm in my third year of high school in Chiba."
+    ],
+    "3675:text": [
+      "Yes, my school is in Chiba Prefecture too,"
+    ],
+    "3676:text": [
+      "just like Narugami Academy."
+    ],
+    "3677:text": [
+      "Unfortunately, it isn't Narugami Academy... Heh heh"
+    ],
+    "3678:text": [
+      "heh."
+    ],
+    "3680:text": [
+      "Since we're on the subject, I thought I'd tell you"
+    ],
+    "3681:text": [
+      "a story about games too."
+    ],
+    "3682:text": [
+      "You do like games, ",
+      "?"
+    ],
+    "3683:text": [
+      "Otherwise, you wouldn't have listened so intently"
+    ],
+    "3684:text": [
+      "to their stories."
+    ],
+    "3686:text": [
+      "It's all right. As I said before, there's nothing strange or embarrassing about liking games."
+    ],
+    "3688:text": [
+      "These days, isn't it as ordinary a hobby as any other?"
+    ],
+    "3689:text": [
+      "Consoles have been around for years, and these days you can play on a computer or a phone, too."
+    ],
+    "3691:text": [
+      "It's perfectly ordinary now to see office workers playing games on their phones on the train."
+    ],
+    "3692:text": [
+      "So you have no reason to be ashamed of liking games."
+    ],
+    "3693:text": [
+      "Even if games are the only thing you're good at..."
+    ],
+    "3695:text": [
+      "The game in my story is about falling in love with a girl.",
+      "It's a dating sim."
+    ],
+    "3697:text": [
+      "You've probably played one before, haven't you?"
+    ],
+    "3698:text": [
+      "You choose the girl you like from among several girls you could date, give her presents,"
+    ],
+    "3699:text": [
+      "compliment her, and take her on dates. Usually, you win if the two of you end up together."
+    ],
+    "3701:text": [
+      "But the game I'm going to tell you about is a little different."
+    ],
+    "3702:text": [
+      "You get to decide what the heroine looks like, what sort of person she is, and more.”"
+    ],
+    "3736:text": [
+      "Akemi Iwashita"
+    ],
+    "3737:text": [
+      "“Come to think of it, earlier you said cute girls"
+    ],
+    "3738:text": [
+      "were your type, didn't you?"
+    ],
+    "3739:text": [
+      "Of course, you can make a girl like that, too."
+    ],
+    "3740:text": [
+      "I don't know whether you mean she looks cute"
+    ],
+    "3741:text": [
+      "or she has a cute personality, but this game"
+    ],
+    "3742:text": [
+      "lets you make her exactly the way you want,"
+    ],
+    "3743:text": [
+      "inside and out."
+    ],
+    "3744:text": [
+      "Lovely, isn't it? What kind of cute girl"
+    ],
+    "3745:text": [
+      "would you make?”"
+    ],
+    "3747:text": [
+      "As I listened to Iwashita, I pictured a cute girl."
+    ],
+    "3749:text": [
+      "Looks mattered, of course, but I thought a girl's personality had more to do with how cute she was."
+    ],
+    "3750:text": [
+      "If she put her heart into something, listened closely when I spoke, and carried herself with a feminine grace,",
+      "she'd be perfect."
+    ],
+    "3752:text": [
+      "Of course, a lovely smile would be nice, too."
+    ],
+    "3753:text": [
+      "A girl like that would be so cute..."
+    ],
+    "3755:text": [
+      "As I drifted off into that daydream, Iwashita leaned in and looked me in the face with a mischievous smile."
+    ],
+    "3756:text": [
+      "Maybe seeing me flustered was enough for her. She went back to talking."
+    ],
+    "3758:text": [
+      "That look on her face was so cute..."
+    ],
+    "3759:text": [
+      "I'd never seen that side of Iwashita..."
+    ],
+    "3768:text": [
+      "Akemi Iwashita"
+    ],
+    "3769:text": [
+      "“",
+      ", you like honest girls, don't you?"
+    ],
+    "3770:text": [
+      "I wonder if that's a coincidence. I absolutely hate lies, you see."
+    ],
+    "3771:text": [
+      "If someone's the sort who'd lie to me, I'd be happy"
+    ],
+    "3772:text": [
+      "to kill them."
+    ],
+    "3773:text": [
+      "That way, they'll never be able to lie again,"
+    ],
+    "3774:text": [
+      "and if I kill them before they lie,"
+    ],
+    "3775:text": [
+      "then no one will have lied to me at all."
+    ],
+    "3777:text": [
+      "Besides, if someone's so vile that they think"
+    ],
+    "3778:text": [
+      "it's fine to lie and hurt people, we're better off"
+    ],
+    "3779:text": [
+      "without them, don't you think?"
+    ],
+    "3780:text": [
+      "If you're going to lie, you ought to be prepared"
+    ],
+    "3781:text": [
+      "to die for it."
+    ],
+    "3783:text": [
+      "Hee hee... ",
+      ", it made me so happy when you said you liked honest girls."
+    ],
+    "3784:text": [
+      "Most people would play it safe and say they like cute or pretty girls. You gave an honest answer about your type."
+    ],
+    "3786:text": [
+      ", you really are an honest person."
+    ],
+    "3787:text": [
+      "Or did you answer that way because you knew I hated lies?"
+    ],
+    "3789:text": [
+      "It sounded as if you'd chosen that answer just for me...",
+      "Hee hee.”"
+    ],
+    "3798:text": [
+      "The longer she talked, the harder it was to take my eyes off her."
+    ],
+    "3799:text": [
+      "Every little movement she made was so delicate"
+    ],
+    "3800:text": [
+      "and so beautiful."
+    ],
+    "3802:text": [
+      "When her black hair slipped down from her gently rounded shoulder, she brushed it back as softly as if she were stroking a kitten,"
+    ],
+    "3803:text": [
+      "and each time she spoke, her small mouth parted just enough to show a flash of white teeth."
+    ],
+    "3805:text": [
+      "She had an allure I'd never expected from a high school student, and I must have been blushing without noticing."
+    ],
+    "3806:text": [
+      "Her pitch-black eyes slowly found mine, and a smile touched their corners, as if she were testing me."
+    ],
+    "3808:text": [
+      "I quickly looked away from her and glared down at my notes."
+    ],
+    "3809:text": [
+      "Her voice kept echoing through the clubroom, as though it were wrapping itself around me."
+    ],
+    "3811:text": [
+      "Before I knew it, my eyes were drawn back to Iwashita."
+    ],
+    "3812:text": [
+      "She noticed and looked straight at me this time as she went on."
+    ],
+    "3822:text": [
+      "“It lets you choose all those details?”"
+    ],
+    "3824:text": [
+      "Akemi Iwashita"
+    ],
+    "3825:text": [
+      "“Yes, that's right."
+    ],
+    "3826:text": [
+      "The game takes place at a school, so you even get to"
+    ],
+    "3827:text": [
+      "choose which club she joins."
+    ],
+    "3828:text": [
+      "Come to think of it, you said you liked active"
+    ],
+    "3829:text": [
+      "girls, didn't you?"
+    ],
+    "3830:text": [
+      "Perhaps you'd put her in a sports club?"
+    ],
+    "3831:text": [
+      "Boys often admire cheerleaders,"
+    ],
+    "3832:text": [
+      "don't they?"
+    ],
+    "3833:text": [
+      "Which club would you put her in?”"
+    ],
+    "3836:text": [
+      "“Well... Girls who do well in sports clubs"
+    ],
+    "3837:text": [
+      "are wonderful, but they can seem a bit"
+    ],
+    "3838:text": [
+      "boyish, too..."
+    ],
+    "3839:text": [
+      "I think I'd put her in the Drama Club."
+    ],
+    "3840:text": [
+      "She could wear cute costumes, and wouldn't it be"
+    ],
+    "3841:text": [
+      "wonderful to see her shine onstage?”"
+    ],
+    "3843:text": [
+      "Akemi Iwashita"
+    ],
+    "3844:text": [
+      "“Oh... I see."
+    ],
+    "3845:text": [
+      "Well, ",
+      ", I'm actually in the Drama Club myself."
+    ],
+    "3846:text": [
+      "What a coincidence, don't you think?"
+    ],
+    "3847:text": [
+      "If you saw me shine onstage, would you be"
+    ],
+    "3848:text": [
+      "just as happy for me as you'd be for her?”"
+    ],
+    "3851:text": [
+      "“Oh... um, yes."
+    ],
+    "3852:text": [
+      "I think you'd be wonderful onstage,"
+    ],
+    "3853:text": [
+      "Iwashita... So yes, I'd be happy.”"
+    ],
+    "3855:text": [
+      "Akemi Iwashita"
+    ],
+    "3856:text": [
+      "“Hee hee... Do you mean that?"
+    ],
+    "3857:text": [
+      "You seem to have quite a way with words."
+    ],
+    "3858:text": [
+      "For now, I'll say thank you."
+    ],
+    "3859:text": [
+      "I want you to come see me perform, too. Promise?"
+    ],
+    "3860:text": [
+      "Break that promise and I'll kill you. Is that clear?”"
+    ],
+    "3863:text": [
+      "“I-I understand.”"
+    ],
+    "3865:text": [
+      "Akemi Iwashita"
+    ],
+    "3866:text": [
+      "“Hee hee... Shall we get back to the story?”"
+    ],
+    "3875:text": [
+      "Akemi Iwashita"
+    ],
+    "3876:text": [
+      "“During Fukuzawa's story earlier,"
+    ],
+    "3877:text": [
+      "you didn't seem interested in girls."
+    ],
+    "3878:text": [
+      "It's often the people who act like that"
+    ],
+    "3879:text": [
+      "who have the highest standards."
+    ],
+    "3880:text": [
+      "I suppose you just haven't found your ideal girl"
+    ],
+    "3881:text": [
+      "in the real world yet..."
+    ],
+    "3882:text": [
+      "You expect her to be perfect in every way, from her looks"
+    ],
+    "3883:text": [
+      "to her personality... Do you think you're good enough"
+    ],
+    "3884:text": [
+      "to deserve that? Hee hee... I wonder."
+    ],
+    "3886:text": [
+      "But don't worry."
+    ],
+    "3887:text": [
+      "The story I'm about to tell"
+    ],
+    "3888:text": [
+      "is perfect for someone like you.”"
+    ],
+    "3897:text": [
+      "Akemi Iwashita"
+    ],
+    "3898:text": [
+      "“It would be more accurate to call it a dating sim"
+    ],
+    "3899:text": [
+      "where you design and raise your love interest."
+    ],
+    "3900:text": [
+      "Her name, her personality, her facial features, her hairstyle,"
+    ],
+    "3901:text": [
+      "her clothes... You can decide"
+    ],
+    "3902:text": [
+      "all of it for yourself."
+    ],
+    "3904:text": [
+      "The story is set in a big high school,"
+    ],
+    "3905:text": [
+      "just like this one. She can be in the year above or below you,"
+    ],
+    "3906:text": [
+      "or of course she can be in your year."
+    ],
+    "3908:text": [
+      "You can choose which club or committee she joins"
+    ],
+    "3909:text": [
+      "and which classes she's good at or struggles with."
+    ],
+    "3910:text": [
+      "It lets you decide all the little details."
+    ],
+    "3912:text": [
+      "See? Sounds fun, doesn't it?"
+    ],
+    "3913:text": [
+      "I have no interest in dating girls myself, but what must it feel like to decide every detail of someone's life and raise them exactly the way you want?"
+    ],
+    "3915:text": [
+      "Hee hee, ",
+      "."
+    ],
+    "3916:text": [
+      "You look like you're wondering how I know so much about it."
+    ],
+    "3918:text": [
+      "Like I said, I've no interest in playing it. Under ordinary circumstances, I wouldn't know the first thing about it."
+    ],
+    "3919:text": [
+      "So how do I know about it? Well, a student in one of the years below me was playing it."
+    ],
+    "3921:text": [
+      "His name was... ",
+      "."
+    ],
+    "3922:text": [
+      "Oh, was it wrong of me to borrow your name?"
+    ],
+    "3923:text": [
+      "I thought it would make the story more interesting for you, too. You don't mind, do you?"
+    ],
+    "3925:text": [
+      "Hee hee. I knew you'd say that."
+    ],
+    "3926:text": [
+      "Let's continue, then."
+    ],
+    "3936:text": [
+      " came across the game"
+    ],
+    "3937:text": [
+      "by chance in a shop."
+    ],
+    "3938:text": [
+      "Something about the lone copy at the end of the shelf caught his eye, almost as if it had been put there by fate."
+    ],
+    "3940:text": [
+      "That happens to you sometimes, doesn't it?"
+    ],
+    "3941:text": [
+      "Those moments when a meaningless coincidence feels like it was meant to happen."
+    ],
+    "3943:text": [
+      " felt that way too."
+    ],
+    "3944:text": [
+      "He bought it and went straight home to play it."
+    ],
+    "3949:text": [
+      "The game had a lovely little title."
+    ],
+    "3950:text": [
+      "‘Catch! Heart Sensation’. See? Isn't it cute?"
+    ],
+    "3951:text": [
+      " must have felt the same way you do now as he put the disc into his console."
+    ],
+    "3953:text": [
+      "A cute girl appeared on the TV screen almost immediately, and the game began."
+    ],
+    "3954:text": [
+      "He barely read the manual before picking up the controller and starting to play."
+    ],
+    "3956:text": [
+      "First, you enter your own name."
+    ],
+    "3957:text": [
+      "That way, the girl can call you by name in the game."
+    ],
+    "3959:text": [
+      ". He entered his own name for the protagonist."
+    ],
+    "3960:text": [
+      "That makes it more fun, doesn't it?"
+    ],
+    "3961:text": [
+      "And... what should he name the girl?"
+    ],
+    "3962:text": [
+      ", what would you name her?”"
+    ],
+    "4002:glink.text.1": [
+      "1. A girl I like"
+    ],
+    "4004:glink.text.1": [
+      "1. A girl I like"
+    ],
+    "4008:glink.text.1": [
+      "2. An idol I admire"
+    ],
+    "4010:glink.text.1": [
+      "2. An idol I admire"
+    ],
+    "4014:glink.text.1": [
+      "3. An ex-girlfriend"
+    ],
+    "4016:glink.text.1": [
+      "3. An ex-girlfriend"
+    ],
+    "4020:glink.text.1": [
+      "4. Akemi Iwashita"
+    ],
+    "4022:glink.text.1": [
+      "4. Akemi Iwashita"
+    ],
+    "4037:glink.text.1": [
+      "1. Akemi Iwashita"
+    ],
+    "4039:glink.text.1": [
+      "2. Akemi Iwashita"
+    ],
+    "4041:glink.text.1": [
+      "3. Akemi Iwashita"
+    ],
+    "4043:glink.text.1": [
+      "4. Akemi Iwashita"
+    ],
+    "4063:text": [
+      "Akemi Iwashita"
+    ],
+    "4064:text": [
+      "“Oh, you're giving her my name?"
+    ],
+    "4065:text": [
+      "Heh heh heh... ",
+      ", you're an interesting one."
+    ],
+    "4067:text": [
+      "Very well. Akemi Iwashita."
+    ],
+    "4068:text": [
+      "Let's call the heroine Akemi Iwashita."
+    ],
+    "4069:text": [
+      "I don't mind at all."
+    ],
+    "4070:text": [
+      "You might only be using it for now, but the main character"
+    ],
+    "4071:text": [
+      "has your name, after all."
+    ],
+    "4072:text": [
+      "Of course you'd be the one to choose"
+    ],
+    "4073:text": [
+      "the heroine's name. Heh heh..."
+    ],
+    "4082:text": [
+      "Once he'd entered the names, the screen switched",
+      "to the part he'd been waiting for, where he could set her attributes."
+    ],
+    "4083:text": [
+      "This is the part that takes the longest."
+    ],
+    "4085:text": [
+      "It may have nothing to do with real life, but you're making the girl who's going to be your girlfriend."
+    ],
+    "4086:text": [
+      "He spent hours thinking it through and choosing every detail about her, one by one."
+    ],
+    "4088:text": [
+      "He started with her appearance."
+    ],
+    "4089:text": [
+      "What color should her hair be? How long?"
+    ],
+    "4090:text": [
+      "Should her face be long or round?"
+    ],
+    "4092:text": [
+      "He chose every detail carefully, from the shape of her eyes and ears, the height of her nose bridge, and the thinness of her lips, right down to the angle of her eyebrows and her moles."
+    ],
+    "4094:text": [
+      "Once he'd finished that, he moved on to her figure."
+    ],
+    "4095:text": [
+      "Neither too skinny nor too fat... a soft, rounded, girlish figure."
+    ],
+    "4096:text": [
+      "He chose the length of her arms and legs",
+      "just as carefully as he'd done her face."
+    ],
+    "4098:text": [
+      "Once he was happy with her looks, he moved on to her personality."
+    ],
+    "4099:text": [
+      "The game already had a few basic personality types",
+      "for him to choose from."
+    ],
+    "4101:text": [
+      "Sincere, crybaby, clingy, and so on... Once he chose a type he liked, he could decide the finer details."
+    ],
+    "4102:text": [
+      "That way, even if everyone started with the same type, each player could give their girlfriend a personality all her own."
+    ],
+    "4104:text": [
+      "At last, he'd settled on her looks and personality."
+    ],
+    "4105:text": [
+      "All that was left was to decide what her life would be like."
+    ],
+    "4107:text": [
+      "He gave it a lot of thought before choosing her birthday and year in school. He made her an upperclassman."
+    ],
+    "4108:text": [
+      "She was one year ahead of him and wore a different-colored uniform,",
+      "an older girlfriend."
+    ],
+    "4110:text": [
+      "She really was his ideal girl."
+    ],
+    "4112:text": [
+      "The story began on his first day at his new school."
+    ],
+    "4113:text": [
+      "She was an upperclassman, so that's where they'd meet."
+    ],
+    "4115:text": [
+      "He'd spend a year with her, then tell her how he felt on the same day the following year. If they got together, he'd beat the game."
+    ],
+    "4116:text": [
+      "Until then, there were all sorts of events to enjoy as he made the most of school life with her."
+    ],
+    "4118:text": [
+      "From the entrance ceremony in spring to graduation in winter."
+    ],
+    "4119:text": [
+      "The different events at school brought the two of them closer."
+    ],
+    "4120:text": [
+      "Besides the big events, the game even had little things like tests, classroom duties, club activities, and committees."
+    ],
+    "4122:text": [
+      "He felt as if he were actually going to that school",
+      "and lost himself in the life he shared with her there."
+    ],
+    "4124:text": [
+      "At first he played for fun, figuring it was just a game. In the end he got so wrapped up in it that he went to a variety store and bought her a real birthday present."
+    ],
+    "4126:text": [
+      "She was his ideal girl, after all."
+    ],
+    "4127:text": [
+      "When it came to her, ",
+      " understood everything, and she understood ",
+      " just as well."
+    ],
+    "4128:text": [
+      "Whenever he did something for her, she responded exactly the way he wanted."
+    ],
+    "4130:text": [
+      ", can you imagine it?"
+    ],
+    "4131:text": [
+      "Your ideal girl has the looks and the personality you want, and even the things she does for you are exactly what you'd wish for."
+    ],
+    "4132:text": [
+      "If you met a girl like that, you'd be crazy about her, wouldn't you?"
+    ],
+    "4134:text": [
+      "Yes, that's right. ",
+      " fell head over heels for her."
+    ],
+    "4135:text": [
+      "The life he shared with her in that virtual world had become something he couldn't do without."
+    ],
+    "4141:text": [
+      "Meanwhile, life in the real world grew more and more miserable for ",
+      "."
+    ],
+    "4143:text": [
+      "It started to really hurt that she didn't exist",
+      "in the real world."
+    ],
+    "4145:text": [
+      "She was his ideal girl, even if she was in a game."
+    ],
+    "4146:text": [
+      "All he had to do was turn it on and she'd be there for him."
+    ],
+    "4148:text": [
+      "He couldn't play at school... And if he told his friends, they'd look at him strangely."
+    ],
+    "4149:text": [
+      "Some days he'd hear girls whisper cruel things about him behind his back."
+    ],
+    "4151:text": [
+      "He grew more and more alone in real life... Still, whenever he got home, he could see his ideal girl again."
+    ],
+    "4152:text": [
+      "Soon, that was the only thing he lived for, day after day."
+    ],
+    "4154:text": [
+      "I suppose he was happy as long as he had that time with her."
+    ],
+    "4160:text": [
+      "That day, too, the moment school let out he hurried",
+      "home and switched on the game."
+    ],
+    "4161:text": [
+      "After the opening he'd seen more times than he cared to count, his happy life with her began."
+    ],
+    "4163:text": [
+      "He played the game as he usually did."
+    ],
+    "4164:text": [
+      "Then at one point, a scene he hadn't seen before suddenly began."
+    ],
+    "4169:text": [
+      "He was walking home with her along their usual route and thinking about where to go for their date. Before he knew it, the background had changed to one he'd never seen."
+    ],
+    "4171:text": [
+      "He always chose from the same set of routes for their dates, so he should've known them all. This was a residential neighborhood he'd never seen before."
+    ],
+    "4173:text": [
+      "She was looking out at him through the screen as always."
+    ],
+    "4174:text": [
+      "Maybe he'd found something hidden? With that in mind, he chose the command to talk to her.”"
+    ],
+    "4178:text": [
+      "Akemi Iwashita"
+    ],
+    "4179:text": [
+      "“She started talking like she always did."
+    ],
+    "4180:text": [
+      "He couldn't see anything out of the ordinary."
+    ],
+    "4181:text": [
+      "He tried a few things, but in the end he figured"
+    ],
+    "4182:text": [
+      "it was some kind of background glitch, and kept"
+    ],
+    "4183:text": [
+      "playing."
+    ],
+    "4185:text": [
+      "On after-school dates, he could make a few choices"
+    ],
+    "4186:text": [
+      "from the command menu. He talked to her, gave her presents,"
+    ],
+    "4187:text": [
+      "and enjoyed the date just as he always did."
+    ],
+    "4188:text": [
+      "She responded just the way he wanted,"
+    ],
+    "4189:text": [
+      "as she always did."
+    ],
+    "4191:text": [
+      "Those sweet moments with her were enough"
+    ],
+    "4192:text": [
+      "to wash away all the weariness of his real life."
+    ],
+    "4206:text": [
+      "Then, out of nowhere, she said that."
+    ],
+    "4207:text": [
+      "She'd never said anything like that before."
+    ],
+    "4209:text": [
+      "Startled, he stared at her on the screen."
+    ],
+    "4210:text": [
+      "A button press would usually advance to the next line, but this time none of the buttons responded. It was as if the controller had broken."
+    ],
+    "4212:text": [
+      "Of course. You're perfect."
+    ],
+    "4213:text": [
+      "He said it out loud without thinking."
+    ],
+    "4214:text": [
+      "She was part of a game. She couldn't possibly respond."
+    ],
+    "4215:text": [
+      "He knew that, and still he couldn't stop",
+      "himself from answering.”"
+    ],
+    "4228:text": [
+      "Akemi Iwashita"
+    ],
+    "4229:text": [
+      "“In his surprise, he dropped"
+    ],
+    "4230:text": [
+      "the controller."
+    ],
+    "4231:text": [
+      "After all, the girl on the screen was actually"
+    ],
+    "4232:text": [
+      "talking to him."
+    ],
+    "4234:text": [
+      "He scrambled to pick up the controller, then pressed"
+    ],
+    "4235:text": [
+      "a button."
+    ],
+    "4236:text": [
+      "He still got no response."
+    ],
+    "4237:text": [
+      "The screen stayed just as it was, as if"
+    ],
+    "4238:text": [
+      "she were waiting for him to speak."
+    ],
+    "4240:text": [
+      "Why are you saying that?"
+    ],
+    "4241:text": [
+      "He spoke timidly, in little more than a whisper.”"
+    ],
+    "4253:text": [
+      "Now he was sure."
+    ],
+    "4254:text": [
+      "She really was talking to him."
+    ],
+    "4256:text": [
+      "He jumped for joy."
+    ],
+    "4257:text": [
+      "He'd longed for her so much, and now she could finally talk with him, even through a screen."
+    ],
+    "4260:text": [
+      "He lost himself in conversation with her."
+    ],
+    "4261:text": [
+      "Until then, he'd had to choose from a list of topics.",
+      "Now he could talk about whatever he wanted. It was so much fun."
+    ],
+    "4263:text": [
+      "He poured his heart out, asking all the questions he'd saved up and telling her everything he'd longed to say."
+    ],
+    "4265:text": [
+      "But after a little while,",
+      "the game screen changed."
+    ],
+    "4266:text": [
+      "Their after-school date",
+      "had come to an end."
+    ],
+    "4267:text": [
+      "He kept talking to the screen, but she was just a game character again."
+    ],
+    "4269:text": [
+      "It seemed he could only talk to her during that after-school scene. Once he realized that, he hurried the game along."
+    ],
+    "4271:text": [
+      "From then on, he looked forward to that brief time with her and sank deeper and deeper into the game."
+    ],
+    "4273:text": [
+      "Their time together was wonderful. Truly wonderful."
+    ],
+    "4275:text": [
+      "He had only her, and she had only him. A paradise for the two of them alone."
+    ],
+    "4276:text": [
+      "Like Adam and Eve, they grew more and more taken with each other."
+    ],
+    "4278:text": [
+      "But paradise always comes with a serpent."
+    ],
+    "4285:text": [
+      "One day, a transfer student arrived at his school in the real world."
+    ],
+    "4286:text": [
+      "She was very beautiful. She was exactly his ideal girl."
+    ],
+    "4287:text": [
+      "He was stunned. It was like the girl from the game had stepped straight into reality."
+    ],
+    "4289:text": [
+      "No, she was even better than his ideal."
+    ],
+    "4290:text": [
+      "She was cuter and more beautiful than the girl in the game. Best of all, she'd answer him at any time."
+    ],
+    "4292:text": [
+      "As luck would have it, her seat was near his. She started talking to him often, during breaks and even in class."
+    ],
+    "4293:text": [
+      "He enjoyed talking to her so much that he found himself drawn more and more to her, and away from the game..."
+    ],
+    "4295:text": [
+      "The girl in the game had been his ideal, of course."
+    ],
+    "4296:text": [
+      "But she was only the best girl his imagination could come up with."
+    ],
+    "4298:text": [
+      "The transfer student was real, and she was more wonderful than anything he could have imagined."
+    ],
+    "4299:text": [
+      "Looking at her, he started to notice things he wished were different about the girl in the game."
+    ],
+    "4301:text": [
+      "Her face, for instance."
+    ],
+    "4302:text": [
+      "He should have given her bigger eyes. He should have made her mouth smaller."
+    ],
+    "4303:text": [
+      "Little by little, he found things about her figure and personality",
+      "that bothered him, too."
+    ],
+    "4305:text": [
+      "The girl in the game wasn't perfect like the one in real life... No. It was precisely because she was perfect in every way that he'd grown bored of her."
+    ],
+    "4307:text": [
+      "Little by little, he grew more absorbed in the real world."
+    ],
+    "4308:text": [
+      "He'd looked forward to the game every day, but he was spending less and less time on it."
+    ],
+    "4310:text": [
+      "Still, he couldn't let go of his feelings for the girl in the game."
+    ],
+    "4311:text": [
+      "He kept playing, even if only for short stretches."
+    ],
+    "4325:text": [
+      "At the end of every conversation, she'd ask him that same question."
+    ],
+    "4326:text": [
+      "I suppose she wanted to hear him say",
+      "“Of course.”"
+    ],
+    "4328:text": [
+      "But he'd had enough."
+    ],
+    "4329:text": [
+      "He couldn't hold back his complaints about her anymore. Finally, he let it all out."
+    ],
+    "4331:text": [
+      "From her looks to her personality."
+    ],
+    "4332:text": [
+      "The little things had piled up over time. Before he knew it, he'd come to reject nearly everything about her."
+    ],
+    "4334:text": [
+      "When he'd finished getting it all out, the after-school date ended, and the game went back to normal."
+    ],
+    "4336:text": [
+      "Later, he calmed down and regretted saying such awful things.",
+      "But she was only a program in a game, after all."
+    ],
+    "4337:text": [
+      "He didn't play again that day."
+    ],
+    "4342:text": [
+      "The next day at his real school was just as fulfilling."
+    ],
+    "4343:text": [
+      "Chatting with the transfer student was as much fun as ever."
+    ],
+    "4345:text": [
+      "But he couldn't shake what had happened yesterday."
+    ],
+    "4346:text": [
+      "He'd said some awful things to the ideal girl he'd created, even if it was only a game."
+    ],
+    "4347:text": [
+      "It was bound to bother him, wasn't it?"
+    ],
+    "4351:text": [
+      "When he got home, he started the game to apologize to her."
+    ],
+    "4352:text": [
+      "The game played out as usual until it was time for their after-school date."
+    ],
+    "4370:text": [
+      "Something about her was different."
+    ],
+    "4371:text": [
+      "He stared hard at the screen. Were her eyes bigger than yesterday...?"
+    ],
+    "4385:text": [
+      "As soon as he noticed, her line appeared, as if she'd been waiting for him to see."
+    ],
+    "4386:text": [
+      "She was changing little by little in other ways, too, as if she were responding to the complaints he'd hurled at her the day before."
+    ],
+    "4387:text": [
+      "Her figure, her personality, and even the way she spoke now matched his ideal."
+    ],
+    "4389:text": [
+      "She's so devoted, isn't she?"
+    ],
+    "4390:text": [
+      "That's what it means to love someone, though."
+    ],
+    "4391:text": [
+      "You want to do something for them, even if it means changing everything about yourself."
+    ],
+    "4392:text": [
+      "That's what true love is."
+    ],
+    "4394:text": [
+      "He, too, felt his heart tremble",
+      "at her devotion."
+    ],
+    "4395:text": [
+      "From that day on, he threw himself back into the game and turned away from the real world."
+    ],
+    "4397:text": [
+      "Once, he'd been content just to play at being in love with her.",
+      "That had changed."
+    ],
+    "4398:text": [
+      "Desire... He'd grown greedy."
+    ],
+    "4400:text": [
+      "When someone will change to match your ideal, why hold yourself back?"
+    ],
+    "4401:text": [
+      "Every day, he told her more about what his ideal girl would be like."
+    ],
+    "4402:text": [
+      "He asked her to turn the corners of her eyes up more, told her to make her nose smaller... His demands grew more and more extreme."
+    ],
+    "4406:text": [
+      "And she kept giving him what he asked for."
+    ],
+    "4407:text": [
+      "Her whole reason for existing was to be his ideal girl."
+    ],
+    "4408:text": [
+      "It was her role to become whatever he wanted her to be."
+    ],
+    "4413:text": [
+      "At first he was happy with her, since she gave him what he wanted right away."
+    ],
+    "4415:text": [
+      "But a game is still a game."
+    ],
+    "4416:text": [
+      "She couldn't actually study with him in the library after school or go on a school trip with him."
+    ],
+    "4418:text": [
+      "The transfer student got to make all those happy memories with him in the real world, leaving her with none."
+    ],
+    "4419:text": [
+      "In the end, he drifted away from the game again..."
+    ],
+    "4424:text": [
+      "When school let out for a long break, he started up the game for the first time in ages."
+    ],
+    "4426:text": [
+      "He'd left her alone for quite a while."
+    ],
+    "4427:text": [
+      "He felt a little guilty, wondering if she might be angry with him..."
+    ],
+    "4428:text": [
+      "The opening was just the same... Then she appeared on the screen."
+    ],
+    "4447:text": [
+      "He was so startled he jumped to his feet."
+    ],
+    "4448:text": [
+      "His ideal girl had turned into something as unsettling as a monster."
+    ],
+    "4450:text": [
+      "She'd been just a drawing before. Now she looked like a real person."
+    ],
+    "4451:text": [
+      "Her features were still the same size and shape, and looking at that mismatch made his skin crawl."
+    ],
+    "4453:text": [
+      "He was so horrified by what he saw that he switched off the console."
+    ],
+    "4464:text": [
+      "He kept trying the power switch in a panic, until the game screen stopped going dark at all."
+    ],
+    "4479:text": [
+      "He frantically insisted that she'd misunderstood."
+    ],
+    "4480:text": [
+      "‘You're not my ideal girl anymore."
+    ],
+    "4481:text": [
+      "I don't need a girl like you.’"
+    ],
+    "4482:text": [
+      "He desperately tried to shut down the game. The screen stayed exactly the same."
+    ],
+    "4486:text": [
+      "He picked up the console and slammed it down on the floor in one swift motion."
+    ],
+    "4490:text": [
+      "The next thing he knew, the screen had gone pitch-black..."
+    ],
+    "4492:text": [
+      "He moved slowly toward the TV to make sure the game was really over."
+    ],
+    "4493:text": [
+      "The TV screen looked the way it always did."
+    ],
+    "4495:text": [
+      "Relieved, he sank to the floor and huddled there."
+    ],
+    "4496:text": [
+      "The relief must have drained all the strength from his body."
+    ],
+    "4498:text": [
+      "The urge to get the broken console out of his room as quickly as possible got him moving again."
+    ],
+    "4500:text": [
+      "He wrapped the console in several layers of trash bags, wound packing tape all around them, and dumped it at a trash collection spot at least two train stops from home."
+    ],
+    "4502:text": [
+      "Only then could he finally relax."
+    ],
+    "4503:text": [
+      "The game would never torment him again."
+    ],
+    "4504:text": [
+      "He was finally free to enjoy the real world."
+    ],
+    "4506:text": [
+      "He returned to the real world feeling as refreshed as if he'd stepped out of a dark tunnel..."
+    ],
+    "4517:text": [
+      "Tell me, ",
+      "."
+    ],
+    "4518:text": [
+      "What's your ideal girl like?”"
+    ],
+    "4520:text": [
+      "Before I knew it, Iwashita and I were the only two people left in the clubroom."
+    ],
+    "4521:text": [
+      "Even the distant chatter I'd heard a moment before was gone."
+    ],
+    "4522:text": [
+      "The only sound was my own breathing."
+    ],
+    "4525:text": [
+      "Iwashita slowly lifted her bowed head",
+      "and fixed her pitch-black eyes on me."
+    ],
+    "4526:text": [
+      "I could see myself reflected in that darkness, as deep and black as the TV screen had been."
+    ],
+    "4528:text": [
+      "She was sitting across from me at an angle, but I noticed that both her eyes looked exactly the same size."
+    ],
+    "4529:text": [
+      "The closer one should have looked bigger. Something about the perspective of her face was wrong..."
+    ],
+    "4531:text": [
+      "Her mouth was as tiny as a doll's, and the bridge of her nose was ruler-straight, without a single bump or dip."
+    ],
+    "4532:text": [
+      "Her hand reached slowly toward me."
+    ],
+    "4533:text": [
+      "Each finger had a beautiful nail, all exactly the same size and shape."
+    ],
+    "4535:text": [
+      "She stroked my cheek and murmured in a dreamy voice."
+    ],
+    "4538:text": [
+      "Akemi Iwashita"
+    ],
+    "4539:text": [
+      "“",
+      ", have I become your ideal girl?”"
+    ]
+  }
+}

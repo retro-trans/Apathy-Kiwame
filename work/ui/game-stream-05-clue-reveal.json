@@ -1,0 +1,223 @@
+{
+  "asset": "data/video/実況5.webm",
+  "script_line": 1078,
+  "canvas": {
+    "width": 960,
+    "height": 690
+  },
+  "video_frame_rate": 25,
+  "time_origin_ms": 3,
+  "source_duration_ms": 10009,
+  "description": "The red display types in six rows. The active glyph flickers through provisional digits or symbols as the final values appear. The timestamps record the first visible glyph and the first settled frame in each field. Settled rows stay on screen through the final source frame at 9963 ms.",
+  "rows": [
+    {
+      "row": 1,
+      "top_px": 132,
+      "coordinates": "34.928488,135.46733",
+      "original_label": "クビキリ",
+      "label": "BEHEADING",
+      "coordinate_first_visible_ms": 443,
+      "coordinate_stable_ms": 1723,
+      "label_first_visible_ms": 1723,
+      "label_stable_ms": 2003,
+      "complete_rows_visible": [
+        1
+      ],
+      "transient_coordinate_examples": [
+        {
+          "timestamp_ms": 443,
+          "on_screen": "1"
+        },
+        {
+          "timestamp_ms": 1563,
+          "on_screen": "34.928488,135.468"
+        },
+        {
+          "timestamp_ms": 1683,
+          "on_screen": "34.928488,135.46739"
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "top_px": 191,
+      "coordinates": "35.320277,139.55929",
+      "original_label": "ハラサキ",
+      "label": "GUTTING",
+      "coordinate_first_visible_ms": 2003,
+      "coordinate_stable_ms": 3283,
+      "label_first_visible_ms": 3323,
+      "label_stable_ms": 3563,
+      "complete_rows_visible": [
+        1,
+        2
+      ],
+      "transient_coordinate_examples": [
+        {
+          "timestamp_ms": 2043,
+          "on_screen": "4"
+        },
+        {
+          "timestamp_ms": 3203,
+          "on_screen": "35.320277,139.5594"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "top_px": 250,
+      "coordinates": "33.688908,130.56036",
+      "original_label": "ヒダルマ",
+      "label": "ABLAZE",
+      "coordinate_first_visible_ms": 3603,
+      "coordinate_stable_ms": 4883,
+      "label_first_visible_ms": 4883,
+      "label_stable_ms": 5163,
+      "complete_rows_visible": [
+        1,
+        2,
+        3
+      ],
+      "transient_coordinate_examples": [
+        {
+          "timestamp_ms": 3603,
+          "on_screen": "8"
+        },
+        {
+          "timestamp_ms": 4843,
+          "on_screen": "33.688908,130.56039"
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "top_px": 309,
+      "coordinates": "39.653595,141.00375",
+      "original_label": "コッパミジン",
+      "label": "SHATTERED",
+      "coordinate_first_visible_ms": 5163,
+      "coordinate_stable_ms": 6443,
+      "label_first_visible_ms": 6443,
+      "label_stable_ms": 6843,
+      "complete_rows_visible": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "transient_coordinate_examples": [
+        {
+          "timestamp_ms": 6323,
+          "on_screen": "39.653595,141.0038"
+        },
+        {
+          "timestamp_ms": 6403,
+          "on_screen": "39.653595,141.00373"
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "top_px": 368,
+      "coordinates": "43.803198,143.57108",
+      "original_label": "ダルマ",
+      "label": "DARUMA",
+      "coordinate_first_visible_ms": 6883,
+      "coordinate_stable_ms": 8163,
+      "label_first_visible_ms": 8163,
+      "label_stable_ms": 8363,
+      "complete_rows_visible": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "transient_coordinate_examples": [
+        {
+          "timestamp_ms": 6883,
+          "on_screen": "1"
+        },
+        {
+          "timestamp_ms": 8003,
+          "on_screen": "43.803198,143.572"
+        },
+        {
+          "timestamp_ms": 8123,
+          "on_screen": "43.803198,143.57103"
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "top_px": 427,
+      "coordinates": "35.700701,139.57449",
+      "original_label": "ヤツザキ",
+      "label": "DISMEMBERED",
+      "coordinate_first_visible_ms": 8403,
+      "coordinate_stable_ms": 9683,
+      "label_first_visible_ms": 9683,
+      "label_stable_ms": 9923,
+      "complete_rows_visible": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "transient_coordinate_examples": [
+        {
+          "timestamp_ms": 8403,
+          "on_screen": "7"
+        },
+        {
+          "timestamp_ms": 9523,
+          "on_screen": "35.700701,139.5740"
+        },
+        {
+          "timestamp_ms": 9643,
+          "on_screen": "35.700701,139.57441"
+        }
+      ]
+    }
+  ],
+  "continuity": [
+    {
+      "asset": "data/video/実況6.webm",
+      "first_visible_ms": 3,
+      "rows": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "asset": "data/video/実況7.webm",
+      "first_visible_ms": 3,
+      "rows": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "asset": "data/video/実況8.webm",
+      "first_visible_ms": 3,
+      "rows": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    }
+  ]
+}
