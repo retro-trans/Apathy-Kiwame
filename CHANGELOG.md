@@ -2,6 +2,12 @@
 
 ## 0.8.1 · 2026-11-12 · Retro Trans Tools integration
 
+- Published after Tools 0.5.23. All six public assets match their checked hashes;
+  catalog workflow 43181567788 succeeded. Actual public full and upgrade downloads
+  produce the same verified executable, and already-current recognition passes.
+  [Publication verification](docs/release-v0.8.1-verification.json) records the
+  immutable asset hashes and route results. Main Steam remains untouched at 0.8.0.
+
 - Prepared a schema-3 combined-source full patch and an ordinary incremental
   upgrade from the public 0.8.0 executable for Retro Trans Tools 0.5.23. Both
   produce the same verified embedded target; the only game-content change is

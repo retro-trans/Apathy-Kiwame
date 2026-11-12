@@ -1,0 +1,68 @@
+{
+  "version": "0.8.1",
+  "name": "Apathy - Gakkou de Atta Kowai Hanashi - Kiwame",
+  "published": true,
+  "release": "https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.1",
+  "release_tag": "v0.8.1",
+  "release_tag_commit": "a309a57",
+  "manifest_source_commit": "e90243092afa31a006f0c08f5c6b80454060d263",
+  "public_downloads": {
+    "Apathy-Kiwame-Steam-0.8.0-to-0.8.1.xdelta": {
+      "bytes": 246802,
+      "sha256": "24918ac699f0bc18723628a5aa8fa12b7d3aa9dc61458969bfe48489d1614879"
+    },
+    "Apathy-Kiwame-Steam-original-to-0.8.1.xdelta": {
+      "bytes": 162330751,
+      "sha256": "fd4421683b2559673877d0094a9443a4cde05c52a146528f26b09d98e015d6b9"
+    },
+    "Apathy-Kiwame-v0.8.1-Notices.zip": {
+      "bytes": 9279,
+      "sha256": "05d9ef5059a0323a045901080987856c6e655b83cbdb85a985db75a8aa9e8eab"
+    },
+    "BUILD-MANIFEST.json": {
+      "bytes": 2046,
+      "sha256": "f3f4eeec7ca8364550c5e17f7193aa296df0840ddd95cde73e81e6cac6e4d80d"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 486,
+      "sha256": "a961a671e9671e3fcc78229d723146e31e873a11b9002d6bf579cf689d5a418f"
+    },
+    "VALIDATION.json": {
+      "bytes": 531,
+      "sha256": "099c98f6ab9036e2c27819dc7b6943044bee452ca410b214b3459ca355cbad15"
+    }
+  },
+  "required_app": "0.5.23",
+  "app_release": "https://github.com/retro-trans/retro-trans-tools/releases/tag/v0.5.23",
+  "catalog_workflow": 43181567788,
+  "catalog_result": "success",
+  "public_automatic": {
+    "public_catalog_and_actual_downloads": true,
+    "both_routes_verified": true,
+    "already_current_recognized": true,
+    "original_files_unchanged": true,
+    "steam_saves_unchanged": true,
+    "routes": [
+      {
+        "source_version": "original",
+        "target_version": "0.8.1",
+        "patch": "Apathy-Kiwame-Steam-original-to-0.8.1.xdelta",
+        "download_bytes": 162330751,
+        "downloaded_sha256": "fd4421683b2559673877d0094a9443a4cde05c52a146528f26b09d98e015d6b9",
+        "output_sha256": "55f523091dc62de6d73cdc1fb9d2dcb3b675a4ab47acf4a6688d08dcab693f95"
+      },
+      {
+        "source_version": "0.8.0",
+        "target_version": "0.8.1",
+        "patch": "Apathy-Kiwame-Steam-0.8.0-to-0.8.1.xdelta",
+        "download_bytes": 246802,
+        "downloaded_sha256": "24918ac699f0bc18723628a5aa8fa12b7d3aa9dc61458969bfe48489d1614879",
+        "output_sha256": "55f523091dc62de6d73cdc1fb9d2dcb3b675a4ab47acf4a6688d08dcab693f95"
+      }
+    ]
+  },
+  "native_title_font_audio_verified": true,
+  "main_steam_version": "0.8.0",
+  "main_steam_untouched": true,
+  "previous_0_8_0_assets_unchanged": true
+}
