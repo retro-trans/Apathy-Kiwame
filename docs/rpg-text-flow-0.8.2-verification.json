@@ -1,0 +1,52 @@
+{
+  "version": "0.8.2",
+  "date": "2026-11-13",
+  "status": "native checks passed; staged; main Steam unchanged; not published",
+  "runtime_sha256": "68c3c4b66fa3f9fe8db3b51985330ba37a76c6f65ef1b11266178f97e1d78f25",
+  "ui_map_sha256": "47235d36cc02d96a577d6000a3bf65040c0cf5a0aac373154533d4884a1aa0af",
+  "cause": "The old flow audit handled r but not the RPG lr macro. Its internal r forced a newline after the preserved l pause. A separate continuation after a flash effect had no space between its two text fields.",
+  "changes": [
+    "Add reviewed source-keyed separators to lr calls without changing any script command or click pause.",
+    "Insert the missing space at rpg/batoru.ks line 1343 while retaining the flash effect.",
+    "Repair old rendered text and recover the separator for slots saved within an unannotated lr pause.",
+    "Redact the adapted Life source range from generated audit review rows."
+  ],
+  "scope_audit": {
+    "rpg_lr_commands": 1158,
+    "soft_continuations": 292,
+    "comma_continuations": 212,
+    "sentence_end_breaks_retained": 829,
+    "command_or_layout_breaks_retained": 25,
+    "speaker_name_breaks_retained": 7,
+    "substitution_breaks_retained": 1,
+    "quotation_breaks_retained": 2,
+    "outside_reviewed_text_retained": 1,
+    "ritual_layout_retained": 1,
+    "new_missing_space_candidates": 1,
+    "existing_r_maps_unchanged": true
+  },
+  "review": "Formatting-only accuracy and editorial checks preserve all wording and intentional boundaries. Reviewed capitalized continuations and retained the two-line ritual. Final proofreading checks the three submitted examples and native rendered wrapping.",
+  "baseline_evidence": "work/ui/rpg-flow-baseline-20261113-verification.json",
+  "final_evidence": "work/ui/rpg-flow-final-20261113-verification.json",
+  "native_checks": {
+    "but_my_spacing_correct": true,
+    "school_days_comma_has_no_forced_break": true,
+    "right_now_comma_has_no_forced_break": true,
+    "original_click_pauses_retained": true,
+    "sentence_break_after_believe_me_retained": true,
+    "legacy_merged_word_repaired": true,
+    "legacy_rendered_comma_break_repaired": true,
+    "legacy_lr_pause_without_metadata_or_cache_repaired": true,
+    "parser_files_checked": 7,
+    "parser_orders_checked": 14646,
+    "order_positions_and_labels_unchanged": true,
+    "alerts_or_javascript_errors": 0
+  },
+  "screenshots": [
+    "work/ui/rpg-flow-final-20261113-days.png",
+    "work/ui/rpg-flow-final-20261113-curse.png",
+    "work/ui/rpg-flow-final-20261113-eyelids.png"
+  ],
+  "preservation": {"main_steam_matches_staging_preconditions": true, "user_save_files_written": false, "source_scenario_files_changed": false, "all_staged_checksums_match": true, "release_created": false},
+  "harness_note": "Initial isolated fixture captures inherited title layout and automatic character positioning. Final captures use the native RPG layout transition, HUD and the original pos_mode=false setting; earlier evidence remains private and is superseded for visual fit."
+}

@@ -1,0 +1,15 @@
+{
+  "version": "0.8.2",
+  "source": "video/自己啓発.webm",
+  "source_sha256": "4e7fb2ddda8bc1ee48756150e4a9c6010f48a306b721e5989f07869ba13a9990",
+  "map_key": "自己啓発.webm",
+  "target": "kiwame-en/self-help.webm",
+  "rendered": "work/output/self-help-scroll-0.8.2-preview/self-help-english.webm",
+  "rendered_sha256": "72ff94a51dc72aee6ebe9565217da3d7f20d27284d8e717ff9ea25239a494397",
+  "verification": "docs/self-help-scroll-0.8.2-preview-verification.json",
+  "duration": 125.963,
+  "frames": 3149,
+  "fps": 25,
+  "font": "Segoe Print, rendered into video only; font file is not distributed",
+  "scope": "All 428 reviewed letter words scroll in English. Original audio packets and video timestamps are unchanged; only covered lettering pixels are spatially restored. Original final book photograph retains its English title caption."
+}

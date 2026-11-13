@@ -17,6 +17,11 @@
 .env.*
 /work/ui/*
 !/work/ui/common-lettering.json
+!/work/ui/ending-list-header.json
+!/work/ui/credits-roll.json
+!/work/ui/self-help-movie.json
+!/work/ui/rpg-game-over.json
+!/work/ui/rpg-notebook-cover.json
 !/work/ui/dynamic-text.json
 !/work/ui/english-field-coverage.json
 !/work/ui/fukuzawa-layout.json
@@ -49,6 +54,8 @@
 !/work/translation/en/media/
 /work/translation/en/media/*
 !/work/translation/en/media/*.vtt
+!/work/translation/en/media/rpg-game-over.gif
+!/work/translation/en/media/rpg-field-notes-cover.png
 /work/translation/en/audio/*
 !/work/translation/en/audio/*.en.json
 /work/translation/en/adaptations/*

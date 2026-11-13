@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "source": "bgimage/ed.jpg",
+  "source_sha256": "481b697a76e712339ffaffa4c96af239d5f4f70d125c1a6a8b8f7c016a16dce4",
+  "dimensions": [960, 690],
+  "source_label": "エンディングリスト",
+  "text": "Ending List",
+  "cover_box": [30, 125, 190, 36],
+  "x": 38,
+  "baseline": 151,
+  "font_size": 21,
+  "target": "kiwame-en/ending-list-base.svg",
+  "review": {
+    "accuracy": "Ending-list menu heading; same established wording as title menu and hover artwork.",
+    "editorial": "Ending List",
+    "proofreading": "Latin spelling and title case match the existing English UI."
+  }
+}

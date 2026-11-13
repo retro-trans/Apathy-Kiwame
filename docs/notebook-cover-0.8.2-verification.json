@@ -1,0 +1,19 @@
+{
+  "version": "0.8.2",
+  "date": "2026-11-13",
+  "status": "image-generation edit; native preview checked; staged; Steam unchanged",
+  "generation_method": "built-in image_gen edit with original note_top.png as the sole referenced image",
+  "prompt_and_specification": "work/ui/rpg-notebook-cover.json",
+  "original_sha256": "64e86512380d8305ec1d6f6f7747d9836300e2298e52a287373f4b8c2676546f",
+  "image": "work/translation/en/media/rpg-field-notes-cover.png",
+  "image_sha256": "33e2eafc1d3b0301a791717e3c0e169e6cd32ebc681d54bb4fd6c8ca739f6f0e",
+  "image_dimensions": [1479, 1063],
+  "in_game_canvas": [960, 690],
+  "wrapper": "data/fgimage/kiwame-en/old-school-building-field-notes.svg",
+  "wrapper_sha256": "a8ec5e6bd723ef34b3694afd56dfc48f2863be23da9b1d99a2450a16fdf2f44f",
+  "builder": "tools/notebook_cover.py",
+  "native_preview": "work/ui/rpg-notebook-imagegen-0.8.2-native.png",
+  "native_checks": {"decoded": true, "dimensions": [960, 690], "english_labels_visually_reviewed": true, "paper_crest_and_perspective_visually_reviewed": true, "png_bytes_embedded_unchanged": true},
+  "note": "This is a generative localization edit and is not pixel-identical to the original artwork. The placement wrapper only sizes the result; it contains no vector redraw or artificial rotation.",
+  "preservation": {"original_note_top_png_untouched": true, "main_steam_unchanged_against_staging_preconditions": true, "user_save_files_written": false, "all_staged_checksums_match": true, "published": false}
+}

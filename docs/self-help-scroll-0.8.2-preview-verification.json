@@ -1,0 +1,197 @@
+{
+  "version": "0.8.2-preview",
+  "sourceSha256": "4e7fb2ddda8bc1ee48756150e4a9c6010f48a306b721e5989f07869ba13a9990",
+  "webmSha256": "72ff94a51dc72aee6ebe9565217da3d7f20d27284d8e717ff9ea25239a494397",
+  "mp4Sha256": "b7999313512404b0c41c7beb161d0a84821ab7bff77926d63e64659470575e98",
+  "size": [
+    960,
+    690
+  ],
+  "fps": 25,
+  "frames": 3149,
+  "duration": 125.963,
+  "videoPacketTimingIdentical": true,
+  "audioPacketsIdentical": true,
+  "audioPacketCount": 7833,
+  "backgroundSamples": [
+    {
+      "time": 5,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    },
+    {
+      "time": 20,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    },
+    {
+      "time": 28,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    },
+    {
+      "time": 44,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    },
+    {
+      "time": 68,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    },
+    {
+      "time": 84,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    },
+    {
+      "time": 100,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    },
+    {
+      "time": 104,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    },
+    {
+      "time": 115,
+      "changedPixelsOutsideMaskBeforeEncoding": 0
+    }
+  ],
+  "native": {
+    "version": "0.8.2-preview",
+    "initial": {
+      "ready": 4,
+      "width": 960,
+      "height": 690,
+      "time": 0,
+      "duration": 125.963,
+      "seeking": false,
+      "error": null,
+      "muted": true
+    },
+    "seeks": [
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 5,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      },
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 20,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      },
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 44,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      },
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 68,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      },
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 84,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      },
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 100,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      },
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 106,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      },
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 115,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      },
+      {
+        "ready": 4,
+        "width": 960,
+        "height": 690,
+        "time": 125,
+        "duration": 125.963,
+        "seeking": false,
+        "error": null,
+        "muted": true
+      }
+    ],
+    "played": {
+      "ready": 4,
+      "width": 960,
+      "height": 690,
+      "time": 44.985143,
+      "duration": 125.963,
+      "seeking": false,
+      "error": null,
+      "muted": true
+    },
+    "mainSteamChanged": false,
+    "userSavesWritten": false
+  },
+  "text": {
+    "reviewedVttReused": true,
+    "substantiveTranslationChanges": false,
+    "words": 428,
+    "renderedLines": 45,
+    "normalizedTextMatches": true,
+    "paragraphs": 24
+  },
+  "visualReview": [
+    "paper",
+    "clubroom",
+    "classroom",
+    "dog",
+    "street",
+    "sky",
+    "book",
+    "crossfades at 28 and 100 seconds"
+  ],
+  "limitations": "Covered background pixels are spatially restored; small marks may remain. Final book photograph remains original with an English title caption. Video is re-encoded.",
+  "mainSteamChanged": false,
+  "mainFileHashes": {
+    "english.js": "443fef1a111955643cb0d6de139f5bcf6e0910fbb5c81dc922b06507a8d40e1f",
+    "english-ui.js": "cf3a6d0c24aef117498c22b7979ecc3e3ad710f6b13c2a774d1db8048b4c37f3"
+  },
+  "userSavesWritten": false,
+  "published": false
+}

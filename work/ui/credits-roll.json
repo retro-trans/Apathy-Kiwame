@@ -1,0 +1,28 @@
+{
+  "version": "0.8.2",
+  "source": "fgimage/edlist/staff.png",
+  "source_sha256": "96178137b3082731d7a5d7b20239cd198a1b6b65afb0afe6623f7c198b5bb60c",
+  "source_dimensions": [
+    690,
+    4000
+  ],
+  "map_key": "edlist/staff.png",
+  "target": "kiwame-en/common-staff.svg",
+  "font": "tools/fonts/genei-latin/GenEiLateGoP_v2.ttf",
+  "x": 235,
+  "maximum_width": 440,
+  "role_font_size": 20,
+  "name_font_size": 27,
+  "minimum_font_size": 20,
+  "source_row_inventory": "work/ui/common-lettering.json:common-staff",
+  "rows": 44,
+  "native_display_size": [
+    690,
+    3500
+  ],
+  "native_scroll_pixels": 3000,
+  "native_animation_ms": 80000,
+  "native_wait_ms": 60000,
+  "scope": "All original credits only; background, audio and scenario remain unchanged.",
+  "provisional_readings_approved": "User explicitly chose provisional Latin spellings with uncertainty recorded in review notes, 2026-11-14."
+}

@@ -1,75 +1,55 @@
-# Retro Trans Tools integration — 0.8.1
+# Retro Trans Tools integration — 0.8.2
 
-Game: **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame**.
+Use [Retro Trans Tools 0.5.23 or later](https://github.com/retro-trans/retro-trans-tools/releases/latest)
+for **Apathy - Gakkou de Atta Kowai Hanashi - Kiwame**.
 
-The Automatic route requires **Retro Trans Tools 0.5.23 or later**. Earlier apps cannot
-read its schema-3 combined-source manifest. The existing 0.8.0 release remains
-unchanged. Download the [compatible Windows app](https://github.com/retro-trans/retro-trans-tools/releases/latest)
-before refreshing the catalog.
+1. Close the game. In Automatic, choose Folder for the original Japanese Steam
+   build 10331351 containing both kiwame.exe and kiwame.tpatch, or Browse to a
+   public English 0.8.0/0.8.1 executable for a smaller direct upgrade.
+2. Choose Latest and a new output filename, then Patch. Every input, download
+   and complete output is verified. Already-current executables are recognized.
+3. Keep your original backup. Copy the verified output into the closed Steam
+   game as kiwame.exe. Leave current saves, DLLs and official kiwame.tpatch in
+   place, then launch normally through Steam.
 
-An optional [standalone ZIP](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.1/Apathy-Kiwame-English-v0.8.1-Standalone.zip)
-also installs the same English executable without Retro Trans Tools. Extract
-the complete ZIP and run Apply.cmd against the original Japanese game. See the
-[standalone instructions](README-standalone-v0.8.1.txt), including how to restore
-original files before upgrading an older standalone English installation.
+The original files are combined temporarily by the app; no manual combining is
+needed. Inputs and existing outputs are never overwritten. Allow 4 GB free space.
 
-## Player workflow
+The optional [standalone ZIP](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.2/Apathy-Kiwame-English-v0.8.2-Standalone.zip)
+needs no Retro Trans Tools, Python or separate xdelta app. Extract the whole ZIP
+and run Apply.cmd against the supported original Japanese files. For an older
+standalone installation, first run Undo.cmd from its old ZIP, then Apply.cmd
+from this one. Both preserve current progress. Read the
+[standalone instructions](README-standalone-v0.8.2.txt).
 
-1. Close the game and start Retro Trans Tools 0.5.23 or later.
-2. In Automatic, use Folder to choose the original Steam game folder, or Browse
-   to `kiwame.exe` or `kiwame.tpatch`. Both originals from Steam build 10331351
-   must be together under those names. Their exact contents are verified.
-3. To upgrade a public 0.8.0 English installation, Browse to its patched
-   `kiwame.exe` instead. The app recognizes it and selects the smaller upgrade.
-4. Choose Latest and a new output filename, then Patch. The app downloads and
-   verifies the compatible delta and writes the verified English executable.
-5. Keep a backup of the current `kiwame.exe`. Copy the verified output into
-   the game folder as `kiwame.exe`. Leave the DLLs, official `kiwame.tpatch`
-   and all save files in place, then launch through Steam normally.
+An external development package.nw layout is different from the public embedded
+executable. Preserve saves and restore the original layout before patching.
+Do not mix an external package with a public English executable.
 
-Automatic never overwrites original files, existing outputs or saves. The
-original Japanese `kiwame.exe` plus `kiwame.tpatch` are combined only in a
-temporary file; users do not need to combine them themselves. That temporary
-file is removed on completion, cancellation or failure. Allow 4 GB free space
-for the ordinary original-to-English workflow and backups.
+## Undo and future updates
 
-The earlier `Apply.cmd` / `Undo.cmd` manage their own exact installed version.
-They will not upgrade or undo a manually replaced newer executable. Preserve
-the original backup; undo a Tools installation by restoring that executable
-while leaving current save files in place.
-
-An external development `package.nw` installation is not the public embedded
-0.8.0 executable and is not a supported incremental input. Preserve saves and
-restore the original game layout before using the original-file route. Do not
-mix external `package.nw` content with the new embedded executable.
-
-Future translation releases can publish ordinary executable-to-executable
-upgrade deltas. Latest follows verified available routes; an already-current
-executable is recognized without patching again. An official Steam update that
-changes required source files still needs a newly supported translation build.
+Each standalone Undo.cmd manages its exact installed version. For a Tools
+installation, restore the original executable from your verified backup while
+the game is closed. Keep current saves; do not restore an older save backup as
+part of an upgrade. Steam verification or official updates can replace the
+translation. Reapply only to supported original hashes; changed official files
+require a compatible translation build. Earlier releases remain unchanged.
 
 ## Maintainer workflow
 
-Register `apathy-kiwame` / PC / `steam-app-id` / `2283710` in the shared library.
-Use the reviewed combined-source Tools checkout and preview the build first:
+Run tools/release_update.py with content, assets and standalone, first without
+--apply to inspect each plan. Content starts from the exact issued 0.8.1
+executable, replaces reviewed staged assets and includes the verified English
+letter movie. Unchanged compressed records remain byte-identical; every package
+file is compared, and QA runtime/profile/save exclusions are checked.
 
-```powershell
-python tools/retro_trans_release.py --tools path/to/retro-trans-tools
-python tools/retro_trans_release.py --tools path/to/retro-trans-tools --apply
-```
+The registered shared release library builds and fully decodes the original
+combined-source delta and both direct upgrades. All routes produce the same
+verified executable. The standalone uses the same full delta and established
+Windows PowerShell installer. Complete game executables, originals, local
+configuration, QA profiles and saves remain local.
 
-The tool checks original and issued 0.8.0 hashes, creates a 0.8.1 embedded target
-with only `english-ui.js`'s title version changed, preserves unchanged compressed
-records and verifies all 2,009 package files. It builds full and incremental
-deltas, decodes both, and checks the entire target, registration and metadata.
-Only the two deltas, `BUILD-MANIFEST.json`, `VALIDATION.json`, `SHA256SUMS.txt`
-and player documentation may be uploaded. Complete game executables, combined
-sources, private configuration, original files, profiles and saves stay local.
-
-The local build is under `work/debug/retro-trans-release-0.8.1`; private absolute
-paths are excluded from its public manifest. Its verified target SHA-256 is
-`55f523091dc62de6d73cdc1fb9d2dcb3b675a4ab47acf4a6688d08dcab693f95`.
-Full patch: 162,330,751 bytes. Upgrade from public 0.8.0: 246,802 bytes.
-
-Future releases still require the user's explicit approval. Do not alter the
-issued 0.8.0 ZIP, checksums or original release tag.
+After explicit user publication approval, upload the three deltas, standard
+manifest/validation/checksums, notices ZIP, and optional standalone ZIP with its
+separate checksum. Refresh and verify the shared catalog after publication.
+Never replace issued assets or tags on older releases.

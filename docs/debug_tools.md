@@ -10,7 +10,57 @@ Since 0.1.19, only the QA launcher sets `KIWAME_QA_AUDIO_MUTE=1`, temporarily fo
 
 `tools/qa-session.mjs` provides the shared debugger connection and screenshot heartbeat for native regression checks. A debugger target already attached by another client may omit its socket address; finish that client before opening another connection.
 
+`node tools/check-choice-input.mjs baseline|fixed <new-output.json>` tests the RPG
+choice-input race in an isolated, muted debug copy. It uses real bubbling DOM
+mouse/touch events so document capture guards run; jQuery `.trigger()` bypasses
+that capture phase. Baseline reproduces the microscope alert from an early click.
+Fixed mode checks early/repeated input, ready choices, an in-memory save/load,
+the decline branch, and all five timed battle menus. It resets only QA scene
+state and never writes a save slot. Use a fresh normal boot for each mode.
+
+`node tools/check-opening-layout.mjs baseline|fixed <new-report.json> [legacy-snapshot.json]`
+follows an actual RPG death ending back to the title, then enters the opening.
+Baseline captures the stale vertical paragraph despite a horizontal engine flag;
+fixed mode checks the first page, the first choice's normal branch and an optional
+baseline RAM snapshot loaded through the native menu loader. Snapshots stay in
+the QA folder and no game save slot is written. The last opening choice correctly
+enters maisou.ks, so the post-choice check accepts that branch as well as op.ks.
+
+`node tools/check-rpg-text-flow.mjs baseline|fixed <new-id>` exercises the three
+reported RPG passages using the original RPG layout transition and character
+position configuration. It verifies the space after But, both comma pauses,
+the retained sentence break, old rendered text and a slot paused inside lr with
+no new metadata or caller cache. Fixed mode compares parsed arrays across seven
+RPG files to prove that only separator metadata changes. The working flow audit
+redacts the adapted Life section; do not export its original source text.
+
+The RPG ending effect can be regenerated with the optional pinned packages in
+`tools/requirements-rpg-effect.txt`. `tools/rpg_effect_analysis.py --assets <QA-data>`
+is read-only by default; add `--output <new-model.json>` to write numerical motion
+and shading data. `node tools/render-rpg-effect.mjs <model.json> <new-directory>`
+uses the muted native QA browser to draw 78 English PNG frames. Encode them with
+FFmpeg at 20 fps, using palettegen/paletteuse for the GIF. The reviewed English
+GIF lives under work/translation/en/media; its checksum and frame timing are
+verified by tools/rpg_ending_card.py during normal builds. Original Japanese
+assets and the numerical working model stay outside git.
+
+`node tools/check-rpg-ending.mjs <new-id>` follows the actual death ending,
+captures two moments of the English GIF, checks native decoding and the original
+two-second hold, and waits for the normal title return. `preview-rpg-ending.mjs`
+copies the currently mapped GIF verbatim for a preview; its legacy SVG capture
+branch only reproduces the earlier approximation.
+
 Its `ensureInitialized` helper completes normal first/title startup before a RAM fixture is loaded. Save snapshots contain game state but do not contain global `SE`/`BGM` alias tables from `settei/teisu.ks`. Loading a snapshot too early can therefore leave direct-file sound cues usable while an alias-based route stops. The ED120 fixture exposed this setup mistake; its corrected run passes after normal startup. This is a QA initialization correction, not a game-script patch.
+
+`node tools/check-ending-header-hover.mjs <new-id>` temporarily removes the
+base-heading aliases in QA RAM to reproduce the old installation, restores them,
+then uses real pointer movements over every hover group and back out. It covers
+16 cases across 14 groups and all three pages, with 60/60/27 entries and backward
+navigation. The bundled debugger ignores screenshot clip; this tool crops only
+the active image's 190x36 heading region through native Canvas. It never records
+the full hover artwork. The Life hover is its own translated SVG, not a common-ed
+PNG. Wait for the newly mapped base after reloading ED.ks; old rows can remain
+visible briefly during the asynchronous transition.
 
 For the isolated Life candidate, `work/source/qa-inoti-routes.mjs` follows actual choices from the route start and records pause bounds and ending codes. ED116 uses a blanked page throughout traversal and metadata-only inspection around the retained-original scene; it must never capture that passage or its artwork. The generic `state` command includes displayed text, so do not use it to inspect that scene. `qa-inoti-menus.mjs` measures all102fresh/visited choice variants separately from story prompts. `qa-inoti-fixed-grid.mjs` covers grid choices and cross-attempt snapshots. `qa-inoti-runtime-guards.mjs` uses only synthetic punctuation at the retained-range boundaries. `qa-inoti-audio.mjs` observes actual sound clocks, native waits, caption bounds and natural ends; `--load-cleanup` checks an ordinary audio-restoring load. The optional debug mode `bgm_over:true` deliberately preserves playback and must not be mistaken for ordinary load behavior. The focused fixtures use disposable RAM snapshots and do not write player saves.
 

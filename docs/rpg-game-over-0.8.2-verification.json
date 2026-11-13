@@ -1,0 +1,51 @@
+{
+  "version": "0.8.2",
+  "date": "2026-11-12",
+  "status": "historical first approximation; superseded by measured-effect GIF; not published",
+  "superseded_by": "docs/rpg-game-over-effect-0.8.2-verification.json",
+  "text": "And then it was all over...",
+  "animated_preview": {
+    "date": "2026-11-13",
+    "capture_tool": "tools/preview-rpg-ending.mjs",
+    "gif": "work/ui/rpg-game-over-0.8.2-animated-preview.gif",
+    "mp4": "work/ui/rpg-game-over-0.8.2-animated-preview.mp4",
+    "gif_sha256": "4f58836df399ae3f5cf3d260a5a6399f8c3ce3003f1056da19e12bd15101c30f",
+    "frames": 78,
+    "duration_ms": 3900,
+    "distinct_rendered_frames": 44,
+    "gif_loops": true,
+    "staged_asset_unchanged": true
+  },
+  "specification": "work/ui/rpg-game-over.json",
+  "builder": "tools/rpg_ending_card.py",
+  "native_evidence": "work/ui/rpg-game-over-0.8.2-verification.json",
+  "screenshots": [
+    "work/ui/rpg-game-over-0.8.2-native3-a.png",
+    "work/ui/rpg-game-over-0.8.2-native3-b.png"
+  ],
+  "assets": {
+    "data/bgimage/kiwame-en/rpg-game-over.svg": "cd8544d8d422f12941852957294004ff45ecddf7d557dc1a48d4ca01539d31c8",
+    "data/bgimage/kiwame-en/rpg-game-over-still.svg": "018a89c875cf3af71c91de0f6d8525caf175ccc8752010627cb406d5eefb9eca"
+  },
+  "native_checks": {
+    "actual_death_ending_uses_english_background": true,
+    "original_2000ms_hold_preserved": true,
+    "returns_to_title_normally": true,
+    "alerts_or_javascript_errors": 0,
+    "animation_steps": 78,
+    "animation_cycle_ms": 3900,
+    "svg_motion_advances_in_bundled_renderer": true,
+    "native_background_pixels_changed_between_captures": 13121,
+    "latin_text_visually_reviewed": true
+  },
+  "animation_note": "Original GIF timing and measured overall motion are reproduced using animated font outlines and chromatic fringes. Fine raster glyph distortion is approximated. Both original assets remain intact.",
+  "preservation": {
+    "scenario_orders_and_ending_flow_unchanged": true,
+    "main_matches_staging_original_file_preconditions": true,
+    "user_save_files_written": false,
+    "all_staged_file_checksums_match": true,
+    "portrait_fix_included": false,
+    "release_created": false
+  },
+  "harness_notes": "The first run logged the pre-remapping background name. Later checks parse SVG as XML because the bundled HTML parser lowercases SVG animation element names. Final native3 captures exclude stale title controls left by entering an ending directly from the title in QA."
+}

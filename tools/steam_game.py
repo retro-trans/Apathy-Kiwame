@@ -13,7 +13,7 @@ from hashlib import sha256
 ROOT = Path(__file__).resolve().parents[1]
 BUILD = "10331351"
 APP_ID = "2283710"
-VERSION = "0.8.0"
+VERSION = "0.8.2"
 INSTALL_MARKER = "kiwame-english-install.json"
 
 

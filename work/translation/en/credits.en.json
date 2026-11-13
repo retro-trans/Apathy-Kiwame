@@ -1,0 +1,337 @@
+{
+  "version": "0.8.2",
+  "rows": [
+    {
+      "row": 1,
+      "kind": "role",
+      "text": "Scenario",
+      "status": "reviewed"
+    },
+    {
+      "row": 2,
+      "kind": "name",
+      "text": "Takiya Iijima",
+      "status": "reviewed",
+      "sources": [
+        "https://takiya.info/kiwame/"
+      ]
+    },
+    {
+      "row": 3,
+      "kind": "name",
+      "text": "Nozomu Umihara (Aki Inoue)",
+      "status": "reviewed",
+      "sources": [
+        "https://kakuyomu.jp/works/822139842378830645",
+        "https://plaza.rakuten.co.jp/iijimatakiya/diary/202001180000/",
+        "https://vndb.org/s5850"
+      ]
+    },
+    {
+      "row": 4,
+      "kind": "name",
+      "text": "Yu Sennichite",
+      "status": "provisional",
+      "note": "Pronunciation of the personal name is unverified; conventional readings Yu / Sennichite."
+    },
+    {
+      "row": 5,
+      "kind": "name",
+      "text": "Misaki Kutan",
+      "status": "provisional",
+      "note": "Pen-name reading and segmentation are unverified; provisional Misaki / Kutan."
+    },
+    {
+      "row": 6,
+      "kind": "role",
+      "text": "Graphics",
+      "status": "reviewed"
+    },
+    {
+      "row": 7,
+      "kind": "name",
+      "text": "Datto Azami",
+      "status": "reviewed",
+      "sources": [
+        "https://game-creators.camp/@datto"
+      ]
+    },
+    {
+      "row": 8,
+      "kind": "name",
+      "text": "Kenko Nikurui",
+      "status": "provisional",
+      "note": "Conventional reading Kenko / Nikurui; creator-preferred Latin spelling unconfirmed.",
+      "sources": [
+        "https://tsunagu.cloud/users/kenkou29"
+      ]
+    },
+    {
+      "row": 9,
+      "kind": "name",
+      "text": "Reisa Misaki",
+      "status": "provisional",
+      "note": "Pen-name reading and segmentation are unverified; provisional Reisa / Misaki.",
+      "sources": [
+        "https://peing.net/ja/kaibun_misaki"
+      ]
+    },
+    {
+      "row": 10,
+      "kind": "role",
+      "text": "Scripting",
+      "status": "reviewed"
+    },
+    {
+      "row": 11,
+      "kind": "name",
+      "text": "Minagi",
+      "status": "provisional",
+      "note": "Minagi is a plausible reading, not verified for this creator."
+    },
+    {
+      "row": 12,
+      "kind": "name",
+      "text": "Yu Sennichite",
+      "status": "provisional",
+      "note": "Same credited person as row 4; same provisional reading."
+    },
+    {
+      "row": 13,
+      "kind": "role",
+      "text": "Sound",
+      "status": "reviewed"
+    },
+    {
+      "row": 14,
+      "kind": "name",
+      "text": "DOVA-SYNDROME",
+      "status": "reviewed"
+    },
+    {
+      "row": 15,
+      "kind": "name",
+      "text": "Free Music Archive",
+      "status": "reviewed"
+    },
+    {
+      "row": 16,
+      "kind": "name",
+      "text": "Chris Zabriskie",
+      "status": "reviewed",
+      "note": "Spaces replace visual underscores; the credited identity is unchanged."
+    },
+    {
+      "row": 17,
+      "kind": "name",
+      "text": "Jahzzar",
+      "status": "reviewed"
+    },
+    {
+      "row": 18,
+      "kind": "name",
+      "text": "Kevin MacLeod",
+      "status": "reviewed",
+      "note": "Spaces replace visual underscores; the credited identity is unchanged."
+    },
+    {
+      "row": 19,
+      "kind": "name",
+      "text": "myuu",
+      "status": "reviewed"
+    },
+    {
+      "row": 20,
+      "kind": "name",
+      "text": "OtoLogic",
+      "status": "reviewed"
+    },
+    {
+      "row": 21,
+      "kind": "name",
+      "text": "Presence of Music",
+      "status": "reviewed"
+    },
+    {
+      "row": 22,
+      "kind": "name",
+      "text": "Wingless Seraph",
+      "status": "reviewed"
+    },
+    {
+      "row": 23,
+      "kind": "name",
+      "text": "Pocket Sound",
+      "status": "reviewed",
+      "sources": [
+        "https://pocket-se.info/"
+      ]
+    },
+    {
+      "row": 24,
+      "kind": "name",
+      "text": "Ontama (Music Egg)",
+      "status": "reviewed",
+      "sources": [
+        "https://ontama-m.com/"
+      ],
+      "note": "Official site explicitly gives its reading as Ontama; Music Egg is the English gloss."
+    },
+    {
+      "row": 25,
+      "kind": "name",
+      "text": "Amacha Music Studio",
+      "status": "reviewed",
+      "sources": [
+        "https://amachamusic.chagasi.com/"
+      ]
+    },
+    {
+      "row": 26,
+      "kind": "name",
+      "text": "Togoku Teien",
+      "status": "provisional",
+      "note": "Original bitmap reads Togoku Teien; do not silently replace it with the differently spelled Rengoku Teien."
+    },
+    {
+      "row": 27,
+      "kind": "name",
+      "text": "Maou Damashii",
+      "status": "reviewed",
+      "sources": [
+        "https://maou.audio/"
+      ]
+    },
+    {
+      "row": 28,
+      "kind": "name",
+      "text": "Kurage Kosho",
+      "status": "reviewed",
+      "sources": [
+        "https://www.kurage-kosho.info/"
+      ]
+    },
+    {
+      "row": 29,
+      "kind": "name",
+      "text": "Vita-chi Sozaikan",
+      "status": "reviewed",
+      "sources": [
+        "https://vita-chi.booth.pm/"
+      ]
+    },
+    {
+      "row": 30,
+      "kind": "name",
+      "text": "Sound Effect Lab",
+      "status": "reviewed",
+      "sources": [
+        "https://soundeffect-lab.info/"
+      ]
+    },
+    {
+      "row": 31,
+      "kind": "name",
+      "text": "Sound Effect Dictionary",
+      "status": "reviewed",
+      "sources": [
+        "https://sounddictionary.info/"
+      ]
+    },
+    {
+      "row": 32,
+      "kind": "name",
+      "text": "TK's Free Sound FX",
+      "status": "reviewed",
+      "sources": [
+        "https://taira-komori.net/freesounden.html"
+      ]
+    },
+    {
+      "row": 33,
+      "kind": "name",
+      "text": "Ryumon",
+      "status": "reviewed",
+      "sources": [
+        "http://ryumon623.blog96.fc2.com/",
+        "https://www.gris2.com/~corpse_pc/staff_b.html"
+      ],
+      "note": "Bitmap reads Ryumon, not the older inventory transcription Onmon."
+    },
+    {
+      "row": 34,
+      "kind": "name",
+      "text": "Jannoon028 - Freepik.com",
+      "status": "reviewed"
+    },
+    {
+      "row": 35,
+      "kind": "name",
+      "text": "Kabocha",
+      "status": "reviewed"
+    },
+    {
+      "row": 36,
+      "kind": "role",
+      "text": "Backgrounds",
+      "status": "reviewed"
+    },
+    {
+      "row": 37,
+      "kind": "name",
+      "text": "Pixabay",
+      "status": "reviewed"
+    },
+    {
+      "row": 38,
+      "kind": "name",
+      "text": "PhotoAC",
+      "status": "reviewed"
+    },
+    {
+      "row": 39,
+      "kind": "name",
+      "text": "PAKUTASO",
+      "status": "reviewed",
+      "sources": [
+        "https://www.pakutaso.com/"
+      ]
+    },
+    {
+      "row": 40,
+      "kind": "name",
+      "text": "Sothei",
+      "status": "reviewed"
+    },
+    {
+      "row": 41,
+      "kind": "role",
+      "text": "Development Tool",
+      "status": "reviewed"
+    },
+    {
+      "row": 42,
+      "kind": "name",
+      "text": "TyranoScript",
+      "status": "reviewed",
+      "sources": [
+        "https://tyrano.jp/"
+      ]
+    },
+    {
+      "row": 43,
+      "kind": "role",
+      "text": "Production",
+      "status": "reviewed"
+    },
+    {
+      "row": 44,
+      "kind": "name",
+      "text": "Nanakorobi Hachikorogari",
+      "status": "reviewed",
+      "sources": [
+        "https://takiya.info/kiwame/"
+      ]
+    }
+  ]
+}

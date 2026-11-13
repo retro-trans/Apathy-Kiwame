@@ -1,0 +1,2243 @@
+{
+  "version": "0.8.2",
+  "status": "staged",
+  "rows": 44,
+  "roles": 7,
+  "nameRows": 37,
+  "distinctProvisionalSpellings": 6,
+  "userApprovedProvisionalReadings": true,
+  "scenarioByteIdentical": true,
+  "backgroundAndAudioAssetsModified": false,
+  "mainSteamChanged": false,
+  "userSavesWritten": false,
+  "uiMappingOnlyChange": "images.edlist/staff.png",
+  "stageUiSha256": "53f3f677c204c666e2091d88327a0e6d18355c39e41e66f3d97b24e01ce1db27",
+  "native": {
+    "version": "0.8.2",
+    "binding": {
+      "scenario": "2c48f133f0b9d31f0843d294b5a14efcea2e901cc33ff1da8bd37c27fa2c50d6",
+      "runtime": "844168376f792d4af5486aa91866158d8522f6f0c176780903e27dfbf73029d2",
+      "ui": "4d35aa4a71651fb2c6838f781088170654fb6f33fd870d2e850370b3a11d0702",
+      "art": "69543502e14ecb5bb7462754ed9bdda22cf8851880f13388c10e4259e0c63261"
+    },
+    "rows": [
+      {
+        "row": 1,
+        "kind": "role",
+        "text": "Scenario",
+        "font_size": 20,
+        "bounds": [
+          235,
+          791,
+          315.859375,
+          806.52734375
+        ],
+        "elapsed": 6375,
+        "viewport": {
+          "left": 235,
+          "right": 315.859375,
+          "top": 614.78125,
+          "bottom": 628.36767578125
+        }
+      },
+      {
+        "row": 2,
+        "kind": "name",
+        "text": "Takiya Iijima",
+        "font_size": 27,
+        "bounds": [
+          235,
+          823,
+          403.5390625,
+          850.6591796875
+        ],
+        "elapsed": 6780,
+        "viewport": {
+          "left": 235,
+          "right": 403.5390625,
+          "top": 613.25,
+          "bottom": 637.4517822265625
+        }
+      },
+      {
+        "row": 3,
+        "kind": "name",
+        "text": "Nozomu Umihara (Aki Inoue)",
+        "font_size": 27,
+        "bounds": [
+          235,
+          879,
+          615.8212890625,
+          905.2161754261364
+        ],
+        "elapsed": 7204,
+        "viewport": {
+          "left": 235,
+          "right": 615.8212890625,
+          "top": 631.03125,
+          "bottom": 653.9704034978694
+        }
+      },
+      {
+        "row": 4,
+        "kind": "name",
+        "text": "Yu Sennichite",
+        "font_size": 27,
+        "bounds": [
+          235,
+          932,
+          412.767578125,
+          953.41015625
+        ],
+        "elapsed": 8046,
+        "viewport": {
+          "left": 235,
+          "right": 412.767578125,
+          "top": 616.140625,
+          "bottom": 634.87451171875
+        }
+      },
+      {
+        "row": 5,
+        "kind": "name",
+        "text": "Misaki Kutan",
+        "font_size": 27,
+        "bounds": [
+          235,
+          982,
+          408.1796875,
+          1003.41015625
+        ],
+        "elapsed": 8452,
+        "viewport": {
+          "left": 235,
+          "right": 408.1796875,
+          "top": 630.25,
+          "bottom": 648.98388671875
+        }
+      },
+      {
+        "row": 6,
+        "kind": "role",
+        "text": "Graphics",
+        "font_size": 20,
+        "bounds": [
+          235,
+          1057,
+          320.1953125,
+          1076.84375
+        ],
+        "elapsed": 9360,
+        "viewport": {
+          "left": 235,
+          "right": 320.1953125,
+          "top": 631.03125,
+          "bottom": 648.39453125
+        }
+      },
+      {
+        "row": 7,
+        "kind": "name",
+        "text": "Datto Azami",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1090,
+          397.9228515625,
+          1110.9619140625
+        ],
+        "elapsed": 9753,
+        "viewport": {
+          "left": 235,
+          "right": 397.9228515625,
+          "top": 632.125,
+          "bottom": 650.4666748046875
+        }
+      },
+      {
+        "row": 8,
+        "kind": "name",
+        "text": "Kenko Nikurui",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1148,
+          423.5517578125,
+          1169.41015625
+        ],
+        "elapsed": 10608,
+        "viewport": {
+          "left": 235,
+          "right": 423.5517578125,
+          "top": 621.859375,
+          "bottom": 640.59326171875
+        }
+      },
+      {
+        "row": 9,
+        "kind": "name",
+        "text": "Reisa Misaki",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1198,
+          397.791015625,
+          1219.41015625
+        ],
+        "elapsed": 11077,
+        "viewport": {
+          "left": 235,
+          "right": 397.791015625,
+          "top": 632.78125,
+          "bottom": 651.51513671875
+        }
+      },
+      {
+        "row": 10,
+        "kind": "role",
+        "text": "Scripting",
+        "font_size": 20,
+        "bounds": [
+          235,
+          1274,
+          320.15625,
+          1293.9609375
+        ],
+        "elapsed": 11919,
+        "viewport": {
+          "left": 235,
+          "right": 320.15625,
+          "top": 641.078125,
+          "bottom": 658.5439453125
+        }
+      },
+      {
+        "row": 11,
+        "kind": "name",
+        "text": "Minagi",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1306,
+          325.2021484375,
+          1333.052734375
+        ],
+        "elapsed": 13312,
+        "viewport": {
+          "left": 235,
+          "right": 325.2021484375,
+          "top": 574.109375,
+          "bottom": 597.780517578125
+        }
+      },
+      {
+        "row": 12,
+        "kind": "name",
+        "text": "Yu Sennichite",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1366,
+          412.767578125,
+          1387.41015625
+        ],
+        "elapsed": 13312,
+        "viewport": {
+          "left": 235,
+          "right": 412.767578125,
+          "top": 626.609375,
+          "bottom": 645.34326171875
+        }
+      },
+      {
+        "row": 13,
+        "kind": "role",
+        "text": "Sound",
+        "font_size": 20,
+        "bounds": [
+          235,
+          1440,
+          294.94140625,
+          1455.859375
+        ],
+        "elapsed": 14281,
+        "viewport": {
+          "left": 235,
+          "right": 294.94140625,
+          "top": 626.3125,
+          "bottom": 640.189453125
+        }
+      },
+      {
+        "row": 14,
+        "kind": "name",
+        "text": "DOVA-SYNDROME",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1475,
+          492.5810546875,
+          1496.0673828125
+        ],
+        "elapsed": 14970,
+        "viewport": {
+          "left": 235,
+          "right": 492.5810546875,
+          "top": 611.265625,
+          "bottom": 629.6995849609375
+        }
+      },
+      {
+        "row": 15,
+        "kind": "name",
+        "text": "Free Music Archive",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1533,
+          482.1396484375,
+          1554.41015625
+        ],
+        "elapsed": 15483,
+        "viewport": {
+          "left": 235,
+          "right": 482.1396484375,
+          "top": 628.296875,
+          "bottom": 647.03076171875
+        }
+      },
+      {
+        "row": 16,
+        "kind": "name",
+        "text": "Chris Zabriskie",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1583,
+          432.173828125,
+          1604.41015625
+        ],
+        "elapsed": 15996,
+        "viewport": {
+          "left": 235,
+          "right": 432.173828125,
+          "top": 638.578125,
+          "bottom": 657.31201171875
+        }
+      },
+      {
+        "row": 17,
+        "kind": "name",
+        "text": "Jahzzar",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1633,
+          330.4755859375,
+          1654.884765625
+        ],
+        "elapsed": 17080,
+        "viewport": {
+          "left": 235,
+          "right": 330.4755859375,
+          "top": 612.671875,
+          "bottom": 631.821044921875
+        }
+      },
+      {
+        "row": 18,
+        "kind": "name",
+        "text": "Kevin MacLeod",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1683,
+          433.755859375,
+          1704.41015625
+        ],
+        "elapsed": 17672,
+        "viewport": {
+          "left": 235,
+          "right": 433.755859375,
+          "top": 618.515625,
+          "bottom": 637.24951171875
+        }
+      },
+      {
+        "row": 19,
+        "kind": "name",
+        "text": "myuu",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1738,
+          308.986328125,
+          1757.6435546875
+        ],
+        "elapsed": 18154,
+        "viewport": {
+          "left": 235,
+          "right": 308.986328125,
+          "top": 636.234375,
+          "bottom": 653.4224853515625
+        }
+      },
+      {
+        "row": 20,
+        "kind": "name",
+        "text": "OtoLogic",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1783,
+          352.3076171875,
+          1809.947265625
+        ],
+        "elapsed": 19090,
+        "viewport": {
+          "left": 235,
+          "right": 352.3076171875,
+          "top": 616.953125,
+          "bottom": 640.531982421875
+        }
+      },
+      {
+        "row": 21,
+        "kind": "name",
+        "text": "Presence of Music",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1833,
+          468.1123046875,
+          1854.41015625
+        ],
+        "elapsed": 19742,
+        "viewport": {
+          "left": 235,
+          "right": 468.1123046875,
+          "top": 620.40625,
+          "bottom": 639.14013671875
+        }
+      },
+      {
+        "row": 22,
+        "kind": "name",
+        "text": "Wingless Seraph",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1883,
+          446.3857421875,
+          1910.3955078125
+        ],
+        "elapsed": 20582,
+        "viewport": {
+          "left": 235,
+          "right": 446.3857421875,
+          "top": 612.828125,
+          "bottom": 636.7991943359375
+        }
+      },
+      {
+        "row": 23,
+        "kind": "name",
+        "text": "Pocket Sound",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1932,
+          411.1591796875,
+          1953.41015625
+        ],
+        "elapsed": 21189,
+        "viewport": {
+          "left": 235,
+          "right": 411.1591796875,
+          "top": 619.09375,
+          "bottom": 637.82763671875
+        }
+      },
+      {
+        "row": 24,
+        "kind": "name",
+        "text": "Ontama (Music Egg)",
+        "font_size": 27,
+        "bounds": [
+          235,
+          1981,
+          501.30859375,
+          2010.9267578125
+        ],
+        "elapsed": 21751,
+        "viewport": {
+          "left": 235,
+          "right": 501.30859375,
+          "top": 628.390625,
+          "bottom": 654.5765380859375
+        }
+      },
+      {
+        "row": 25,
+        "kind": "name",
+        "text": "Amacha Music Studio",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2031,
+          517.7880859375,
+          2052.41015625
+        ],
+        "elapsed": 22810,
+        "viewport": {
+          "left": 235,
+          "right": 517.7880859375,
+          "top": 609.421875,
+          "bottom": 628.15576171875
+        }
+      },
+      {
+        "row": 26,
+        "kind": "name",
+        "text": "Togoku Teien",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2081,
+          408.970703125,
+          2108.3955078125
+        ],
+        "elapsed": 23291,
+        "viewport": {
+          "left": 235,
+          "right": 408.970703125,
+          "top": 625.140625,
+          "bottom": 649.1116943359375
+        }
+      },
+      {
+        "row": 27,
+        "kind": "name",
+        "text": "Maou Damashii",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2131,
+          440.400390625,
+          2152.41015625
+        ],
+        "elapsed": 23882,
+        "viewport": {
+          "left": 235,
+          "right": 440.400390625,
+          "top": 634.625,
+          "bottom": 653.35888671875
+        }
+      },
+      {
+        "row": 28,
+        "kind": "name",
+        "text": "Kurage Kosho",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2181,
+          415.3515625,
+          2208.3955078125
+        ],
+        "elapsed": 24901,
+        "viewport": {
+          "left": 235,
+          "right": 415.3515625,
+          "top": 620.21875,
+          "bottom": 644.1898193359375
+        }
+      },
+      {
+        "row": 29,
+        "kind": "name",
+        "text": "Vita-chi Sozaikan",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2231,
+          459.9384765625,
+          2252.41015625
+        ],
+        "elapsed": 25384,
+        "viewport": {
+          "left": 235,
+          "right": 459.9384765625,
+          "top": 636.65625,
+          "bottom": 655.39013671875
+        }
+      },
+      {
+        "row": 30,
+        "kind": "name",
+        "text": "Sound Effect Lab",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2281,
+          454.375,
+          2302.41015625
+        ],
+        "elapsed": 26492,
+        "viewport": {
+          "left": 235,
+          "right": 454.375,
+          "top": 618.765625,
+          "bottom": 637.49951171875
+        }
+      },
+      {
+        "row": 31,
+        "kind": "name",
+        "text": "Sound Effect Dictionary",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2331,
+          543.6015625,
+          2357.89453125
+        ],
+        "elapsed": 27051,
+        "viewport": {
+          "left": 235,
+          "right": 543.6015625,
+          "top": 631.765625,
+          "bottom": 655.29833984375
+        }
+      },
+      {
+        "row": 32,
+        "kind": "name",
+        "text": "TK's Free Sound FX",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2381,
+          485.59375,
+          2404.2294921875
+        ],
+        "elapsed": 28143,
+        "viewport": {
+          "left": 235,
+          "right": 485.59375,
+          "top": 616.421875,
+          "bottom": 636.7476806640625
+        }
+      },
+      {
+        "row": 33,
+        "kind": "name",
+        "text": "Ryumon",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2431,
+          343.158203125,
+          2457.26171875
+        ],
+        "elapsed": 28675,
+        "viewport": {
+          "left": 235,
+          "right": 343.158203125,
+          "top": 631.78125,
+          "bottom": 654.76025390625
+        }
+      },
+      {
+        "row": 34,
+        "kind": "name",
+        "text": "Jannoon028 - Freepik.com",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2483,
+          573.9765625,
+          2509.7890625
+        ],
+        "elapsed": 29737,
+        "viewport": {
+          "left": 235,
+          "right": 573.9765625,
+          "top": 621.390625,
+          "bottom": 644.8310546875
+        }
+      },
+      {
+        "row": 35,
+        "kind": "name",
+        "text": "Kabocha",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2531,
+          345.794921875,
+          2552.41015625
+        ],
+        "elapsed": 30346,
+        "viewport": {
+          "left": 235,
+          "right": 345.794921875,
+          "top": 631.828125,
+          "bottom": 650.56201171875
+        }
+      },
+      {
+        "row": 36,
+        "kind": "role",
+        "text": "Backgrounds",
+        "font_size": 20,
+        "bounds": [
+          235,
+          2606,
+          358.59375,
+          2626.29296875
+        ],
+        "elapsed": 31858,
+        "viewport": {
+          "left": 235,
+          "right": 358.59375,
+          "top": 620.640625,
+          "bottom": 638.39697265625
+        }
+      },
+      {
+        "row": 37,
+        "kind": "name",
+        "text": "Pixabay",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2642,
+          335.6171875,
+          2668.89453125
+        ],
+        "elapsed": 32386,
+        "viewport": {
+          "left": 235,
+          "right": 335.6171875,
+          "top": 625.75,
+          "bottom": 649.28271484375
+        }
+      },
+      {
+        "row": 38,
+        "kind": "name",
+        "text": "PhotoAC",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2700,
+          351.384765625,
+          2721.41015625
+        ],
+        "elapsed": 33524,
+        "viewport": {
+          "left": 235,
+          "right": 351.384765625,
+          "top": 620.671875,
+          "bottom": 639.40576171875
+        }
+      },
+      {
+        "row": 39,
+        "kind": "name",
+        "text": "PAKUTASO",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2747,
+          387.71875,
+          2767.9619140625
+        ],
+        "elapsed": 34069,
+        "viewport": {
+          "left": 235,
+          "right": 387.71875,
+          "top": 635.40625,
+          "bottom": 653.7479248046875
+        }
+      },
+      {
+        "row": 40,
+        "kind": "name",
+        "text": "Sothei",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2800,
+          315.8154296875,
+          2821.41015625
+        ],
+        "elapsed": 35161,
+        "viewport": {
+          "left": 235,
+          "right": 315.8154296875,
+          "top": 629.859375,
+          "bottom": 648.59326171875
+        }
+      },
+      {
+        "row": 41,
+        "kind": "role",
+        "text": "Development Tool",
+        "font_size": 20,
+        "bounds": [
+          235,
+          2873,
+          408.84765625,
+          2892.84375
+        ],
+        "elapsed": 36548,
+        "viewport": {
+          "left": 235,
+          "right": 408.84765625,
+          "top": 629.40625,
+          "bottom": 646.76953125
+        }
+      },
+      {
+        "row": 42,
+        "kind": "name",
+        "text": "TyranoScript",
+        "font_size": 27,
+        "bounds": [
+          235,
+          2907,
+          400.26953125,
+          2933.4462890625
+        ],
+        "elapsed": 37534,
+        "viewport": {
+          "left": 235,
+          "right": 400.26953125,
+          "top": 614.515625,
+          "bottom": 637.6561279296875
+        }
+      },
+      {
+        "row": 43,
+        "kind": "role",
+        "text": "Production",
+        "font_size": 20,
+        "bounds": [
+          235,
+          3189,
+          339.4140625,
+          3204.859375
+        ],
+        "elapsed": 43189,
+        "viewport": {
+          "left": 235,
+          "right": 339.4140625,
+          "top": 622.859375,
+          "bottom": 636.736328125
+        }
+      },
+      {
+        "row": 44,
+        "kind": "name",
+        "text": "Nanakorobi Hachikorogari",
+        "font_size": 27,
+        "bounds": [
+          235,
+          3215,
+          576.9033203125,
+          3242.3955078125
+        ],
+        "elapsed": 43795,
+        "viewport": {
+          "left": 235,
+          "right": 576.9033203125,
+          "top": 621.84375,
+          "bottom": 645.8148193359375
+        }
+      }
+    ],
+    "samples": [
+      {
+        "elapsed": 4193,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": 0,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 4614,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": 0,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 5053,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": 0,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 5476,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -10.625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 5947,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -45.5625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 6375,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -77.34375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 6780,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -106.875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 7204,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -138.09375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 7609,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -168.1875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 8046,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -199.359375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 8452,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -229,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 8907,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -261.546875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 9360,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -293.84375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 9753,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -321.625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 10188,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -352.5,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 10608,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -382.640625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 11077,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -415.46875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 11512,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -444.96875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 11919,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -473.671875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 12388,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -505.921875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 13312,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -568.640625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 13827,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -603.296875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 14281,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -633.6875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 14970,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -679.359375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 15483,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -713.078125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 15996,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -746.546875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 16529,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -781,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 17080,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -816.203125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 17672,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -854.109375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 18154,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -884.515625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 18634,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -913.765625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 19090,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -943.171875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 19742,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -983.46875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 20178,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1010.1875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 20582,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1034.796875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 21189,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1071.40625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 21751,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1104.984375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 22234,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1133.796875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 22810,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1167.703125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 23291,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1195.734375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 23882,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1230,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 24338,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1256.109375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 24901,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1288.15625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 25384,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1315.46875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 25912,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1345.015625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 26492,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1377.109375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 27051,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1407.859375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 27570,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1436.09375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 28143,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1466.953125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 28675,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1495.34375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 29158,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1520.890625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 29737,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1551.234375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 30346,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1582.796875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 30873,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1609.828125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 31297,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1631.390625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 31858,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1659.609375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 32386,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1686,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 32916,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1712.1875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 33524,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1741.828125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 34069,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1768.21875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 34555,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1791.453125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 35161,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1820.140625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 35642,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1842.65625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 36112,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1864.34375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 36548,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1884.46875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 37016,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1905.6875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 37534,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1929.109375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 38107,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1954.625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 38747,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -1982.765625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 39184,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2001.765625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 39746,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2025.890625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 40262,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2047.8125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 40835,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2071.921875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 41443,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2097.109375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 42004,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2120.046875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 42565,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2142.640625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 43189,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2167.515625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 43795,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2191.28125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 44735,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2227.4375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 45248,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2246.875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 45842,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2269,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 46467,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2291.984375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 47031,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2312.390625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 47635,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2333.90625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 48251,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2355.359375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 48768,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2373.34375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 49361,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2393.46875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 49909,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2411.8125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 50453,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2429.765625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 50934,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2445.296875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 51405,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2460.40625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 52027,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2480.046875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 52557,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2496.484375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 53085,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2512.578125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 53631,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2528.921875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 54206,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2545.859375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 54893,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2565.703125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 55423,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2580.671875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 55989,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2596.390625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 56491,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2610.078125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 57059,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2625.296875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 57680,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2641.578125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 58238,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2655.921875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 58815,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2670.390625,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 59379,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2684.28125,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 59943,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2697.859375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 60599,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2713.25,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 61239,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2727.921875,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 61785,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2740.09375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 62423,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2754,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 62983,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2765.859375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 63575,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2778.09375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 64152,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2789.734375,
+        "width": 690,
+        "height": 3500
+      },
+      {
+        "elapsed": 64744,
+        "src": "./data/fgimage/kiwame-en/common-staff.svg",
+        "loaded": true,
+        "naturalWidth": 690,
+        "naturalHeight": 4000,
+        "left": 0,
+        "top": -2801.3125,
+        "width": 690,
+        "height": 3500
+      }
+    ],
+    "captures": [
+      "work/ui/credits-roll-final-stretch-0-8-2-preview.png",
+      "work/ui/credits-roll-final-stretch-0-8-2-production.png"
+    ],
+    "mainSteamChanged": false,
+    "userSavesWritten": false,
+    "naturalReturn": {
+      "elapsed": 70901,
+      "scenario": "title.ks",
+      "line": 209
+    },
+    "trace": [
+      {
+        "tag": "anim",
+        "pm": {
+          "name": "",
+          "layer": "0",
+          "left": "",
+          "top": "-=3000",
+          "width": "",
+          "height": "",
+          "opacity": "",
+          "color": "",
+          "time": "80000",
+          "effect": ""
+        }
+      },
+      {
+        "tag": "wait",
+        "pm": {
+          "time": "60000"
+        }
+      },
+      {
+        "tag": "anim",
+        "pm": {
+          "name": "bg_op",
+          "layer": "",
+          "left": "",
+          "top": "",
+          "width": "",
+          "height": "",
+          "opacity": "0",
+          "color": "",
+          "time": "0",
+          "effect": ""
+        }
+      },
+      {
+        "tag": "anim",
+        "pm": {
+          "name": "bg_load",
+          "layer": "",
+          "left": "",
+          "top": "",
+          "width": "",
+          "height": "",
+          "opacity": "0",
+          "color": "",
+          "time": "0",
+          "effect": ""
+        }
+      },
+      {
+        "tag": "anim",
+        "pm": {
+          "name": "bg_ope",
+          "layer": "",
+          "left": "",
+          "top": "",
+          "width": "",
+          "height": "",
+          "opacity": "0",
+          "color": "",
+          "time": "0",
+          "effect": ""
+        }
+      },
+      {
+        "tag": "anim",
+        "pm": {
+          "name": "bg_con",
+          "layer": "",
+          "left": "",
+          "top": "",
+          "width": "",
+          "height": "",
+          "opacity": "0",
+          "color": "",
+          "time": "0",
+          "effect": ""
+        }
+      },
+      {
+        "tag": "anim",
+        "pm": {
+          "name": "bg_ed",
+          "layer": "",
+          "left": "",
+          "top": "",
+          "width": "",
+          "height": "",
+          "opacity": "0",
+          "color": "",
+          "time": "0",
+          "effect": ""
+        }
+      },
+      {
+        "tag": "anim",
+        "pm": {
+          "name": "bg_close",
+          "layer": "",
+          "left": "",
+          "top": "",
+          "width": "",
+          "height": "",
+          "opacity": "0",
+          "color": "",
+          "time": "0",
+          "effect": ""
+        }
+      }
+    ],
+    "completed": true
+  }
+}

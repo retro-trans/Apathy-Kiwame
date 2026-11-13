@@ -1,0 +1,42 @@
+{
+  "version": "0.8.2",
+  "date": "2026-11-13",
+  "status": "native checks passed; staged; main Steam unchanged; not published",
+  "text": "And then it was all over...",
+  "asset_source": "work/translation/en/media/rpg-game-over.gif",
+  "installed_asset": "data/bgimage/kiwame-en/rpg-game-over.gif",
+  "sha256": "ede94a648875d20f8642bd5744e8c871e85995c1dd3c560ee83babd5110287db",
+  "bytes": 579144,
+  "format": {"resolution": [640, 460], "frames": 78, "distinct_frames": 78, "frame_ms": 50, "cycle_ms": 3900, "loop": true},
+  "method": {
+    "analysis_tool": "tools/rpg_effect_analysis.py",
+    "render_tool": "tools/render-rpg-effect.mjs",
+    "requirements": "tools/requirements-rpg-effect.txt",
+    "measurement": "Backward optical flow and smooth multiplicative shading measured separately for each RGB channel in every original frame; a four-pixel numerical grid transfers that effect to English outlines.",
+    "rendering": "Native Canvas in the bundled NW.js browser samples the English glyph mask using the measured flow and gain. FFmpeg encodes the rendered frames as a normal GIF. Python only analyzes original pixels; it does not edit or render animation images.",
+    "normal_build": "Verify and package the checked English GIF; OpenCV and the native renderer are only needed to regenerate it.",
+    "reconstruction_mean_absolute_error_0_to_255": 10.210,
+    "unwarped_reference_mean_absolute_error_0_to_255": 111.246,
+    "metric_scope": "Registration fit against the original Japanese UI images, not an exact-match claim for the English clip. The effect is estimated from images rather than the unavailable original animation project.",
+    "max_frame_95_percent_displacement_px": 13.713,
+    "minimum_frame_10_percent_gain": 0.208,
+    "original_lettering_in_english_asset": false
+  },
+  "native_evidence": "work/ui/rpg-game-over-ripple-20261113-verification.json",
+  "native_checks": {
+    "actual_death_ending_uses_new_gif": true,
+    "native_decode_resolution": [640, 460],
+    "background_pixels_changed_between_captures": 17885,
+    "original_2000ms_hold_preserved": true,
+    "returns_to_title_normally": true,
+    "alerts_or_javascript_errors": 0
+  },
+  "previews": {
+    "english_gif": "work/ui/rpg-game-over-en-ripple.gif",
+    "english_mp4": "work/ui/rpg-game-over-en-ripple-preview.mp4",
+    "original_left_english_right_mp4": "work/ui/rpg-game-over-effect-comparison.mp4",
+    "comparison_gif": "work/ui/rpg-game-over-effect-comparison.gif"
+  },
+  "preservation": {"original_assets_untouched": true, "scenario_commands_and_order_positions_unchanged": true, "user_save_files_written": false, "main_steam_changed": false, "published": false},
+  "encoder": "ffmpeg 9.0.2-full_build-www.gyan.dev"
+}

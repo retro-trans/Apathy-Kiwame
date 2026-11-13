@@ -1,0 +1,50 @@
+{
+  "version": "0.8.2",
+  "date": "2026-11-12",
+  "status": "tested locally; staged; not published or installed in Steam",
+  "runtime": "tools/english.js",
+  "runtime_sha256": "90296de6d71e57cffdbeabb3ab4957de8519e03919917e0734c1ba95a3d7c8fe",
+  "regression_tool": "tools/check-choice-input.mjs",
+  "baseline_evidence": "work/debug/choice-input-native-baseline.json",
+  "fixed_evidence": "work/debug/choice-input-native-fixed-final3.json",
+  "cause": "The changeColorLink plugin accepts a choice before its macro has returned to the story, so the target is looked up in settei/macro.ks. The story label itself exists and parses correctly.",
+  "fixes": [
+    "Capture and reject mouse/touch choice input until the native s or timed wait stop is ready.",
+    "Supply the engine reference when native save loading rebuilds changeColorLink listeners."
+  ],
+  "native_checks": {
+    "original_early_click_reproduces_missing_label_alert": true,
+    "early_mouse_click_blocked": true,
+    "early_touchstart_blocked": true,
+    "repeated_early_clicks_do_not_navigate": true,
+    "ready_eight_click_burst_reaches_original_target_without_error": true,
+    "ready_microscope_target_line": 3288,
+    "restored_snapshot_early_input_blocked": true,
+    "restored_snapshot_touch_choice_follows_original_target_without_exception": true,
+    "decline_returns_to_science_room": true,
+    "timed_battle_menu_start_lines": [788, 864, 873, 881, 889],
+    "all_five_timed_choices_accepted": true,
+    "original_wait_cancel_clears_each_countdown": true,
+    "final_alerts_or_javascript_errors": 0
+  },
+  "scope_audit": {
+    "choice_commands": 131,
+    "followed_by_s_stop": 116,
+    "followed_by_timed_wait": 15,
+    "timed_menu_groups": 5
+  },
+  "checks": ["node --check tools/english.js", "node --check tools/check-choice-input.mjs", "git diff --check"],
+  "preservation": {
+    "scenario_tags_labels_and_order_positions_unchanged": true,
+    "main_steam_files_unchanged_against_staging_preconditions": true,
+    "user_save_slots_written": false,
+    "save_load_test_uses_ram_snapshot_only": true,
+    "qa_profile_is_separate_and_muted": true,
+    "portrait_changes_included": false,
+    "release_created": false
+  },
+  "harness_notes": [
+    "Initial incomplete runs were corrected to avoid stale choices during asynchronous scene changes, unsupported Array.findIndex in the bundled browser, hidden message layers when entering timed menus directly, and lr macro pauses outside the battle scenario name.",
+    "The restored-listener exception was a real native defect found by the test, and is fixed in the tested runtime. Only the final evidence file represents the complete passing run."
+  ]
+}

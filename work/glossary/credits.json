@@ -1,0 +1,378 @@
+{
+  "version": 1,
+  "scope": "Credited identities, never substitute modern identities for historical credited aliases.",
+  "entries": [
+    {
+      "credit_row": 2,
+      "source": "飯島多紀哉",
+      "en": "Takiya Iijima",
+      "role": "Scenario",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://takiya.info/kiwame/"
+      ]
+    },
+    {
+      "credit_row": 3,
+      "source": "海原望（井上阿希）",
+      "en": "Nozomu Umihara (Aki Inoue)",
+      "role": "Scenario",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://kakuyomu.jp/works/822139842378830645",
+        "https://plaza.rakuten.co.jp/iijimatakiya/diary/202001180000/",
+        "https://vndb.org/s5850"
+      ]
+    },
+    {
+      "credit_row": 4,
+      "source": "千日手由",
+      "en": "Yu Sennichite",
+      "role": "Scenario",
+      "status": "provisional",
+      "note": "Pronunciation of the personal name is unverified; conventional readings Yu / Sennichite.",
+      "sources": []
+    },
+    {
+      "credit_row": 5,
+      "source": "九譚岬",
+      "en": "Misaki Kutan",
+      "role": "Scenario",
+      "status": "provisional",
+      "note": "Pen-name reading and segmentation are unverified; provisional Misaki / Kutan.",
+      "sources": []
+    },
+    {
+      "credit_row": 7,
+      "source": "芥生脱兎",
+      "en": "Datto Azami",
+      "role": "Graphics",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://game-creators.camp/@datto"
+      ]
+    },
+    {
+      "credit_row": 8,
+      "source": "健康肉類",
+      "en": "Kenko Nikurui",
+      "role": "Graphics",
+      "status": "provisional",
+      "note": "Conventional reading Kenko / Nikurui; creator-preferred Latin spelling unconfirmed.",
+      "sources": [
+        "https://tsunagu.cloud/users/kenkou29"
+      ]
+    },
+    {
+      "credit_row": 9,
+      "source": "御前伶咲",
+      "en": "Reisa Misaki",
+      "role": "Graphics",
+      "status": "provisional",
+      "note": "Pen-name reading and segmentation are unverified; provisional Reisa / Misaki.",
+      "sources": [
+        "https://peing.net/ja/kaibun_misaki"
+      ]
+    },
+    {
+      "credit_row": 11,
+      "source": "海凪",
+      "en": "Minagi",
+      "role": "Scripting",
+      "status": "provisional",
+      "note": "Minagi is a plausible reading, not verified for this creator.",
+      "sources": []
+    },
+    {
+      "credit_row": 12,
+      "source": "千日手由",
+      "en": "Yu Sennichite",
+      "role": "Scripting",
+      "status": "provisional",
+      "note": "Same credited person as row 4; same provisional reading.",
+      "sources": []
+    },
+    {
+      "credit_row": 14,
+      "source": "DOVA-SYNDROME",
+      "en": "DOVA-SYNDROME",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 15,
+      "source": "Free Music Archive",
+      "en": "Free Music Archive",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 16,
+      "source": "Chris_Zabriskie",
+      "en": "Chris Zabriskie",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Spaces replace visual underscores; the credited identity is unchanged.",
+      "sources": []
+    },
+    {
+      "credit_row": 17,
+      "source": "Jahzzar",
+      "en": "Jahzzar",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 18,
+      "source": "Kevin_MacLeod",
+      "en": "Kevin MacLeod",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Spaces replace visual underscores; the credited identity is unchanged.",
+      "sources": []
+    },
+    {
+      "credit_row": 19,
+      "source": "myuu",
+      "en": "myuu",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 20,
+      "source": "OtoLogic",
+      "en": "OtoLogic",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 21,
+      "source": "Presence of Music",
+      "en": "Presence of Music",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 22,
+      "source": "Wingless Seraph",
+      "en": "Wingless Seraph",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 23,
+      "source": "ポケットサウンド",
+      "en": "Pocket Sound",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://pocket-se.info/"
+      ]
+    },
+    {
+      "credit_row": 24,
+      "source": "音楽の卵",
+      "en": "Ontama (Music Egg)",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Official site explicitly gives its reading as Ontama; Music Egg is the English gloss.",
+      "sources": [
+        "https://ontama-m.com/"
+      ]
+    },
+    {
+      "credit_row": 25,
+      "source": "甘茶の音楽工房",
+      "en": "Amacha Music Studio",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://amachamusic.chagasi.com/"
+      ]
+    },
+    {
+      "credit_row": 26,
+      "source": "凍獄庭園",
+      "en": "Togoku Teien",
+      "role": "Sound",
+      "status": "provisional",
+      "note": "Original bitmap reads Togoku Teien; do not silently replace it with the differently spelled Rengoku Teien.",
+      "sources": []
+    },
+    {
+      "credit_row": 27,
+      "source": "魔王魂",
+      "en": "Maou Damashii",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://maou.audio/"
+      ]
+    },
+    {
+      "credit_row": 28,
+      "source": "くらげ工匠",
+      "en": "Kurage Kosho",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://www.kurage-kosho.info/"
+      ]
+    },
+    {
+      "credit_row": 29,
+      "source": "びたちー素材館",
+      "en": "Vita-chi Sozaikan",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://vita-chi.booth.pm/"
+      ]
+    },
+    {
+      "credit_row": 30,
+      "source": "効果音ラボ",
+      "en": "Sound Effect Lab",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://soundeffect-lab.info/"
+      ]
+    },
+    {
+      "credit_row": 31,
+      "source": "効果音辞典",
+      "en": "Sound Effect Dictionary",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://sounddictionary.info/"
+      ]
+    },
+    {
+      "credit_row": 32,
+      "source": "無料効果音で遊ぼう！",
+      "en": "TK's Free Sound FX",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://taira-komori.net/freesounden.html"
+      ]
+    },
+    {
+      "credit_row": 33,
+      "source": "竜門",
+      "en": "Ryumon",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Bitmap reads Ryumon, not the older inventory transcription Onmon.",
+      "sources": [
+        "http://ryumon623.blog96.fc2.com/",
+        "https://www.gris2.com/~corpse_pc/staff_b.html"
+      ]
+    },
+    {
+      "credit_row": 34,
+      "source": "Jannoon028 - Freepik.com",
+      "en": "Jannoon028 - Freepik.com",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 35,
+      "source": "かぼちゃ",
+      "en": "Kabocha",
+      "role": "Sound",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 37,
+      "source": "Pixabay",
+      "en": "Pixabay",
+      "role": "Backgrounds",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 38,
+      "source": "PhotoAC",
+      "en": "PhotoAC",
+      "role": "Backgrounds",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 39,
+      "source": "ぱくたそ",
+      "en": "PAKUTASO",
+      "role": "Backgrounds",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://www.pakutaso.com/"
+      ]
+    },
+    {
+      "credit_row": 40,
+      "source": "Sothei",
+      "en": "Sothei",
+      "role": "Backgrounds",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": []
+    },
+    {
+      "credit_row": 42,
+      "source": "ティラノスクリプト",
+      "en": "TyranoScript",
+      "role": "Development Tool",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://tyrano.jp/"
+      ]
+    },
+    {
+      "credit_row": 44,
+      "source": "七転び八転がり",
+      "en": "Nanakorobi Hachikorogari",
+      "role": "Production",
+      "status": "reviewed",
+      "note": "Original credited identity retained; Latin reading, translated resource label or existing Latin name.",
+      "sources": [
+        "https://takiya.info/kiwame/"
+      ]
+    }
+  ]
+}

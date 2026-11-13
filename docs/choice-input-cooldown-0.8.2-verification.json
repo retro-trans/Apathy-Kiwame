@@ -1,0 +1,258 @@
+{
+  "version": "0.8.2",
+  "status": "staged",
+  "delayMs": 500,
+  "mainSteamChanged": false,
+  "userSaveSlotsWritten": false,
+  "saveDataFormatChanged": false,
+  "stateStorage": "runtime DOM properties only",
+  "timedBattleDeadlinesChanged": false,
+  "runtimeSha256": "844168376f792d4af5486aa91866158d8522f6f0c176780903e27dfbf73029d2",
+  "nativeChecks": {
+    "mode": "fixed",
+    "during": {
+      "scenario": "settei/macro.ks",
+      "line": 705,
+      "tag": "emb",
+      "macroStorage": "rpg/stage.ks",
+      "strong": false,
+      "adding": true,
+      "errors": [],
+      "storyChoices": 0,
+      "choices": [
+        {
+          "text": "1.",
+          "target": "*\u8997\u304f",
+          "readyIn": null
+        }
+      ]
+    },
+    "earlyClickBlocked": true,
+    "earlyTouchBlocked": true,
+    "drawn": {
+      "scenario": "rpg/stage.ks",
+      "line": 3283,
+      "tag": "s",
+      "macroStorage": null,
+      "strong": true,
+      "adding": false,
+      "errors": [],
+      "storyChoices": 0,
+      "choices": [
+        {
+          "text": "1. Look through it",
+          "target": "*\u8997\u304f",
+          "readyIn": 500
+        },
+        {
+          "text": "2. Don't look",
+          "target": "*\u7406\u79d1\u5ba4_\u623b\u308b",
+          "readyIn": 500
+        }
+      ]
+    },
+    "delayProbe": {
+      "done": true,
+      "samples": [
+        {
+          "type": "click",
+          "elapsed": 0.99999998928979,
+          "blocked": true
+        },
+        {
+          "type": "touchstart",
+          "elapsed": 0.99999998928979,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 158.999999985099,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 312.999999994645,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 453.000000008615,
+          "blocked": true
+        },
+        {
+          "type": "mousedown",
+          "elapsed": 483.99999999674,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 499.00000001071,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 529.999999998836,
+          "blocked": true
+        }
+      ]
+    },
+    "readyBurst": [
+      false,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "accepted": {
+      "scenario": "rpg/stage.ks",
+      "line": 3288,
+      "tag": "p",
+      "macroStorage": null,
+      "strong": false,
+      "adding": false,
+      "errors": [],
+      "storyChoices": 0,
+      "choices": []
+    },
+    "restoredEarlyBlocked": true,
+    "restoredCooldownBlocked": true,
+    "restoredAccepted": {
+      "scenario": "rpg/stage.ks",
+      "line": 3288,
+      "tag": "p",
+      "macroStorage": null,
+      "strong": false,
+      "adding": false,
+      "errors": [],
+      "storyChoices": 0,
+      "choices": []
+    },
+    "decline": {
+      "scenario": "rpg/stage.ks",
+      "line": 3048,
+      "tag": "s",
+      "macroStorage": null,
+      "strong": true,
+      "adding": false,
+      "errors": [],
+      "storyChoices": 0,
+      "choices": []
+    },
+    "timed": [
+      {
+        "choiceLine": 788,
+        "target": "*\u30b7\u30e7\u30b4\u30b9\u306e\u91dd\u3092\u907f\u3051\u305f",
+        "waitLine": 790,
+        "earlyBlocked": true,
+        "acceptedScenario": "settei/macro.ks",
+        "acceptedLine": 251,
+        "macroStorage": "rpg/batoru.ks",
+        "timerCleared": true,
+        "errors": []
+      },
+      {
+        "choiceLine": 864,
+        "target": "*\u30b7\u30e7\u30b4\u30b9\u9078\u629e\u80a21_2",
+        "waitLine": 867,
+        "earlyBlocked": true,
+        "acceptedScenario": "rpg/batoru.ks",
+        "acceptedLine": 1021,
+        "macroStorage": null,
+        "timerCleared": true,
+        "errors": []
+      },
+      {
+        "choiceLine": 873,
+        "target": "*\u30b7\u30e7\u30b4\u30b9\u9078\u629e\u80a21_1",
+        "waitLine": 876,
+        "earlyBlocked": true,
+        "acceptedScenario": "rpg/batoru.ks",
+        "acceptedLine": 977,
+        "macroStorage": null,
+        "timerCleared": true,
+        "errors": []
+      },
+      {
+        "choiceLine": 881,
+        "target": "*\u30b7\u30e7\u30b4\u30b9\u9078\u629e\u80a22_3",
+        "waitLine": 884,
+        "earlyBlocked": true,
+        "acceptedScenario": "rpg/batoru.ks",
+        "acceptedLine": 1166,
+        "macroStorage": null,
+        "timerCleared": true,
+        "errors": []
+      },
+      {
+        "choiceLine": 889,
+        "target": "*\u30b7\u30e7\u30b4\u30b9\u9078\u629e\u80a23_2",
+        "waitLine": 893,
+        "earlyBlocked": true,
+        "acceptedScenario": "rpg/batoru.ks",
+        "acceptedLine": 1107,
+        "macroStorage": null,
+        "timerCleared": true,
+        "errors": []
+      }
+    ],
+    "storyDelayProbe": {
+      "done": true,
+      "samples": [
+        {
+          "type": "click",
+          "elapsed": 14.999999984866,
+          "blocked": true
+        },
+        {
+          "type": "touchstart",
+          "elapsed": 14.999999984866,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 152.000000001863,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 307.000000000699,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 461.999999999534,
+          "blocked": true
+        },
+        {
+          "type": "mousedown",
+          "elapsed": 492.99999998766,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 492.99999998766,
+          "blocked": true
+        },
+        {
+          "type": "click",
+          "elapsed": 538.999999989756,
+          "blocked": true
+        }
+      ]
+    },
+    "storyAccepted": {
+      "scenario": "op.ks",
+      "line": 180,
+      "tag": "l",
+      "macroStorage": null,
+      "strong": false,
+      "adding": false,
+      "errors": [],
+      "storyChoices": 0,
+      "choices": []
+    }
+  }
+}

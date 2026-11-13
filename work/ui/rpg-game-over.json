@@ -1,0 +1,23 @@
+{
+  "id": "rpg-game-over",
+  "text": "And then it was all over...",
+  "animated_source": "bgimage/rpg/siboued.gif",
+  "animated_sha256": "b6907a74e8ce3af0c1ee698c6e71e5118392221b73ce8687fcdf97ca2bd620b3",
+  "still_source": "bgimage/rpg/ED1.jpg",
+  "still_sha256": "4e7fed6715196152bc9c490d1d48b3418b73275573f31f900b81d7dcb6f511f8",
+  "target": "kiwame-en/rpg-game-over.gif",
+  "rendered_animation": "work/translation/en/media/rpg-game-over.gif",
+  "rendered_animation_sha256": "ede94a648875d20f8642bd5744e8c871e85995c1dd3c560ee83babd5110287db",
+  "still_target": "kiwame-en/rpg-game-over-still.svg",
+  "canvas": [960, 690],
+  "center_x": 480,
+  "baseline": 365,
+  "font_size": 52,
+  "maximum_width": 780,
+  "review": {
+    "accuracy": "Completed action: everything came to an end; keep the trailing pause.",
+    "editorial": "Natural English game-over narration with the original past tense.",
+    "proofreading": "Latin lettering and ASCII ellipsis; one centered line."
+  },
+  "animation_note": "Transfer measured backward optical flow and shading separately for each RGB channel from all 78 original frames to the English font outlines. Native Canvas renders the new clip; retain the original 640x460 resolution, 50 ms frame intervals and loop. No original Japanese lettering is embedded in the English GIF."
+}

@@ -1,5 +1,124 @@
 # Changelog
 
+## 0.8.2 · 2026-11-14
+
+- User requested publication of this build. Release preparation includes the
+  completed fixes below and the verified English scrolling-letter movie, with
+  full/original and direct 0.8.0/0.8.1 upgrade deltas plus a standalone installer.
+  The unapproved portrait-name experiment is excluded. Earlier issued releases
+  and the running main Steam installation remain unchanged.
+
+- 2026-11-14: Translated the complete credit roll, including credited names and
+  resource providers. Preserved all 44 rows, their attribution groups and source
+  positions, with Latin font outlines on a transparent SVG. Backgrounds, music,
+  original scroll commands and title-return timing remain unchanged. The user
+  approved provisional Latin readings for obscure pen names; six uncertain
+  spellings are identified in the [credit review](docs/credits-roll-0.8.2-review.md).
+  All 44 rows passed the full native scroll and natural title-return check;
+  see the [credit verification](docs/credits-roll-0.8.2-verification.json).
+  Staged only; original assets, main Steam files and user saves are unchanged.
+
+- 2026-11-14: Added a 500 ms input delay after story and RPG choice menus finish
+  drawing, including restored menus. Early clicks and touches are discarded;
+  a mouse press started during the delay cannot select a choice on release.
+  Rapid clicking does not extend the delay. The existing drawing/navigation
+  guard remains active, and timed battles retain their original deadlines.
+  Delay state lives only on runtime elements, preserving save data and script
+  positions. Staged with the other local fixes; main Steam remains unchanged.
+  Native checks cover ordinary story choices, RPG drawing, rapid clicks, held
+  presses, restored menus, both microscope choices and five timed battle menus;
+  see the [cooldown verification](docs/choice-input-cooldown-0.8.2-verification.json).
+
+- 2026-11-14: Prepared a full English scrolling-letter preview for the Self-Help
+  movie. Reused the reviewed English text, set it in Latin handwriting, and
+  matched the original paragraph positions, upward speed and ending fade. A
+  motion mask removes the baked Japanese lettering over the original montage;
+  the covered pixels are restored from their surroundings in the same frame.
+  Original camera movement, scene transitions, duration and audio are retained.
+  The final physical book shot keeps its English title caption. Preview only;
+  main Steam files, saves and published downloads remain unchanged. Verified
+  every video timestamp and original audio packet, plus nine native seek points;
+  see the [preview verification](docs/self-help-scroll-0.8.2-preview-verification.json).
+
+- 2026-11-13: Reproduced the Ending List heading reverting to Japanese on
+  mouse-out in the old installation. Confirmed the already-staged base-heading
+  translation fixes all 16 hover/mouse-out cases across 14 artwork groups and
+  three pages, including backward navigation. The 147 ending entries remain
+  intact. Added a native pointer regression check; no further production edits
+  or Steam installation changes were needed. See the
+  [hover verification](docs/ending-list-hover-0.8.2-verification.json).
+
+- 2026-11-13: Fixed "Butmy" to "But my" and removed forced line breaks from
+  292 RPG continuations, including both reported comma breaks. The RPG lr macro
+  keeps its original click pause while using the reviewed separator. Audited
+  all 1,158 RPG lr commands; preserve speaker labels, sentence ends and ritual
+  staging. Existing ordinary-r wrapping maps are unchanged. Loaded legacy text
+  and slots paused inside the old macro recover in memory without changing save
+  files. Native checks cover all three reported passages and old-slot fixtures;
+  14,646 parsed orders retain their indices and labels. See the
+  [RPG text-flow verification](docs/rpg-text-flow-0.8.2-verification.json).
+
+- 2026-11-13: Replaced the clean vector notebook redraw with an image-generation
+  edit using the original cover as its target. The English preview retains the
+  textured paper, lotus crest, cloth spine, framing and perspective. A native
+  960x690 wrapper embeds the generated PNG unchanged. Lettering was visually
+  checked and the asset decoded correctly in the game renderer. Staged only;
+  original game art and user saves remain untouched. See the
+  [notebook verification](docs/notebook-cover-0.8.2-verification.json).
+
+- 2026-11-13: Matched the game-over effect using measured per-frame deformation
+  and shading for each RGB channel. Native Canvas applies the travelling ripple,
+  colour separation and fading to English lettering; the resulting GIF retains
+  all 78 distinct frames, 50 ms timing and the 3.9-second loop. A side-by-side
+  preview compares it with the original. Native playback and title return pass;
+  main Steam files remain unchanged. See the
+  [effect verification](docs/rpg-game-over-effect-0.8.2-verification.json).
+
+- Fixed sideways English on the first opening page after an ending. The ending
+  leaves vertical paragraph formatting behind even after the English state flag
+  is reset; the shared English layout now clears that stale paragraph class too.
+  It also repairs rendered paragraphs from older saves in memory, preserving the
+  existing text, click spans and save files.
+  Native ending-to-opening, first-choice and legacy-load checks pass; see the
+  [opening layout verification](docs/opening-layout-0.8.2-verification.json).
+
+- Translated the missed RPG game-over image to "And then it was all over...".
+  The English GIF uses outlined GenEi Latin glyphs with the original's measured
+  motion and colour effects. The unused matching still image is mapped too;
+  original assets and ending script timing remain
+  intact. Staged with the other fixes while the user continues playing.
+  Native checks confirm visible animation, the original two-second hold and a
+  normal return to the title; see the
+  [game-over verification](docs/rpg-game-over-effect-0.8.2-verification.json).
+
+- Fixed an RPG choice-input race: clicking while an option is still being drawn
+  can resolve its target inside the choice macro instead of the story script,
+  producing the microscope's missing-label alert. Mouse and touch input now wait
+  for the completed menu; timed battle choices remain available during their
+  original countdowns. The fix is staged with the Ending List heading.
+- Restored the engine reference needed by RPG choice listeners rebuilt when
+  loading a save. This prevents an exception after selecting a restored choice;
+  saves are loaded normally without changing their stored bytes.
+- Native regression checks pass early mouse/touch input, repeated clicks,
+  ready and restored choices, the decline branch, and all five timed battle
+  menus with their original countdown cancellation. See the
+  [input verification](docs/choice-input-0.8.2-verification.json).
+
+- Translated the missed base Ending List heading to Ending List using outlined
+  GenEi glyphs over the original background. Both ED.jpg and ed.jpg map to the
+  new vector asset. Native checks cover all 147 entries across three pages and
+  forward/back navigation; zero pixels outside the header rectangle change.
+- The user chose to keep playing, so the verified header fix is staged under
+  work/debug/ending-list-header-0.8.2-staged. Main Steam files and saves remain
+  untouched. Portrait-name layout approval is separate and not included in it.
+
+- Audited eight RPG portrait variants: seven contain embedded Japanese labels;
+  one Arai portrait is intentionally unnamed. Prepared an isolated native UI
+  comparison using horizontal English nameplates, with Me/Me?, Sadao Hino,
+  Shoji Arai and Reiko Fukuzawa as the proposed labels. Original PNGs stay intact.
+- At the user's request, show the layout preview before applying the fix.
+  Main Steam files and saves are unchanged; no release has been created.
+
 ## 0.8.1 · 2026-11-12 · Retro Trans Tools integration
 
 - Added an optional standalone installer ZIP with Apply.cmd, Undo.cmd, the

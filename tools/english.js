@@ -67,6 +67,63 @@
         return tag;
     };
 
+    // Carry each caller's reviewed separator into lr's native l/r macro body.
+    // Extra parameters preserve every scenario order and the original l pause.
+    var parseScenario = kag.parser.parseScenario;
+    kag.parser.parseScenario = function () {
+        var result = parseScenario.apply(this, arguments);
+        var map = visual.flowMacroBreaks && visual.flowMacroBreaks[this.kag.stat.current_scenario];
+        var counts = {};
+        if (map) result.array_s.forEach(function (tag) {
+            if (tag.name !== 'lr') return;
+            var line = tag.line + 1;
+            counts[line] = (counts[line] || 0) + 1;
+            var key = line + ':' + counts[line];
+            if (Object.prototype.hasOwnProperty.call(map, key)) tag.pm.kiwame_flow_separator = map[key];
+        });
+        return result;
+    };
+
+    var choiceInputDelay = 500;
+    var choiceInputSelector = '[data-event-tag="glink"], [data-event-tag="link"], ' +
+        '[data-event-tag="changecolorlink"]';
+    function choiceInputNow() {
+        return window.performance && window.performance.now ? window.performance.now() : Date.now();
+    }
+    function armChoiceInput() {
+        var readyAt = choiceInputNow() + choiceInputDelay;
+        $(choiceInputSelector).filter(':visible').each(function () {
+            // DOM properties stay out of serialized save HTML and game variables.
+            this.kiwameChoiceReadyAt = readyAt;
+            this.kiwameChoiceRejectedPress = false;
+        });
+    }
+    // Wait for a finished menu AND a fresh half-second before accepting input.
+    // Otherwise fast dialogue clicks can select a newly drawn choice, or resolve
+    // an RPG story label while its choice macro is still running.
+    function guardDrawingChoice(event) {
+        if (event.type === 'mousedown' && event.button !== 0) return;
+        var choice = $(event.target).closest(choiceInputSelector);
+        if (!choice.length) return;
+        var node = choice[0], now = choiceInputNow();
+        if (node.kiwameChoiceReadyAt === undefined) node.kiwameChoiceReadyAt = now + choiceInputDelay;
+        var press = event.type === 'mousedown' || event.type === 'touchstart';
+        if (press) node.kiwameChoiceRejectedPress = false;
+        var engine = TYRANO.kag;
+        var tag = engine.ftag.array_tag[engine.ftag.current_order_index];
+        var ready = engine.stat.is_strong_stop === true && !engine.stat.is_adding_text &&
+                tag && (tag.name === 's' ||
+                    (tag.name === 'wait' && engine.stat.is_wait === true));
+        if (ready && now >= node.kiwameChoiceReadyAt &&
+                !(event.type === 'click' && node.kiwameChoiceRejectedPress)) return;
+        if (press) node.kiwameChoiceRejectedPress = true;
+        event.preventDefault();
+        event.stopImmediatePropagation();
+    }
+    document.addEventListener('mousedown', guardDrawingChoice, true);
+    document.addEventListener('click', guardDrawingChoice, true);
+    document.addEventListener('touchstart', guardDrawingChoice, true);
+
     function wrap(name, before) {
         var original = kag.tag[name].start;
         kag.tag[name].start = function (pm) {
@@ -74,6 +131,8 @@
             return original.call(this, pm);
         };
     }
+    wrap('s', armChoiceInput);
+    wrap('wait', armChoiceInput);
 
     function latinPunctuation(text) {
         return text.replace(/[\u2026\u22ef]/g, '...').replace(/\u2025/g, '..');
@@ -99,6 +158,24 @@
         var key = tag && String(tag.line + 1) + ':' + ordinal;
         var soft = map && ordinal && Object.prototype.hasOwnProperty.call(map, key);
         var separator = soft ? map[key] : '<br />';
+        var frame = engine.getStack('macro');
+        var lr = engine.stat.map_macro.lr;
+        var lrFirst = lr && tags[lr.index + 1];
+        var inLR = tag && tag.name === 'r' && lr && engine.stat.current_scenario === lr.storage &&
+            lrFirst && lrFirst.name === 'l' && tag.line === lrFirst.line;
+        if (inLR && frame && frame.pm && Object.prototype.hasOwnProperty.call(frame.pm, 'kiwame_flow_separator')) {
+            soft = true;
+            separator = frame.pm.kiwame_flow_separator;
+        } else if (inLR && frame) {
+            // Slots saved inside the old lr pause lack the new private parameter.
+            // Only unambiguous, reviewed left-hand text can recover its separator.
+            var tails = visual.flowMacroTails && visual.flowMacroTails[frame.storage];
+            var text = engine.getMessageInnerLayer().text().trim();
+            if (tails) tails.some(function (pair) {
+                if (text.slice(-pair[0].length) !== pair[0]) return false;
+                soft = true; separator = pair[1]; return true;
+            });
+        }
         var log = this.kag.variable.tf.system.backlog;
         if (log.length && !engine.stat.log_clear) engine.pushBackLog(separator, 'join');
         if (!soft) return hardBreak.call(this, pm);
@@ -226,15 +303,22 @@
     });
     function applyEnglishLayout(engine, scenario) {
         var compact = !!compactEnglish(scenario);
-        engine.getMessageInnerLayer().toggleClass('kiwame_en_compact', compact);
+        var inner = engine.getMessageInnerLayer();
+        inner.toggleClass('kiwame_en_compact', compact);
         if (compact) {
             engine.stat.vertical = 'false';
+            // cm/resetfont can create a paragraph while an ending's vertical
+            // flag is still active. Reset that existing DOM too, including slots
+            // saved before this fix, without replacing its text or click spans.
+            inner.find('p.vertical_text').removeClass('vertical_text');
             engine.config.defaultLineSpacing = String(27 - parseInt(engine.config.defaultFontSize, 10));
         }
     }
     function reflowLoadedText(layer, scenario) {
         var pairs = visual.flowPairs && visual.flowPairs[scenario];
-        if (!pairs) return;
+        var joins = visual.flowTextJoinPairs && visual.flowTextJoinPairs[scenario];
+        if (!pairs && !joins) return;
+        pairs = pairs || [];
         var replacements = [];
         $(layer).find('p').each(function () {
             var paragraph = this;
@@ -260,10 +344,27 @@
         replacements.forEach(function (item) {
             item.node.parentNode.replaceChild(document.createTextNode(item.separator), item.node);
         });
+        if (joins) joins.forEach(function (pair) {
+            $(layer).find('p').each(function () {
+                var merged = pair[0] + pair[1], at = this.textContent.indexOf(merged);
+                if (at < 0) return;
+                var offset = at + pair[0].length;
+                var walker = document.createTreeWalker(this, 4, null, false), node;
+                while ((node = walker.nextNode())) {
+                    if (offset > node.nodeValue.length) { offset -= node.nodeValue.length; continue; }
+                    var range = document.createRange();range.setStart(node, offset);range.collapse(true);
+                    range.insertNode(document.createTextNode(pair[2]));break;
+                }
+            });
+        });
     }
     var loadGameData = kag.menu.loadGameData;
     kag.menu.loadGameData = function (data) {
         var scenario = data.stat.current_scenario;
+        // Native loading reconstructs plugin listeners from the tag prototype,
+        // without the engine reference assigned to normal master_tag instances.
+        // changeColorLink's restored click handler reads this captured reference.
+        if (kag.tag.changecolorlink) kag.tag.changecolorlink.kag = this.kag;
         // A wait from the abandoned scene must not advance a loaded normal slot.
         if (data.stat.is_wait !== true && this.kag.tmp.wait_id) {
             clearTimeout(this.kag.tmp.wait_id);
@@ -273,6 +374,7 @@
         var preserveOriginalPunctuation = retainedOriginalJapanese(scenario, Number(data.stat.current_line) + 1);
         clearBoardCaption();
         var result = loadGameData.apply(this, arguments);
+        armChoiceInput();
         applyEnglishLayout(this.kag, scenario);
         var grid = data.stat.f && data.stat.f.kiwameInotiGrid;
         applyInotiGridLayout(this.kag, scenario, grid ? grid.line : 0);
@@ -313,6 +415,15 @@
         // The ending macro sets vertical mode and restores Japanese line spacing.
         var scenario = this.kag.stat.current_scenario;
         var current = this.kag.ftag.array_tag[this.kag.ftag.current_order_index];
+        var joins = visual.flowTextJoins && visual.flowTextJoins[scenario];
+        if (joins && current && current.name === 'text') {
+            var ordinal = 0, tags = this.kag.ftag.array_tag;
+            for (var i = this.kag.ftag.current_order_index; i >= 0 && tags[i].line === current.line; i--) {
+                if (tags[i].name === 'text') ordinal++;
+            }
+            var joinKey = (current.line + 1) + ':' + ordinal;
+            if (Object.prototype.hasOwnProperty.call(joins, joinKey)) pm.val = joins[joinKey] + pm.val.replace(/^\s+/, '');
+        }
         // Four original speaker labels have no break before the following speech.
         if (scenario === 'kazama.ks' && localizedKazama && current &&
                 [1272, 1285, 1298, 5141].indexOf(current.line) !== -1) {

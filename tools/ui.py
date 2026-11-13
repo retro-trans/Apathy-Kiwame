@@ -447,10 +447,10 @@ def install(package):
             encoding="utf-8",
         )
         maps["images"][f"rpg/stage_name_{name}.png"] = target
-    cover = "old-school-building-field-notes.svg"
-    target = f"kiwame-en/{cover}"
-    shutil.copyfile(ROOT / "work" / "ui" / cover, asset_root / "fgimage" / target)
-    maps["images"]["rpg/note_top.png"] = target
+    from notebook_cover import artwork as notebook_cover_artwork
+    for path, data in notebook_cover_artwork(asset_root, maps).items():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(data)
     install_notebook(asset_root, maps)
     for path, data in late_battle_backgrounds(asset_root, maps["backgrounds"]).items():
         path.write_bytes(data)
@@ -513,6 +513,23 @@ def install(package):
                 path.write_bytes(data)
     from common_art import artwork as common_artwork
     for path, data in common_artwork(asset_root, maps).items():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(data)
+    from credits_roll import artwork as credits_artwork
+    credit_files, _ = credits_artwork(asset_root, maps)
+    for path, data in credit_files.items():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(data)
+    from self_help_movie import artwork as self_help_movie_artwork
+    for path, data in self_help_movie_artwork(asset_root, maps).items():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(data)
+    from ending_header import artwork as ending_header_artwork
+    for path, data in ending_header_artwork(asset_root, maps).items():
+        path.parent.mkdir(parents=True, exist_ok=True)
+        path.write_bytes(data)
+    from rpg_ending_card import artwork as rpg_ending_artwork
+    for path, data in rpg_ending_artwork(asset_root, maps).items():
         path.parent.mkdir(parents=True, exist_ok=True)
         path.write_bytes(data)
     from remaining_routes import readable_startup

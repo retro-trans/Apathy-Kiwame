@@ -1,0 +1,37 @@
+{
+  "version": "0.8.2",
+  "date": "2026-11-12",
+  "status": "native checks passed; staged; main Steam unchanged; not published",
+  "runtime": "tools/english.js",
+  "runtime_sha256": "352cf53ccbd6eda0d3836df8b54d25b034d0159c1d786d99c189c3e787f887f4",
+  "regression_tool": "tools/check-opening-layout.mjs",
+  "baseline_evidence": "work/debug/opening-layout-baseline-recovered.json",
+  "legacy_fixture": "work/debug/opening-layout-baseline.json.snapshot.json",
+  "fixed_evidence": "work/debug/opening-layout-fixed.json",
+  "screenshots": [
+    "work/ui/opening-layout-0.8.2-fixed.png",
+    "work/ui/opening-layout-0.8.2-legacy-fixed.png"
+  ],
+  "cause": "The ending macro sets vertical mode. Opening cm/resetfont creates a paragraph with vertical_text before the English text hook resets the state flag. That class retains vertical-rl writing and right float until a choice clears the paragraph.",
+  "fix": "When selecting the existing compact English layout, also remove vertical_text from its current paragraphs. Keep the paragraph text and click spans intact. The existing load hook runs the same cleanup on a restored layer.",
+  "native_checks": {
+    "actual_rpg_death_ending_returns_to_title_with_vertical_mode": true,
+    "baseline_opening_has_horizontal_state_but_vertical_paragraph": true,
+    "fixed_first_opening_page_is_horizontal": true,
+    "fixed_first_page_float_is_none": true,
+    "first_choice_branch_maisou_is_horizontal": true,
+    "legacy_sideways_page_loads_horizontally": true,
+    "alerts_or_javascript_errors": 0
+  },
+  "preservation": {
+    "scenario_commands_order_and_text_unchanged": true,
+    "user_save_slots_written": false,
+    "legacy_fixture_read_only_during_fixed_check": true,
+    "main_matches_staging_original_file_preconditions": true,
+    "all_staged_checksums_match": true,
+    "qa_muted_and_separate": true,
+    "portrait_changes_included": false,
+    "release_created": false
+  },
+  "harness_note": "The original baseline run captured the bad page and RAM snapshot, then incorrectly required the first choice to remain in op.ks. Choice 3 normally enters maisou.ks, where horizontal text was verified in the same instance; baseline recovery records that observation. The corrected fixed run follows the same branch and completes the legacy-load check."
+}

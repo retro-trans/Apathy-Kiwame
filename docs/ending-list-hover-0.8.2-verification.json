@@ -1,0 +1,31 @@
+{
+  "version": "0.8.2",
+  "date": "2026-11-13",
+  "status": "already-staged fix verified; main Steam remains unchanged",
+  "cause": "English foreground artwork appears on hover. Mouse-out hides it and exposes the original Japanese base heading. The main installation has neither ED.jpg nor ed.jpg mapped to the English base; the staged patch maps both.",
+  "production_changes_this_turn": false,
+  "base_asset": "data/bgimage/kiwame-en/ending-list-base.svg",
+  "base_sha256": "2716eb08a80b3c99755174e966b46ff870c2ed93c6f31ee388e97484990d42a7",
+  "native_tool": "tools/check-ending-header-hover.mjs",
+  "native_evidence": "work/ui/ending-hover-ending-header-20261113d-verification.json",
+  "heading_crops": {
+    "old_mouse_out": "work/ui/ending-hover-ending-header-20261113d-baseline-outside.png",
+    "english_hover": "work/ui/ending-hover-ending-header-20261113d-baseline-hover.png",
+    "fixed_mouse_out": "work/ui/ending-hover-ending-header-20261113d-fixed-outside.png"
+  },
+  "checks": {
+    "old_mouse_out_restores_japanese_reproduced": true,
+    "fixed_mouse_out_always_restores_english": true,
+    "native_pointer_movements_used": true,
+    "hover_cases": 16,
+    "unique_artwork_groups": 14,
+    "pages": 3,
+    "entry_counts": [60, 60, 27],
+    "total_entries": 147,
+    "backward_navigation_preserved": true,
+    "alerts_or_javascript_errors": 0,
+    "all_staged_checksums_unchanged": true
+  },
+  "preservation": {"user_save_files_written": false, "main_steam_unchanged_against_staging_preconditions": true, "release_created": false},
+  "harness_notes": "Heading-only native Canvas crops avoid the debugger's ignored clip parameter. The test waits for the English base after asynchronous reload and accepts the separately translated Life SVG alongside common hover PNGs. No full Life hover images are captured."
+}

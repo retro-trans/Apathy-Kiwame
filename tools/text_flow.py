@@ -24,6 +24,13 @@ INLINE_QUOTATIONS = {
     ('game.ks','4326:1'):('I suppose she wanted to hear him say', '\u201cOf course.\u201d'),
     ('jyuku.ks','1975:1'):("What if they'd already been \u201cdisposed of,\u201d", 'and the two people standing there were completely different'),
 }
+TEXT_JOINS = {
+    ('rpg/batoru.ks', '1343:1'): ('But', 'my eyelids were already...'),
+}
+JOIN_TRANSPARENT = {'l', 'フラッシュ'}
+MACRO_LAYOUT = {
+    ('rpg/stage.ks','352:1'): ("“Ph'nglui mglw'nafh Cthulhu", "R'lyeh wgah'nagl fhtagn.”"),
+}
 
 
 def tokens(raw):
@@ -53,13 +60,12 @@ def tokens(raw):
             if line.startswith('_'):
                 line = line[1:]
             spans = [(0,len(line),True)] if line.startswith('@') else split_tags(line)
-            ordinal = 0
+            ordinals = Counter()
             for a,b,tag in spans:
                 value = line[a:b]
                 name = re.match(r'\s*(\w+)',value[1:-1] if value.startswith('[') else value[1:])[1] if tag else 'text'
-                if name == 'r':
-                    ordinal += 1
-                result.append({'name':name, 'line':number, 'ordinal':ordinal if name=='r' else None,
+                ordinals[name] += 1
+                result.append({'name':name, 'line':number, 'ordinal':ordinals[name] if name in ('r','lr','text') else None,
                                'text':value if not tag else '', 'raw':value if tag else ''})
                 if name == 'iscript':
                     script = True
@@ -78,7 +84,7 @@ def classify(items, index, reviewed):
     right = neighbor(items,index,1)
     if not left or not right:
         return 'boundary'
-    if left['name']=='r' or right['name']=='r':
+    if left['name'] in ('r','lr') or right['name'] in ('r','lr'):
         return 'paragraph'
     if left['name'] not in ('text','emb') or right['name'] not in ('text','emb'):
         return 'command-or-layout'
@@ -110,45 +116,72 @@ def separator(before, after):
 
 
 def audit():
-    report = {'version':1, 'policy':'Reflow continuous English; preserve paragraphs, speakers, sentence ends, emphasis and layout commands.',
+    report = {'version':2, 'policy':'Reflow continuous English and RPG lr macros; preserve pauses, paragraphs, speakers, sentence ends, emphasis and layout commands.',
               'manual_review':{'speaker_boundaries':['sindo.ks:1802:1','fukuzawa.ks:3098:1','fukuzawa.ks:3111:1','fukuzawa.ks:3295:1','fukuzawa.ks:3359:1'],
                                'inline_quotation':'game.ks:4326:1 and jyuku.ks:1975:1 continue narration around embedded quotations; preserve genuine speaker-label breaks.',
                                'checks':'Reviewed capitalized continuations, dash/ellipsis joins, all distinct quoted speaker labels, name substitutions, abbreviations, and commands adjoining breaks.'},
-              'english_fields':0, 'scenarios':{}, 'soft_breaks':{}, 'counts':{}}
+              'english_fields':0, 'scenarios':{}, 'soft_breaks':{}, 'macro_breaks':{}, 'text_joins':{}, 'counts':{}}
     total = Counter()
     for scenario,data in translations(ROOT/'work/translation/en').items():
         raw = render((ROOT/'work/debug/kiwame-base/package.nw'/scenario).read_bytes(),data)
         items = tokens(raw)
         rows = []
         mapping = {}
+        macro_mapping = {}
+        joins = {}
         counts = Counter()
+        name = scenario.removeprefix('data/scenario/')
         for index,item in enumerate(items):
-            if item['name'] != 'r':
+            if item['name'] == 'text':
+                join_key = f"{item['line']}:{item['ordinal']}"
+                expected = TEXT_JOINS.get((name,join_key))
+                if expected:
+                    previous = index - 1
+                    while previous >= 0 and items[previous]['name'] in JOIN_TRANSPARENT:
+                        previous -= 1
+                    left = items[previous] if previous >= 0 else None
+                    if not left or left['name'] != 'text' or (left['text'].strip(),item['text'].strip()) != expected:
+                        raise ValueError('Recheck text join: '+name+':'+join_key)
+                    joins[join_key] = {'before':expected[0], 'after':expected[1], 'separator':' '}
+            if item['name'] not in ('r','lr'):
                 continue
             reason = classify(items,index,data['rows'])
+            if item['name'] == 'lr' and not name.startswith('rpg/'):
+                reason = 'outside-rpg-macro'
             if scenario == 'data/scenario/inoti.ks' and 3356 <= item['line'] <= 3438:
                 # Adapted summary controls its three page boundaries in life-summary.js.
                 reason = 'adapted-summary-boundary'
             key = f"{item['line']}:{item['ordinal']}"
-            name = scenario.removeprefix('data/scenario/')
             override = INLINE_QUOTATIONS.get((name,key))
             if override:
                 left,right = neighbor(items,index,-1),neighbor(items,index,1)
                 if (left['text'],right['text']) != override:
                     raise ValueError('Recheck the inline quotation override: '+name+':'+key)
                 reason = 'soft-space'
+            layout = MACRO_LAYOUT.get((name,key)) if item['name']=='lr' else None
+            if layout:
+                left,right = neighbor(items,index,-1),neighbor(items,index,1)
+                if (left['text'],right['text']) != layout:
+                    raise ValueError('Recheck RPG ritual layout: '+name+':'+key)
+                reason = 'ritual-layout'
             counts[reason] += 1
             left,right = neighbor(items,index,-1),neighbor(items,index,1)
-            row = {'key':key,'action':reason,
+            row = {'key':key,'kind':item['name'],'action':reason,
                    'before':left['text'] if left else '', 'after':right['text'] if right else ''}
+            if name == 'inoti.ks' and any(t and 3352 <= t['line'] <= 3455 for t in (item,left,right)):
+                row['before'] = row['after'] = '[adapted summary; source text omitted]'
             rows.append(row)
             if reason == 'soft-space':
                 row['separator'] = separator(row['before'],row['after'])
-                mapping[key] = row['separator']
+                (macro_mapping if item['name']=='lr' else mapping)[key] = row['separator']
         name = scenario.removeprefix('data/scenario/')
         report['scenarios'][name] = {'fields':len(data['rows']), 'counts':dict(counts), 'breaks':rows}
         if mapping:
             report['soft_breaks'][name] = mapping
+        if macro_mapping:
+            report['macro_breaks'][name] = macro_mapping
+        if joins:
+            report['text_joins'][name] = joins
         total.update(counts)
         report['english_fields'] += len(data['rows'])
     report['counts'] = dict(total)
@@ -158,9 +191,24 @@ def audit():
 def install_map(maps, report=None):
     report = report or audit()
     maps['flowBreaks'] = report['soft_breaks']
+    maps['flowMacroBreaks'] = report['macro_breaks']
+    maps['flowTextJoins'] = {scenario:{key:row['separator'] for key,row in joins.items()}
+                             for scenario,joins in report['text_joins'].items()}
+    maps['flowTextJoinPairs'] = {scenario:[[row['before'],row['after'],row['separator']] for row in joins.values()]
+                                 for scenario,joins in report['text_joins'].items()}
+    maps['flowMacroTails'] = {}
+    for scenario,data in report['scenarios'].items():
+        tails = {}
+        for row in data['breaks']:
+            if row['kind'] != 'lr':
+                continue
+            tails.setdefault(row['before'].strip(),set()).add(row.get('separator') if row['action']=='soft-space' else None)
+        safe = [[tail,next(iter(values))] for tail,values in tails.items() if tail and len(values)==1 and None not in values]
+        if safe:
+            maps['flowMacroTails'][scenario] = sorted(safe,key=lambda pair:(-len(pair[0]),pair[0]))
     maps['flowPairs'] = {scenario:list({(row['before'].strip(), row['after'].strip(), row['separator'])
                                        for row in data['breaks'] if row['action']=='soft-space'})
-                         for scenario,data in report['scenarios'].items() if scenario in report['soft_breaks']}
+                         for scenario,data in report['scenarios'].items() if scenario in report['soft_breaks'] or scenario in report['macro_breaks']}
     for scenario,pairs in maps['flowPairs'].items():
         maps['flowPairs'][scenario] = [list(pair) for pair in sorted(pairs)]
 
@@ -172,6 +220,7 @@ def main():
     report = audit()
     print(report['english_fields'],'English fields;',len(report['scenarios']),'translated scenario files')
     print(report['counts'])
+    print('RPG macro soft breaks:',sum(map(len,report['macro_breaks'].values())), '; text joins:',report['text_joins'])
     for scenario,data in report['scenarios'].items():
         soft = [row for row in data['breaks'] if row['action']=='soft-space']
         if soft:

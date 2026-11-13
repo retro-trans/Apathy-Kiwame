@@ -1,0 +1,29 @@
+{
+  "version": "0.8.2",
+  "status": "image-generated edit; staged preview",
+  "method": "built-in image_gen edit",
+  "original": "fgimage/rpg/note_top.png",
+  "original_sha256": "64e86512380d8305ec1d6f6f7747d9836300e2298e52a287373f4b8c2676546f",
+  "image": "work/translation/en/media/rpg-field-notes-cover.png",
+  "image_sha256": "33e2eafc1d3b0301a791717e3c0e169e6cd32ebc681d54bb4fd6c8ca739f6f0e",
+  "generated_size": [
+    1479,
+    1063
+  ],
+  "canvas": [
+    960,
+    690
+  ],
+  "target": "kiwame-en/old-school-building-field-notes.svg",
+  "text": [
+    "NOTE BOOK",
+    "Old School Building",
+    "Field Notes",
+    "TOP SECRET",
+    "Year 3 · Class F",
+    "Name",
+    "Sadao Hino",
+    "Narugami Academy High School Division"
+  ],
+  "prompt": "Use case: text-localization.\nThis is a conservative EDIT of the provided original game image, not a new notebook illustration. Input image 1 is the sole edit target.\n\nKeep the original 960 x 690 canvas, identical framing, notebook size and position, perspective, uneven paper edges, worn grey paper texture, blue cloth spine, black background, lighting, grain, blur, decorative double border, and the exact existing lotus school crest. Keep the existing printed English \"NOTE BOOK\" heading unchanged. Do not redraw, simplify, clean up, modernize, flatten into vector art, zoom, crop, or replace the notebook. Match the original low-resolution game-art finish. Change only the Japanese lettering and the paper immediately underneath that lettering.\n\nReplace the Japanese writing with this exact English:\n1. Main black handwritten title: \"Old School Building\" with \"Field Notes\" immediately beneath, fitted in the same title area above the red stamp. Use compact, natural pen handwriting that belongs on this worn notebook, not polished typesetting.\n2. Inside the EXISTING red hand-drawn oval, replace the Japanese stamp text with \"TOP SECRET\". Preserve the red oval's exact character, shape, position and rough ink.\n3. On the existing school-year/class row, write \"Year 3 · Class F\", matching the original handwritten form and its perspective. Remove the original Japanese year/class characters.\n4. Replace the handwritten name with \"Sadao Hino\" on the existing name line, in black student handwriting. Replace the faint small printed name-field label with \"Name\".\n5. Replace the faint small printed school name at the bottom with \"Narugami Academy High School Division\". Keep it small, muted and printed, following the original page perspective and fitting inside the cover. Spell Academy correctly.\n\nPreserve all non-text artwork and all existing ruled lines. English lettering should share the original ink texture, softness and lighting. This must look like the same exact old game image with localized writing, not a redesigned clean cover."
+}

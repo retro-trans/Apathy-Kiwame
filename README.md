@@ -14,10 +14,15 @@ community for this project and the next:
 
 ## Play it
 
-The current release is **[v0.8.1](https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.1)**.
+The current release is **[v0.8.2](https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.2)**.
 It includes the English dialogue and choices, all 147 ending titles, interface and
 story lettering, proportional Latin text, the readable backlog, and 16 translated
 streamer videos. The title screen identifies the patch version and retro-trans.
+
+Version 0.8.2 adds a half-second choice input delay, rapid-click protection,
+RPG text-flow and old-save display fixes, the English credit roll, improved
+notebook and game-over artwork, and a rebuilt scrolling English letter over
+the original footage. See the [release notes](docs/RELEASE-v0.8.2.md).
 
 One Life passage is represented by a **labelled, three-page non-graphic summary**.
 Its 61 original fields are adapted rather than translated individually. The
@@ -32,14 +37,15 @@ for 64-bit Windows. No Python installation is required.
 1. Close the game and open Retro Trans Tools.
 2. In **Automatic**, choose **Folder** and select the game folder containing
    the original `kiwame.exe` and `kiwame.tpatch`. For an upgrade from the public
-   0.8.0 English version, use **Browse** to select its patched `kiwame.exe`.
+   0.8.0 or 0.8.1 English version, use **Browse** to select its patched `kiwame.exe`.
 3. Choose **Latest**, select a new output filename, and click **Patch**.
 4. Keep a backup of the existing executable. Copy the verified output into the
    game folder as `kiwame.exe`, then launch normally through Steam. Leave your
    save files, DLLs and official `kiwame.tpatch` in place.
 
 The app downloads the matching patch and verifies every input and output. The
-full patch is about **162 MB**; the upgrade from public 0.8.0 is about **247 KB**.
+full patch installs from the supported original files; smaller direct upgrades
+are available from public English **0.8.0 and 0.8.1**.
 Allow at least 4 GB free space for the full workflow and backups. Normal music
 and sound effects remain enabled. The app never overwrites original inputs,
 existing outputs or saves; copying the verified executable is a separate step.
@@ -48,40 +54,40 @@ existing outputs or saves; copying the verified executable is a separate step.
 | --- | --- |
 | `kiwame.exe` | Original Japanese executable from Steam build 10331351 |
 | `kiwame.tpatch` | Matching official publisher patch from the same build |
-| Public English 0.8.0 executable | Recognized directly for the smaller upgrade |
+| Public English 0.8.0 or 0.8.1 executable | Recognized directly for a smaller upgrade |
 | Earlier local `package.nw` development patch | Preserve saves and restore the original game layout before using the original-file route |
 
 See [the complete Tools instructions](docs/RETRO_TRANS_TOOLS.md), including
 backups, undo and future updates. The release contains bare xdelta patches,
 `BUILD-MANIFEST.json`, `VALIDATION.json`, `SHA256SUMS.txt` and license notices.
 The app combines the two original source files temporarily; no manual file
-combining is needed. Version 0.8.1 changes distribution and the title version
-credit; story content is unchanged from 0.8.0.
+combining is needed. All three patch routes produce the same verified 0.8.2
+English executable.
 
 The earlier [0.8.0 installer ZIP](https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.0)
 and its [instructions](docs/README-v0.8.0.txt) remain available unchanged.
 
 ### Standalone ZIP — no Retro Trans Tools required
 
-Download **[Apathy-Kiwame-English-v0.8.1-Standalone.zip](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.1/Apathy-Kiwame-English-v0.8.1-Standalone.zip)**,
+Download **[Apathy-Kiwame-English-v0.8.2-Standalone.zip](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.2/Apathy-Kiwame-English-v0.8.2-Standalone.zip)**,
 extract the entire ZIP to a writable folder, close the game, and double-click
 **Apply.cmd**. It finds the Steam folder or lets you choose it, checks the
-supported original files, keeps a verified backup and installs the same 0.8.1
+supported original files, keeps a verified backup and installs the same 0.8.2
 English executable. Launch normally through Steam after the success message.
 No Retro Trans Tools, Python or separate xdelta app is required.
 
 This full installer needs the original Japanese build 10331351. To upgrade an
 older standalone installation, run **Undo.cmd from that old package first**, then
 Apply.cmd from the new ZIP; both preserve current saves. The Tools route above
-offers the smaller direct upgrade from the public English 0.8.0 executable.
-See the [standalone instructions](docs/README-standalone-v0.8.1.txt).
-The separate [Standalone-SHA256SUMS-v0.8.1.txt](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.1/Standalone-SHA256SUMS-v0.8.1.txt)
+offers smaller direct upgrades from public English 0.8.0 and 0.8.1 executables.
+See the [standalone instructions](docs/README-standalone-v0.8.2.txt).
+The separate [Standalone-SHA256SUMS-v0.8.2.txt](https://github.com/retro-trans/Apathy-Kiwame/releases/download/v0.8.2/Standalone-SHA256SUMS-v0.8.2.txt)
 verifies this optional ZIP; the existing Tools assets and canonical checksums
 remain unchanged.
 
 ### Undo / Steam updates
 
-For the standalone 0.8.1 ZIP, close the game and run **Undo.cmd from that ZIP**.
+For the standalone ZIP, close the game and run **Undo.cmd from that version's ZIP**.
 It restores the verified original executable while preserving current saves.
 
 For a Tools-installed version, close the game and restore the original executable
@@ -143,10 +149,10 @@ patch rather than attempting a complete artwork rebuild from a fresh checkout.
 | `TRANSLATING.md` | Editing, review and source-safety workflow |
 | `TOOLS.md` | Extraction, rendering, debug and distribution tools |
 | `tools/` | Source-checked script renderer, English UI/runtime helpers, artwork tooling and release patcher |
-| `work/translation/en/*.en.json` | 29 English script/UI overlays |
+| `work/translation/en/*.en.json` | English script/UI overlays and credit text |
 | `work/translation/en/adaptations/` | Non-graphic Life summary and editorial decisions |
 | `work/translation/en/media/` | English timed lettering/caption data |
-| `work/glossary/` | 18 glossary files with names, terms and references |
+| `work/glossary/` | Names, terms, credited identities and references |
 | `work/ui/` | Selected editable UI specifications and field-coverage metadata |
 | `docs/` | Typography, integration and route-review notes |
 | `CHANGELOG.md` | Build history, fixes and limitations |
@@ -159,7 +165,7 @@ contain a binary patch and installer, not a complete game or prepatched executab
 
 Development uses Python 3.11 and Node 22 or later. Most checks need the original
 game source. Read each tool's help and preview changes before writing them.
-`tools/release_patch.py stage` and `build` are read-only unless passed `--apply`.
+`tools/release_update.py content`, `assets` and `standalone` are read-only unless passed `--apply`.
 `tools/strip_jp.py` writes an export unless passed `--dry-run`.
 
 For automated native checks, the isolated QA launcher mutes only its child
