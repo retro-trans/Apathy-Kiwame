@@ -1,0 +1,162 @@
+{
+  "version": "0.8.2",
+  "game": "Apathy - Gakkou de Atta Kowai Hanashi - Kiwame",
+  "published": true,
+  "publicationRequested": true,
+  "release": "https://github.com/retro-trans/Apathy-Kiwame/releases/tag/v0.8.2",
+  "localDate": "2026-11-14",
+  "sourceCommit": "17bd0d7ac6f024f9470465396f03982f4aa9975a",
+  "targetSha256": "46dc61201eec500f4a40a165f65e2c151fbec95bb11b1a5052a81ec43739314d",
+  "targetBytes": 989369434,
+  "packageFiles": 2014,
+  "changedFiles": {
+    "data/bgimage/kiwame-en/ending-list-base.svg": "2716eb08a80b3c99755174e966b46ff870c2ed93c6f31ee388e97484990d42a7",
+    "english-ui.js": "8a8d6deab4de3d02f6eafed130eb3a5247cdcae71f86eb1ecf809d644b20f193",
+    "english.js": "844168376f792d4af5486aa91866158d8522f6f0c176780903e27dfbf73029d2",
+    "data/bgimage/kiwame-en/rpg-game-over-still.svg": "018a89c875cf3af71c91de0f6d8525caf175ccc8752010627cb406d5eefb9eca",
+    "data/bgimage/kiwame-en/rpg-game-over.gif": "ede94a648875d20f8642bd5744e8c871e85995c1dd3c560ee83babd5110287db",
+    "data/fgimage/kiwame-en/old-school-building-field-notes.svg": "a8ec5e6bd723ef34b3694afd56dfc48f2863be23da9b1d99a2450a16fdf2f44f",
+    "data/fgimage/kiwame-en/common-staff.svg": "69543502e14ecb5bb7462754ed9bdda22cf8851880f13388c10e4259e0c63261",
+    "data/video/kiwame-en/self-help.webm": "72ff94a51dc72aee6ebe9565217da3d7f20d27284d8e717ff9ea25239a494397"
+  },
+  "allOtherPackageFilesIdentical": true,
+  "noQaRuntimeOrSavesInTarget": true,
+  "assets": {
+    "Apathy-Kiwame-English-v0.8.2-Standalone.zip": {
+      "bytes": 198510314,
+      "sha256": "711bb6c400e435ea5ab3f8ba8be2bf0457206f8d86132dba004b50bfa9030d34"
+    },
+    "Apathy-Kiwame-Steam-0.8.0-to-0.8.2.xdelta": {
+      "bytes": 36064518,
+      "sha256": "5d6bb80691512f9fc5665fedf8ca11fbddfbd2b57c000ce72a3bcae9fb3b7609"
+    },
+    "Apathy-Kiwame-Steam-0.8.1-to-0.8.2.xdelta": {
+      "bytes": 36057705,
+      "sha256": "3aa048f83e8611aca86282bcf6cfb3dd49b1070a2506194dfc5844ec66d209d3"
+    },
+    "Apathy-Kiwame-Steam-original-to-0.8.2.xdelta": {
+      "bytes": 198140252,
+      "sha256": "785604816bfb8ecacf70587359c8aedfb675be4048623c4ee4ec23df124c666c"
+    },
+    "Apathy-Kiwame-v0.8.2-Notices.zip": {
+      "bytes": 9150,
+      "sha256": "2a70f70782a1d6930cd5c9d615cf1ef9308b6df35349b4e39470230c31535477"
+    },
+    "BUILD-MANIFEST.json": {
+      "bytes": 2647,
+      "sha256": "1af46940d3c60732465d0d52e95d98692fad88f72904afb89b6d02626fffca9e"
+    },
+    "SHA256SUMS.txt": {
+      "bytes": 600,
+      "sha256": "dab13ce5642a13f9408f8e7a5bc9a0f7f60abb2ccbdaa5018822ce639b1dff6c"
+    },
+    "Standalone-SHA256SUMS-v0.8.2.txt": {
+      "bytes": 111,
+      "sha256": "26ee44da2653eea1aa1245ec5d5299a984b1550fb8815d6897bce86a35f5bb60"
+    },
+    "VALIDATION.json": {
+      "bytes": 728,
+      "sha256": "81382784dd20b052170377a081bb2a4bd3b13699e5bc841d5308b5ae1a609e3f"
+    }
+  },
+  "threeExactDeltaRoundtrips": true,
+  "publicAutomatic": {
+    "publicRelease": true,
+    "actualAutomaticRoutes": [
+      {
+        "source": "original",
+        "target": "0.8.2",
+        "patch": "Apathy-Kiwame-Steam-original-to-0.8.2.xdelta",
+        "downloadBytes": 198140252,
+        "outputSha256": "46dc61201eec500f4a40a165f65e2c151fbec95bb11b1a5052a81ec43739314d",
+        "alreadyCurrentRecognized": true
+      },
+      {
+        "source": "0.8.0",
+        "target": "0.8.2",
+        "patch": "Apathy-Kiwame-Steam-0.8.0-to-0.8.2.xdelta",
+        "downloadBytes": 36064518,
+        "outputSha256": "46dc61201eec500f4a40a165f65e2c151fbec95bb11b1a5052a81ec43739314d",
+        "alreadyCurrentRecognized": true
+      },
+      {
+        "source": "0.8.1",
+        "target": "0.8.2",
+        "patch": "Apathy-Kiwame-Steam-0.8.1-to-0.8.2.xdelta",
+        "downloadBytes": 36057705,
+        "outputSha256": "46dc61201eec500f4a40a165f65e2c151fbec95bb11b1a5052a81ec43739314d",
+        "alreadyCurrentRecognized": true
+      }
+    ],
+    "allOutputsIdentical": true
+  },
+  "standalone": {
+    "installer": {
+      "version": "0.8.2",
+      "dryRunReadOnly": true,
+      "corruptPayloadRejected": true,
+      "installExactTarget": true,
+      "reapplyNoOp": true,
+      "undoRestoresOriginal": true,
+      "undoPreservesNewerProgress": true,
+      "olderEnglishRejected": true,
+      "externalPackageRejected": true,
+      "savesPreserved": true,
+      "mainSteamChanged": false,
+      "targetSha256": "46dc61201eec500f4a40a165f65e2c151fbec95bb11b1a5052a81ec43739314d"
+    },
+    "publicZip": {
+      "publicZipDownloaded": true,
+      "bytes": 198510314,
+      "sha256": "711bb6c400e435ea5ab3f8ba8be2bf0457206f8d86132dba004b50bfa9030d34",
+      "entries": [
+        "Apathy-Kiwame-Steam-original-to-0.8.2.xdelta",
+        "Apply.cmd",
+        "BUNDLE-SHA256SUMS.txt",
+        "LICENSE",
+        "licenses/GenEi-LICENSE.txt",
+        "licenses/GenEi-NOTICE.txt",
+        "licenses/xdelta-LICENSE.txt",
+        "manifest.json",
+        "Patch-Apathy-Kiwame.ps1",
+        "README.txt",
+        "Undo.cmd",
+        "xdelta3decode.exe"
+      ],
+      "noGameOrSaves": true
+    }
+  },
+  "native": {
+    "startup": true,
+    "qaRuntimeAbsent": true,
+    "title": [
+      "v0.8.2",
+      "github.com/retro-trans"
+    ],
+    "font": {
+      "wide": 112,
+      "narrow": 33.46875
+    },
+    "audioAdvanced": true,
+    "movie": {
+      "src": "./data/video/kiwame-en/self-help.webm",
+      "duration": 125.963,
+      "time": 0.607647,
+      "ready": 4,
+      "error": null,
+      "tracks": 0
+    },
+    "movieEnded": true
+  },
+  "catalog": {
+    "workflow": "https://github.com/retro-trans/retro-trans-tools/actions/runs/43493255671",
+    "commit": "73f4c504963d4066f226d3f0fcc6e899e0e76653",
+    "result": "success",
+    "liveLatest": "0.8.2"
+  },
+  "olderReleasesUnchanged": true,
+  "mainSteamChanged": false,
+  "mainSavesByteIdentical": true,
+  "portraitExperimentIncluded": false,
+  "provisionalCreditSpellings": 6
+}

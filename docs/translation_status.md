@@ -1,5 +1,22 @@
 # English translation status
 
+## Current public release: 0.8.2
+
+Published on 2026-11-14 after the user's explicit release request. The original
+combined-source patch and direct upgrades from public English 0.8.0 and 0.8.1
+produce the same 2,014-file embedded package. A standalone Apply.cmd ZIP uses
+the same full delta. The shared Tools catalog recognizes 0.8.2 as Latest.
+
+This update adds a 500 ms choice input delay, RPG choice-race protection,
+pause-aware English flow/spacing and legacy-save display repairs, horizontal
+opening text, the Ending List mouse-out fix, original-style English game-over
+animation, an improved notebook cover, the complete Latin credit roll, and the
+English scrolling letter over original footage/audio. Six credited spellings
+remain provisional with user approval; the Life adaptation is unchanged.
+The portrait-name experiment is excluded. Main Steam files and saves remain
+unchanged by publication. See [release notes](RELEASE-v0.8.2.md) and
+[verification](release-v0.8.2-verification.json).
+
 ## First public release:0.8.0
 
 Version0.8.0 publishes the cumulative translation under `retro-trans/Apathy-Kiwame`, with a standalone Windows patch for the original Japanese Steam build10331351. It changes only version metadata from verified0.1.24. All content coverage below still applies:36,145 ordinary translated fields,61 adapted source fields,140 blank layout entries and no unknown inventory gaps.
