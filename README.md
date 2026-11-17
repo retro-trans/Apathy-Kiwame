@@ -10,7 +10,7 @@ and wider playtesting. Please send bug reports, awkward lines and route details
 through [Issues](https://github.com/retro-trans/Apathy-Kiwame/issues), or join the
 community for this project and the next:
 
-**[discord.gg/MssepShjmB](https://discord.gg/MssepShjmB)**
+**[discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP)**
 
 ## Play it
 

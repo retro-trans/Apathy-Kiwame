@@ -13,4 +13,4 @@ The current release is AI-translated and AI-reviewed. Human proofreading and
 playtesting are welcome. Please distinguish lines you checked and passed from
 lines you rewrote, and state whether you compared them with the Japanese source.
 
-Community: [discord.gg/MssepShjmB](https://discord.gg/MssepShjmB).
+Community: [discord.gg/nZBZfTDfCP](https://discord.gg/nZBZfTDfCP).

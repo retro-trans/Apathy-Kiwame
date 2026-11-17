@@ -54,4 +54,4 @@ The original game and assets remain the property of their respective creators.
 
 Do not sell the patch, prepatched game copies, or access to the download.
 Contribute / report issues: https://github.com/retro-trans/Apathy-Kiwame/issues
-Community: https://discord.gg/MssepShjmB
+Community: https://discord.gg/nZBZfTDfCP

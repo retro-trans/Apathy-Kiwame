@@ -69,4 +69,4 @@ Notices are included under licenses/. Original game rights remain with their
 creators and publishers. Keep this patch free.
 
 Issues: https://github.com/retro-trans/Apathy-Kiwame/issues
-Community: https://discord.gg/MssepShjmB
+Community: https://discord.gg/nZBZfTDfCP

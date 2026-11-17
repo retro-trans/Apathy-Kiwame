@@ -72,4 +72,4 @@ Original game rights remain with their creators and publishers. Keep the patch
 free; do not sell prepatched games or charge for access to the download.
 
 Report issues: https://github.com/retro-trans/Apathy-Kiwame/issues
-Community: https://discord.gg/MssepShjmB
+Community: https://discord.gg/nZBZfTDfCP
